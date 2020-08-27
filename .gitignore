@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+.vscode
+node_modules
+package-lock.json
+dist
+coverage
+test.ts
+lerna-debug.log
+backup
+line.sh
+flowRuntimeTemplate.json
+*_scsslint_*
+**_scsslint_**
+.DS_Store

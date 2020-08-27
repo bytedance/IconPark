@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>snowflake</title>
+    <desc>Created with Sketch.</desc>
+    <g id="snowflake" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(6.000000, 4.000000)" stroke="#000000" stroke-width="4">
+            <path d="M18,0 L18,40" id="Path-290"></path>
+            <path d="M0.73697589,9.97927459 L35.3540273,30.0207254" id="Path-291" transform="translate(18.045502, 20.000000) rotate(-0.068583) translate(-18.045502, -20.000000) "></path>
+            <path d="M0.730852571,29.9979275 L35.2691474,10.0020725" id="Path-292" transform="translate(18.000000, 20.000000) rotate(0.068583) translate(-18.000000, -20.000000) "></path>
+            <polyline id="Path-294" points="6 6 9 15 0 17"></polyline>
+            <polyline id="Path-297" points="0 23 9 25 6 34"></polyline>
+            <polyline id="Path-296" points="30 6 27 15 36 17"></polyline>
+            <polyline id="Path-298" points="36 23 27 25 30 34"></polyline>
+            <polyline id="Path-293" points="12 3 18 9 24 3"></polyline>
+            <polyline id="Path-295" points="12 37 18 31 24 37"></polyline>
+        </g>
+    </g>
+</svg>

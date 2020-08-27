@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>sun-one</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sun-one" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <circle id="Oval-41" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="24" cy="24" r="13"></circle>
+            <circle id="椭圆形" fill="#000000" cx="24" cy="3.5" r="2.5"></circle>
+            <circle id="椭圆形备份-8" fill="#000000" cx="38.5" cy="9.5" r="2.5"></circle>
+            <circle id="椭圆形备份-9" fill="#000000" cx="44.5" cy="24" r="2.5"></circle>
+            <circle id="椭圆形备份-10" fill="#000000" cx="38.5" cy="38.5" r="2.5"></circle>
+            <circle id="椭圆形备份-11" fill="#000000" cx="24" cy="44.5" r="2.5"></circle>
+            <circle id="椭圆形备份-12" fill="#000000" cx="9.5" cy="38.5" r="2.5"></circle>
+            <circle id="椭圆形备份-13" fill="#000000" cx="3.5" cy="24" r="2.5"></circle>
+            <circle id="椭圆形备份-14" fill="#000000" cx="9.5" cy="9.5" r="2.5"></circle>
+        </g>
+    </g>
+</svg>

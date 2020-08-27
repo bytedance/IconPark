@@ -1,0 +1,48 @@
+{
+    "name": "iconpark",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+        "compiler:icons": "ts-node build/build-icons.ts",
+        "compiler:code": "ts-node build/build-code.ts",
+        "compiler:git": "git add ./packages/*",
+        "compiler:clean": "rm -rf packages/*/src/runtime packages/*/src/index.ts packages/*/src/icons",
+        "compiler": "npm run compiler:clean && npm run compiler:icons && npm run compiler:code && npm run compiler:git",
+        "build:clean": "rm -rf packages/*/lib packages/*/es packages/*/styles",
+        "build:source": "gulp",
+        "build": "npm run build:clean && npm run build:source"
+    },
+    "dependencies": {
+        "@types/react": "^16.9.47",
+        "@icon-park/compiler": "^1.0.5",
+        "@vue/composition-api": "^0.3.4",
+        "vue": "^2.6.12",
+        "vue-hooks-env": "^2.2.13"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.11.4",
+        "@babel/plugin-proposal-class-properties": "^7.10.4",
+        "@babel/preset-env": "^7.11.0",
+        "@babel/preset-react": "^7.10.4",
+        "@types/babel__core": "^7.1.9",
+        "@types/gulp": "^4.0.6",
+        "@types/gulp-less": "0.0.31",
+        "@types/gulp-minify-css": "0.0.32",
+        "@types/merge2": "^1.3.0",
+        "@types/mkdirp": "^1.0.1",
+        "@types/node": "^14.6.0",
+        "@vue/babel-preset-jsx": "^1.1.2",
+        "@vue/babel-sugar-inject-h": "^1.1.2",
+        "csv-parse": "^4.12.0",
+        "gulp": "^4.0.2",
+        "gulp-babel": "^8.0.0",
+        "gulp-less": "^4.0.1",
+        "gulp-minify-css": "^1.2.4",
+        "gulp-typescript": "^6.0.0-alpha.1",
+        "lerna": "~3.16.5",
+        "merge2": "^1.4.1",
+        "mkdirp": "^1.0.4",
+        "ts-node": "^9.0.0",
+        "typescript": "^4.0.2"
+    }
+}

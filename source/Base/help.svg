@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>help</title>
+    <desc>Created with Sketch.</desc>
+    <g id="help" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <path d="M24,44 C29.5228475,44 34.5228475,41.7614237 38.1421356,38.1421356 C41.7614237,34.5228475 44,29.5228475 44,24 C44,18.4771525 41.7614237,13.4771525 38.1421356,9.85786438 C34.5228475,6.23857625 29.5228475,4 24,4 C18.4771525,4 13.4771525,6.23857625 9.85786438,9.85786438 C6.23857625,13.4771525 4,18.4771525 4,24 C4,29.5228475 6.23857625,34.5228475 9.85786438,38.1421356 C13.4771525,41.7614237 18.4771525,44 24,44 Z" id="Oval-Copy" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
+            <g id="Group-4" transform="translate(18.000000, 12.624827)">
+                <path d="M6,16 L6,12 C9.3137085,12 12,9.3137085 12,6 C12,2.6862915 9.3137085,0 6,0 C2.6862915,0 0,2.6862915 0,6" id="Shape" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval" fill="#FFFFFF" cx="6" cy="22.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

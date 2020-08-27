@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>thumbs-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="thumbs-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <path d="M29.4407914,29.4002334 L29.4407914,36.6002334 C29.4407914,39.582571 31.8584538,42.0002334 34.8407914,42.0002334 L42.0407914,25.8002334 L42.0407914,6 L21.1247914,6 C19.3296753,5.97993954 17.7939614,7.28529639 17.5247914,9.06023339 L15.0407914,25.2602334 C14.8822906,26.3044938 15.1903765,27.3656775 15.8834461,28.1627076 C16.5765157,28.9597376 17.5846384,29.4121938 18.6407914,29.4002334 L29.4407914,29.4002334 Z" id="Path" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" transform="translate(28.520396, 24.000117) scale(-1, -1) translate(-28.520396, -24.000117) "></path>
+            <path d="M6,22.0002334 L10.806,22.0002334 C12.9146813,21.9629409 14.7173023,23.7095951 15,25.7995734 L15,38.3995734 C14.7173023,40.4895518 12.9146813,42.036866 10.806,41.9995734 L6,41.9995734 L6,22.0002334 Z" id="Path" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" transform="translate(10.500000, 31.999940) scale(-1, 1) translate(-10.500000, -31.999940) "></path>
+        </g>
+    </g>
+</svg>

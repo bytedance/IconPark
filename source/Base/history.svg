@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>history</title>
+    <desc>Created with Sketch.</desc>
+    <g id="history" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(4.000000, 4.000000)" stroke="#000000" stroke-width="4">
+            <polyline id="Path-12" points="1.81818182 2.72727273 1.81818182 10 9.09090909 10"></polyline>
+            <path d="M0,20 C0,31.045695 8.954305,40 20,40 L20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C12.5979802,0 6.1351416,4.021113 2.67677036,9.99805296" id="Oval-3"></path>
+            <polyline id="Path-14" transform="translate(24.244114, 18.244114) rotate(-45.000000) translate(-24.244114, -18.244114) " points="28.490311 8.00294628 19.9979167 16.4936177 19.9979167 28.4852814"></polyline>
+        </g>
+    </g>
+</svg>

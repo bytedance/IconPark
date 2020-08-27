@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>football</title>
+    <desc>Created with Sketch.</desc>
+    <g id="football" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(4.000000, 4.000000)" stroke="#000000" stroke-width="4">
+            <circle id="Oval" cx="20" cy="20" r="20"></circle>
+            <g id="编组-2" transform="translate(2.000000, 2.000000)">
+                <g id="编组-3" transform="translate(0.000000, 0.500000)">
+                    <polyline id="Path-374" points="24.0930233 -8.8817842e-16 18.0697674 4.35897436 18.0697674 8.71794872 25.8139535 14.8205128 30.1162791 13.0769231 32.6976744 6.1025641"></polyline>
+                    <polyline id="Path-375" points="12.0465116 -8.8817842e-16 18.0697674 4.35897436 18.0697674 8.71794872 10.3255814 14.8205128 6.02325581 13.0769231 3.44186047 6.1025641"></polyline>
+                    <polyline id="Path-376" points="1.0658141e-14 15.6923077 6.02325581 13.0769231 10.3255814 14.8205128 12.9069767 24.4102564 10.3255814 27.8974359 2.58139535 27.8974359"></polyline>
+                    <polyline id="Path-377" points="10.3255814 34 10.3255814 27.8974359 12.9069767 24.4102564 23.2325581 24.4102564 25.8139535 27.8974359 25.8139535 34"></polyline>
+                    <polyline id="Path-378" points="33.5581395 27.8974359 25.8139535 27.8974359 23.2325581 24.4102564 25.8139535 14.8205128 30.1162791 13.0769231 37 16.5641026"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

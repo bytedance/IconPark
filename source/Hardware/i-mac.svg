@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>imac</title>
+    <desc>Created with Sketch.</desc>
+    <g id="imac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <polygon id="Rectangle" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" points="4 6 44 6 44 30 4 30"></polygon>
+            <polyline id="路径" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="44 30 44 36 4 36 4 30 4 30"></polyline>
+            <rect id="Rectangle-54-Copy-3" fill="#FFFFFF" x="10" y="19" width="4" height="4" rx="0.909090909"></rect>
+            <rect id="Rectangle-54-Copy-3备份" fill="#FFFFFF" x="10" y="12" width="4" height="4" rx="0.909090909"></rect>
+            <rect id="Rectangle-54-Copy-4" fill="#FFFFFF" x="18" y="19" width="4" height="4" rx="0.909090909"></rect>
+            <rect id="Rectangle-54-Copy-4备份" fill="#FFFFFF" x="18" y="12" width="4" height="4" rx="0.909090909"></rect>
+            <rect id="Rectangle-54-Copy-7" fill="#FFFFFF" x="26" y="19" width="4" height="4" rx="0.909090909"></rect>
+            <rect id="Rectangle-54-Copy-7备份" fill="#FFFFFF" x="26" y="12" width="4" height="4" rx="0.909090909"></rect>
+            <rect id="Rectangle-54-Copy-7备份-2" fill="#FFFFFF" x="34" y="12" width="4" height="4" rx="0.909090909"></rect>
+            <polyline id="形状" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="20.8461538 36 16 42 32 42 27.1538462 36"></polyline>
+        </g>
+    </g>
+</svg>

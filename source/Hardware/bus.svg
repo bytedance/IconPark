@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>bus</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(0.000000, -0.963812)">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0.963812216" width="48" height="48"></rect>
+            <path d="M6.0123992,34.9688383 L6.0123992,9 C6.0123992,7.8954305 6.9078297,7 8.0123992,7 L40,7 C41.1045695,7 42,7.8954305 42,9 L42,34.9688383 C42,36.6256925 40.6568542,37.9688383 39,37.9688383 L37.0048665,37.9688383 L37.0048665,38.9638122 C37.0048665,41.1729512 35.2140055,42.9638122 33.0048665,42.9638122 L33.0044775,42.9638122 C30.7953385,42.9638122 29.0044775,41.1729512 29.0044775,38.9638122 L29.0044775,37.9688383 L19.0079217,37.9688383 L19.0079217,38.9654529 C19.0079217,41.1736858 17.2177953,42.9638122 15.0095624,42.9638122 C12.8013295,42.9638122 11.011203,41.1736858 11.011203,38.9654529 L11.011203,37.9688383 L9.0123992,37.9688383 C7.35554495,37.9688383 6.0123992,36.6256925 6.0123992,34.9688383 Z" id="路径备份" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
+            <path d="M42,23.9638122 L6,23.9638122" id="路径-14" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <rect id="矩形" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="14" y="13.9638122" width="20" height="10"></rect>
+            <path d="M14,30.9638122 L16,30.9638122" id="Path-3-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M32,30.9638122 L34,30.9638122" id="Path-3-Copy-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

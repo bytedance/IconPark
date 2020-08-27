@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>h3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="h3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(5.000000, 7.000000)" stroke="#000000" stroke-width="4">
+            <g id="编组-2" transform="translate(0.000000, 0.500000)">
+                <path d="M1,0.5 L1,32.5" id="Path-273"></path>
+                <path d="M19,0.5 L19,32.5" id="Path-273-Copy"></path>
+                <path d="M2,16.5 L18,16.5" id="Path-274"></path>
+            </g>
+            <path d="M27,12 L37,12 L29.8571429,20.4 C33.4285714,20.4 37,23.9 37,27.4 C37,30.9 34.1428571,33 32,33 C29.6190476,33 27.952381,32.3 27,30.9" id="Path-279"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>guideboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="guideboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(6.000000, 4.000000)" stroke="#000000" stroke-width="4">
+            <path d="M18,0 L18,37" id="Path-9" stroke-linecap="round"></path>
+            <polygon id="Rectangle-3" fill="#2F88FF" fill-rule="nonzero" points="18 4 33.5454545 4 36 8 33.5454545 12 18 12"></polygon>
+            <polygon id="Rectangle-3-Copy" fill="#2F88FF" fill-rule="nonzero" transform="translate(9.000000, 22.000000) scale(-1, 1) translate(-9.000000, -22.000000) " points="0 18 15.5454545 18 18 22 15.5454545 26 0 26"></polygon>
+            <path d="M10,38 L26,38" id="Path-10" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

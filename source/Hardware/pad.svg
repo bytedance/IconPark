@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pad</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pad" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <g id="编组" transform="translate(6.000000, 4.000000)">
+                <rect id="Rectangle" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" x="0" y="0" width="36" height="27"></rect>
+                <polyline id="路径" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="36 27 36 40 0 40 0 27 0 27"></polyline>
+                <rect id="Rectangle-54" fill="#FFFFFF" x="6" y="5" width="5" height="5" rx="1"></rect>
+                <rect id="Rectangle-54-Copy-3" fill="#FFFFFF" x="6" y="12" width="5" height="5" rx="1"></rect>
+                <rect id="Rectangle-54-Copy" fill="#FFFFFF" x="15.5" y="5" width="5" height="5" rx="1"></rect>
+                <rect id="Rectangle-54-Copy-4" fill="#FFFFFF" x="15.5" y="12" width="5" height="5" rx="1"></rect>
+                <rect id="Rectangle-54-Copy-6" fill="#000000" x="15.5" y="31" width="5" height="5" rx="2.5"></rect>
+                <rect id="Rectangle-54-Copy-2" fill="#FFFFFF" x="25" y="5" width="5" height="5" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

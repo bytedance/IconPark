@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>align-text-botht2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="align-text-botht2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(6.000000, 6.000000)" stroke-width="4">
+            <rect id="矩形" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" x="0" y="0" width="36" height="36" rx="3"></rect>
+            <path d="M24,18 L12,18" id="路径" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <path d="M28,9 L8,9" id="路径" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <path d="M28,27 L8,27" id="路径" stroke="#FFFFFF" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

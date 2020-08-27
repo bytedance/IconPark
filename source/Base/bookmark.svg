@@ -1,0 +1,7 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Base/bookmark">
+<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>
+<path id="Path 116" d="M10 44C8.89543 44 8 43.1046 8 42L8 6C8 4.89543 8.89543 4 10 4H38C39.1046 4 40 4.89543 40 6V42C40 43.1046 39.1046 44 38 44H10Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path id="Path 116_2" fill-rule="evenodd" clip-rule="evenodd" d="M21 22V4H33V22L27 15.7273L21 22Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

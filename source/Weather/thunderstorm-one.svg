@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>thunderstorm-one</title>
+    <desc>Created with Sketch.</desc>
+    <g id="thunderstorm-one" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="base/notes">
+            <g id="编组-2">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="48" height="48"></rect>
+                <polygon id="Path-30" stroke="#000000" stroke-width="4" fill="#2F88FF" stroke-linecap="round" stroke-linejoin="round" points="20.5294118 20 17 31.5 23.1764706 32.3846154 20.5294118 43 32 29.7307692 24.9411765 27.9615385 30.2352941 20"></polygon>
+                <path d="M9.45454545,29.9942349 C6.14241809,27.4610159 4,23.4278269 4,18.8851211 C4,11.2165805 10.105208,5 17.6363636,5 C23.9334485,5 29.2336153,9.34617692 30.8015264,15.2532944 C32.0352574,14.6159461 33.430978,14.2567474 34.9090909,14.2567474 C39.9298614,14.2567474 44,18.4011344 44,23.5134948 C44,27.3093519 41.7561905,30.571579 38.5454545,32" id="Combined-Shape-Copy" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

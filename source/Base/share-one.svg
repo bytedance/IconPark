@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>share2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="share2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <g id="Group-3" transform="translate(6.000000, 6.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <path d="M20,0 L36,0 L36,16 M36,23.4736842 L36,33 C36,34.6568542 34.6568542,36 33,36 L3,36 C1.34314575,36 2.02906125e-16,34.6568542 0,33 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.85707287e-15 3,3.55271368e-15 L12,3.55271368e-15" id="Shape"></path>
+                <path d="M19.8,16.2 L35.1,0.9" id="Path-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

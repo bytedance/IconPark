@@ -1,0 +1,22 @@
+{
+    "name": "@icon-park/react",
+    "description": "React Icons for IconPark",
+    "version": "1.0.0",
+    "main": "lib/index.js",
+    "module": "es/index.js",
+    "typings": "lib/index.d.ts",
+    "keywords": [
+        "react",
+        "icon",
+        "icon park"
+    ],
+    "license": "Apache-2.0",
+    "engines": {
+        "node": ">= 8.0.0",
+        "npm": ">= 5.0.0"
+    },
+    "peerDependencies": {
+        "react": ">=16.9",
+        "react-dom": ">=16.9"
+    }
+}

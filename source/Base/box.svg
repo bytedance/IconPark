@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>box</title>
+    <desc>Created with Sketch.</desc>
+    <g id="box" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(6.000000, 5.000000)" stroke-width="4">
+            <rect id="Rectangle" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" x="0" y="7" width="36" height="30" rx="2"></rect>
+            <path d="M22.1923882,14.7656956 L13.7071068,23.250977" id="Path-129" stroke="#FFFFFF" stroke-linecap="round" transform="translate(17.949747, 19.008336) rotate(-135.000000) translate(-17.949747, -19.008336) "></path>
+            <polyline id="Path-19" stroke="#000000" stroke-linecap="round" points="1.24344979e-14 8 7 5.86197757e-14 29 5.86197757e-14 36 8"></polyline>
+        </g>
+    </g>
+</svg>

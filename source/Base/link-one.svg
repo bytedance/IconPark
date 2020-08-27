@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>link2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="link2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(2.000000, 2.000000)" stroke="#000000" stroke-width="4">
+            <g id="Group" transform="translate(21.646447, 22.353553) rotate(-45.000000) translate(-21.646447, -22.353553) translate(14.146447, -0.646447)">
+                <path d="M14.9769622,19.1908822 L14.9769622,7.26495624 C14.9769622,3.50123794 11.8429554,0.450141421 7.97696219,0.450141421 C4.11096894,0.450141421 0.97696219,3.50123794 0.97696219,7.26495624 L0.97696219,17.4871785" id="Oval"></path>
+                <path d="M15,43.9237133 L15,33.7014911 C15,29.9377728 11.8659932,26.8866763 8,26.8866763 C4.13400675,26.8866763 1,29.9377728 1,33.7014911 L1,45.627417" id="Oval-Copy-2" transform="translate(8.000000, 36.257047) scale(1, -1) translate(-8.000000, -36.257047) "></path>
+                <path d="M7.97696219,26.005697 C11.8429554,26.005697 14.9769622,22.9546005 14.9769622,19.1908822" id="Oval-Copy"></path>
+                <path d="M1,26.7014911 C4.86599325,26.7014911 8,23.6503946 8,19.8866763" id="Oval-Copy-3" transform="translate(4.500000, 23.294084) scale(-1, -1) translate(-4.500000, -23.294084) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ghost</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ghost" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <path d="M8,44 L12,40 L16,44 L20,38 L24,44 L28,38 L32,44 L36,40 L40,44 L40,20 C40,11.163444 32.836556,4 24,4 C15.163444,4 8,11.163444 8,20 L8,44 Z" id="Oval-3" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero"></path>
+        <path d="M19,20 L21,20" id="Path-12" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+        <path d="M31,20 L33,20" id="Path-12-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></path>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>document-folder</title>
+    <desc>Created with Sketch.</desc>
+    <g id="document-folder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(5.000000, 5.000000)" stroke-width="4">
+            <rect id="Rectangle-7" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" x="18" y="1" width="10" height="36"></rect>
+            <rect id="Rectangle-7-Copy" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" x="28" y="1" width="10" height="36"></rect>
+            <polygon id="Rectangle-7-Copy-2" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" points="3.5 0 14 0.840909091 10.5 37 0 36.1590909"></polygon>
+            <path d="M33,13 L33,10" id="Path-17-Copy-5" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <path d="M23,13 L23,10" id="Path-17-Copy-5" stroke="#FFFFFF" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

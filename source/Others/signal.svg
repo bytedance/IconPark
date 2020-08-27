@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>signal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="signal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(7.500000, 6.000000)" stroke="#000000" stroke-width="4">
+            <path d="M32.5,0 L32.5,36" id="Path-310"></path>
+            <path d="M21.5,10 L21.5,36" id="Path-311"></path>
+            <path d="M11.5,20 L11.5,36" id="Path-312"></path>
+            <path d="M0.5,30 L0.5,36" id="Path-313"></path>
+        </g>
+    </g>
+</svg>

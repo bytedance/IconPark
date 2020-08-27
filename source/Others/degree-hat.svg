@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>degree-hat</title>
+    <desc>Created with Sketch.</desc>
+    <g id="degree-hat" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <g id="Group-3" transform="translate(2.000000, 9.000000)" stroke="#000000" stroke-linejoin="round" stroke-width="4">
+                <polygon id="Path-368" fill="#2F88FF" fill-rule="nonzero" points="0 8.4 21.0222222 0 42.0444444 8.4 21.0222222 16.8"></polygon>
+                <path d="M42.0444444,8.51011363 L42.0444444,17.7333333" id="Path-369" stroke-linecap="round"></path>
+                <path d="M9.55555556,12.8253553 L9.55555556,25.2666667 C12.7622728,28.4222222 16.584495,30 21.0222222,30 C25.4599494,30 29.2821717,28.4222222 32.4888889,25.2666667 L32.4888889,12.8253553" id="Path-370" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

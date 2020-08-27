@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>vial</title>
+    <desc>Created with Sketch.</desc>
+    <g id="vial" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <path d="M30,33 C30,26.5555556 30,16.8888889 30,4 L18,4 C18,16.8748616 18,26.5310079 18,32.9684387" id="路径" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M30,14 L25,14" id="Path-4-Copy-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M30,20 L25,20" id="Path-4-Copy-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M18,33 C18,34.0441131 18,35.6102827 18,37.6985088 C18,41.1787263 20.6862915,44 24,44 C27.3137085,44 30,41.1787263 30,37.6985088 C30,35.638632 30,34.0937244 30,33.063786 L18,33 Z" id="路径" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

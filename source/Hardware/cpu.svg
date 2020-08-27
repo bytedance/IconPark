@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>cpu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="cpu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <rect id="Rectangle" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" x="8" y="8" width="32" height="32" rx="2"></rect>
+            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="4" fill="#43CCF8" fill-rule="nonzero" stroke-linejoin="round" x="18" y="18" width="12" height="12"></rect>
+            <path d="M14.9090909,2 L14.9090909,8" id="Path-189" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14.9090909,40 L14.9090909,46" id="Path-189-Copy-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M24,2 L24,8" id="Path-189-Copy" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M24,40 L24,46" id="Path-189-Copy-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M33.0909091,2 L33.0909091,8" id="Path-189-Copy-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M33.0909091,40 L33.0909091,46" id="Path-189-Copy-5" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M2,14.9090909 L8,14.9090909" id="Path-190" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,14.9090909 L46,14.9090909" id="Path-190-Copy-3" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M2,24 L8,24" id="Path-190-Copy" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,24 L46,24" id="Path-190-Copy-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M2,33.0909091 L8,33.0909091" id="Path-190-Copy-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M40,33.0909091 L46,33.0909091" id="Path-190-Copy-5" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

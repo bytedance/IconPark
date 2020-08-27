@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>wallet</title>
+    <desc>Created with Sketch.</desc>
+    <g id="wallet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <polygon id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(27.189532, 11.978915) rotate(60.000000) translate(-27.189532, -11.978915) " points="22.5771281 19.9478259 22.5771281 4.01000373 31.8019367 4.01000373"></polygon>
+            <path d="M6,12 L42,12 C43.1045695,12 44,12.8954305 44,14 L44,42 C44,43.1045695 43.1045695,44 42,44 L6,44 C4.8954305,44 4,43.1045695 4,42 L4,14 C4,12.8954305 4.8954305,12 6,12 Z" id="Path-13" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
+            <path d="M35.25,33 L44,33 L44,23 L35.25,23 C32.3505051,23 30,25.2385763 30,28 C30,30.7614237 32.3505051,33 35.25,33 Z" id="Oval" stroke="#FFFFFF" stroke-width="4" fill="#43CCF8" fill-rule="nonzero" stroke-linejoin="round"></path>
+            <path d="M32,28.5 L56,28.5" id="直线" stroke="#000000" stroke-width="4" stroke-linecap="round" transform="translate(44.000000, 28.500000) rotate(90.000000) translate(-44.000000, -28.500000) "></path>
+        </g>
+    </g>
+</svg>

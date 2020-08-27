@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pull-requests</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pull-requests" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(7.000000, 4.000000)" stroke="#000000" stroke-width="4">
+            <circle id="Oval" fill="#2F88FF" fill-rule="nonzero" cx="30" cy="36" r="4"></circle>
+            <circle id="Oval-Copy" fill="#2F88FF" fill-rule="nonzero" cx="4" cy="4" r="4"></circle>
+            <circle id="Oval-Copy-2" fill="#2F88FF" fill-rule="nonzero" cx="4" cy="36" r="4"></circle>
+            <path d="M4,8 L4,32" id="Path-315" stroke-linecap="round"></path>
+            <path d="M17,6 L26,6 C28.209139,6 30,7.790861 30,10 L30,32" id="Path-317" stroke-linecap="round"></path>
+            <polyline id="Path-367" stroke-linecap="round" transform="translate(20.000000, 6.000000) rotate(180.000000) translate(-20.000000, -6.000000) " points="17 0 23 6 17 12"></polyline>
+        </g>
+    </g>
+</svg>

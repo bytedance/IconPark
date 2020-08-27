@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>rocket</title>
+    <desc>Created with Sketch.</desc>
+    <g id="rocket" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(7.000000, 4.000000)" stroke="#000000" stroke-width="4">
+            <path d="M11.7050001,3.89449161 L17,0 L22.2949999,3.89449161 C25.8819274,6.53268984 28,10.7198227 28,15.172478 L28,33 L6,33 L6,15.172478 C6,10.7198227 8.11807256,6.53268984 11.7050001,3.89449161 Z" id="Rectangle-11" fill="#2F88FF" fill-rule="nonzero"></path>
+            <polygon id="Path-23" stroke-linecap="round" points="6 13 -2.83106871e-14 19 -2.83106871e-14 27 6 24"></polygon>
+            <polygon id="Path-23-Copy" stroke-linecap="round" points="28 13 34 19 34 27 28 24"></polygon>
+            <path d="M11,35 L11,38" id="Path-24" stroke-linecap="round"></path>
+            <path d="M17,35 L17,40" id="Path-24-Copy" stroke-linecap="round"></path>
+            <path d="M23,35 L23,38" id="Path-24-Copy-2" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

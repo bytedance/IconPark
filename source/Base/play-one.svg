@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>play2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="play2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+        <polygon id="Star" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" transform="translate(22.000000, 24.000000) rotate(90.000000) translate(-22.000000, -24.000000) " points="22 31 9.87564435 31 15.9378222 20.5 22 10 28.0621778 20.5 34.1243557 31"></polygon>
+    </g>
+</svg>

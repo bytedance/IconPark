@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>undo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="undo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <path d="M11.2720779,36.7279221 C14.5294373,39.9852814 19.0294373,42 24,42 C33.9411255,42 42,33.9411255 42,24 C42,14.0588745 33.9411255,6 24,6 C19.0294373,6 14.5294373,8.01471863 11.2720779,11.2720779 C10.1667415,12.3774144 8.4093822,14.2867217 6,17" id="Path" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-30" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="6 9 6 17 14 17"></polyline>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>windmill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="windmill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组" transform="translate(4.000000, 4.000000)" stroke="#000000" stroke-width="4">
+            <polygon id="路径-11" points="20 19.9916672 19.9707274 9.99583359 19.9414548 0 8 10 8 20"></polygon>
+            <polygon id="路径-11" transform="translate(30.000000, 14.000000) rotate(90.000000) translate(-30.000000, -14.000000) " points="36 23.9916672 35.9707274 13.9958336 35.9414548 4 24 14 24 24"></polygon>
+            <polygon id="路径-11复制" transform="translate(26.000000, 30.000000) rotate(180.000000) translate(-26.000000, -30.000000) " points="32 39.9916672 31.9707274 29.9958336 31.9414548 20 20 30 20 40"></polygon>
+            <polygon id="路径-11复制-2" transform="translate(10.000000, 26.000000) rotate(270.000000) translate(-10.000000, -26.000000) " points="16 35.9916672 15.9707274 25.9958336 15.9414548 16 4 26 4 36"></polygon>
+        </g>
+    </g>
+</svg>

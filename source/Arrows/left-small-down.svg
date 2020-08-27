@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>left-small-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="left-small-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <g id="编组" transform="translate(14.479185, 15.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                <path d="M21.0416306,9.5 L-3,9.5" id="Line-3" transform="translate(9.020815, 9.500000) rotate(-225.000000) translate(-9.020815, -9.500000) "></path>
+                <polyline id="Path-9" transform="translate(9.520815, 9.000000) rotate(-180.000000) translate(-9.520815, -9.000000) " points="0.52081528 0 18.5208153 0 18.5208153 18"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

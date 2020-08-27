@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>refresh1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="refresh1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(-0.500000, 0.000000)">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0.5" y="0" width="48" height="48"></rect>
+            <path d="M42,24 C42,14.0588745 33.9411255,6 24,6 C21.559467,6 19.2323766,6.48570507 17.1101186,7.36572524 C16.0143739,7.82008913 14.9732329,8.37956827 13.999274,9.03158409 C13.0176762,9.68871375 12.1043185,10.4398373 11.2720779,11.2720779 C10.4398373,12.1043185 9.68871375,13.0176762 9.03158409,13.999274 M6,24 C6,33.9411255 14.0588745,42 24,42 L24,42 C26.440533,42 28.7676234,41.5142949 30.8898814,40.6342748 C31.9856261,40.1799109 33.0267671,39.6204317 34.000726,38.9684159 C34.9823238,38.3112862 35.8956815,37.5601627 36.7279221,36.7279221 C37.5601627,35.8956815 38.3112862,34.9823238 38.9684159,34.000726" id="Shape" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M34,16 L50,16" id="Path-5" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(42.000000, 16.000000) rotate(90.000000) translate(-42.000000, -16.000000) "></path>
+            <path d="M-2,32 L14,32" id="Path-5" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(6.000000, 32.000000) rotate(90.000000) translate(-6.000000, -32.000000) "></path>
+        </g>
+    </g>
+</svg>

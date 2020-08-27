@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>mark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <path d="M11,6 L11,42" id="Path-83" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M11,9 L25,9 L32,12 L39,12 C40.1045695,12 41,12.8954305 41,14 L41,31 C41,32.1045695 40.1045695,33 39,33 L32,33 L25,30 L11,30 L11,9 Z" id="Path-85" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
+            <path d="M7,42 L15,42" id="Path-84" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

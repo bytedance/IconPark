@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>sort2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sort2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+            <path d="M6,11.5 L29,11.5" id="Path-129" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M6,24.5 L29,24.5" id="Path-129" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-129-Copy" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="36 11.5 36 37.5 42 30.5"></polyline>
+            <path d="M6,37.5 L29,37.5" id="Path-129" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

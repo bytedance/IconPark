@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>bug</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bug" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(4.000000, 4.000000)" stroke-width="4">
+            <path d="M20,38 C32,38 34,27.5323633 34,24 C34,20.837862 34,16.1711953 34,10 L6,10 C6,13.442296 6,18.1089627 6,24 C6,27.450596 8,38 20,38 Z" id="Oval" stroke="#000000" fill="#2F88FF" fill-rule="nonzero"></path>
+            <path d="M3.55271368e-15,4 L6,10" id="Path-321" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M40,4 L34,10" id="Path-322" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M0,23 L6,23" id="Path-323" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M40,23 L34,23" id="Path-324" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M3,40 L9,34" id="Path-325" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M37,40 L31,34" id="Path-326" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M20,38 L20,10" id="Path-327" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <path d="M10.920475,35.0408965 C13.002464,36.7831828 15.9245088,38 20,38 L20,38 C24.1112534,38 27.0487287,36.7713317 29.1341392,35.0138386" id="路径" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M28,8.33333333 C28,3.73096042 24.418278,0 20,0 C15.581722,0 12,3.73096042 12,8.33333333 L12,10 L28,10 L28,8.33333333 Z" id="Oval-2" stroke="#000000" fill="#2F88FF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

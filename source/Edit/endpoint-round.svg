@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Edit/endpoint-round">
+<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>
+<path id="Vector 189" d="M42 24L26 24" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="Ellipse 102" cx="22" cy="24" r="3" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Ellipse 104" d="M42 40H22C13.1634 40 6 32.8366 6 24C6 15.1634 13.1634 8 22 8H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

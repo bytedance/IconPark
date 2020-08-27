@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>stopwatch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="stopwatch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(7.000000, 3.000000)" stroke-width="4">
+            <circle id="Oval-3" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" cx="17" cy="24" r="17"></circle>
+            <path d="M11,1 L23,1" id="Path-13" stroke="#000000" stroke-linecap="round"></path>
+            <path d="M17,16 L17,24" id="Path-14" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <path d="M25,24 L17,24" id="Path-14" stroke="#FFFFFF" stroke-linecap="round"></path>
+            <path d="M17,1 L17,5" id="Path-14" stroke="#000000" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>

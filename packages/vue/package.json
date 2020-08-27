@@ -1,0 +1,25 @@
+{
+    "name": "@icon-park/vue",
+    "version": "1.0.0",
+    "description": "Vue Icons for IconPark",
+    "main": "lib/index.js",
+    "module": "es/index.js",
+    "typings": "lib/index.d.ts",
+    "keywords": [
+        "vue",
+        "icon",
+        "icon park"
+    ],
+    "license": "Apache-2.0",
+    "engines": {
+        "node": ">= 8.0.0",
+        "npm": ">= 5.0.0"
+    },
+    "peerDependencies": {
+        "vue": "2.x"
+    },
+    "dependencies": {
+        "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
+        "csstype": "^3.0.3"
+    }
+}
