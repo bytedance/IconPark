@@ -106,7 +106,7 @@ export default {
             {
                 "libraryName": "@icon-park/vue",
                 "libraryDirectory": "es/icons",
-                "camel2DashComponentName": false // default: true
+                "camel2DashComponentName": false 
             }
         ]
     ]

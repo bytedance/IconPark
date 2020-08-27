@@ -18,3 +18,9 @@ Please visit [IconPark Website]((http://iconpark.bytedance.com))
 * Copy Vue Icon component
 * Download PNG
 * Download SVG
+
+### Usages
+
+* [React component](./packages/react/README.en-US.md) 
+* [Vue component](./packages/vue/README.en-US.md) 
+* [Pure SVG string](./packages/vue/README.en-US.md) 

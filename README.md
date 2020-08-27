@@ -18,3 +18,9 @@
 * 复制Vue图标组件
 * 下载PNG
 * 下载SVG
+
+### 使用方式
+
+* [React组件](./packages/react/README.md) 
+* [Vue组件](./packages/vue/README.md) 
+* [SVG字符串](./packages/vue/README.md) 

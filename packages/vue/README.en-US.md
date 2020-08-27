@@ -107,7 +107,7 @@ Set config like this:
             {
                 "libraryName": "@icon-park/vue",
                 "libraryDirectory": "es/icons",
-                "camel2DashComponentName": false // default: true
+                "camel2DashComponentName": false 
             }
         ]
     ]
