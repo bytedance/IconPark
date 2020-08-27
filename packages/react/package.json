@@ -19,5 +19,7 @@
         "react": ">=16.9",
         "react-dom": ">=16.9"
     },
-    "gitHead": "dbf39ad0fcf3354ad1e7f96b76b74e8aa5d024cd"
+    "publishConfig": {
+        "access": "public"
+    }
 }

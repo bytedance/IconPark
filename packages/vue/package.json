@@ -22,5 +22,7 @@
         "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
         "csstype": "^3.0.3"
     },
-    "gitHead": "dbf39ad0fcf3354ad1e7f96b76b74e8aa5d024cd"
+    "publishConfig": {
+        "access": "public"
+    }
 }
