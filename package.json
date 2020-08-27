@@ -10,7 +10,9 @@
         "compiler": "npm run compiler:clean && npm run compiler:icons && npm run compiler:code && npm run compiler:git",
         "build:clean": "rm -rf packages/*/lib packages/*/es packages/*/styles",
         "build:source": "gulp",
-        "build": "npm run build:clean && npm run build:source"
+        "build:prepare": "npm run build:clean && npm run build:source",
+        "publish:lerna": "lerna publish --skip-temp-tag --registry=https://registry.npmjs.org",
+        "publish:all": "npm run build:prepare && npm run publish:lerna && npm run build:clean"
     },
     "dependencies": {
         "@types/react": "^16.9.47",
