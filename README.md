@@ -1,5 +1,4 @@
 # IconPark 图标
-> IconPark图标仓库
 
 ## 介绍
 
@@ -23,4 +22,4 @@
 
 * [React组件](./packages/react/README.md) 
 * [Vue组件](./packages/vue/README.md) 
-* [SVG字符串](./packages/vue/README.md) 
+* [SVG字符串](./packages/svg/README.md) 

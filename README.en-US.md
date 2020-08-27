@@ -1,5 +1,4 @@
 # IconPark Icons
-> Icons for IconPark
 
 ## Introduction
 
