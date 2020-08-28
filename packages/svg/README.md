@@ -1,33 +1,33 @@
-# IconPark 图标
-> IconPark图标体系
+# IconPark Icons
+> Pure SVG Icons for IconPark
 
-## 介绍
+## Introduction
 
-### 新特性
-* 提供超过1300图标
-* 支持4种主题:
-    * 线性
-    * 填充
-    * 双色
-    * 四色
+### Features
+* Provide more than 1300 icons
+* Provide 4 themes:
+    * outline
+    * filled
+    * two-tone
+    * multi-color
 
-### 更多图标
-请访问[IconPark图标网站](http://iconpark.bytedance.com), 提供更多便捷的操作：
-* 复制SVG源文件
-* 复制React图标组件
-* 复制Vue图标组件
-* 下载PNG
-* 下载SVG
+### More
+Please visit [IconPark Website]((http://iconpark.bytedance.com))
+* Copy SVG
+* Copy React Icon component
+* Copy Vue Icon component
+* Download PNG
+* Download SVG
 
-## 快速上手
-### 安装
+## Getting Started
+### Install
 
 ```
 npm install @icon-park/svg --save
 ```
 
-### 引用图标
-引用`@icon-park/svg`，并渲染函数对应的图标:
+### Include Component
+Import an icon from `@icon-park/svg`  and then call it:
 
 ```
 import {Home} from '@icon-park/svg';
@@ -39,9 +39,8 @@ const svg = Home({theme: 'outline'});
 console.log(svg);
 ```
 
-### 全局
-
-你可以使用 `@icon-park/svg/es/runtime` 中的 `setConfig`方法来设置全局配置。
+### Global Config
+You can use the static methods `setConfig` in `@icon-park/svg/es/runtime` to set the default config globally:
 
 ```typescript
 import {setConfig} from '@icon-park/svg/es/runtime'
@@ -59,11 +58,11 @@ setConfig({
 })
 ```
 
-### 按需加载
+### Import on Demand
 
-可以使用[babel-plugin-import](https://github.com/ant-design/babel-plugin-import)来按需加载图标
+You can use [babel-plugin-import](https://github.com/ant-design/babel-plugin-import) to import icons on demand.
 
-配置如下:
+Set config like this:
 ```json
 {
     "plugins": [
@@ -79,13 +78,13 @@ setConfig({
 }
 ```
 
-## 属性
-|    属性名称	 | 介绍  | 类型  | 默认值 | 注释 |
+## Props
+|    prop	 | description  | type  | default | note |
 | ---------- | --- | --- | --- | --- |
-| theme |  图标主题 | 'outline' &#124; 'filled' &#124; 'two-tone' &#124; 'multi-color' | 'outline'  |
-| size | 图标的大小，宽高相同 | number &#124; string |  '1em' |
-| spin |  给图标加旋转效果 | boolean | false |
-| fill |  图标的颜色，不超过4个颜色，默认为当前颜色 | string &#124; string[]|  'currentColor' |
-| strokeLinecap |  svg元素的stroke-linecap属性 | 'butt' &#124; 'round' &#124; 'square' |  'round' |
-| strokeLinejoin |  svg元素的stroke-linejoin属性 | 'miter' &#124; 'round' &#124; 'bevel' |  'round' |
-| strokeWidth |  svg元素的stroke-width属性 | number |  4 |
+| theme |  Theme of the icons.  | 'outline' &#124; 'filled' &#124; 'two-tone' &#124; 'multi-color' | 'outline'  |
+| size |  The width/height of the icon | number &#124; string |  '1em' |
+| spin |  Rotate icon with animation | boolean | false |
+| fill |  Colors of theme | string  &#124; string[] |  'currentColor' |
+| strokeLinecap |  the stroke-linecap prop of svg element | 'butt' &#124; 'round' &#124; 'square' |  'round' |
+| strokeLinejoin |  the stroke-linejoin prop of svg element | 'miter' &#124; 'round' &#124; 'bevel' |  'round' |
+| strokeWidth |  the stroke-width prop of svg element | number |  4 |

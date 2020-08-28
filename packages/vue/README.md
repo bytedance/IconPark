@@ -1,32 +1,33 @@
-# IconPark 图标
-> IconPark图标体系
+# IconPark Icons
+> Vue Icons for IconPark
 
-## 介绍
+## Introduction
 
-### 新特性
-* 提供超过1300图标
-* 支持4种主题:
-    * 线性
-    * 填充
-    * 双色
-    * 四色
+### Features
+* Provide more than 1300 icons
+* Provide 4 themes:
+    * outline
+    * filled
+    * two-tone
+    * multi-color
 
-### 更多图标
-请访问[IconPark图标网站](http://iconpark.bytedance.com), 提供更多便捷的操作：
-* 复制SVG源文件
-* 复制React图标组件
-* 复制Vue图标组件
-* 下载PNG
-* 下载SVG
-## 快速上手
-### 安装
+### More
+Please visit [IconPark Website]((http://iconpark.bytedance.com))
+* Copy SVG
+* Copy React Icon component
+* Copy Vue Icon component
+* Download PNG
+* Download SVG
+
+## Getting Started
+### Install
 
 ```
 npm install @icon-park/vue --save
 ```
 
-### 引用图标
-在组件的上方引用`@icon-park/vue`，并在组件的模板函数中使用:
+### Include Component
+Import an icon from `@icon-park/vue`at the top of a component and then use it in the template tag:
 
 ``` vue
 <template>
@@ -43,7 +44,7 @@ export default {
 </script>
 ```
 
-如果你不想引用，那么你可以全局安装图标
+If you don't want to refer to it, you can install icons globally.
 
 ```typescript
 import * as icons from '@icon-park/vue';
@@ -57,14 +58,14 @@ Object.values(icons).forEach(icon => {
 
 ### Style Sheet
 
-引用预设样式
+Import the icon style:
 
 ```typescript
 import '@icon-park/vue/styles/index.css';
 ```
 
-### 全局
-你可以使用Vue提供的`provide`属性来设置全局配置。
+### Global Config
+You can use the 'provide' property provided by `Vue` to set the global configuration.
 
 ```html
 <template>
@@ -93,11 +94,11 @@ export default {
 
 ```
 
-### 按需加载
+### Import on Demand
 
-可以使用[babel-plugin-import](https://github.com/ant-design/babel-plugin-import)来按需加载图标
+You can use [babel-plugin-import](https://github.com/ant-design/babel-plugin-import) to import icons on demand.
 
-配置如下:
+Set config like this:
 ```json
 {
     "plugins": [
@@ -113,12 +114,12 @@ export default {
 }
 ```
 
+### Icon Component
+We recommend loading icons on demand, because this can greatly reduce the volume of compiled code。
+However, in some scenarios similar to remote loading menus, direct reference to all icons can reduce the development cost.
 
-### 使用Icon组件
-我们更推荐使用按需加载的方式来加载图标，因为这样可以大幅度缩减编译后代码体积，
-但是在有些类似远程加载的菜单的场景下，直接引用全部图标可以缩减开发成本。
+Usage:
 
-使用方式：
 
 ``` vue
 <template>
@@ -135,13 +136,15 @@ export default {
 </script>
 ```
 
-## 属性
-|    属性名称	 | 介绍  | 类型  | 默认值 | 注释 |
+
+## Props
+|    prop	 | description  | type  | default | note |
 | ---------- | --- | --- | --- | --- |
-| theme |  图标主题 | 'outline' &#124; 'filled' &#124; 'two-tone' &#124; 'multi-color' | 'outline'  |
-| size | 图标的大小，宽高相同 | number &#124; string |  '1em' |
-| spin |  给图标加旋转效果 | boolean | false |
-| fill |  图标的颜色，不超过4个颜色，默认为当前颜色 | string &#124; string[]|  'currentColor' |
-| strokeLinecap |  svg元素的stroke-linecap属性 | 'butt' &#124; 'round' &#124; 'square' |  'round' |
-| strokeLinejoin |  svg元素的stroke-linejoin属性 | 'miter' &#124; 'round' &#124; 'bevel' |  'round' |
-| strokeWidth |  svg元素的stroke-width属性 | number |  4 |
+| theme |  Theme of the icons.  | 'outline' &#124; 'filled' &#124; 'two-tone' &#124; 'multi-color' | 'outline'  |
+| size |  The width/height of the icon | number &#124; string |  '1em' |
+| spin |  Rotate icon with animation | boolean | false |
+| fill |  Colors of theme | string  &#124; string[] |  'currentColor' |
+| strokeLinecap |  the stroke-linecap prop of svg element | 'butt' &#124; 'round' &#124; 'square' |  'round' |
+| strokeLinejoin |  the stroke-linejoin prop of svg element | 'miter' &#124; 'round' &#124; 'bevel' |  'round' |
+| strokeWidth |  the stroke-width prop of svg element | number |  4 |
+
