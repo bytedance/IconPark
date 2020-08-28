@@ -16,35 +16,25 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <rect
+                x="7"
+                y="17"
+                width="34"
+                height="14"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(7.000000, 6.000000)"
-                        stroke={props.colors[0]}
-                        strokeLinejoin={props.strokeLinejoin}
-                        strokeWidth={props.strokeWidth}
-                    >
-                        <rect
-                            fill={props.colors[1]}
-                            fillRule="nonzero"
-                            x="0"
-                            y="11"
-                            width="34"
-                            height="14"
-                        />
-                        <path
-                            d="M17,0 L17,36"
-                            strokeLinecap={props.strokeLinecap}
-                        />
-                    </g>
-                </g>
-            </g>
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 6V42"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

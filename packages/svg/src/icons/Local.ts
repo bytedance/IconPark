@@ -9,14 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('local', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<path d="M9.85786438,32.7573593 C6.23857625,33.8431458 4,35.3431458 4,37 C4,40.3137085 12.954305,43 24,43 L24,43 C35.045695,43 44,40.3137085 44,37 C44,35.3431458 41.7614237,33.8431458 38.1421356,32.7573593" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M24,35 C32.6666667,29.3359832 37,23.2299226 37,16.6818182 C37,9.6778434 31.1797017,4 24,4 C16.8202983,4 11,9.6778434 11,16.6818182 C11,23.2299226 15.3333333,29.3359832 24,35 Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-                + '<circle stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" fill="' + props.colors[3] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" cx="24" cy="17" r="5"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M9.85786 32.7573C6.23858 33.8431 4 35.3431 4 37C4 40.3137 12.9543 43 24 43V43C35.0457 43 44 40.3137 44 37C44 35.3431 41.7614 33.8431 38.1421 32.7573" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24 35C24 35 37 26.504 37 16.6818C37 9.67784 31.1797 4 24 4C16.8203 4 11 9.67784 11 16.6818C11 26.504 24 35 24 35Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24 22C26.7614 22 29 19.7614 29 17C29 14.2386 26.7614 12 24 12C21.2386 12 19 14.2386 19 17C19 19.7614 21.2386 22 24 22Z" fill="' + props.colors[3] + '" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

@@ -19,19 +19,53 @@ export default IconWrapper(
         >
             <rect
                 x="4"
-                y="14"
+                y="4"
                 width="40"
-                height="30"
-                fill={props.colors[1]}
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linejoin={props.strokeLinejoin}
+                height="40"
+                rx="2"
+                fill="#09C8E2"
             />
             <rect
                 x="4"
                 y="4"
                 width="40"
-                height="10"
+                height="40"
+                rx="2"
+                fill={props.colors[1]}
+            />
+            <rect
+                x="4"
+                y="4"
+                width="40"
+                height="40"
+                rx="2"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 14H44"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <line
+                x1="4"
+                y1="11"
+                x2="4"
+                y2="23"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <line
+                x1="44"
+                y1="11"
+                x2="44"
+                y2="23"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

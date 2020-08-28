@@ -18,8 +18,46 @@ export default IconWrapper(
             fill="none"
         >
             <path
+                d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 44V32"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 24H16"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44 24H32"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
+                fill="#09C8E2"
+            />
+            <path
                 d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
                 fill={props.colors[1]}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
+                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -28,7 +66,16 @@ export default IconWrapper(
                 fill={props.colors[1]}
             />
             <path
-                d="M44 24C44 35.0457 35.0457 44 24 44M44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24M44 24H32M24 44C12.9543 44 4 35.0457 4 24M24 44V32M4 24H16M32 24C32 28.4183 28.4183 32 24 32M32 24C32 19.5817 28.4183 16 24 16C19.5817 16 16 19.5817 16 24M24 32C19.5817 32 16 28.4183 16 24"
+                d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

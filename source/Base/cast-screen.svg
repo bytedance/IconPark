@@ -1,16 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>cast-screen</title>
-    <desc>Created with Sketch.</desc>
-    <g id="cast-screen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2" transform="translate(3.000000, 8.000000)">
-            <g id="编组" transform="translate(0.000000, 15.000000)">
-                <path d="M18,16 C18,7.163444 10.836556,0 2,0" id="Oval" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M10,16 C10,11.581722 6.418278,8 2,8" id="Oval" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-                <circle id="Oval-26" fill="#000000" cx="2.5" cy="15.5" r="2.5"></circle>
-            </g>
-            <polyline id="Rectangle" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="1 8.05661381 1 0 41 0 41 32 25.7712298 32"></polyline>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M21 39C21 30.1634 13.8366 23 5 23" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13 39C13 34.5817 9.41828 31 5 31" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 41C6.88071 41 8 39.8807 8 38.5C8 37.1193 6.88071 36 5.5 36C4.11929 36 3 37.1193 3 38.5C3 39.8807 4.11929 41 5.5 41Z" fill="black"/>
+<path d="M4 16.0566V8H44V40H28.7712" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

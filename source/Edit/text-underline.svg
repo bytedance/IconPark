@@ -1,12 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>text-underline</title>
-    <desc>Created with Sketch.</desc>
-    <g id="text-underline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
-        <g id="编组-2" transform="translate(8.000000, 6.096979)" stroke="#000000" stroke-width="4">
-            <path d="M0,37.9030211 L32,37.9030211" id="Path-234" stroke-linejoin="round"></path>
-            <path d="M29,-1.0658141e-13 C29,6.66666667 29,9.2363544 29,15.9030211 C29,23.0827228 23.1797017,28.9030211 16,28.9030211 C8.82029825,28.9030211 3,23.0827228 3,15.9030211 C3,9.2363544 3,6.66666667 3,-1.0658141e-13" id="形状"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8 44H40" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 6.09698C37 12.7636 37 15.3333 37 22C37 29.1797 31.1797 35 24 35C16.8203 35 11 29.1797 11 22C11 15.3333 11 12.7636 11 6.09698" stroke="black" stroke-width="4" stroke-linecap="round"/>
 </svg>

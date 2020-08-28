@@ -15,37 +15,29 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M24 6V42"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(4.000000, 6.000000)"
-                        stroke={props.colors[0]}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <path
-                            d="M20,0 L20,36"
-                            stroke-linecap={props.strokeLinecap}
-                        />
-                        <polygon
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                            points="0 28 12 6 12 28"
-                        />
-                        <polygon
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                            points="40 28 28 28 28 6"
-                        />
-                    </g>
-                </g>
-            </g>
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 34L16 12V34H4Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44 34H32V12L44 34Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

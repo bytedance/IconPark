@@ -22,7 +22,20 @@ export default IconWrapper(
                 y="34"
                 width="8"
                 height="8"
+                fill="#09C8E2"
+            />
+            <rect
+                x="4"
+                y="34"
+                width="8"
+                height="8"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="4"
+                y="34"
+                width="8"
+                height="8"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -33,7 +46,20 @@ export default IconWrapper(
                 y="6"
                 width="32"
                 height="12"
+                fill="#09C8E2"
+            />
+            <rect
+                x="8"
+                y="6"
+                width="32"
+                height="12"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="8"
+                y="6"
+                width="32"
+                height="12"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -58,7 +84,20 @@ export default IconWrapper(
                 y="34"
                 width="8"
                 height="8"
+                fill="#09C8E2"
+            />
+            <rect
+                x="36"
+                y="34"
+                width="8"
+                height="8"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="36"
+                y="34"
+                width="8"
+                height="8"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -69,7 +108,20 @@ export default IconWrapper(
                 y="34"
                 width="8"
                 height="8"
+                fill="#09C8E2"
+            />
+            <rect
+                x="20"
+                y="34"
+                width="8"
+                height="8"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="20"
+                y="34"
+                width="8"
+                height="8"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

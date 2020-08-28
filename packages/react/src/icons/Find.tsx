@@ -19,31 +19,38 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M4 7.00049H44"
+                d="M4 7.00012H44"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
             />
             <path
-                d="M4 23.0005H15"
+                d="M4 23.0001H15"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
             />
             <path
-                d="M4 39.0005H15"
+                d="M4 39.0001H15"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
             />
             <path
-                d="M31.5 34.0005C36.1944 34.0005 40 30.1949 40 25.5005C40 20.8061 36.1944 17.0005 31.5 17.0005C26.8056 17.0005 23 20.8061 23 25.5005C23 30.1949 26.8056 34.0005 31.5 34.0005Z"
+                d="M31.5 34.0001C36.1944 34.0001 40 30.1945 40 25.5001C40 20.8057 36.1944 17.0001 31.5 17.0001C26.8056 17.0001 23 20.8057 23 25.5001C23 30.1945 26.8056 34.0001 31.5 34.0001Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M31.5 34.0001C36.1944 34.0001 40 30.1945 40 25.5001C40 20.8057 36.1944 17.0001 31.5 17.0001C26.8056 17.0001 23 20.8057 23 25.5001C23 30.1945 26.8056 34.0001 31.5 34.0001Z"
                 fill={props.colors[1]}
+            />
+            <path
+                d="M31.5 34.0001C36.1944 34.0001 40 30.1945 40 25.5001C40 20.8057 36.1944 17.0001 31.5 17.0001C26.8056 17.0001 23 20.8057 23 25.5001C23 30.1945 26.8056 34.0001 31.5 34.0001Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
             />
             <path
-                d="M37 32.0005L44 39.051"
+                d="M37 32.0001L44 39.0506"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

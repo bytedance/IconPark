@@ -16,37 +16,29 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M42 24L6 24"
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(24.000000, 24.000000) rotate(90.000000) translate(-24.000000, -24.000000) translate(4.000000, 6.000000)"
-                        stroke={props.colors[0]}
-                        strokeLinejoin={props.strokeLinejoin}
-                        strokeWidth={props.strokeWidth}
-                    >
-                        <path
-                            d="M20,0 L20,36"
-                            strokeLinecap={props.strokeLinecap}
-                        />
-                        <polygon
-                            fill={props.colors[1]}
-                            fillRule="nonzero"
-                            points="0 28 12 6 12 28"
-                        />
-                        <polygon
-                            fill={props.colors[1]}
-                            fillRule="nonzero"
-                            points="40 28 28 28 28 6"
-                        />
-                    </g>
-                </g>
-            </g>
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M14 4L36 16H14V4Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M14 44V32H36L14 44Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

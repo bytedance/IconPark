@@ -19,6 +19,18 @@ export default IconWrapper(
             fill="none"
         >
             <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M4 42H44H4Z"
+                fill="#09C8E2"
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M4 42H44H4Z"
+                fill={props.colors[1]}
+            />
+            <path
                 d="M4 42H44"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
@@ -30,7 +42,20 @@ export default IconWrapper(
                 y="28"
                 width="6"
                 height="14"
+                fill="#09C8E2"
+            />
+            <rect
+                x="8"
+                y="28"
+                width="6"
+                height="14"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="8"
+                y="28"
+                width="6"
+                height="14"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
@@ -40,7 +65,20 @@ export default IconWrapper(
                 y="18"
                 width="6"
                 height="24"
+                fill="#09C8E2"
+            />
+            <rect
+                x="21"
+                y="18"
+                width="6"
+                height="24"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="21"
+                y="18"
+                width="6"
+                height="24"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
@@ -50,7 +88,20 @@ export default IconWrapper(
                 y="6"
                 width="6"
                 height="36"
+                fill="#09C8E2"
+            />
+            <rect
+                x="34"
+                y="6"
+                width="6"
+                height="36"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="34"
+                y="6"
+                width="6"
+                height="36"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}

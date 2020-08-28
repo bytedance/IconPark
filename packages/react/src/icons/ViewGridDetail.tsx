@@ -18,59 +18,55 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g>
-                <g>
-                    <rect
-                        x="4"
-                        y="4"
-                        width="40"
-                        height="40"
-                        rx="3.63636"
-                        fill={props.colors[1]}
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <rect
-                        x="12"
-                        y="12"
-                        width="8"
-                        height="8"
-                        fill={props.colors[3]}
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M28 12L36 12"
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M28 20L36 20"
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M12 28L36 28"
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M12 36H36"
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                </g>
-            </g>
+            <rect
+                x="4"
+                y="4"
+                width="40"
+                height="40"
+                rx="3"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <rect
+                x="12"
+                y="12"
+                width="8"
+                height="8"
+                fill={props.colors[3]}
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M28 12L36 12"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M28 20L36 20"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M12 28L36 28"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M12 36H36"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

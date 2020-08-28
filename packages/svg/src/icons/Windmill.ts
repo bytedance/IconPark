@@ -9,14 +9,10 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('windmill', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(4.000000, 4.000000)">'
-                + '<polygon points="20 19.9916672 19.9707274 9.99583359 19.9414548 0 8 10 8 20" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '<polygon transform="translate(30.000000, 14.000000) rotate(90.000000) translate(-30.000000, -14.000000) " points="36 23.9916672 35.9707274 13.9958336 35.9414548 4 24 14 24 24" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '<polygon transform="translate(26.000000, 30.000000) rotate(180.000000) translate(-26.000000, -30.000000) " points="32 39.9916672 31.9707274 29.9958336 31.9414548 20 20 30 20 40" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '<polygon transform="translate(10.000000, 26.000000) rotate(270.000000) translate(-10.000000, -26.000000) " points="16 35.9916672 15.9707274 25.9958336 15.9414548 16 4 26 4 36" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M24 23.9917L23.9707 13.9958L23.9415 4L12 14V24L24 23.9917Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M24.0083 24L34.0042 23.9707L44 23.9415L34 12L24 12L24.0083 24Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M24 24.0083L24.0293 34.0042L24.0585 44L36 34V24L24 24.0083Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M23.9917 24L13.9958 24.0293L4 24.0585L14 36L24 36L23.9917 24Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

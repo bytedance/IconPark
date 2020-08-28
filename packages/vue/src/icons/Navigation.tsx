@@ -15,26 +15,15 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M24.5 4L9 44L24.5 34.9091L40 44L24.5 4Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
                 stroke-linejoin={props.strokeLinejoin}
-            >
-                <g
-                    transform="translate(9.000000, 4.000000)"
-                    fill={props.colors[1]}
-                    fill-rule="nonzero"
-                    stroke={props.colors[0]}
-                    stroke-width={props.strokeWidth}
-                >
-                    <polygon
-                        points="15.5 0 0 40 15.5 30.9090909 31 40"
-                    />
-                </g>
-            </g>
+            />
         </svg>
     )
 );

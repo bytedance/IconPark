@@ -1,15 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>zoom-in</title>
-    <desc>Created with Sketch.</desc>
-    <g id="zoom-in" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <circle id="Oval" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" cx="21" cy="21" r="17"></circle>
-            <path d="M16.7573593,16.7573593 L25.2426407,25.2426407" id="Path-128" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(21.000000, 21.000000) rotate(45.000000) translate(-21.000000, -21.000000) "></path>
-            <path d="M25.2426407,16.7573593 L16.7573593,25.2426407" id="Path-129" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(21.000000, 21.000000) rotate(-135.000000) translate(-21.000000, -21.000000) "></path>
-            <path d="M31.4644661,37.4644661 L43.4644661,37.4644661" id="Path-4" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(37.464466, 37.464466) rotate(45.000000) translate(-37.464466, -37.464466) "></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M21 38C30.3888 38 38 30.3888 38 21C38 11.6112 30.3888 4 21 4C11.6112 4 4 11.6112 4 21C4 30.3888 11.6112 38 21 38Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M21 15L21 27" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 21L27 21" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.2218 33.2218L41.7071 41.7071" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

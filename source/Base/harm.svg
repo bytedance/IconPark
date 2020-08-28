@@ -1,18 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>harm</title>
-    <desc>Created with Sketch.</desc>
-    <g id="harm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <path d="M6,8.38382871 L24.008642,3 L42,8.38382871 L42,19.8406803 C42,31.2135249 34.7657703,41.326774 24.0026245,45.0005035 L24.0026245,45.0005035 C13.2365289,41.3268386 6,31.2113281 6,19.8357126 L6,8.38382871 Z" id="矩形" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
-            <g id="编组" transform="translate(11.000000, 10.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-                <g id="分组" transform="translate(12.843146, 12.843146) rotate(-315.000000) translate(-12.843146, -12.843146) translate(4.343146, 4.343146)">
-                    <path d="M3,3 L14.3137085,14.3137085" id="Path-128" transform="translate(8.656854, 8.656854) rotate(45.000000) translate(-8.656854, -8.656854) "></path>
-                    <path d="M14.3137085,3 L3,14.3137085" id="Path-129" transform="translate(8.656854, 8.656854) rotate(-135.000000) translate(-8.656854, -8.656854) "></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="49" viewBox="0 0 48 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M48 1H0V49H48V1Z" fill="white" fill-opacity="0.01"/>
+<path d="M6 9.25564L24.0086 4L42 9.25564V20.0337C42 31.3622 34.7502 41.4194 24.0026 45.0005C13.2521 41.4195 6 31.36 6 20.0287V9.25564Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M29.5 18.4081L18.1863 29.7218" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.1863 18.4081L29.5 29.7218" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

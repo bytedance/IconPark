@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>arrow-right-down</title>
-    <desc>Created with Sketch.</desc>
-    <g id="arrow-right-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="编组-2" transform="translate(10.000000, 11.000000)" stroke="#000000" stroke-width="4">
-            <g id="编组" transform="translate(0.275537, 0.000000)">
-                <polyline id="Path-9" transform="translate(17.724463, 17.000000) rotate(90.000000) translate(-17.724463, -17.000000) " points="8.72446285 8 26.7244629 8 26.7244629 26"></polyline>
-                <path d="M31.9930816,13.6249513 L-4,12.9192046" id="Line-3" transform="translate(13.996541, 13.272078) rotate(223.876697) translate(-13.996541, -13.272078) "></path>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M37 19V37H19" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.5441 11.5442L36.9999 37" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

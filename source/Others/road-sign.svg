@@ -1,11 +1,7 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Others/road-sign">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<g id="road-sign">
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 23" d="M6 10V22H38L44 16L38 10L6 10Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 24" d="M23 22V44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 24&#229;&#164;&#135;&#228;&#187;&#189;" d="M23 4V10" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 25" d="M18 44H28" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-</g>
+<path d="M6 10V22H38L44 16L38 10L6 10Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M23 22V44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23 4V10" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 44H28" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -19,19 +19,108 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M4 4H17H31H44V17V31V44H31H17H4V31V17V4Z"
-                fill={props.colors[1]}
+                d="M17 4H7C5.34315 4 4 5.34315 4 7V17V31V41C4 42.6569 5.34315 44 7 44H17H31H41C42.6569 44 44 42.6569 44 41V31V17V7C44 5.34315 42.6569 4 41 4H31H17Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <line
+                x1="23"
+                y1="17"
+                x2="44"
+                y2="17"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <line
+                x1="4"
+                y1="17"
+                x2="13"
+                y2="17"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <line
+                x1="35"
+                y1="31"
+                x2="44"
+                y2="31"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <line
+                x1="6"
+                y1="31"
+                x2="25"
+                y2="31"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <line
+                x1="17"
+                y1="21"
+                x2="17"
+                y2="44"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M21 17C21 19.2091 19.2091 21 17 21C14.7909 21 13 19.2091 13 17C13 14.7909 14.7909 13 17 13C19.2091 13 21 14.7909 21 17Z"
-                fill={props.colors[1]}
+                d="M31 4L31 27"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M31 35L31 44"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M17 4L17 13"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M35 31C35 33.2091 33.2091 35 31 35C28.7909 35 27 33.2091 27 31C27 28.7909 28.7909 27 31 27C33.2091 27 35 28.7909 35 31Z"
+                fill="#09C8E2"
             />
             <path
                 d="M35 31C35 33.2091 33.2091 35 31 35C28.7909 35 27 33.2091 27 31C27 28.7909 28.7909 27 31 27C33.2091 27 35 28.7909 35 31Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M17 4H4V17M17 4V13M17 4H31M17 13C14.7909 13 13 14.7909 13 17M17 13C19.2091 13 21 14.7909 21 17M4 17H13M4 17V31M13 17C13 19.2091 14.7909 21 17 21M17 21V44M17 21C19.2091 21 21 19.2091 21 17M17 44H4V31M17 44H31M31 27V4M31 27C28.7909 27 27 28.7909 27 31M31 27C33.2091 27 35 28.7909 35 31M31 4H44V17M31 35V44M31 35C33.2091 35 35 33.2091 35 31M31 35C28.7909 35 27 33.2091 27 31M31 44H44V31M35 31H44M44 31V17M27 31H4M21 17H44"
+                d="M35 31C35 33.2091 33.2091 35 31 35C28.7909 35 27 33.2091 27 31C27 28.7909 28.7909 27 31 27C33.2091 27 35 28.7909 35 31Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M21 17C21 19.2091 19.2091 21 17 21C14.7909 21 13 19.2091 13 17C13 14.7909 14.7909 13 17 13C19.2091 13 21 14.7909 21 17Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M21 17C21 19.2091 19.2091 21 17 21C14.7909 21 13 19.2091 13 17C13 14.7909 14.7909 13 17 13C19.2091 13 21 14.7909 21 17Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M21 17C21 19.2091 19.2091 21 17 21C14.7909 21 13 19.2091 13 17C13 14.7909 14.7909 13 17 13C19.2091 13 21 14.7909 21 17Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

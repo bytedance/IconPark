@@ -11,7 +11,9 @@ export default IconWrapper('multi-triangular-two', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M24 6L34 23.5L44 41H24H4L14 23.5L24 6Z" fill="' + props.colors[1] + '"/>'
-        + '<path d="M34 23.5L44 41H24M34 23.5L24 41M34 23.5L24 6L14 23.5M34 23.5H14M24 41H4L14 23.5M24 41L14 23.5" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M4 41H44L24 6L4 41Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M34 23.5L24 41L14 23.5H34Z" fill="#09C8E2"/>'
+        + '<path d="M34 23.5L24 41L14 23.5H34Z" fill="' + props.colors[1] + '"/>'
+        + '<path d="M34 23.5L24 41L14 23.5H34Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

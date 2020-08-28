@@ -19,13 +19,24 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clipPath={'url(#' + props.id + 'a8257ca4' + ')'}
+                clipPath={'url(#' + props.id + 'd11a8a2d' + ')'}
             >
                 <path
                     fillRule="evenodd"
                     clipRule="evenodd"
                     d="M24 4L15 19.9803H33L24 4Z"
+                    fill="#09C8E2"
+                />
+                <path
+                    fillRule="evenodd"
+                    clipRule="evenodd"
+                    d="M24 4L15 19.9803H33L24 4Z"
                     fill={props.colors[1]}
+                />
+                <path
+                    fillRule="evenodd"
+                    clipRule="evenodd"
+                    d="M24 4L15 19.9803H33L24 4Z"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinejoin={props.strokeLinejoin}
@@ -44,20 +55,20 @@ export default IconWrapper(
                     strokeLinejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M9.10028 30.9951H17.0046"
+                    d="M9.10059 30.9951H17.0049"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinecap={props.strokeLinecap}
                 />
                 <path
-                    d="M36.7477 25.9746L46.0943 42.0001H31"
+                    d="M36.7481 25.9746L46.0947 42.0001H31.0004"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinecap={props.strokeLinecap}
                     strokeLinejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M39.0943 30.9951H31.1003"
+                    d="M39.0947 30.9951H31.1007"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinecap={props.strokeLinecap}
@@ -65,7 +76,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'a8257ca4'}
+                    id={props.id + 'd11a8a2d'}
                 >
                     <rect
                         width="48"

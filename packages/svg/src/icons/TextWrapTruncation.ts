@@ -13,6 +13,6 @@ export default IconWrapper('text-wrap-truncation', (props: ISvgIconProps) => (
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M8 8V40" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
         + '<path d="M40 8V40" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
-        + '<path d="M20.052 24.0083H40" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
+        + '<path d="M20.0522 24.0083H40.0002" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
     + '</svg>'
 ));

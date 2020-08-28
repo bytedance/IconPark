@@ -15,45 +15,30 @@ export default IconWrapper(
         <svg
             width={props.size}
             height={props.size}
-            viewBox="0 0 48 48"
+            viewBox="0 0 48 49"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M6 9.25564L24.0086 4L42 9.25564V20.0337C42 31.3622 34.7502 41.4194 24.0026 45.0005C13.2521 41.4195 6 31.36 6 20.0287V9.25564Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
-            >
-                <g>
-                    <path
-                        d="M6,8.38382871 L24.008642,3 L42,8.38382871 L42,19.8406803 C42,31.2135249 34.7657703,41.326774 24.0026245,45.0005035 L24.0026245,45.0005035 C13.2365289,41.3268386 6,31.2113281 6,19.8357126 L6,8.38382871 Z"
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        fill={props.colors[1]}
-                        fillRule="nonzero"
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <g
-                        transform="translate(11.000000, 10.000000)"
-                        stroke={props.colors[2]}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                        strokeWidth={props.strokeWidth}
-                    >
-                        <g
-                            transform="translate(12.843146, 12.843146) rotate(-315.000000) translate(-12.843146, -12.843146) translate(4.343146, 4.343146)"
-                        >
-                            <path
-                                d="M3,3 L14.3137085,14.3137085"
-                                transform="translate(8.656854, 8.656854) rotate(45.000000) translate(-8.656854, -8.656854) "
-                            />
-                            <path
-                                d="M14.3137085,3 L3,14.3137085"
-                                transform="translate(8.656854, 8.656854) rotate(-135.000000) translate(-8.656854, -8.656854) "
-                            />
-                        </g>
-                    </g>
-                </g>
-            </g>
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M29.5 18.4081L18.1863 29.7218"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18.1863 18.4081L29.5 29.7218"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

@@ -1,6 +1,12 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<rect x="4" y="30" width="40" height="12" rx="6" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="36" cy="14" r="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M4 14L13 5L22 14L13 23L4 14Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="4" y="30" width="40" height="12" rx="6" fill="#09C8E2"/>
+<rect x="4" y="30" width="40" height="12" rx="6" fill="#2F88FF"/>
+<rect x="4" y="30" width="40" height="12" rx="6" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="36" cy="14" r="8" fill="#09C8E2"/>
+<circle cx="36" cy="14" r="8" fill="#2F88FF"/>
+<circle cx="36" cy="14" r="8" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 14L13 5L22 14L13 23L4 14Z" fill="#09C8E2"/>
+<path d="M4 14L13 5L22 14L13 23L4 14Z" fill="#2F88FF"/>
+<path d="M4 14L13 5L22 14L13 23L4 14Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

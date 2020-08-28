@@ -1,15 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>align-horizontally</title>
-    <desc>Created with Sketch.</desc>
-    <g id="align-horizontally" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <g id="编组" transform="translate(7.000000, 6.000000)" stroke="#000000" stroke-linejoin="round" stroke-width="4">
-                <rect id="Rectangle" fill="#2F88FF" fill-rule="nonzero" x="0" y="11" width="34" height="14"></rect>
-                <path d="M17,0 L17,36" id="Path-24" stroke-linecap="round"></path>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<rect x="7" y="17" width="34" height="14" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M24 6V42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

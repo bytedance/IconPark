@@ -15,6 +15,8 @@ export default IconWrapper('direction-adjustment-two', (props: ISvgIconProps) =>
         + '<path d="M18 38L24 44M24 44L30 38M24 44V34" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M38 18L44 24M44 24L38 30M44 24H34" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M10 18L4 24M4 24L10 30M4 24H14" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<circle cx="24" cy="24" r="4" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<circle cx="24" cy="24" r="4" fill="#09C8E2"/>'
+        + '<circle cx="24" cy="24" r="4" fill="' + props.colors[1] + '"/>'
+        + '<circle cx="24" cy="24" r="4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

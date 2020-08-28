@@ -18,30 +18,22 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M12 38H5C4.44772 38 4 37.5287 4 36.9474V19.0526C4 18.4713 4.44772 18 5 18H12"
+                d="M44 38V18H36V31H12V18H4V38H44Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M44 38V18H36V31H12V18H4V38H44Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M44 38V18H36V31H12V18H4V38H44Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M36 18H43C43.5523 18 44 18.4713 44 19.0526V36.9474C44 37.5287 43.5523 38 43 38H36"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M36 38.0001H12M12 30.9971H36H12Z"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M12 38V8.46154C12 7.10207 13.0233 6 14.2857 6H33.7143C34.9767 6 36 7.10207 36 8.46154V38H12Z"
+                d="M36 6H12L12 31H36L36 6Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

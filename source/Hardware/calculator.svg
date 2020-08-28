@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>calculator</title>
-    <desc>Created with Sketch.</desc>
-    <g id="calculator" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <rect id="矩形" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" x="6" y="4" width="36" height="40" rx="2"></rect>
-            <rect id="矩形" stroke="#FFFFFF" stroke-width="4" fill="#43CCF8" fill-rule="nonzero" stroke-linejoin="round" x="12" y="10" width="24" height="9"></rect>
-            <g id="Group-3" transform="translate(11.000000, 27.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-                <path d="M-0.449747468,4.5 L9.44974747,4.5" id="Path-36-Copy-6" transform="translate(4.500000, 4.500000) rotate(45.000000) translate(-4.500000, -4.500000) "></path>
-                <path d="M-0.449747468,4.5 L9.44974747,4.5" id="Path-36-Copy-6" transform="translate(4.500000, 4.500000) scale(-1, 1) rotate(45.000000) translate(-4.500000, -4.500000) "></path>
-            </g>
-            <path d="M28,35 L36,35" id="Path-36-Copy-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M28,29 L36,29" id="Path-36-Copy-2备份" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>
+<path d="M40.0005 4H8.00069C6.89614 4 6.00071 4.89541 6.00069 5.99996L6.00004 42C6.00002 43.1045 6.89546 44 8.00004 44H40.0005C41.1051 44 42.0005 43.1046 42.0005 42V6C42.0005 4.89543 41.1051 4 40.0005 4Z" fill="#09C8E2"/>
+<path d="M40.0005 4H8.00069C6.89614 4 6.00071 4.89541 6.00069 5.99996L6.00004 42C6.00002 43.1045 6.89546 44 8.00004 44H40.0005C41.1051 44 42.0005 43.1046 42.0005 42V6C42.0005 4.89543 41.1051 4 40.0005 4Z" fill="#2F88FF"/>
+<path d="M40.0005 4H8.00069C6.89614 4 6.00071 4.89541 6.00069 5.99996L6.00004 42C6.00002 43.1045 6.89546 44 8.00004 44H40.0005C41.1051 44 42.0005 43.1046 42.0005 42V6C42.0005 4.89543 41.1051 4 40.0005 4Z" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M35 10H13V19H35V10Z" fill="#43CCF8" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+<path d="M12 28L19 35" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 28L12 35" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 35H36" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 29H36" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

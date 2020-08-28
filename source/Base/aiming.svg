@@ -1,17 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>aiming</title>
-    <desc>Created with Sketch.</desc>
-    <g id="aiming" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="编组-2" transform="translate(4.000000, 4.000000)" stroke="#000000" stroke-width="4">
-            <g id="编组">
-                <circle id="Oval" cx="20" cy="20" r="20"></circle>
-                <path d="M20,7 L20,1" id="Path-392"></path>
-                <path d="M20,33 L20,39" id="Path-393"></path>
-                <path d="M1,20 L7,20" id="Path-394"></path>
-                <path d="M32,20 L38,20" id="Path-395"></path>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<circle cx="24" cy="24" r="20" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 37V44V37Z" fill="#09C8E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 37V44V37Z" fill="#2F88FF"/>
+<path d="M24 37V44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36 24H44H36Z" fill="#09C8E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36 24H44H36Z" fill="#2F88FF"/>
+<path d="M36 24H44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 24H11H4Z" fill="#09C8E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 24H11H4Z" fill="#2F88FF"/>
+<path d="M4 24H11" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 11V4V11Z" fill="#09C8E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 11V4V11Z" fill="#2F88FF"/>
+<path d="M24 11V4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

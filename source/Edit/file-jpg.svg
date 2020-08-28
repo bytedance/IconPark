@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>file-jpg</title>
-    <desc>Created with Sketch.</desc>
-    <g id="file-jpg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="base/notes">
-            <g id="编组-2">
-                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="48" height="48"></rect>
-                <g id="编组" transform="translate(8.000000, 4.000000)" stroke-width="4">
-                    <path d="M2,0 L22,0 L32,10 L32,38 C32,39.1045695 31.1045695,40 30,40 L2,40 C0.8954305,40 -5.67081481e-14,39.1045695 -5.68434189e-14,38 L-5.68434189e-14,2 C-5.69786896e-14,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle-Copy" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
-                    <path d="M23,14 L13,14" id="路径-21" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
-                    <path d="M18,14 L18,26" id="路径-24" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round"></path>
-                    <path d="M10,26 C10,28.209139 11.790861,30 14,30 C16.209139,30 18,28.209139 18,26" id="路径" stroke="#FFFFFF" stroke-linecap="round"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>
+<path d="M10 4H30L40 14V42C40 43.1046 39.1046 44 38 44H10C8.89543 44 8 43.1046 8 42V6C8 4.89543 8.89543 4 10 4Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M31 18H21" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26 18V30" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18 30C18 32.2091 19.7909 34 22 34C24.2091 34 26 32.2091 26 30" stroke="white" stroke-width="4" stroke-linecap="round"/>
 </svg>

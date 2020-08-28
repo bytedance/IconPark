@@ -16,42 +16,28 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M15 33L19.5 19.5L33 15L28.5 28.5L15 33Z"
+                fill={props.colors[3]}
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
                 fillRule="evenodd"
-            >
-                <g
-                    transform="translate(4.000000, 4.000000)"
-                >
-                    <circle
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        fill={props.colors[1]}
-                        fillRule="nonzero"
-                        strokeLinejoin={props.strokeLinejoin}
-                        cx="20"
-                        cy="20"
-                        r="20"
-                    />
-                    <polygon
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        fill={props.colors[3]}
-                        fillRule="nonzero"
-                        strokeLinejoin={props.strokeLinejoin}
-                        points="11 29 15.5 15.5 29 11 24.5 24.5"
-                    />
-                    <circle
-                        fill={props.colors[2]}
-                        cx="20"
-                        cy="20"
-                        r="2"
-                    />
-                </g>
-            </g>
+                clipRule="evenodd"
+                d="M24 26C25.1046 26 26 25.1046 26 24C26 22.8954 25.1046 22 24 22C22.8954 22 22 22.8954 22 24C22 25.1046 22.8954 26 24 26Z"
+                fill={props.colors[2]}
+            />
         </svg>
     )
 );

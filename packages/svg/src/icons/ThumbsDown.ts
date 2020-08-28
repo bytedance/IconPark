@@ -9,13 +9,10 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('thumbs-down', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<path d="M20.3796043,29.4 L20.3796043,36.6 C20.3796043,39.5823376 22.7972666,42 25.7796043,42 L32.9796043,25.8 L32.9796043,5.99976661 L12.0636043,5.99976661 C10.2684881,5.97970615 8.7327742,7.285063 8.46360428,9.06 L5.97960428,25.26 C5.82110344,26.3042604 6.12918937,27.3654442 6.82225896,28.1624742 C7.51532856,28.9595042 8.52345122,29.4119604 9.57960428,29.4 L20.3796043,29.4 Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-                + '<path d="M32.9796043,6 L37.7856043,6 C39.8942856,5.96270749 41.6969066,7.51002165 41.9796043,9.6 L41.9796043,22.2 C41.6969066,24.2899783 39.8942856,26.0372925 37.7856043,26 L32.9796043,26 L32.9796043,6 Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M20.3795 29.4V36.6C20.3795 39.5823 22.7972 42 25.7795 42L32.9795 25.8V6H12.0635C10.2684 5.97971 8.73268 7.28507 8.46351 9.06L5.97951 25.26C5.82101 26.3043 6.1291 27.3654 6.82217 28.1625C7.51524 28.9595 8.52336 29.412 9.57951 29.4H20.3795Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M32.9795 6H37.7855C39.8942 5.96271 41.6968 7.51003 41.9795 9.6V22.2C41.6968 24.29 39.8942 26.0373 37.7855 26H32.9795V6Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

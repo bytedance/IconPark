@@ -17,27 +17,23 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g>
-                <g>
-                    <rect
-                        x="4"
-                        y="9"
-                        width="40"
-                        height="30"
-                        fill={props.colors[1]}
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M4 9L24 24L44 9"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                </g>
-            </g>
+            <rect
+                x="4"
+                y="9"
+                width="40"
+                height="30"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 9L24 24L44 9"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

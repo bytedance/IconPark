@@ -18,11 +18,57 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M4.68148 18.8237C7.54032 8.15438 18.5071 1.82273 29.1764 4.68156C39.8457 7.5404 46.1774 18.5071 43.3185 29.1765L31.7274 26.0706L24 24.0001L16.2726 21.9295L4.68148 18.8237Z"
+                d="M14.3408 21.4118L24 24L33.6593 26.5882L43.3186 29.1763C45.6566 20.4505 41.8475 11.5257 34.5458 7C32.9195 5.99199 31.1199 5.2022 29.1764 4.68144C26.9382 4.08171 24.6868 3.88643 22.5 4.05083C14.2626 4.67006 6.94062 10.3925 4.68152 18.8236L14.3408 21.4118Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M14.3408 21.4118L24 24L33.6593 26.5882L43.3186 29.1763C45.6566 20.4505 41.8475 11.5257 34.5458 7C32.9195 5.99199 31.1199 5.2022 29.1764 4.68144C26.9382 4.08171 24.6868 3.88643 22.5 4.05083C14.2626 4.67006 6.94062 10.3925 4.68152 18.8236L14.3408 21.4118Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M29.1764 4.68156C18.5071 1.82273 7.54032 8.15438 4.68148 18.8237L16.2726 21.9295M29.1764 4.68156C39.8457 7.5404 46.1774 18.5071 43.3185 29.1765L31.7274 26.0706M29.1764 4.68156C29.1764 4.68156 32.229 10.6759 32.8667 16.0231C33.5045 21.3704 31.7274 26.0706 31.7274 26.0706M29.1764 4.68156C29.1764 4.68156 23.5356 8.34651 20.3097 12.6585C17.0837 16.9705 16.2726 21.9295 16.2726 21.9295M24 24.0001L18.5 44M24 24.0001L16.2726 21.9295M24 24.0001L31.7274 26.0706M4 44.0001H44"
+                d="M14.3408 21.4118L24 24L33.6593 26.5882L43.3186 29.1763C45.6566 20.4505 41.8475 11.5257 34.5458 7C32.9195 5.99199 31.1199 5.2022 29.1764 4.68144C26.9382 4.08171 24.6868 3.88643 22.5 4.05083C14.2626 4.67006 6.94062 10.3925 4.68152 18.8236L14.3408 21.4118Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M29.1764 4.6814C29.1764 4.6814 23.5356 8.34634 20.3097 12.6583C17.0837 16.9703 16.2726 21.9294 16.2726 21.9294"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M29.1764 4.6814C29.1764 4.6814 32.229 10.6757 32.8667 16.023C33.5045 21.3702 31.7274 26.0705 31.7274 26.0705"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4.68152 18.8236L14.3408 21.4118L24 24L33.6593 26.5882L43.3186 29.1764"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 44H44"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 24L18.5 43.9999"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M22.5 4.05083C24.6868 3.88643 26.9382 4.08171 29.1764 4.68144C31.1199 5.2022 32.9195 5.99199 34.5458 7"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

@@ -15,62 +15,50 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <defs>
+            <mask
+                id={props.id + '0b015b76'}
+                maskUnits="userSpaceOnUse"
+                x="0"
+                y="0"
+                width="48"
+                height="48" style={{maskType: 'alpha'}}
+            >
                 <rect
-                    id={props.id + '7a39e262'}
-                    x="0"
-                    y="0"
                     width="48"
                     height="48"
+                    fill={props.colors[2]}
                 />
-            </defs>
+            </mask>
             <g
-                stroke="none"
-                stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
+                mask={'url(#' + props.id + '0b015b76' + ')'}
             >
-                <g>
-                    <mask
-                        id={props.id + '964c4194'}
-                        fill={props.colors[2]}
-                    >
-                        <use
-                            xlinkHref={'#' + props.id + '7a39e262'}
-                        />
-                    </mask>
-                    <g
-                        mask={'url(#' + props.id + '964c4194' + ')'}
-                        stroke={props.colors[0]}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <g
-                            transform="translate(24.000000, 24.000000) rotate(90.000000) translate(-24.000000, -24.000000) translate(7.500000, 6.000000)"
-                        >
-                            <rect
-                                fill={props.colors[1]}
-                                fill-rule="nonzero"
-                                transform="translate(16.500000, 18.000000) rotate(90.000000) translate(-16.500000, -18.000000) "
-                                x="2.5"
-                                y="12"
-                                width="28"
-                                height="12"
-                            />
-                            <path
-                                d="M32.5,0 L32.5,36"
-                                fill="none"
-                                stroke-linecap={props.strokeLinecap}
-                            />
-                            <path
-                                d="M0.5,3.55271368e-15 L0.5,36"
-                                fill="none"
-                                stroke-linecap={props.strokeLinecap}
-                            />
-                        </g>
-                    </g>
-                </g>
+                <rect
+                    x="38"
+                    y="30"
+                    width="28"
+                    height="12"
+                    transform="rotate(180 38 30)"
+                    fill={props.colors[1]}
+                    stroke={props.colors[0]}
+                    stroke-width={props.strokeWidth}
+                    stroke-linejoin={props.strokeLinejoin}
+                />
+                <path
+                    d="M42 40H6"
+                    stroke={props.colors[0]}
+                    stroke-width={props.strokeWidth}
+                    stroke-linecap={props.strokeLinecap}
+                    stroke-linejoin={props.strokeLinejoin}
+                />
+                <path
+                    d="M42 8L6 8"
+                    stroke={props.colors[0]}
+                    stroke-width={props.strokeWidth}
+                    stroke-linecap={props.strokeLinecap}
+                    stroke-linejoin={props.strokeLinejoin}
+                />
             </g>
         </svg>
     )

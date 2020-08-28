@@ -11,7 +11,6 @@ export default IconWrapper('cube-five', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M24.0002 4L41.3207 14V34L24.0002 44L6.67969 34V14L24.0002 4Z" fill="' + props.colors[1] + '"/>'
         + '<path d="M24.0002 4L41.3207 14M24.0002 4L6.67969 14M24.0002 4V17M41.3207 14V34M41.3207 14L30 27M41.3207 14L24.0002 17M41.3207 34L24.0002 44M41.3207 34L30 27M24.0002 44L6.67969 34M24.0002 44L18 27M24.0002 44L30 27M6.67969 34V14M6.67969 34L18 27M6.67969 14L18 27M6.67969 14L24.0002 17M24.0002 17L18 27M24.0002 17L30 27M18 27H30" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

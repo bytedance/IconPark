@@ -1,11 +1,7 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Others/paragraph-cut">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<g id="paragraph-cut">
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 15" d="M6 4V44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 15&#229;&#164;&#135;&#228;&#187;&#189; 5" d="M42 4V44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 16" d="M14 15H34" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 16&#229;&#164;&#135;&#228;&#187;&#189; 6" d="M14 33H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-</g>
+<path d="M6 4V44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42 4V44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 15H34" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 33H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -11,6 +11,7 @@ export default IconWrapper('table-lamp', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M18 22L8 12L22 4L26 8L23.1429 13L18 22Z" fill="#09C8E2"/>'
         + '<path d="M18 22L8 12L22 4L26 8L23.1429 13L18 22Z" fill="' + props.colors[1] + '"/>'
         + '<path d="M14 42H18M39 42H31M31 42L40 28L23.1429 13M31 42H18M18 22L8 12L22 4L26 8M18 22L26 8M18 22L23.1429 13M26 8L23.1429 13M18 42V39" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'

@@ -28,7 +28,20 @@ export default IconWrapper(
                 y="18"
                 width="26"
                 height="26"
+                fill="#09C8E2"
+            />
+            <rect
+                x="18"
+                y="18"
+                width="26"
+                height="26"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="18"
+                y="18"
+                width="26"
+                height="26"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}

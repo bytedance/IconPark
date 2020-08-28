@@ -11,8 +11,10 @@ export default IconWrapper('pull-door', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M42 8V40H24.2V44L6 40V8L24.2 4V8H42Z" fill="' + props.colors[1] + '"/>'
-        + '<path d="M24.2 8V4L6 8V40L24.2 44V40M24.2 8H42V40H24.2M24.2 8V40" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M6 8V40L24.2 44V4L6 8Z" fill="#09C8E2"/>'
+        + '<path d="M6 8V40L24.2 44V4L6 8Z" fill="' + props.colors[1] + '"/>'
+        + '<path d="M6 8V40L24.2 44V4L6 8Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24.2 8H42V40H24.2" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M18 22V26" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

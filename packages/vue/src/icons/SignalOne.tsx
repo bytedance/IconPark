@@ -18,19 +18,38 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M9.85786 9.85791C6.23858 13.4772 4 18.4772 4 24C4 29.5229 6.23858 34.5229 9.85786 38.1422M38.1421 38.1422C41.7614 34.5229 44 29.5229 44 24C44 18.4772 41.7614 13.4772 38.1421 9.85791"
+                d="M38.1421 38.1421C41.7614 34.5228 44 29.5228 44 23.9999C44 18.4771 41.7614 13.4771 38.1421 9.85779"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
             />
             <path
-                d="M15.1005 14.1006C12.567 16.6341 11 20.1341 11 24.0001C11 27.8661 12.567 31.3661 15.1005 33.8996M32.8995 33.8996C35.433 31.3661 37 27.8661 37 24.0001C37 20.1341 35.433 16.6341 32.8995 14.1006"
+                d="M9.85786 9.85779C6.23858 13.4771 4 18.4771 4 23.9999C4 29.5228 6.23858 34.5228 9.85786 38.1421"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
             />
             <path
-                d="M24 4V14M24 44V34"
+                d="M15.1005 14.1005C12.567 16.634 11 20.134 11 24C11 27.866 12.567 31.366 15.1005 33.8995"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+            />
+            <path
+                d="M32.8995 33.8995C35.433 31.366 37 27.866 37 24C37 20.134 35.433 16.634 32.8995 14.1005"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+            />
+            <path
+                d="M24 43.9999V33.9999"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 3.99988V13.9999"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -38,7 +57,7 @@ export default IconWrapper(
             />
             <circle
                 cx="24"
-                cy="24"
+                cy="23.9999"
                 r="3"
                 fill={props.colors[0]}
             />

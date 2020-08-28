@@ -15,32 +15,29 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M5.81824 6.72729V14H13.091"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            >
-                <g
-                    transform="translate(4.000000, 4.000000)"
-                    stroke={props.colors[0]}
-                    stroke-width={props.strokeWidth}
-                >
-                    <polyline
-                        points="1.81818182 2.72727273 1.81818182 10 9.09090909 10"
-                    />
-                    <path
-                        d="M0,20 C0,31.045695 8.954305,40 20,40 L20,40 C31.045695,40 40,31.045695 40,20 C40,8.954305 31.045695,0 20,0 C12.5979802,0 6.1351416,4.021113 2.67677036,9.99805296"
-                    />
-                    <polyline
-                        transform="translate(24.244114, 18.244114) rotate(-45.000000) translate(-24.244114, -18.244114) "
-                        points="28.490311 8.00294628 19.9979167 16.4936177 19.9979167 28.4852814"
-                    />
-                </g>
-            </g>
+            />
+            <path
+                d="M4 24C4 35.0457 12.9543 44 24 44V44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C16.598 4 10.1351 8.02111 6.67677 13.9981"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24.005 12.0001L24.0038 24.0089L32.4832 32.4883"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

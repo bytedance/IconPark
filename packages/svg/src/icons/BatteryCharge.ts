@@ -9,13 +9,9 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('battery-charge', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(4.000000, 14.000000)">'
-                + '<path d="M27,0 L33.75,0 C34.9926407,0 36,0.994922778 36,2.22222222 L36,17.7777778 C36,19.0050772 34.9926407,20 33.75,20 L27,20 M9,20 L2.25,20 C1.00735931,20 0,19.0050772 0,17.7777778 L0,2.22222222 C0,0.994922778 1.00735931,0 2.25,0 L2.25,0 L9,0" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" fill="none" fill-rule="evenodd"/>'
-                + '<polyline stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" points="18.001986 0 13 10.0011902 23.003972 10.0011902 18 20" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M38,6 L40,6 C41.1045695,6 42,6.8954305 42,8 L42,12 C42,13.1045695 41.1045695,14 40,14 L38,14 L38,6 Z" fill="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M31 12C29.8954 12 29 12.8954 29 14C29 15.1046 29.8954 16 31 16V12ZM31 32C29.8954 32 29 32.8954 29 34C29 35.1046 29.8954 36 31 36V32ZM13 36C14.1046 36 15 35.1046 15 34C15 32.8954 14.1046 32 13 32V36ZM13 16C14.1046 16 15 15.1046 15 14C15 12.8954 14.1046 12 13 12V16ZM31 16H37.75V12H31V16ZM37.75 16C37.9116 16 38 16.1228 38 16.2222H42C42 13.867 40.0737 12 37.75 12V16ZM38 16.2222V31.7778H42V16.2222H38ZM38 31.7778C38 31.8772 37.9116 32 37.75 32V36C40.0737 36 42 34.133 42 31.7778H38ZM37.75 32H31V36H37.75V32ZM13 32H6.25V36H13V32ZM6.25 32C6.08843 32 6 31.8772 6 31.7778H2C2 34.133 3.92629 36 6.25 36V32ZM6 31.7778V16.2222H2V31.7778H6ZM6 16.2222C6 16.1228 6.08843 16 6.25 16V12C3.92629 12 2 13.867 2 16.2222H6ZM6.25 16H13V12H6.25V16Z" fill="' + props.colors[0] + '"/>'
+        + '<path d="M22.002 14L17 24.0012H27.004L22 34" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M42 20H44C45.1046 20 46 20.8954 46 22V26C46 27.1046 45.1046 28 44 28H42V20Z" fill="' + props.colors[0] + '"/>'
     + '</svg>'
 ));

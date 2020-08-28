@@ -26,11 +26,133 @@ export default IconWrapper(
                 stroke-dasharray="6 8"
             />
             <path
-                d="M32 24C32 26.2091 31.1046 28.2091 29.6569 29.6569C28.2091 31.1046 26.2091 32 24 32C21.7909 32 19.7909 31.1046 18.3431 29.6569C16.8954 28.2091 16 26.2091 16 24C16 21.7909 16.8954 19.7909 18.3431 18.3431C19.7909 16.8954 21.7909 16 24 16C26.2091 16 28.2091 16.8954 29.6569 18.3431C31.1046 19.7909 32 21.7909 32 24Z"
-                fill={props.colors[1]}
+                d="M7.63489 35.5C8.338 36.4987 9.13023 37.4302 10 38.2829C10.9181 39.1829 11.9227 39.9951 13 40.706"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M32 24H44M32 24C32 26.2091 31.1046 28.2091 29.6569 29.6569M32 24C32 21.7909 31.1046 19.7909 29.6569 18.3431M24 32V44M24 32C26.2091 32 28.2091 31.1046 29.6569 29.6569M24 32C21.7909 32 19.7909 31.1046 18.3431 29.6569M16 24H4M16 24C16 21.7909 16.8954 19.7909 18.3431 18.3431M16 24C16 26.2091 16.8954 28.2091 18.3431 29.6569M24 16V4M24 16C21.7909 16 19.7909 16.8954 18.3431 18.3431M24 16C26.2091 16 28.2091 16.8954 29.6569 18.3431M38 10L29.6569 18.3431M10 38L18.3431 29.6569M10 10L18.3431 18.3431M38 38L29.6569 29.6569"
+                d="M27.8684 43.6262C26.6168 43.8714 25.3234 44 24 44C22.6765 44 21.3831 43.8714 20.1315 43.6262"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M43.5491 28.2428C43.8445 26.8754 44 25.4559 44 24C44 22.5745 43.8509 21.1838 43.5674 19.8427"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M40.3651 12.5C39.662 11.5013 38.8698 10.5698 38 9.71714C37.0819 8.81709 36.0773 8.00486 35 7.29405"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M20.1552 4.36923C21.3994 4.12694 22.6849 4 24 4C25.3152 4 26.6006 4.12694 27.8449 4.36923"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M7.63489 12.5C8.338 11.5013 9.13023 10.5698 10 9.71714C10.9181 8.81709 11.9227 8.00486 13 7.29405"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M40.5 35.294C39.7969 36.2928 39.0047 37.2243 38.1349 38.0769C37.2168 38.977 36.2122 39.7892 35.1349 40.5"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M16 24H4"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M10 38L18.3431 29.6569"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 32V44"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M38 38L29.6569 29.6569"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M32 24H44"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M38 10L29.6569 18.3431"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 16V4"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M10 10L18.3431 18.3431"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4.43266 19.8427C4.14914 21.1838 4 22.5745 4 24C4 25.4255 4.14914 26.8162 4.43266 28.1573"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <circle
+                cx="24"
+                cy="24"
+                r="8"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="24"
+                cy="24"
+                r="8"
+                fill={props.colors[1]}
+            />
+            <circle
+                cx="24"
+                cy="24"
+                r="8"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

@@ -1,15 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>monitor-camera</title>
-    <desc>Created with Sketch.</desc>
-    <g id="monitor-camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <circle id="椭圆形" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" cx="24" cy="19" r="15"></circle>
-            <circle id="椭圆形" stroke="#FFFFFF" stroke-width="4" fill="#43CCF8" fill-rule="nonzero" stroke-linejoin="round" cx="24" cy="19" r="6"></circle>
-            <polygon id="路径-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="19.3686269 34 16 44 32 44 28.6036683 34"></polygon>
-            <path d="M12,44 L36,44" id="路径-6" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>
+<path d="M24 34C32.2843 34 39 27.2843 39 19C39 10.7157 32.2843 4 24 4C15.7157 4 9 10.7157 9 19C9 27.2843 15.7157 34 24 34Z" fill="#09C8E2"/>
+<path d="M24 34C32.2843 34 39 27.2843 39 19C39 10.7157 32.2843 4 24 4C15.7157 4 9 10.7157 9 19C9 27.2843 15.7157 34 24 34Z" fill="#2F88FF"/>
+<path d="M24 34C32.2843 34 39 27.2843 39 19C39 10.7157 32.2843 4 24 4C15.7157 4 9 10.7157 9 19C9 27.2843 15.7157 34 24 34Z" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M24 25C27.3137 25 30 22.3137 30 19C30 15.6863 27.3137 13 24 13C20.6863 13 18 15.6863 18 19C18 22.3137 20.6863 25 24 25Z" fill="#43CCF8" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.3686 34L16 44H32L28.6037 34H19.3686Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 44H36" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

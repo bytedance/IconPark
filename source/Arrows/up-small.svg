@@ -1,13 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>up-small</title>
-    <desc>Created with Sketch.</desc>
-    <g id="up-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-        <g id="Group-3" transform="translate(24.000000, 24.000000) rotate(-90.000000) translate(-24.000000, -24.000000) translate(12.000000, 12.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-            <path d="M23.8994949,12.0083363 L3.55271368e-15,12.0083363" id="Line-3"></path>
-            <polyline id="Path-8" points="12 0 24 12 12 24"></polyline>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M24.0083 12.1005V36" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M12 24L24 12L36 24" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

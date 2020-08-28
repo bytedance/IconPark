@@ -1,11 +1,7 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Others/pinwheel">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<g id="pinwheel">
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 20" d="M21 4V21H11L21 4Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 20&#229;&#164;&#135;&#228;&#187;&#189;" d="M27 44V27H37L27 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 20&#229;&#164;&#135;&#228;&#187;&#189; 2" d="M27 11L44 21H27L27 11Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<path id="&#232;&#183;&#175;&#229;&#190;&#132; 20&#229;&#164;&#135;&#228;&#187;&#189; 3" d="M21 37L4 27H21L21 37Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-</g>
-</g>
+<path d="M21 4V21H11L21 4Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M27 44V27H37L27 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M27 11L44 21H27L27 11Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M21 37L4 27H21L21 37Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 </svg>

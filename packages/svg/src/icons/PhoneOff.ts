@@ -10,9 +10,9 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('phone-off', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M19.4438 21.5C19.017 20.4325 18.8747 19.7006 18.8747 19.7006L21.2315 14.9869C21.5266 14.3966 21.5116 13.6988 21.1913 13.1218L18.7448 8.71493C18.3922 8.07969 17.7228 7.68566 16.9962 7.68566L11.9236 7.68566C9.33993 7.68566 7.47453 10.0879 8.30063 12.5359C9.5121 16.1259 11.5052 21.1306 14.3465 25.5M26.6772 28.9115C27.9041 29.4332 28.7742 29.6001 28.7742 29.6001L33.4871 27.2436C34.0778 26.9483 34.7762 26.9636 35.3534 27.2845L39.7727 29.7415C40.4073 30.0943 40.8009 30.7634 40.8009 31.4895L40.8009 36.563C40.8009 39.1466 38.3973 41.0116 35.9493 40.1855C32.2021 38.9208 26.9142 36.8048 22.4161 33.7617" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M19.4438 21.5002C19.017 20.4327 18.8747 19.7008 18.8747 19.7008L21.2315 14.9872C21.5266 14.3969 21.5116 13.699 21.1913 13.122L18.7448 8.71517C18.3922 8.07993 17.7228 7.68591 16.9962 7.68591L11.9236 7.68591C9.33993 7.68591 7.47453 10.0881 8.30063 12.5361C9.5121 16.1261 11.5052 21.1308 14.3465 25.5002M26.6772 28.9118C27.9041 29.4335 28.7742 29.6003 28.7742 29.6003L33.4871 27.2439C34.0778 26.9485 34.7762 26.9638 35.3534 27.2847L39.7727 29.7417C40.4073 30.0945 40.8009 30.7636 40.8009 31.4897L40.8009 36.5632C40.8009 39.1469 38.3973 41.0118 35.9493 40.1857C32.2021 38.9211 26.9142 36.8051 22.4161 33.7619" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M40 8L8 40" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

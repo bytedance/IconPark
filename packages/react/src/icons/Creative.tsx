@@ -18,32 +18,34 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g>
-                <g/>
-                <g>
-                    <path
-                        d="M10.5 6H37.5C39.9853 6 42 8.01472 42 10.5V37.5C42 39.9853 39.9853 42 37.5 42H10.5C8.01472 42 6 39.9853 6 37.5V10.5C6 8.01472 8.01472 6 10.5 6Z"
-                        fill={props.colors[1]}
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M23.9993 18.3157L21.1037 24.2261L14.5263 25.1799L19.291 29.8381L18.1521 36.3157L23.9993 33.1985L29.8478 36.3157L28.7172 29.8381L33.4737 25.1799L26.9327 24.2261L23.9993 18.3157Z"
-                        fill={props.colors[3]}
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M18.3158 12.6316H29.6842"
-                        stroke={props.colors[2]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                </g>
-            </g>
+            <path
+                d="M42 39V9.00003C42 7.34317 40.6569 6.00003 39 6.00003L9.00001 6C7.34315 6 6 7.34315 6.00001 9.00001L6.00007 39C6.00007 40.6569 7.34321 42 9.00006 42H39C40.6569 42 42 40.6569 42 39Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M42 39V9.00003C42 7.34317 40.6569 6.00003 39 6.00003L9.00001 6C7.34315 6 6 7.34315 6.00001 9.00001L6.00007 39C6.00007 40.6569 7.34321 42 9.00006 42H39C40.6569 42 42 40.6569 42 39Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M42 39V9.00003C42 7.34317 40.6569 6.00003 39 6.00003L9.00001 6C7.34315 6 6 7.34315 6.00001 9.00001L6.00007 39C6.00007 40.6569 7.34321 42 9.00006 42H39C40.6569 42 42 40.6569 42 39Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M23.9994 18.3158L21.1038 24.2263L14.5264 25.18L19.2911 29.8382L18.1521 36.3158L23.9994 33.1986L29.8479 36.3158L28.7173 29.8382L33.4737 25.18L26.9328 24.2263L23.9994 18.3158Z"
+                fill={props.colors[3]}
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18.3158 12.6316H29.6842"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

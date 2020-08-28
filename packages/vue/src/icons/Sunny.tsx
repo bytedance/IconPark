@@ -15,62 +15,45 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M30.7826 24.5652C34.5285 24.5652 37.5652 21.5285 37.5652 17.7826C37.5652 14.0367 34.5285 11 30.7826 11C27.4338 11 24.6518 13.427 24.0996 16.618"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-            >
-                <g>
-                    <g>
-                        <path
-                            d="M30.7826087,24.5652174 C34.52854,24.5652174 37.5652174,21.52854 37.5652174,17.7826087 C37.5652174,14.0366773 34.52854,11 30.7826087,11 C27.4337824,11 24.6518051,13.4269692 24.0996063,16.6179783"
-                            stroke={props.colors[0]}
-                            stroke-width={props.strokeWidth}
-                            stroke-linecap={props.strokeLinecap}
-                            stroke-linejoin={props.strokeLinejoin}
-                        />
-                        <circle
-                            fill={props.colors[0]}
-                            cx="33"
-                            cy="5"
-                            r="2"
-                        />
-                        <circle
-                            fill={props.colors[0]}
-                            cx="42"
-                            cy="10"
-                            r="2"
-                        />
-                        <circle
-                            fill={props.colors[0]}
-                            cx="44"
-                            cy="19"
-                            r="2"
-                        />
-                        <circle
-                            fill={props.colors[0]}
-                            cx="22"
-                            cy="8"
-                            r="2"
-                        />
-                    </g>
-                    <path
-                        d="M9.45454545,39.9942349 C6.14241809,37.4610159 4,33.4278269 4,28.8851211 C4,21.2165805 10.105208,15 17.6363636,15 C23.9334485,15 29.2336153,19.3461769 30.8015264,25.2532944 C32.0352574,24.6159461 33.430978,24.2567474 34.9090909,24.2567474 C39.9298614,24.2567474 44,28.4011344 44,33.5134948 C44,37.3093519 41.7561905,40.571579 38.5454545,42"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M22.2426407,24.7573593 C21.1568542,23.6715729 19.6568542,23 18,23 C14.6862915,23 12,25.6862915 12,29 C12,30.6568542 12.6715729,32.1568542 13.7573593,33.2426407"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                    />
-                </g>
-            </g>
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M33 7C34.1046 7 35 6.10457 35 5C35 3.89543 34.1046 3 33 3C31.8954 3 31 3.89543 31 5C31 6.10457 31.8954 7 33 7Z"
+                fill={props.colors[0]}
+            />
+            <path
+                d="M42 12C43.1046 12 44 11.1046 44 10C44 8.89543 43.1046 8 42 8C40.8954 8 40 8.89543 40 10C40 11.1046 40.8954 12 42 12Z"
+                fill={props.colors[0]}
+            />
+            <path
+                d="M44 21C45.1046 21 46 20.1046 46 19C46 17.8954 45.1046 17 44 17C42.8954 17 42 17.8954 42 19C42 20.1046 42.8954 21 44 21Z"
+                fill={props.colors[0]}
+            />
+            <path
+                d="M22 10C23.1046 10 24 9.10457 24 8C24 6.89543 23.1046 6 22 6C20.8954 6 20 6.89543 20 8C20 9.10457 20.8954 10 22 10Z"
+                fill={props.colors[0]}
+            />
+            <path
+                d="M9.45455 39.9942C6.14242 37.461 4 33.4278 4 28.8851C4 21.2166 10.1052 15 17.6364 15C23.9334 15 29.2336 19.3462 30.8015 25.2533C32.0353 24.6159 33.431 24.2567 34.9091 24.2567C39.9299 24.2567 44 28.4011 44 33.5135C44 37.3094 41.7562 40.5716 38.5455 42"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M22.2426 24.7574C21.1569 23.6716 19.6569 23 18 23C14.6863 23 12 25.6863 12 29C12 30.6569 12.6716 32.1569 13.7574 33.2426"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

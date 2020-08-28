@@ -19,25 +19,46 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clipPath={'url(#' + props.id + 'd533fd27' + ')'}
+                clipPath={'url(#' + props.id + '9e92a4df' + ')'}
             >
                 <path
                     d="M13 12C13 14.2091 14.7909 16 17 16C19.2091 16 21 14.2091 21 12C21 9.79086 19.2091 8 17 8C14.7909 8 13 9.79086 13 12Z"
+                    fill="#09C8E2"
+                />
+                <path
+                    d="M13 12C13 14.2091 14.7909 16 17 16C19.2091 16 21 14.2091 21 12C21 9.79086 19.2091 8 17 8C14.7909 8 13 9.79086 13 12Z"
                     fill={props.colors[1]}
+                />
+                <path
+                    d="M13 12C13 14.2091 14.7909 16 17 16C19.2091 16 21 14.2091 21 12C21 9.79086 19.2091 8 17 8C14.7909 8 13 9.79086 13 12Z"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinejoin={props.strokeLinejoin}
                 />
                 <path
                     d="M31 24C31 26.2091 32.7909 28 35 28C37.2091 28 39 26.2091 39 24C39 21.7909 37.2091 20 35 20C32.7909 20 31 21.7909 31 24Z"
+                    fill="#09C8E2"
+                />
+                <path
+                    d="M31 24C31 26.2091 32.7909 28 35 28C37.2091 28 39 26.2091 39 24C39 21.7909 37.2091 20 35 20C32.7909 20 31 21.7909 31 24Z"
                     fill={props.colors[1]}
+                />
+                <path
+                    d="M31 24C31 26.2091 32.7909 28 35 28C37.2091 28 39 26.2091 39 24C39 21.7909 37.2091 20 35 20C32.7909 20 31 21.7909 31 24Z"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinejoin={props.strokeLinejoin}
                 />
                 <path
                     d="M13 36C13 38.2091 14.7909 40 17 40C19.2091 40 21 38.2091 21 36C21 33.7909 19.2091 32 17 32C14.7909 32 13 33.7909 13 36Z"
+                    fill="#09C8E2"
+                />
+                <path
+                    d="M13 36C13 38.2091 14.7909 40 17 40C19.2091 40 21 38.2091 21 36C21 33.7909 19.2091 32 17 32C14.7909 32 13 33.7909 13 36Z"
                     fill={props.colors[1]}
+                />
+                <path
+                    d="M13 36C13 38.2091 14.7909 40 17 40C19.2091 40 21 38.2091 21 36C21 33.7909 19.2091 32 17 32C14.7909 32 13 33.7909 13 36Z"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinejoin={props.strokeLinejoin}
@@ -88,7 +109,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'd533fd27'}
+                    id={props.id + '9e92a4df'}
                 >
                     <rect
                         width="48"

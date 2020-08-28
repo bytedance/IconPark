@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M24 44C35.0457 44 44 41.3137 44 38L44.0001 11H4L4.00003 38C4.00003 41.3137 12.9543 44 24 44Z"
+                d="M44.0001 11C44.0001 11 44 36.0623 44 38C44 41.3137 35.0457 44 24 44C12.9543 44 4.00003 41.3137 4.00003 38C4.00003 36.1423 4 11 4 11"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -43,7 +43,20 @@ export default IconWrapper(
                 cy="10"
                 rx="20"
                 ry="6"
+                fill="#09C8E2"
+            />
+            <ellipse
+                cx="24"
+                cy="10"
+                rx="20"
+                ry="6"
                 fill={props.colors[1]}
+            />
+            <ellipse
+                cx="24"
+                cy="10"
+                rx="20"
+                ry="6"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

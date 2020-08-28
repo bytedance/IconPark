@@ -19,7 +19,7 @@ export default IconWrapper(
         >
             <defs>
                 <rect
-                    id={props.id + '1d5335d6'}
+                    id={props.id + '53e28f1c'}
                     x="0"
                     y="0"
                     width="48"
@@ -35,20 +35,20 @@ export default IconWrapper(
             >
                 <g>
                     <mask
-                        id={props.id + '26509c1f'}
+                        id={props.id + '959e134e'}
                         fill={props.colors[2]}
                     >
                         <use
-                            xlinkHref={'#' + props.id + '1d5335d6'}
+                            xlinkHref={'#' + props.id + '53e28f1c'}
                         />
                     </mask>
                     <use
                         fill={props.colors[2]}
                         opacity="0.01"
-                        xlinkHref={'#' + props.id + '1d5335d6'}
+                        xlinkHref={'#' + props.id + '53e28f1c'}
                     />
                     <g
-                        mask={'url(#' + props.id + '26509c1f' + ')'}
+                        mask={'url(#' + props.id + '959e134e' + ')'}
                         stroke={props.colors[0]}
                         strokeLinecap={props.strokeLinecap}
                         strokeLinejoin={props.strokeLinejoin}

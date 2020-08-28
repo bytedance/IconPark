@@ -17,20 +17,26 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g>
-                <g>
-                    <path
-                        d="M4 9C4 7.89543 4.89543 7 6 7H19L24 13H42C43.1046 13 44 13.8954 44 15V22V39C44 40.1046 43.1046 41 42 41H6C4.89543 41 4 40.1046 4 39V22V9Z"
-                        fill={props.colors[1]}
-                    />
-                    <path
-                        d="M44 22V15C44 13.8954 43.1046 13 42 13H24L19 7H6C4.89543 7 4 7.89543 4 9V22M44 22V39C44 40.1046 43.1046 41 42 41H6C4.89543 41 4 40.1046 4 39V22M44 22H4"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                </g>
-            </g>
+            <path
+                d="M19 7H6C4.89543 7 4 7.89543 4 9V39C4 40.1046 4.89543 41 6 41H42C43.1046 41 44 40.1046 44 39V15C44 13.8954 43.1046 13 42 13H24L19 7Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M19 7H6C4.89543 7 4 7.89543 4 9V39C4 40.1046 4.89543 41 6 41H42C43.1046 41 44 40.1046 44 39V15C44 13.8954 43.1046 13 42 13H24L19 7Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M19 7H6C4.89543 7 4 7.89543 4 9V39C4 40.1046 4.89543 41 6 41H42C43.1046 41 44 40.1046 44 39V15C44 13.8954 43.1046 13 42 13H24L19 7Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44 22H4"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );
