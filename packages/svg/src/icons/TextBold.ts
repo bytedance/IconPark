@@ -9,12 +9,8 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('text-bold', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(10.000000, 4.000000)">'
-                + '<path d="M15.40625,20 C20.9118386,20 25.375,15.5228475 25.375,10 C25.375,4.4771525 20.9118386,0 15.40625,0 L0,0 L0,20 L15.40625,20 Z" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M19.03125,40 C24.5368386,40 29,35.5228475 29,30 C29,24.4771525 24.5368386,20 19.03125,20 L0,20 L0,40 L19.03125,40 Z" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M25.4062 24C30.9118 24 35.375 19.5228 35.375 14C35.375 8.47715 30.9118 4 25.4062 4H10V24H25.4062Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M29.0312 44C34.5368 44 39 39.5228 39 34C39 28.4772 34.5368 24 29.0312 24H10V44H29.0312Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

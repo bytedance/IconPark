@@ -19,22 +19,59 @@ export default IconWrapper(
         >
             <path
                 d="M6 12H18V24H6V12Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M6 12H18V24H6V12Z"
                 fill={props.colors[1]}
+            />
+            <path
+                d="M6 12H18V24H6V12Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18 12H30V24H18V12Z"
+                fill="#09C8E2"
             />
             <path
                 d="M18 12H30V24H18V12Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M18 24H30V36H18V24Z"
-                fill={props.colors[1]}
+                d="M18 12H30V24H18V12Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M30 12H42V24H30V12Z"
+                fill="#09C8E2"
             />
             <path
                 d="M30 12H42V24H30V12Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M18 12H6V24H18M18 12V24M18 12H30M18 24H30M18 24V36H30V24M30 12V24M30 12H42V24H30"
+                d="M30 12H42V24H30V12Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18 24H30V36H18V24Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M18 24H30V36H18V24Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M18 24H30V36H18V24Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

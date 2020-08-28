@@ -19,23 +19,75 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M12 6H24V18H12V6Z"
-                fill={props.colors[1]}
+                d="M24 6H36V18H24V6Z"
+                fill="#09C8E2"
             />
             <path
                 d="M24 6H36V18H24V6Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M12 18H24V30H12V18Z"
+                d="M24 6H36V18H24V6Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 6H36V18H24V6Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M24 6H36V18H24V6Z"
                 fill={props.colors[1]}
+            />
+            <path
+                d="M24 6H36V18H24V6Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M12 6H24V18H12V6Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M12 6H24V18H12V6Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M12 6H24V18H12V6Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M12 30H24V42H12V30Z"
+                fill="#09C8E2"
             />
             <path
                 d="M12 30H24V42H12V30Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M24 6H12V18M24 6V18M24 6H36V18H24M24 18H12M24 18V30M12 18V30M24 30H12M24 30V42H12V30"
+                d="M12 30H24V42H12V30Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M12 18H24V30H12V18Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M12 18H24V30H12V18Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M12 18H24V30H12V18Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

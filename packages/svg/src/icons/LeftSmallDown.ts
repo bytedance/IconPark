@@ -9,15 +9,9 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('left-small-down', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<g transform="translate(14.479185, 15.000000)">'
-                    + '<path d="M21.0416306,9.5 L-3,9.5" transform="translate(9.020815, 9.500000) rotate(-225.000000) translate(-9.020815, -9.500000) " stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                    + '<polyline transform="translate(9.520815, 9.000000) rotate(-180.000000) translate(-9.520815, -9.000000) " points="0.52081528 0 18.5208153 0 18.5208153 18" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '</g>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M15 33L32 16" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M33 33H15L15 15" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

@@ -9,12 +9,15 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('write', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(23.701010, 23.701010) rotate(-45.000000) translate(-23.701010, -23.701010) translate(-4.798990, -4.798990)">'
-                + '<polygon fill="' + props.colors[1] + '" fill-rule="nonzero" transform="translate(28.798990, 28.798990) rotate(45.000000) translate(-28.798990, -28.798990) " points="9.00025895 48.5977208 17.4852814 48.5979797 48.5979797 17.4852814 40.1126984 9 9 40.1126984" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '"/>'
-                + '<path d="M38.7989899,22.7989899 L38.7989899,34.7989899" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<g clip-path="' + 'url(#' + props.id + 'd0d4a28c' + ')' + '">'
+            + '<path d="M4.32497 43.4997L12.81 43.5L43.9227 12.3873L35.4374 3.90202L4.32471 35.0147L4.32497 43.4997Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+            + '<path d="M26.9521 12.3873L35.4374 20.8726" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '</g>'
+        + '<defs>'
+            + '<clipPath id="' + props.id + 'd0d4a28c' + '">'
+                + '<rect width="48" height="48" fill="' + props.colors[2] + '"/>'
+            + '</clipPath>'
+        + '</defs>'
     + '</svg>'
 ));

@@ -1,13 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>return</title>
-    <desc>Created with Sketch.</desc>
-    <g id="return" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <polyline id="Path-30" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.363961, 14.363961) rotate(45.000000) translate(-12.363961, -14.363961) " points="7.86396103 9.86396103 7.86396103 18.863961 16.863961 18.863961"></polyline>
-            <path d="M6,14.363961 L28.1722323,14.363961 C35.3362845,14.363961 41.22076,20.0233725 41.5,27.1819805 C41.7655807,33.9904186 36.4615469,39.7250439 29.6531088,39.9906247 C29.4928928,39.9968743 29.3325702,40 29.1722323,40 L12,40" id="Path-42" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M12.3638 8L5.99981 14.364L12.3638 20.7279" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 14.364L28.6722 14.364C35.557 14.364 41.2122 19.8028 41.4805 26.6824V26.6824C41.7641 33.952 35.9474 40 28.6722 40H12" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

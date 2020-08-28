@@ -9,14 +9,10 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('file-txt', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none"/>'
-                + '<path d="M10,4 L30,4 L40,14 L40,42 C40,43.1045695 39.1045695,44 38,44 L10,44 C8.8954305,44 8,43.1045695 8,42 L8,6 C8,4.8954305 8.8954305,4 10,4 Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-                + '<path d="M18,18.0083363 L30,18.0083363" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M24.0083333,18.0083363 L24.0083333,34" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M10 4H30L40 14V42C40 43.1046 39.1046 44 38 44H10C8.89543 44 8 43.1046 8 42V6C8 4.89543 8.89543 4 10 4Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M18 18.0083H30" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
+        + '<path d="M24.0083 18.0083V34" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
     + '</svg>'
 ));

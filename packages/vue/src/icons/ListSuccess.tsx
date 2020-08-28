@@ -42,7 +42,18 @@ export default IconWrapper(
                 cx="8"
                 cy="24"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="8"
+                cy="24"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="8"
+                cy="24"
+                r="4"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -52,7 +63,18 @@ export default IconWrapper(
                 cx="8"
                 cy="38"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="8"
+                cy="38"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="8"
+                cy="38"
+                r="4"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

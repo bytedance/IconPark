@@ -11,7 +11,10 @@ export default IconWrapper('pennant', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M12 6V4M12 22V44M12 44H8M12 44H16" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M8 44H12H16" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M12 6V22L40 14L12 6Z" fill="#09C8E2"/>'
         + '<path d="M12 6V22L40 14L12 6Z" fill="' + props.colors[1] + '"/>'
-        + '<path d="M12 6V22M12 6V4M12 6L40 14L12 22M12 22V44M12 44H8M12 44H16" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M12 6V22L40 14L12 6Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

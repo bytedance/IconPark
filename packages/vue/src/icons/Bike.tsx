@@ -15,69 +15,85 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M10.5 42C15.1944 42 19 38.1944 19 33.5C19 28.8056 15.1944 25 10.5 25C5.80558 25 2 28.8056 2 33.5C2 38.1944 5.80558 42 10.5 42Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M10.5 42C15.1944 42 19 38.1944 19 33.5C19 28.8056 15.1944 25 10.5 25C5.80558 25 2 28.8056 2 33.5C2 38.1944 5.80558 42 10.5 42Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M10.5 42C15.1944 42 19 38.1944 19 33.5C19 28.8056 15.1944 25 10.5 25C5.80558 25 2 28.8056 2 33.5C2 38.1944 5.80558 42 10.5 42Z"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M37 42C41.9706 42 46 37.9706 46 33C46 28.0294 41.9706 24 37 24C32.0294 24 28 28.0294 28 33C28 37.9706 32.0294 42 37 42Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M37 42C41.9706 42 46 37.9706 46 33C46 28.0294 41.9706 24 37 24C32.0294 24 28 28.0294 28 33C28 37.9706 32.0294 42 37 42Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M37 42C41.9706 42 46 37.9706 46 33C46 28.0294 41.9706 24 37 24C32.0294 24 28 28.0294 28 33C28 37.9706 32.0294 42 37 42Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18.9971 6H27.9976L37.0004 33"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
                 fill-rule="evenodd"
-            >
-                <g>
-                    <circle
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                        cx="10.5"
-                        cy="33.5"
-                        r="8.5"
-                    />
-                    <circle
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                        cx="37"
-                        cy="33"
-                        r="9"
-                    />
-                    <polyline
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                        points="18.9966375 6 27.9971726 6 37 33"
-                    />
-                    <path
-                        d="M11.057325,33 L31.6818182,16.7631579"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                    <polyline
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                        points="31.6818182 15 40.1538462 15 42 10"
-                    />
-                    <path
-                        d="M8,15.9736842 L15,15.9736842"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M15,16 L18.2727273,26.4210526"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                </g>
-            </g>
+                clip-rule="evenodd"
+                d="M11.0576 33L31.6821 16.7632L11.0576 33Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M11.0576 33L31.6821 16.7632L11.0576 33Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M11.0576 33L31.6821 16.7632"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M31.6816 15H40.1537L41.9998 10"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M8 15.9737H15"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M15 16L18.2727 26.4211"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

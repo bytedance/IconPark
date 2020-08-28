@@ -20,7 +20,13 @@ export default IconWrapper(
             <path
                 fill-rule="evenodd"
                 clip-rule="evenodd"
-                d="M20 24H44Z"
+                d="M20 24H44H20Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M20 24H44H20Z"
                 fill={props.colors[1]}
             />
             <path
@@ -33,7 +39,13 @@ export default IconWrapper(
             <path
                 fill-rule="evenodd"
                 clip-rule="evenodd"
-                d="M20 38H44Z"
+                d="M20 38H44H20Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M20 38H44H20Z"
                 fill={props.colors[1]}
             />
             <path
@@ -46,7 +58,13 @@ export default IconWrapper(
             <path
                 fill-rule="evenodd"
                 clip-rule="evenodd"
-                d="M20 10H44Z"
+                d="M20 10H44H20Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M20 10H44H20Z"
                 fill={props.colors[1]}
             />
             <path
@@ -61,7 +79,20 @@ export default IconWrapper(
                 y="34"
                 width="8"
                 height="8"
+                fill="#09C8E2"
+            />
+            <rect
+                x="4"
+                y="34"
+                width="8"
+                height="8"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="4"
+                y="34"
+                width="8"
+                height="8"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}
@@ -71,7 +102,20 @@ export default IconWrapper(
                 y="20"
                 width="8"
                 height="8"
+                fill="#09C8E2"
+            />
+            <rect
+                x="4"
+                y="20"
+                width="8"
+                height="8"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="4"
+                y="20"
+                width="8"
+                height="8"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}
@@ -81,7 +125,20 @@ export default IconWrapper(
                 y="6"
                 width="8"
                 height="8"
+                fill="#09C8E2"
+            />
+            <rect
+                x="4"
+                y="6"
+                width="8"
+                height="8"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="4"
+                y="6"
+                width="8"
+                height="8"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}

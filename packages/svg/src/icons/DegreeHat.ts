@@ -9,16 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('degree-hat', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<g transform="translate(2.000000, 9.000000)">'
-                    + '<polygon fill="' + props.colors[1] + '" fill-rule="nonzero" points="0 8.4 21.0222222 0 42.0444444 8.4 21.0222222 16.8" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '"/>'
-                    + '<path d="M42.0444444,8.51011363 L42.0444444,17.7333333" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                    + '<path d="M9.55555556,12.8253553 L9.55555556,25.2666667 C12.7622728,28.4222222 16.584495,30 21.0222222,30 C25.4599494,30 29.2821717,28.4222222 32.4888889,25.2666667 L32.4888889,12.8253553" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '</g>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M2 17.4L23.0222 9L44.0444 17.4L23.0222 25.8L2 17.4Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M44.0444 17.5101V26.7333" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M11.5555 21.8253V34.2667C11.5555 34.2667 16.3656 39 23.0222 39C29.6788 39 34.4889 34.2667 34.4889 34.2667V21.8253" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

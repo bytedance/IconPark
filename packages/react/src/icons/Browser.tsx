@@ -16,51 +16,40 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M43 16V42H5V16V16"
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M5 4H43V16H5V4Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
                 fillRule="evenodd"
-            >
-                <g
-                    transform="translate(5.000000, 4.000000)"
-                >
-                    <polyline
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                        points="38 12 38 38 0 38 0 12 0 12"
-                    />
-                    <polygon
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        fill={props.colors[1]}
-                        fillRule="nonzero"
-                        strokeLinejoin={props.strokeLinejoin}
-                        points="0 0 38 0 38 12 0 12"
-                    />
-                    <circle
-                        fill={props.colors[2]}
-                        cx="6"
-                        cy="6"
-                        r="2"
-                    />
-                    <circle
-                        fill={props.colors[2]}
-                        cx="12"
-                        cy="6"
-                        r="2"
-                    />
-                    <circle
-                        fill={props.colors[2]}
-                        cx="18"
-                        cy="6"
-                        r="2"
-                    />
-                </g>
-            </g>
+                clipRule="evenodd"
+                d="M11 12C12.1046 12 13 11.1046 13 10C13 8.89543 12.1046 8 11 8C9.89543 8 9 8.89543 9 10C9 11.1046 9.89543 12 11 12Z"
+                fill={props.colors[2]}
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M17 12C18.1046 12 19 11.1046 19 10C19 8.89543 18.1046 8 17 8C15.8954 8 15 8.89543 15 10C15 11.1046 15.8954 12 17 12Z"
+                fill={props.colors[2]}
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M23 12C24.1046 12 25 11.1046 25 10C25 8.89543 24.1046 8 23 8C21.8954 8 21 8.89543 21 10C21 11.1046 21.8954 12 23 12Z"
+                fill={props.colors[2]}
+            />
         </svg>
     )
 );

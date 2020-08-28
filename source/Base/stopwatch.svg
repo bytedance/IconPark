@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>stopwatch</title>
-    <desc>Created with Sketch.</desc>
-    <g id="stopwatch" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
-        <g id="编组" transform="translate(7.000000, 3.000000)" stroke-width="4">
-            <circle id="Oval" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" cx="17" cy="24" r="17"></circle>
-            <path d="M10,1 L24,1" id="Path-13" stroke="#000000" stroke-linecap="round" transform="translate(17.000000, 1.000000) scale(-1, 1) translate(-17.000000, -1.000000) "></path>
-            <path d="M28,7 L31,10" id="Path-13备份" stroke="#000000" stroke-linecap="round" transform="translate(29.500000, 8.500000) scale(-1, 1) translate(-29.500000, -8.500000) "></path>
-            <path d="M17,15 L17,24" id="路径-16" stroke="#FFFFFF" stroke-linecap="round"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M24 44C33.3888 44 41 36.3888 41 27C41 17.6112 33.3888 10 24 10C14.6112 10 7 17.6112 7 27C7 36.3888 14.6112 44 24 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M31 4H17" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M38 10L35 13" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 18V27" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

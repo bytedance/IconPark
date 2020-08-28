@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>folder-download</title>
-    <desc>Created with Sketch.</desc>
-    <g id="folder-download" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2">
-            <g id="编组">
-                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-                <path d="M6,7 L19,7 L24,13 L42,13 C43.1045695,13 44,13.8954305 44,15 L44,39 C44,40.1045695 43.1045695,41 42,41 L6,41 C4.8954305,41 4,40.1045695 4,39 L4,9 C4,7.8954305 4.8954305,7 6,7 Z" id="Rectangle" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
-            </g>
-            <g id="Group-3" transform="translate(16.000000, 20.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-                <polyline id="路径" transform="translate(8.007820, 10.486169) rotate(90.000000) translate(-8.007820, -10.486169) " points="4.49398915 3.46632702 11.5216513 10.4939892 4.5096296 17.5060108"></polyline>
-                <path d="M1.25,6.75 L14.75,6.75" id="Path-11" transform="translate(8.000000, 6.750000) rotate(90.000000) translate(-8.000000, -6.750000) "></path>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M4 9C4 7.89543 4.89543 7 6 7H19L24 13H42C43.1046 13 44 13.8954 44 15V39C44 40.1046 43.1046 41 42 41H6C4.89543 41 4 40.1046 4 39V9Z" fill="#09C8E2"/>
+<path d="M4 9C4 7.89543 4.89543 7 6 7H19L24 13H42C43.1046 13 44 13.8954 44 15V39C44 40.1046 43.1046 41 42 41H6C4.89543 41 4 40.1046 4 39V9Z" fill="#2F88FF"/>
+<path d="M4 9C4 7.89543 4.89543 7 6 7H19L24 13H42C43.1046 13 44 13.8954 44 15V39C44 40.1046 43.1046 41 42 41H6C4.89543 41 4 40.1046 4 39V9Z" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M31.0277 26.9724L24 34.0001L16.988 26.9881" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 20V33.5" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

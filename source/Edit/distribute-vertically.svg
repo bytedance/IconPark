@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>distribute-vertically</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
-    </defs>
-    <g id="distribute-vertically" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="蒙版" fill-opacity="0.01" fill="#FFFFFF" xlink:href="#path-1"></use>
-            <g mask="url(#mask-2)" stroke="#000000" stroke-linejoin="round" stroke-width="4">
-                <g transform="translate(24.000000, 24.000000) rotate(90.000000) translate(-24.000000, -24.000000) translate(7.500000, 6.000000)">
-                    <rect id="Rectangle" fill="#2F88FF" fill-rule="nonzero" transform="translate(16.500000, 18.000000) rotate(90.000000) translate(-16.500000, -18.000000) " x="2.5" y="12" width="28" height="12"></rect>
-                    <path d="M32.5,0 L32.5,36" id="Path-24" fill="none" stroke-linecap="round"></path>
-                    <path d="M0.5,3.55271368e-15 L0.5,36" id="Path-24复制" fill="none" stroke-linecap="round"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48">
+<rect width="48" height="48" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="38" y="30" width="28" height="12" transform="rotate(180 38 30)" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M42 40H6" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M42 8L6 8" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
 </svg>

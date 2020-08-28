@@ -9,16 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('flip-horizontally', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<g transform="translate(4.000000, 6.000000)">'
-                    + '<path d="M20,0 L20,36" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                    + '<polygon fill="' + props.colors[1] + '" fill-rule="nonzero" points="0 28 12 6 12 28" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '"/>'
-                    + '<polygon fill="' + props.colors[1] + '" fill-rule="nonzero" points="40 28 28 28 28 6" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '"/>'
-                + '</g>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M24 6V42" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M4 34L16 12V34H4Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M44 34H32V12L44 34Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

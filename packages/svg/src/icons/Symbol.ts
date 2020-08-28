@@ -11,6 +11,6 @@ export default IconWrapper('symbol', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M4 40.0034H18.0039C11.3346 35.6357 8 30.3011 8 23.9997C8 14.5476 15.0167 8 24.0083 8C33 8 40 15 40 23.9997C40 29.9995 36.6689 35.3341 30.0066 40.0034H44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M4 40.0032H18.0039C11.3346 35.6355 8 30.3009 8 23.9995C8 14.5473 15.0167 7.99976 24.0083 7.99976C33 7.99976 40 14.9998 40 23.9995C40 29.9993 36.6689 35.3338 30.0066 40.0032H44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

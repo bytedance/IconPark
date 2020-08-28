@@ -9,11 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('dot', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(15.000000, 15.000000)">'
-                + '<circle cx="9" cy="9" r="9" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="' + props.colors[0] + '" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M24 33C28.9706 33 33 28.9706 33 24C33 19.0294 28.9706 15 24 15C19.0294 15 15 19.0294 15 24C15 28.9706 19.0294 33 24 33Z" fill="' + props.colors[0] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
     + '</svg>'
 ));

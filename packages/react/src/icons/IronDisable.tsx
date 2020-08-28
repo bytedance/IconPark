@@ -20,10 +20,21 @@ export default IconWrapper(
         >
             <path
                 d="M4 40H44L42 24H20C11.1634 24 4 31.1634 4 40Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M4 40H44L42 24H20C11.1634 24 4 31.1634 4 40Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M16 8H40L44 40H4C4 31.1634 11.1634 24 20 24H42"
+                d="M4 40H44L42 24H20C11.1634 24 4 31.1634 4 40Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M16 8H40L42 24"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -33,14 +44,32 @@ export default IconWrapper(
                 cx="24"
                 cy="24"
                 r="9"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="24"
+                cy="24"
+                r="9"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="24"
+                cy="24"
+                r="9"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M26 26L24 24M24 24L26 22M24 24L22 22M24 24L22 26"
+                d="M26 26L24 24L22 22"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M26 22L24 24L22 26"
                 stroke={props.colors[2]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

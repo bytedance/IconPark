@@ -16,41 +16,75 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
-                strokeWidth={props.strokeWidth}
-                fill="none"
+            <path
                 fillRule="evenodd"
+                clipRule="evenodd"
+                d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
+                fill="#09C8E2"
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
+                fill={props.colors[1]}
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M24 33C28.9706 33 33 28.9706 33 24C33 19.0294 28.9706 15 24 15C19.0294 15 15 19.0294 15 24C15 28.9706 19.0294 33 24 33Z"
+                fill="#09C8E2"
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M24 33C28.9706 33 33 28.9706 33 24C33 19.0294 28.9706 15 24 15C19.0294 15 15 19.0294 15 24C15 28.9706 19.0294 33 24 33Z"
+                fill={props.colors[1]}
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M24 15H41.8654H24Z"
+                fill="#09C8E2"
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M24 15H41.8654H24Z"
+                fill={props.colors[1]}
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M17 42.7408L29.6439 31L17 42.7408Z"
+                fill="#09C8E2"
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M17 42.7408L29.6439 31L17 42.7408Z"
+                fill={props.colors[1]}
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M6 15.2717L16.8751 29.552L6 15.2717Z"
+                fill="#09C8E2"
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M6 15.2717L16.8751 29.552L6 15.2717Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M24 15C28.9706 15 33 19.0294 33 24C33 28.9706 28.9706 33 24 33C19.0294 33 15 28.9706 15 24C15 19.0294 19.0294 15 24 15ZM24 15H41.8654M17 42.7408L29.6439 31M6 15.2717L16.8751 29.552M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
-            >
-                <g
-                    transform="translate(4.000000, 4.000000)"
-                    stroke={props.colors[0]}
-                    strokeWidth={props.strokeWidth}
-                >
-                    <circle
-                        cx="20"
-                        cy="20"
-                        r="20"
-                    />
-                    <circle
-                        cx="20"
-                        cy="20"
-                        r="9"
-                    />
-                    <path
-                        d="M20,11 L37,11"
-                    />
-                    <path
-                        d="M13.6438981,38 L25.6438981,27"
-                    />
-                    <path
-                        d="M2.87508068,12.5520382 L12.8750807,25.5520382"
-                    />
-                </g>
-            </g>
+            />
         </svg>
     )
 );

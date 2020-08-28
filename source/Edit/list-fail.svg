@@ -4,6 +4,10 @@
 <path d="M20 24H44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M20 38H44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M5 7L11 13M11 7L5 13" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="8" cy="24" r="4" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="8" cy="38" r="4" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="8" cy="24" r="4" fill="#09C8E2"/>
+<circle cx="8" cy="24" r="4" fill="#2F88FF"/>
+<circle cx="8" cy="24" r="4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="8" cy="38" r="4" fill="#09C8E2"/>
+<circle cx="8" cy="38" r="4" fill="#2F88FF"/>
+<circle cx="8" cy="38" r="4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

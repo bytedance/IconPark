@@ -1,13 +1,8 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Base/shopping">
-<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>
-<g id="Group 32">
-<g id="Vector 192">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M39 32H13L8 12H44L39 32Z" fill="#09C8E2"/>
 <path d="M39 32H13L8 12H44L39 32Z" fill="#2F88FF"/>
 <path d="M3 6H6.5L8 12M8 12L13 32H39L44 12H8Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<circle id="Ellipse 105" cx="13" cy="39" r="3" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle id="Ellipse 106" cx="39" cy="39" r="3" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-</g>
+<circle cx="13" cy="39" r="3" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="39" cy="39" r="3" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

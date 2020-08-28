@@ -16,49 +16,35 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M21 39C21 30.1634 13.8366 23 5 23"
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M13 39C13 34.5817 9.41828 31 5 31"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
                 fillRule="evenodd"
-            >
-                <g
-                    transform="translate(3.000000, 8.000000)"
-                >
-                    <g
-                        transform="translate(0.000000, 15.000000)"
-                    >
-                        <path
-                            d="M18,16 C18,7.163444 10.836556,0 2,0"
-                            stroke={props.colors[0]}
-                            strokeWidth={props.strokeWidth}
-                            strokeLinecap={props.strokeLinecap}
-                            strokeLinejoin={props.strokeLinejoin}
-                        />
-                        <path
-                            d="M10,16 C10,11.581722 6.418278,8 2,8"
-                            stroke={props.colors[0]}
-                            strokeWidth={props.strokeWidth}
-                            strokeLinecap={props.strokeLinecap}
-                            strokeLinejoin={props.strokeLinejoin}
-                        />
-                        <circle
-                            fill={props.colors[0]}
-                            cx="2.5"
-                            cy="15.5"
-                            r="2.5"
-                        />
-                    </g>
-                    <polyline
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinecap={props.strokeLinecap}
-                        strokeLinejoin={props.strokeLinejoin}
-                        points="1 8.05661381 1 0 41 0 41 32 25.7712298 32"
-                    />
-                </g>
-            </g>
+                clipRule="evenodd"
+                d="M5.5 41C6.88071 41 8 39.8807 8 38.5C8 37.1193 6.88071 36 5.5 36C4.11929 36 3 37.1193 3 38.5C3 39.8807 4.11929 41 5.5 41Z"
+                fill={props.colors[0]}
+            />
+            <path
+                d="M4 16.0566V8H44V40H28.7712"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

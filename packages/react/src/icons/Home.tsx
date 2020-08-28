@@ -18,20 +18,34 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g>
-                <g>
-                    <path
-                        d="M24 6L4 22L9 18V42H19H29H39V18L44 22L24 6Z"
-                        fill={props.colors[1]}
-                    />
-                    <path
-                        d="M19 42H9V18L4 22L24 6L44 22L39 18V42H29M19 42V29H29V42M19 42H29"
-                        stroke={props.colors[0]}
-                        strokeWidth={props.strokeWidth}
-                        strokeLinejoin={props.strokeLinejoin}
-                    />
-                </g>
-            </g>
+            <path
+                d="M9 18L24 6L39 18V42H9V18Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M9 18L24 6L39 18V42H9V18Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M9 18L24 6L39 18V42H9V18Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M19 29V42H29V29H19Z"
+                fill={props.colors[3]}
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M9 42H39"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+            />
         </svg>
     )
 );

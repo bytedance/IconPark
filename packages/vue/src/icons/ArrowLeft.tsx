@@ -15,30 +15,22 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M5.79891 24L41.7989 24"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(23.399495, 24.000000) rotate(180.000000) translate(-23.399495, -24.000000) translate(4.899495, 12.000000)"
-                        stroke={props.colors[0]}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <path
-                            d="M36.1005051,12 L0.100505063,12"
-                        />
-                        <polyline
-                            points="24.1005051 0 36.1005051 12 24.1005051 24"
-                        />
-                    </g>
-                </g>
-            </g>
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M17.7988 36L5.79883 24L17.7988 12"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

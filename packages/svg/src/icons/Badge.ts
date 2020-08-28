@@ -12,6 +12,8 @@ export default IconWrapper('badge', (props: ISvgIconProps) => (
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M38 22V40H8V10H26" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<circle cx="38" cy="10" r="4" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<circle cx="38" cy="10" r="4" fill="#09C8E2"/>'
+        + '<circle cx="38" cy="10" r="4" fill="' + props.colors[1] + '"/>'
+        + '<circle cx="38" cy="10" r="4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

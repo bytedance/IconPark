@@ -15,31 +15,37 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
             <g
-                stroke="none"
-                stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-                stroke-linejoin={props.strokeLinejoin}
+                clip-path={'url(#' + props.id + 'b7881280' + ')'}
             >
-                <g
-                    transform="translate(23.701010, 23.701010) rotate(-45.000000) translate(-23.701010, -23.701010) translate(-4.798990, -4.798990)"
+                <path
+                    d="M4.32497 43.4997L12.81 43.5L43.9227 12.3873L35.4374 3.90202L4.32471 35.0147L4.32497 43.4997Z"
+                    fill={props.colors[1]}
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
-                >
-                    <polygon
-                        fill={props.colors[1]}
-                        fill-rule="nonzero"
-                        transform="translate(28.798990, 28.798990) rotate(45.000000) translate(-28.798990, -28.798990) "
-                        points="9.00025895 48.5977208 17.4852814 48.5979797 48.5979797 17.4852814 40.1126984 9 9 40.1126984"
-                    />
-                    <path
-                        d="M38.7989899,22.7989899 L38.7989899,34.7989899"
-                        stroke-linecap={props.strokeLinecap}
-                    />
-                </g>
+                    stroke-linejoin={props.strokeLinejoin}
+                />
+                <path
+                    d="M26.9521 12.3873L35.4374 20.8726"
+                    stroke={props.colors[0]}
+                    stroke-width={props.strokeWidth}
+                    stroke-linecap={props.strokeLinecap}
+                    stroke-linejoin={props.strokeLinejoin}
+                />
             </g>
+            <defs>
+                <clipPath
+                    id={props.id + 'b7881280'}
+                >
+                    <rect
+                        width="48"
+                        height="48"
+                        fill={props.colors[2]}
+                    />
+                </clipPath>
+            </defs>
         </svg>
     )
 );

@@ -1,9 +1,5 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Base/bookmark-one">
-<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>
-<g id="&#231;&#188;&#150;&#231;&#187;&#132;">
-<path id="&#232;&#183;&#175;&#229;&#190;&#132;" d="M34 10V4H8V38L14 35" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path id="Path 116" d="M14 44V10H40V44L27 37.7273L14 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-</g>
-</g>
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M34 10V4H8V38L14 35" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14 44V10H40V44L27 37.7273L14 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 </svg>

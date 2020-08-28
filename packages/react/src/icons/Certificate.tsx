@@ -19,19 +19,15 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M36 27C36 28.777 35.2275 30.3736 34 31.4722C32.9385 32.4223 31.5367 33 30 33C28.4633 33 27.0615 32.4223 26 31.4722C24.7725 30.3736 24 28.777 24 27C24 23.6863 26.6863 21 30 21C33.3137 21 36 23.6863 36 27Z"
+                d="M42 6H6C4.89543 6 4 6.89543 4 8V34C4 35.1046 4.89543 36 6 36H42C43.1046 36 44 35.1046 44 34V8C44 6.89543 43.1046 6 42 6Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M42 6H6C4.89543 6 4 6.89543 4 8V34C4 35.1046 4.89543 36 6 36H42C43.1046 36 44 35.1046 44 34V8C44 6.89543 43.1046 6 42 6Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M44 6H4V36H26V31.4722C24.7725 30.3736 24 28.777 24 27C24 23.6863 26.6863 21 30 21C33.3137 21 36 23.6863 36 27C36 28.777 35.2275 30.3736 34 31.4722V36H44V6Z"
-                fill={props.colors[1]}
-            />
-            <path
-                d="M30 40L34 42V36V31.4722C32.9385 32.4223 31.5367 33 30 33C28.4633 33 27.0615 32.4223 26 31.4722V36V42L30 40Z"
-                fill={props.colors[1]}
-            />
-            <path
-                d="M26 36H4V6H44V36H34M26 36V31.4722M26 36V42M34 36V31.4722M34 36V42M34 42L30 40L26 42M34 42V31.4722M26 42V31.4722M34 31.4722C35.2275 30.3736 36 28.777 36 27C36 23.6863 33.3137 21 30 21C26.6863 21 24 23.6863 24 27C24 28.777 24.7725 30.3736 26 31.4722M34 31.4722C32.9385 32.4223 31.5367 33 30 33C28.4633 33 27.0615 32.4223 26 31.4722"
+                d="M42 6H6C4.89543 6 4 6.89543 4 8V34C4 35.1046 4.89543 36 6 36H42C43.1046 36 44 35.1046 44 34V8C44 6.89543 43.1046 6 42 6Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -54,6 +50,40 @@ export default IconWrapper(
             <path
                 d="M12 28H16"
                 stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <circle
+                cx="30"
+                cy="27"
+                r="6"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="30"
+                cy="27"
+                r="6"
+                fill={props.colors[1]}
+            />
+            <circle
+                cx="30"
+                cy="27"
+                r="6"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+            />
+            <path
+                d="M30 40L34 42V31.4722C34 31.4722 32.8594 33 30 33C27.1406 33 26 31.5 26 31.5V42L30 40Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M30 40L34 42V31.4722C34 31.4722 32.8594 33 30 33C27.1406 33 26 31.5 26 31.5V42L30 40Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M30 40L34 42V31.4722C34 31.4722 32.8594 33 30 33C27.1406 33 26 31.5 26 31.5V42L30 40Z"
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}

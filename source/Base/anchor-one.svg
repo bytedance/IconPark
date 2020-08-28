@@ -1,13 +1,9 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="base/anchor-one">
-<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>
-<g id="&#231;&#188;&#150;&#231;&#187;&#132;">
-<path id="&#229;&#189;&#162;&#231;&#138;&#182;" d="M40 29C40 20.1634 32.8366 13 24 13C15.1634 13 8 20.1634 8 29" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect id="&#231;&#159;&#169;&#229;&#189;&#162;" x="4" y="29" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<rect id="&#231;&#159;&#169;&#229;&#189;&#162;_2" x="4" y="9" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<rect id="&#231;&#159;&#169;&#229;&#189;&#162;_3" x="36" y="29" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<rect id="&#231;&#159;&#169;&#229;&#189;&#162;_4" x="36" y="9" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<path id="Vector 191" d="M12 13H36" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-</g>
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M40 35C40 25.7953 32.8366 10 24 10C15.1634 10 8 25.7953 8 35" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="4" y="35" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="4" y="6" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="36" y="35" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="36" y="6" width="8" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M12 10H36" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

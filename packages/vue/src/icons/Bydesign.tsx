@@ -18,24 +18,45 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M8.00002 6.69232L21 3L21 17.3077L8 21L8.00002 6.69232Z"
+                d="M8.00002 7.28206L19.5556 4L19.5555 16.7179L8 20L8.00002 7.28206Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M8.00002 7.28206L19.5556 4L19.5555 16.7179L8 20L8.00002 7.28206Z"
                 fill={props.colors[1]}
+            />
+            <path
+                d="M8.00002 7.28206L19.5556 4L19.5555 16.7179L8 20L8.00002 7.28206Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M8.00002 27.3846L21 23.6923L21 38L8 41.6923L8.00002 27.3846Z"
+                d="M8.00002 25.6752L19.5556 22.3932L19.5555 35.1111L8 38.3932L8.00002 25.6752Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M8.00002 25.6752L19.5556 22.3932L19.5555 35.1111L8 38.3932L8.00002 25.6752Z"
                 fill={props.colors[1]}
+            />
+            <path
+                d="M8.00002 25.6752L19.5556 22.3932L19.5555 35.1111L8 38.3932L8.00002 25.6752Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M27.0001 19.2104L40 16L40 41.7896L27 45L27.0001 19.2104Z"
+                d="M24.889 21.0759L36.4445 18.2222L36.4445 41.1463L24.889 44L24.889 21.0759Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M24.889 21.0759L36.4445 18.2222L36.4445 41.1463L24.889 44L24.889 21.0759Z"
                 fill={props.colors[1]}
+            />
+            <path
+                d="M24.889 21.0759L36.4445 18.2222L36.4445 41.1463L24.889 44L24.889 21.0759Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

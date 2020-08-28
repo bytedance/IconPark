@@ -23,7 +23,7 @@ export default IconWrapper(
                 y="4"
                 width="40"
                 height="40"
-                rx="4"
+                rx="3"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

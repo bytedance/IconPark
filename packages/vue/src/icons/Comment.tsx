@@ -15,43 +15,45 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
-                stroke-width={props.strokeWidth}
-                fill="none"
+            <path
                 fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(4.000000, 6.000000)"
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <path
-                            d="M18,30 L8,36 L8,30 L2,30 C0.8954305,30 -2.27238405e-13,29.1045695 -2.27373675e-13,28 L-2.27373675e-13,2 C-2.27508946e-13,0.8954305 0.8954305,2.02906125e-16 2,0 L38,0 C39.1045695,-2.02906125e-16 40,0.8954305 40,2 L40,28 C40,29.1045695 39.1045695,30 38,30 L18,30 Z"
-                            stroke={props.colors[0]}
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                        />
-                        <path
-                            d="M10,13.5 L10,16.5"
-                            stroke={props.colors[2]}
-                            stroke-linecap={props.strokeLinecap}
-                        />
-                        <path
-                            d="M20,13.5 L20,16.5"
-                            stroke={props.colors[2]}
-                            stroke-linecap={props.strokeLinecap}
-                        />
-                        <path
-                            d="M30,13.5 L30,16.5"
-                            stroke={props.colors[2]}
-                            stroke-linecap={props.strokeLinecap}
-                        />
-                    </g>
-                </g>
-            </g>
+                clip-rule="evenodd"
+                d="M6 6C4.89543 6 4 6.89543 4 8V34C4 35.1046 4.89543 36 6 36H12V42L22 36H42C43.1046 36 44 35.1046 44 34V8C44 6.89543 43.1046 6 42 6H6Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M6 6C4.89543 6 4 6.89543 4 8V34C4 35.1046 4.89543 36 6 36H12V42L22 36H42C43.1046 36 44 35.1046 44 34V8C44 6.89543 43.1046 6 42 6H6Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M12 36H14C14 34.8954 13.1046 34 12 34V36ZM12 42H10C10 42.7205 10.3876 43.3854 11.0146 43.7404C11.6416 44.0954 12.4111 44.0857 13.029 43.715L12 42ZM22 36V34C21.6375 34 21.2818 34.0985 20.971 34.285L22 36ZM6 8V8V4C3.79086 4 2 5.79086 2 8H6ZM6 34V8H2V34H6ZM6 34H6H2C2 36.2091 3.79086 38 6 38V34ZM12 34H6V38H12V34ZM10 36V42H14V36H10ZM13.029 43.715L23.029 37.715L20.971 34.285L10.971 40.285L13.029 43.715ZM42 34H22V38H42V34ZM42 34V38C44.2091 38 46 36.2091 46 34H42ZM42 8V34H46V8H42ZM42 8H46C46 5.79086 44.2091 4 42 4V8ZM6 8H42V4H6V8Z"
+                fill={props.colors[0]}
+            />
+            <path
+                d="M14 19.5V22.5"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 19.5V22.5"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M34 19.5V22.5"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

@@ -20,7 +20,6 @@ export default IconWrapper(
         >
             <path
                 d="M24 8L37.8564 16V32L24 40L10.1436 32V16L24 8Z"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -30,7 +29,18 @@ export default IconWrapper(
                 cx="24"
                 cy="40"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="24"
+                cy="40"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="24"
+                cy="40"
+                r="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -40,7 +50,18 @@ export default IconWrapper(
                 cx="24"
                 cy="8"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="24"
+                cy="8"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="24"
+                cy="8"
+                r="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -50,7 +71,18 @@ export default IconWrapper(
                 cx="24"
                 cy="24"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="24"
+                cy="24"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="24"
+                cy="24"
+                r="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -60,7 +92,18 @@ export default IconWrapper(
                 cx="38"
                 cy="16"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="38"
+                cy="16"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="38"
+                cy="16"
+                r="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -70,7 +113,18 @@ export default IconWrapper(
                 cx="38"
                 cy="32"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="38"
+                cy="32"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="38"
+                cy="32"
+                r="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -80,7 +134,18 @@ export default IconWrapper(
                 cx="10"
                 cy="16"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="10"
+                cy="16"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="10"
+                cy="16"
+                r="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -90,7 +155,18 @@ export default IconWrapper(
                 cx="10"
                 cy="32"
                 r="4"
+                fill="#09C8E2"
+            />
+            <circle
+                cx="10"
+                cy="32"
+                r="4"
                 fill={props.colors[1]}
+            />
+            <circle
+                cx="10"
+                cy="32"
+                r="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

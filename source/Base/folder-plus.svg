@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>folder-plus</title>
-    <desc>Created with Sketch.</desc>
-    <g id="folder-plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <path d="M6,8 L19,8 L24,14 L42,14 C43.1045695,14 44,14.8954305 44,16 L44,40 C44,41.1045695 43.1045695,42 42,42 L6,42 C4.8954305,42 4,41.1045695 4,40 L4,10 C4,8.8954305 4.8954305,8 6,8 Z" id="Rectangle" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round"></path>
-            <path d="M19.7071068,24.2573593 L28.1923882,32.7426407" id="Path-128" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(23.949747, 28.500000) rotate(45.000000) translate(-23.949747, -28.500000) "></path>
-            <path d="M28.1923882,24.2573593 L19.7071068,32.7426407" id="Path-129" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(23.949747, 28.500000) rotate(-135.000000) translate(-23.949747, -28.500000) "></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M4 10C4 8.89543 4.89543 8 6 8H19L24 14H42C43.1046 14 44 14.8954 44 16V40C44 41.1046 43.1046 42 42 42H6C4.89543 42 4 41.1046 4 40V10Z" fill="#09C8E2"/>
+<path d="M4 10C4 8.89543 4.89543 8 6 8H19L24 14H42C43.1046 14 44 14.8954 44 16V40C44 41.1046 43.1046 42 42 42H6C4.89543 42 4 41.1046 4 40V10Z" fill="#2F88FF"/>
+<path d="M4 10C4 8.89543 4.89543 8 6 8H19L24 14H42C43.1046 14 44 14.8954 44 16V40C44 41.1046 43.1046 42 42 42H6C4.89543 42 4 41.1046 4 40V10Z" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M23.9497 22.5L23.9497 34.5" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.9497 28.5L29.9497 28.5" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

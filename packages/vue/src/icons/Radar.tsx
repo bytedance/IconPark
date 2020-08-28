@@ -15,46 +15,46 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
-                stroke-width={props.strokeWidth}
-                fill="none"
+            <path
                 fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
-            >
-                <g
-                    transform="translate(4.000000, 4.000000)"
-                    stroke={props.colors[0]}
-                    stroke-width={props.strokeWidth}
-                >
-                    <circle
-                        stroke-linejoin={props.strokeLinejoin}
-                        cx="20"
-                        cy="20"
-                        r="20"
-                    />
-                    <circle
-                        stroke-linejoin={props.strokeLinejoin}
-                        cx="20"
-                        cy="20"
-                        r="10"
-                    />
-                    <path
-                        d="M20,0 L20,40"
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                    <path
-                        d="M7.00416814,13.0041681 L6.99583186,27.0041681"
-                        transform="translate(7.000000, 20.004168) rotate(-90.000000) translate(-7.000000, -20.004168) "
-                    />
-                    <path
-                        d="M20,0.00833628333 L20,40.0083363"
-                        stroke-linejoin={props.strokeLinejoin}
-                        transform="translate(20.000000, 20.008336) rotate(-90.000000) translate(-20.000000, -20.008336) "
-                    />
-                </g>
-            </g>
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M24 34C29.5228 34 34 29.5228 34 24C34 18.4772 29.5228 14 24 14C18.4772 14 14 18.4772 14 24C14 29.5228 18.4772 34 24 34Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 4V44"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 24L18 24.0083"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+            />
+            <path
+                d="M4 24.0083L44 24.0083"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

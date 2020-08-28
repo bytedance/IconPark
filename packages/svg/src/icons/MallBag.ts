@@ -9,14 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('mall-bag', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-            + '<g transform="translate(6.000000, 5.000000)">'
-                + '<path d="M0,7.6 L0,36 C0,37.1045695 0.8954305,38 2,38 L34,38 C35.1045695,38 36,37.1045695 36,36 L36,7.6 L0,7.6 Z" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
-                + '<polyline stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" points="36 7.6 30.3333333 2.13162821e-14 5.66666667 2.13162821e-14 1.38555833e-13 7.6 1.38555833e-13 7.6" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M25.5555556,14.2 C25.5555556,18.3973641 22.1728181,21.8 18,21.8 C13.8271819,21.8 10.4444444,18.3973641 10.4444444,14.2" stroke="' + props.colors[2] + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M6 12.6V41C6 42.1045 6.89543 43 8 43H40C41.1046 43 42 42.1045 42 41V12.6H6Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M42 12.6L36.3333 5H11.6667L6 12.6V12.6" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M31.5554 19.2C31.5554 23.3973 28.1727 26.7999 23.9999 26.7999C19.8271 26.7999 16.4443 23.3973 16.4443 19.2" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

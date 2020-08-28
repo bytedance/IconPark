@@ -9,14 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('stopwatch', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(7.000000, 3.000000)">'
-                + '<circle stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero" cx="17" cy="24" r="17" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
-                + '<path d="M10,1 L24,1" stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" transform="translate(17.000000, 1.000000) scale(-1, 1) translate(-17.000000, -1.000000) " stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M28,7 L31,10" stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" transform="translate(29.500000, 8.500000) scale(-1, 1) translate(-29.500000, -8.500000) " stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M17,15 L17,24" stroke="' + props.colors[2] + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M24 44C33.3888 44 41 36.3888 41 27C41 17.6112 33.3888 10 24 10C14.6112 10 7 17.6112 7 27C7 36.3888 14.6112 44 24 44Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M31 4H17" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M38 10L35 13" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24 18V27" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

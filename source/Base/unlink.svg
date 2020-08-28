@@ -1,14 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>unlink</title>
-    <desc>Created with Sketch.</desc>
-    <g id="unlink" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="Group" transform="translate(23.500000, 24.000000) rotate(-45.000000) translate(-23.500000, -24.000000) translate(16.000000, 1.000000)" stroke="#000000" stroke-width="4">
-            <path d="M14.8272301,19.056761 L14.8272301,8.05676102 C14.8272301,4.00667285 11.6792322,0.723427686 7.79598008,0.723427686 C3.91272793,0.723427686 0.764730077,4.00667285 0.764730077,8.05676102 L0.764730077,19.056761" id="Oval"></path>
-            <path d="M14.8153692,45.9222209 L14.8153692,34.9222209 C14.8153692,30.8721328 11.9589521,27.4911368 7.78411916,27.5888876 C3.60928625,27.6866384 0.752869165,30.8721328 0.752869165,34.9222209 L0.752869165,45.9222209" id="Oval-Copy-2" transform="translate(7.784119, 36.754520) scale(1, -1) translate(-7.784119, -36.754520) "></path>
-            <path d="M7.96875,19.3333333 L7.96875,13.8333333" id="Path-2"></path>
-            <path d="M7.96875,32.1666667 L7.96875,26.6666667" id="Path-2"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M25.8927 16.0306L18.1145 8.25238C15.2506 5.38854 10.7031 5.2929 7.9572 8.03878C5.21132 10.7846 5.30696 15.3322 8.1708 18.1961L15.949 25.9742" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.9161 22.0706L39.6943 29.8488C42.5581 32.7126 42.9291 37.1231 39.9079 40.0061C36.8867 42.889 32.6144 42.6563 29.7506 39.7925L21.9724 32.0143" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21.2384 21.0758L17.3493 17.1867" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.3131 30.1502L26.424 26.2612" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

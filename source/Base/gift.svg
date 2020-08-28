@@ -1,13 +1,12 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="Base/gift">
-<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>
-<g id="&#231;&#188;&#150;&#231;&#187;&#132;">
-<rect id="Rectangle 2" x="4" y="12" width="40" height="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<g id="Rectangle 2 Copy">
-<path d="M7 20H24H41V44H24H7V20Z" fill="#2F88FF"/>
-<path d="M24 44H41V20H24M24 44H7V20H24M24 44V20" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-<path id="Path 447" d="M16 4L24 12L32 4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-</g>
-</g>
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M41 44V20H7V44H41Z" fill="#09C8E2"/>
+<path d="M41 44V20H7V44H41Z" fill="#2F88FF"/>
+<path d="M41 44V20H7V44H41Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 44V20" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41 44H7" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="4" y="12" width="40" height="8" fill="#09C8E2"/>
+<rect x="4" y="12" width="40" height="8" fill="#2F88FF"/>
+<rect x="4" y="12" width="40" height="8" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M16 4L24 12L32 4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

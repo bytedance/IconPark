@@ -9,16 +9,10 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('arrow-circle-up', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<circle stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" cx="24" cy="24" r="20"/>'
-                + '<g transform="translate(24.491664, 24.500000) scale(1, -1) rotate(90.000000) translate(-24.491664, -24.500000) translate(15.491664, 15.000000)">'
-                    + '<path d="M3.11266201e-17,9.99166372 L18,9.99166372" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[2] + '" fill="none" fill-rule="evenodd"/>'
-                    + '<polyline points="9 0.991663717 18 9.99166372 9 18.9916637" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[2] + '" fill="none" fill-rule="evenodd"/>'
-                + '</g>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24 33.5V15.5" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M33 24.5L24 15.5L15 24.5" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

@@ -11,7 +11,7 @@ export default IconWrapper('quadrangular-pyramid', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M24 4L44 24L24 44L4 24L24 4Z" fill="' + props.colors[1] + '"/>'
-        + '<path d="M24 4L44 24M24 4L4 24M24 4L30 24M24 4L18 24M44 24L24 44M44 24H30M24 44L4 24M24 44L18 24M24 44L30 24M4 24H18M30 24H18" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M44 24L24 4L4 24L24 44L44 24Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M44 24H30M4 24H18M30 24L24 4L18 24M30 24H18M30 24L24 44L18 24" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

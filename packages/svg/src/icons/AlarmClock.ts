@@ -9,14 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('alarm-clock', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(4.000000, 3.000000)">'
-                + '<circle stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero" cx="20" cy="23" r="18.3333333" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
-                + '<polyline stroke="' + props.colors[2] + '" stroke-linecap="' + props.strokeLinecap + '" transform="translate(23.644979, 21.744075) rotate(-45.000000) translate(-23.644979, -21.744075) " points="27.5376224 12.3564608 19.7523348 20.1400254 19.7523348 31.1316891" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M0,6 L7,1" stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M33,6 L40,1" stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" transform="translate(36.500000, 3.200000) scale(-1, 1) translate(-36.500000, -3.200000) " stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M24 44.3332C34.1252 44.3332 42.3333 36.1251 42.3333 25.9998C42.3333 15.8746 34.1252 7.6665 24 7.6665C13.8747 7.6665 5.66663 15.8746 5.66663 25.9998C5.66663 36.1251 13.8747 44.3332 24 44.3332Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M23.7594 15.3534L23.7582 26.3622L31.5305 34.1345" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M4 8.99995L11 3.99995" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M44 8.99995L37 3.99995" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

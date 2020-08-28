@@ -9,14 +9,8 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('arrow-right-down', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(10.000000, 11.000000)">'
-                + '<g transform="translate(0.275537, 0.000000)">'
-                    + '<polyline transform="translate(17.724463, 17.000000) rotate(90.000000) translate(-17.724463, -17.000000) " points="8.72446285 8 26.7244629 8 26.7244629 26" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                    + '<path d="M31.9930816,13.6249513 L-4,12.9192046" transform="translate(13.996541, 13.272078) rotate(223.876697) translate(-13.996541, -13.272078) " stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '</g>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M37 19V37H19" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M11.5441 11.5442L36.9999 37" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

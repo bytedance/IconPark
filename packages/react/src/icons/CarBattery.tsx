@@ -23,7 +23,20 @@ export default IconWrapper(
                 y="12"
                 width="40"
                 height="30"
+                fill="#09C8E2"
+            />
+            <rect
+                x="3"
+                y="12"
+                width="40"
+                height="30"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="3"
+                y="12"
+                width="40"
+                height="30"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -34,7 +47,20 @@ export default IconWrapper(
                 y="6"
                 width="8"
                 height="6"
+                fill="#09C8E2"
+            />
+            <rect
+                x="3"
+                y="6"
+                width="8"
+                height="6"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="3"
+                y="6"
+                width="8"
+                height="6"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -45,7 +71,20 @@ export default IconWrapper(
                 y="6"
                 width="8"
                 height="6"
+                fill="#09C8E2"
+            />
+            <rect
+                x="35"
+                y="6"
+                width="8"
+                height="6"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="35"
+                y="6"
+                width="8"
+                height="6"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

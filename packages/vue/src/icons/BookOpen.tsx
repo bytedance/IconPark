@@ -15,31 +15,22 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M4 7H16C20.4183 7 24 10.5817 24 15V43C24 39.6863 21.3137 37 18 37H4V7Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(4.000000, 7.000000)"
-                        fill={props.colors[1]}
-                        fill-rule="nonzero"
-                        stroke={props.colors[0]}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <path
-                            d="M0,2.27373675e-13 L12,2.27373675e-13 C16.418278,2.27373675e-13 20,3.581722 20,8 L20,36 C20,32.6862915 17.3137085,30 14,30 L0,30 L0,2.27373675e-13 Z"
-                        />
-                        <path
-                            d="M40,0 L28,0 C23.581722,0 20,3.581722 20,8 L20,36 C20,32.6862915 22.6862915,30 26,30 L40,30 L40,0 Z"
-                        />
-                    </g>
-                </g>
-            </g>
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44 7H32C27.5817 7 24 10.5817 24 15V43C24 39.6863 26.6863 37 30 37H44V7Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

@@ -9,15 +9,12 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('tape', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(4.000000, 9.000000)">'
-                + '<path d="M2,1 L6,1 L34,1 L38,1 C39.1045695,1 40,1.8954305 40,3 L40,27 C40,28.1045695 39.1045695,29 38,29 L2,29 C0.8954305,29 1.3527075e-16,28.1045695 0,27 L0,3 C-1.3527075e-16,1.8954305 0.8954305,1 2,1 Z" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
-                + '<polygon stroke="' + props.colors[2] + '" stroke-linecap="' + props.strokeLinecap + '" points="6 1 11 7 20 7 29 7 34 1" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-                + '<polyline stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" points="2 1 2 1 6 1 34 1 38 1" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
-                + '<circle stroke="' + props.colors[2] + '" fill="' + props.colors[3] + '" fill-rule="nonzero" cx="29" cy="18" r="4" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
-                + '<circle stroke="' + props.colors[2] + '" fill="' + props.colors[3] + '" fill-rule="nonzero" cx="11" cy="18" r="4" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M4 12C4 10.8954 4.89543 10 6 10H10H38H42C43.1046 10 44 10.8954 44 12V36C44 37.1046 43.1046 38 42 38H6C4.89543 38 4 37.1046 4 36V12Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M14.2701 10C12.5744 10 11.6481 11.9777 12.7336 13.2804L14.4003 15.2804C14.7803 15.7364 15.3432 16 15.9367 16H24H32.0633C32.6568 16 33.2197 15.7364 33.5997 15.2804L35.2664 13.2804C36.3519 11.9777 35.4256 10 33.7299 10H14.2701Z" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M6 10V10H10H38H42" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M33 31C35.2091 31 37 29.2091 37 27C37 24.7909 35.2091 23 33 23C30.7909 23 29 24.7909 29 27C29 29.2091 30.7909 31 33 31Z" fill="' + props.colors[3] + '" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M15 31C17.2091 31 19 29.2091 19 27C19 24.7909 17.2091 23 15 23C12.7909 23 11 24.7909 11 27C11 29.2091 12.7909 31 15 31Z" fill="' + props.colors[3] + '" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

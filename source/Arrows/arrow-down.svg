@@ -1,15 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>arrow-down</title>
-    <desc>Created with Sketch.</desc>
-    <g id="arrow-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <g id="Group-2" transform="translate(24.000000, 24.000000) rotate(180.000000) translate(-24.000000, -24.000000) translate(12.000000, 6.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-                <path d="M30,18 L-6,18" id="Line-3" transform="translate(12.000000, 18.000000) rotate(-90.000000) translate(-12.000000, -18.000000) "></path>
-                <polyline id="Path-7" transform="translate(12.000000, 6.000000) rotate(-90.000000) translate(-12.000000, -6.000000) " points="6 -6 18 6 6 18"></polyline>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M24 42L24 6" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 30L24 42L12 30" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

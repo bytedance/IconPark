@@ -9,13 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('voice', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(9.000000, 4.000000)">'
-                + '<path d="M22,20 C22,23.8659932 18.8659932,27 15,27 C11.1340068,27 8,23.8659932 8,20 L8,7 C8,3.13400675 11.1340068,0 15,0 C18.8659932,0 22,3.13400675 22,7 L22,20 Z" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '"/>'
-                + '<path d="M0,19 C0,27.2842712 6.71572875,34 15,34 C23.2842712,34 30,27.2842712 30,19" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M15,34 L15,40" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M31 24V11C31 7.13401 27.866 4 24 4C20.134 4 17 7.13401 17 11V24C17 27.866 20.134 31 24 31C27.866 31 31 27.866 31 24Z" fill="' + props.colors[1] + '"/>'
+        + '<path d="M29 11V24H33V11H29ZM24 6C26.7614 6 29 8.23858 29 11H33C33 6.02944 28.9706 2 24 2V6ZM19 11C19 8.23858 21.2386 6 24 6V2C19.0294 2 15 6.02944 15 11H19ZM19 24V11H15V24H19ZM15 24C15 28.9706 19.0294 33 24 33V29C21.2386 29 19 26.7614 19 24H15ZM24 33C28.9706 33 33 28.9706 33 24H29C29 26.7614 26.7614 29 24 29V33Z" fill="' + props.colors[0] + '"/>'
+        + '<path d="M9 23C9 31.2843 15.7157 38 24 38C32.2843 38 39 31.2843 39 23" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24 38V44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

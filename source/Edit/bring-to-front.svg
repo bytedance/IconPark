@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>bring-to-front</title>
-    <desc>Created with Sketch.</desc>
-    <g id="bring-to-front" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <rect id="Rectangle备份" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" x="18" y="18" width="24" height="24" rx="1"></rect>
-            <polyline id="路径-22" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="9.96906202 6 6 6 6 10.0336312"></polyline>
-            <polyline id="路径-22备份-2" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(7.998523, 28.005992) scale(1, -1) translate(-7.998523, -28.005992) " points="9.99704635 26.0119849 6 26.0119849 6 30"></polyline>
-            <polyline id="路径-22备份" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(28.001140, 8.007609) scale(-1, 1) translate(-28.001140, -8.007609) " points="30 6 26.0022791 6 26.0022791 10.0152188"></polyline>
-            <path d="M16.0284368,6 L20.0083937,6" id="路径-23" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M6,16 C6,18.6535589 6,19.9868922 6,20" id="路径-24" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M30,16 C30,18.6765168 30,19.345646 30,18.0073876" id="路径-24备份" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M15.9925514,30 L18,30" id="路径-25" stroke="#000000" stroke-width="4" stroke-linecap="round"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>
+<path d="M41 18H19C18.4477 18 18 18.4477 18 19V41C18 41.5523 18.4477 42 19 42H41C41.5523 42 42 41.5523 42 41V19C42 18.4477 41.5523 18 41 18Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M9.96906 6H6V10.0336" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M9.99705 30H6V26.012" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M26.0023 6H30V10.0152" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16.0283 6H20.0083" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 16C6 18.6536 6 19.9869 6 20" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 16C30 18.6765 30 19.3456 30 18.0074" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.9927 30H18.0001" stroke="black" stroke-width="4" stroke-linecap="round"/>
 </svg>

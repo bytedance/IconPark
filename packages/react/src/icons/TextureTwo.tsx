@@ -24,7 +24,22 @@ export default IconWrapper(
                 width="40"
                 height="40"
                 rx="4"
+                fill="#09C8E2"
+            />
+            <rect
+                x="4"
+                y="4"
+                width="40"
+                height="40"
+                rx="4"
                 fill={props.colors[1]}
+            />
+            <rect
+                x="4"
+                y="4"
+                width="40"
+                height="40"
+                rx="4"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

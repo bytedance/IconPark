@@ -1,8 +1,14 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M4 28H44V40H4V28Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M4 10H44V28H4V10Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M4 4H44V10H4V4Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 28H44V40H4V28Z" fill="#09C8E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 28H44V40H4V28Z" fill="#2F88FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 28H44V40H4V28Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 10H44V28H4V10Z" fill="#09C8E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 10H44V28H4V10Z" fill="#2F88FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 10H44V28H4V10Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 4H44V10H4V4Z" fill="#09C8E2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 4H44V10H4V4Z" fill="#2F88FF"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 4H44V10H4V4Z" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="8" y="40" width="8" height="4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="32" y="40" width="8" height="4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M21 16H27" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>

@@ -18,19 +18,147 @@ export default IconWrapper(
             fill="none"
         >
             <path
+                d="M44 44L4 4V44H44Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
                 fill-rule="evenodd"
                 clip-rule="evenodd"
-                d="M4 4L44 44H30H24H18H12H4V36V30V24V18V4ZM13 35H25L13 23V35Z"
+                d="M13 35H25L13 23V35Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
                 fill={props.colors[1]}
             />
             <path
                 fill-rule="evenodd"
                 clip-rule="evenodd"
-                d="M44 44L4 4V18V24V30V36V44H12H18H24H30H44ZM13 35H25L13 23V35Z"
+                d="M13 35H25L13 23V35Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M4 30H7M4 30V36M4 30V24M4 36H7M4 36V44H12M4 24H7M4 24V18M4 18V4L44 44H30M4 18H7M12 44V41M12 44H18M18 44V41M18 44H24M24 44V41M24 44H30M30 44V41M13 23V35H25L13 23Z"
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                fill={props.colors[1]}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                fill="#09C8E2"
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                fill={props.colors[1]}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M13 35H25L13 23V35Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M30 44V41"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 44V41"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18 44V41"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M12 44V41"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 36H7"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 30H7"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 24H7"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 18H7"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

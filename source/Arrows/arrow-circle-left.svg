@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>arrow-circle-left</title>
-    <desc>Created with Sketch.</desc>
-    <g id="arrow-circle-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <circle id="Oval" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" cx="24" cy="24" r="20"></circle>
-            <g id="Group-3" transform="translate(23.491664, 24.500000) scale(-1, 1) translate(-23.491664, -24.500000) translate(14.491664, 15.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-                <path d="M0,9.5 L18,9.5" id="Path-11"></path>
-                <polyline id="Path-8" points="9 0.5 18 9.5 9 18.5"></polyline>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M32.4917 24.5H14.4917" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.4917 15.5L14.4917 24.5L23.4917 33.5" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

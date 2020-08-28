@@ -10,9 +10,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('multi-rectangle', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M12 39H44V7H12V15" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M8 39H32V15H8V23" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<rect x="4" y="23" width="16" height="16" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<rect x="4" y="23" width="16" height="16" fill="#09C8E2"/>'
+        + '<rect x="4" y="23" width="16" height="16" fill="' + props.colors[1] + '"/>'
+        + '<rect x="4" y="23" width="16" height="16" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

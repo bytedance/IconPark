@@ -15,43 +15,45 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M37 32H11V44H37V32Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M37 32H11V44H37V32Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M37 32H11V44H37V32Z"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
                 fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(4.000000, 4.000000)"
-                        stroke={props.colors[0]}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <rect
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                            x="7"
-                            y="28"
-                            width="26"
-                            height="12"
-                        />
-                        <polygon
-                            stroke-linecap={props.strokeLinecap}
-                            points="0 16 40 16 40 34 33.0172943 34 33.0172943 28 6.98049555 28 6.98049555 34 0 34"
-                        />
-                        <rect
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                            x="6"
-                            y="0"
-                            width="28"
-                            height="16"
-                        />
-                    </g>
-                </g>
-            </g>
+                clip-rule="evenodd"
+                d="M4 20H44V38H37.0173V32H10.9805V38H4V20Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M38 4H10V20H38V4Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M38 4H10V20H38V4Z"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M38 4H10V20H38V4Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

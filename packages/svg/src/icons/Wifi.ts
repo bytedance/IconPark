@@ -9,14 +9,10 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('wifi', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(4.000000, 11.000000)">'
-                + '<path d="M7.10542736e-15,7.96525873 C0.58880873,7.40725606 1.19522976,6.87857136 1.81741237,6.37920464 C13.0370976,-2.62576827 29.3821512,-2.09708357 40.0000126,7.96525873" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M34,14.7989899 C26.2680135,7.06700338 13.7319865,7.06700338 6,14.7989899" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M28,21.3137085 C23.581722,16.8954305 16.418278,16.8954305 12,21.3137085" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" fill="none" fill-rule="evenodd"/>'
-                + '<circle fill="' + props.colors[0] + '" cx="20" cy="26.5" r="2.5" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M4.00001 18.9653C4.58881 18.4073 5.19523 17.8786 5.81741 17.3792C17.0371 8.37423 33.3821 8.90292 44 18.9653" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M38 25.799C30.268 18.067 17.732 18.067 10 25.799" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M32 32.3137C27.5817 27.8954 20.4183 27.8954 16 32.3137" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M24 40C25.3807 40 26.5 38.8807 26.5 37.5C26.5 36.1193 25.3807 35 24 35C22.6193 35 21.5 36.1193 21.5 37.5C21.5 38.8807 22.6193 40 24 40Z" fill="' + props.colors[0] + '"/>'
     + '</svg>'
 ));

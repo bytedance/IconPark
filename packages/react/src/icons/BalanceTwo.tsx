@@ -19,13 +19,35 @@ export default IconWrapper(
             fill="none"
         >
             <path
+                d="M16 22L10 12L4 22"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M10 28C13.3137 28 16 25.3137 16 22H4C4 25.3137 6.68629 28 10 28Z"
+                fill="#09C8E2"
+            />
+            <path
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M10 28C13.3137 28 16 25.3137 16 22H4C4 25.3137 6.68629 28 10 28Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M16 22C16 25.3137 13.3137 28 10 28C6.68629 28 4 25.3137 4 22M16 22L10 12L4 22M16 22H4"
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M10 28C13.3137 28 16 25.3137 16 22H4C4 25.3137 6.68629 28 10 28Z"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44 22L38 12L32 22"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -35,17 +57,46 @@ export default IconWrapper(
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M38 28C41.3137 28 44 25.3137 44 22H32C32 25.3137 34.6863 28 38 28Z"
+                fill="#09C8E2"
+            />
+            <path
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M38 28C41.3137 28 44 25.3137 44 22H32C32 25.3137 34.6863 28 38 28Z"
                 fill={props.colors[1]}
             />
             <path
-                d="M44 22C44 25.3137 41.3137 28 38 28C34.6863 28 32 25.3137 32 22M44 22L38 12L32 22M44 22H32"
+                fillRule="evenodd"
+                clipRule="evenodd"
+                d="M38 28C41.3137 28 44 25.3137 44 22H32C32 25.3137 34.6863 28 38 28Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M10 12H24M38 12H24M24 12V6M24 12V42M24 42H38M24 42H10"
+                d="M24 6V42"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M10 12H24H38"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M10 12H24H38"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M38 42H24H10"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

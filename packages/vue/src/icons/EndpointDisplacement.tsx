@@ -19,6 +19,10 @@ export default IconWrapper(
         >
             <path
                 d="M14 9C14 11.7614 11.7614 14 9 14C6.23858 14 4 11.7614 4 9C4 6.23858 6.23858 4 9 4C11.7614 4 14 6.23858 14 9Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M14 9C14 11.7614 11.7614 14 9 14C6.23858 14 4 11.7614 4 9C4 6.23858 6.23858 4 9 4C11.7614 4 14 6.23858 14 9Z"
                 fill={props.colors[1]}
             />
             <path
@@ -27,6 +31,10 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M34 39C34 41.7614 36.2386 44 39 44C41.7614 44 44 41.7614 44 39C44 36.2386 41.7614 34 39 34C36.2386 34 34 36.2386 34 39Z"
+                fill="#09C8E2"
             />
             <path
                 d="M34 39C34 41.7614 36.2386 44 39 44C41.7614 44 44 41.7614 44 39C44 36.2386 41.7614 34 39 34C36.2386 34 34 36.2386 34 39Z"
@@ -41,6 +49,10 @@ export default IconWrapper(
             />
             <path
                 d="M34 9C34 11.7614 36.2386 14 39 14C41.7614 14 44 11.7614 44 9C44 6.23858 41.7614 4 39 4C36.2386 4 34 6.23858 34 9Z"
+                fill="#09C8E2"
+            />
+            <path
+                d="M34 9C34 11.7614 36.2386 14 39 14C41.7614 14 44 11.7614 44 9C44 6.23858 41.7614 4 39 4C36.2386 4 34 6.23858 34 9Z"
                 fill={props.colors[1]}
             />
             <path
@@ -49,6 +61,10 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 39C4 36.2386 6.23858 34 9 34C11.7614 34 14 36.2386 14 39C14 41.7614 11.7614 44 9 44C6.23858 44 4 41.7614 4 39Z"
+                fill="#09C8E2"
             />
             <path
                 d="M4 39C4 36.2386 6.23858 34 9 34C11.7614 34 14 36.2386 14 39C14 41.7614 11.7614 44 9 44C6.23858 44 4 41.7614 4 39Z"
