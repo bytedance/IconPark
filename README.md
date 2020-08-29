@@ -10,9 +10,7 @@ English | [简体中文](README.zh-CN.md)
 
 ## Introduction
 The  IconPark gives access to more than 1,300 high-quality icons, and introduces an interface for customizing your icons.
-It is common practice to provide a variety of SVG source files to achieve different skin themes. However, We have discovered an innovative technology to transform attributes of an SVG source file into multiple themes. Besides, they can generate cross-platform codes automatically, like `react-icons`, `vue-icons`, `svg-icons`.
-
-### Icons
+Instead of using various SVG source files to achieve different themes. However, We have discovered an innovative technology to transform attributes of an SVG source file into multiple themes. Besides, they can generate cross-platform codes automatically, like `react-icons`, `vue-icons`, `svg-icons`.
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-dance.gif"></ifram>
 
 ### Packages
