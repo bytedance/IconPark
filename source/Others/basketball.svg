@@ -4,6 +4,7 @@
     <title>basketball</title>
     <desc>Created with Sketch.</desc>
     <g id="basketball" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(4.000000, 4.000000)" stroke="#000000" stroke-width="4">
             <circle id="Oval" cx="20" cy="20" r="20"></circle>
             <path d="M4.54545455,7.27272727 C8.78787879,10.9090909 10.9090909,15.1515152 10.9090909,20 C10.9090909,24.8484848 8.78787879,29.0909091 4.54545455,32.7272727" id="Path-371"></path>

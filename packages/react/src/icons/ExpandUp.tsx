@@ -19,11 +19,6 @@ export default IconWrapper(
             fill="none"
         >
             <rect
-                width="48"
-                height="48"
-                fill="#FBB0B0"
-            />
-            <rect
                 x="4"
                 y="4"
                 width="40"

@@ -4,6 +4,7 @@
     <title>mail-open</title>
     <desc>Created with Sketch.</desc>
     <g id="mail-open" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(4.000000, 4.000000)" stroke="#000000" stroke-width="4">
             <path d="M40,14 L40,35.8181818 C40,37.0231667 39.1045695,38 38,38 L2,38 C0.8954305,38 0,37.0231667 0,35.8181818 L0,14 L20,27 L40,14 Z" id="路径" fill="#2F88FF" fill-rule="nonzero"></path>
             <polyline id="形状" stroke-linecap="round" points="-3.55271368e-15 13.7839098 20 -2.48689958e-14 40 13.7839098"></polyline>

@@ -4,6 +4,7 @@
     <title>signal</title>
     <desc>Created with Sketch.</desc>
     <g id="signal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(7.500000, 6.000000)" stroke="#000000" stroke-width="4">
             <path d="M32.5,0 L32.5,36" id="Path-310"></path>
             <path d="M21.5,10 L21.5,36" id="Path-311"></path>

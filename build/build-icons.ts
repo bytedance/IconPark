@@ -3,6 +3,7 @@
  */
 
 import parse from 'csv-parse/lib/sync';
+import csv from 'csv-stringify/lib/sync';
 import fs from 'fs';
 import path from 'path';
 
@@ -38,7 +39,7 @@ fs.readdirSync(path.join(__dirname, '../source')).forEach(dir => {
         fs.readdirSync(dirPath).forEach(file => {
 
             const filePath = path.join(dirPath, file);
-            const key = path.basename(filePath, '.svg');
+            const key = path.basename(filePath, '.svg').toLowerCase();
 
             if (ALL_ICON_MAP[key]) {
                 console.log('图标名字重复：', key);
@@ -49,6 +50,11 @@ fs.readdirSync(path.join(__dirname, '../source')).forEach(dir => {
     }
 });
 const data: IIconProps[] = [];
+const categoryMap: Record<string, string> = {};
+
+arr.slice(1).forEach((item: string[]) => {
+    categoryMap[item[3]] = item[2];
+});
 
 arr.slice(1).forEach((item: string[], i) => {
 
@@ -69,7 +75,10 @@ arr.slice(1).forEach((item: string[], i) => {
         if (ALL_ICON_MAP[name]) {
             svg = ALL_ICON_MAP[name][1];
             printErrorMsg('svg分类错误: 请检查图标分类, 真实分类 = ' + ALL_ICON_MAP[name][0]);
-            NEW_CSV.push(item);
+            const newItem = [...item];
+            newItem[3] = ALL_ICON_MAP[name][0];
+            newItem[2] = categoryMap[ALL_ICON_MAP[name][0]];
+            NEW_CSV.push(newItem);
         } else {
             printErrorMsg('svg路径不存在: 请检查是否缺失svg或者拼写错误');
             return;
@@ -78,6 +87,8 @@ arr.slice(1).forEach((item: string[], i) => {
         svg = fs.readFileSync(filePath, 'utf8');
         NEW_CSV.push(item);
     }
+
+    delete ALL_ICON_MAP[name];
 
     // 非法字符
     if (/[^\da-z-]/.test(name)) {
@@ -113,8 +124,18 @@ arr.slice(1).forEach((item: string[], i) => {
 console.log('总图标数', count);
 console.log('错误图标数', Object.keys(errors).length);
 
+if (Object.keys(ALL_ICON_MAP).length) {
+    console.log('没使用图标');
+    Object.keys(ALL_ICON_MAP).forEach(key => {
+        console.log('Category = ' + ALL_ICON_MAP[key][0] + ' Name = ' + key);
+    });
+}
+
 fs.writeFileSync(path.resolve(__dirname, '../source/icons.json'), JSON.stringify(data, null, 4), 'utf8');
 
 data.forEach(item => delete item.svg);
 
 fs.writeFileSync(path.resolve(__dirname, '../source/icons-config.json'), JSON.stringify(data, null, 4), 'utf8');
+
+fs.writeFileSync(path.resolve(__dirname, '../source/db-fixed.csv'), csv(NEW_CSV), 'utf8');
+

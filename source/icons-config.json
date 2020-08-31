@@ -430,8 +430,8 @@
         "id": 28,
         "title": "银行卡",
         "name": "bank-card",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Money",
+        "categoryCN": "钱财",
         "author": "银行卡卡片证件",
         "tag": [
             "银行卡",
@@ -458,8 +458,8 @@
         "id": 30,
         "title": "复制",
         "name": "copy",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Edit",
+        "categoryCN": "编辑操作",
         "author": "复制拷贝克隆",
         "tag": [
             "复制",
@@ -823,8 +823,8 @@
         "id": 55,
         "title": "3D眼镜",
         "name": "three-d-glasses",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "眼镜三维立体3d三维",
         "tag": [
             "眼镜",
@@ -870,8 +870,8 @@
         "id": 58,
         "title": "理财",
         "name": "financing",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Money",
+        "categoryCN": "钱财",
         "author": "货币兑换钱币金属钱币财产铜钱",
         "tag": [
             "货币兑换",
@@ -917,8 +917,8 @@
         "id": 61,
         "title": "禁止",
         "name": "forbid",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Character",
+        "categoryCN": "符号",
         "author": "禁止不允许",
         "tag": [
             "禁止",
@@ -985,8 +985,8 @@
         "id": 66,
         "title": "添加",
         "name": "add-one",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Character",
+        "categoryCN": "符号",
         "author": "新建增加创建",
         "tag": [
             "新建",
@@ -1215,8 +1215,8 @@
         "id": 82,
         "title": "历史记录",
         "name": "history",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Time",
+        "categoryCN": "时间",
         "author": "历史记录时光机",
         "tag": [
             "历史",
@@ -1342,8 +1342,8 @@
         "id": 91,
         "title": "已定位",
         "name": "local",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "位置坐标地点",
         "tag": [
             "位置",
@@ -1356,8 +1356,8 @@
         "id": 92,
         "title": "导航",
         "name": "navigation",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "指针方向指引指针导航",
         "tag": [
             "指针",
@@ -1416,8 +1416,8 @@
         "id": 96,
         "title": "标记",
         "name": "mark",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "旗帜旗子记号活动",
         "tag": [
             "旗帜",
@@ -1694,8 +1694,8 @@
         "id": 114,
         "title": "耳机",
         "name": "headset",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "耳麦客服耳机",
         "tag": [
             "耳麦",
@@ -1708,8 +1708,8 @@
         "id": 115,
         "title": "耳机",
         "name": "headset-one",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "客服二级耳麦服务",
         "tag": [
             "客服",
@@ -1768,8 +1768,8 @@
         "id": 119,
         "title": "裁切",
         "name": "cutting",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Edit",
+        "categoryCN": "编辑操作",
         "author": "裁剪剪切编辑",
         "tag": [
             "裁剪",
@@ -1797,8 +1797,8 @@
         "id": 121,
         "title": "无线网络",
         "name": "wifi",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "Wi-Fi无线网网络信号",
         "tag": [
             "Wi-Fi",
@@ -1812,8 +1812,8 @@
         "id": 122,
         "title": "关闭无线网络",
         "name": "close-wifi",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "Wi-Fi无线网网络信号关闭",
         "tag": [
             "Wi-Fi",
@@ -2077,8 +2077,8 @@
         "id": 140,
         "title": "裁切",
         "name": "cutting-one",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Edit",
+        "categoryCN": "编辑操作",
         "author": "裁剪剪切编辑剪刀",
         "tag": [
             "裁剪",
@@ -2194,8 +2194,8 @@
         "id": 148,
         "title": "链接断开",
         "name": "unlink",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Edit",
+        "categoryCN": "编辑操作",
         "author": "链接链条锁链无效链接",
         "tag": [
             "链接",
@@ -2223,8 +2223,8 @@
         "id": 150,
         "title": "电池充电",
         "name": "battery-charge",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "电池充电",
         "tag": [
             "电池",
@@ -2236,8 +2236,8 @@
         "id": 151,
         "title": "电池满电",
         "name": "battery-full",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "电池满电",
         "tag": [
             "电池",
@@ -2249,8 +2249,8 @@
         "id": 152,
         "title": "电池运行",
         "name": "battery-working",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "电池电池电量能量",
         "tag": [
             "电池",
@@ -2263,8 +2263,8 @@
         "id": 153,
         "title": "电池没电",
         "name": "battery-empty",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "电池电量空",
         "tag": [
             "电池",
@@ -2291,8 +2291,8 @@
         "id": 155,
         "title": "投射屏幕",
         "name": "cast-screen",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "投射投屏无线投屏",
         "tag": [
             "投射",
@@ -2354,8 +2354,8 @@
         "id": 159,
         "title": "购物车",
         "name": "shopping",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Money",
+        "categoryCN": "钱财",
         "author": "购物车买东西消费",
         "tag": [
             "购物车",
@@ -2396,8 +2396,8 @@
         "id": 162,
         "title": "男性",
         "name": "male",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "男性别符号",
         "tag": [
             "男",
@@ -2469,8 +2469,8 @@
         "id": 167,
         "title": "全部",
         "name": "all-application",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "管理四块更多应用导航四宫格矩阵米亚格全部应用",
         "tag": [
             "管理",
@@ -2504,8 +2504,8 @@
         "id": 169,
         "title": "地图",
         "name": "map-draw",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "地图位置地理方位方向交通定位",
         "tag": [
             "地图",
@@ -2522,8 +2522,8 @@
         "id": 170,
         "title": "本地",
         "name": "local-two",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "本地地表地点地图出行交通运输",
         "tag": [
             "本地",
@@ -2540,8 +2540,8 @@
         "id": 171,
         "title": "本地",
         "name": "local-pin",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "本地游戏摇杆图钉出行交通",
         "tag": [
             "本地",
@@ -2557,8 +2557,8 @@
         "id": 172,
         "title": "星球",
         "name": "planet",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "星球地球环绕卫星宇宙浏览器",
         "tag": [
             "星球",
@@ -2634,8 +2634,8 @@
         "id": 177,
         "title": "风车",
         "name": "windmill-two",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "风车转动旋转风景发电动力",
         "tag": [
             "风车",
@@ -2724,8 +2724,8 @@
         "id": 183,
         "title": "光盘",
         "name": "record-disc",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "光盘音乐磁盘播放复古",
         "tag": [
             "光盘",
@@ -2740,8 +2740,8 @@
         "id": 184,
         "title": "地球仪",
         "name": "earth",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "网路语言全球互联网",
         "tag": [
             "网路",
@@ -3100,8 +3100,8 @@
         "id": 207,
         "title": "系统",
         "name": "system",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "系统更多四块",
         "tag": [
             "系统",
@@ -3295,8 +3295,8 @@
         "id": 220,
         "title": "幻灯片",
         "name": "ppt",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "幻灯片播放延时投影",
         "tag": [
             "幻灯片",
@@ -3310,8 +3310,8 @@
         "id": 221,
         "title": "幻灯片",
         "name": "slide-two",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "幻灯片播放PPT投影",
         "tag": [
             "幻灯片",
@@ -3538,8 +3538,8 @@
         "id": 236,
         "title": "城市",
         "name": "city",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Build",
+        "categoryCN": "建筑",
         "author": "城市建筑楼房",
         "tag": [
             "城市",
@@ -3582,8 +3582,8 @@
         "id": 239,
         "title": "切换按钮",
         "name": "switch-button",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "切换按钮开关切换组合",
         "tag": [
             "切换按钮",
@@ -3614,8 +3614,8 @@
         "id": 241,
         "title": "无效提醒",
         "name": "remind-disable",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "闹钟提醒无效时间超时",
         "tag": [
             "闹钟",
@@ -5471,8 +5471,8 @@
         "id": 373,
         "title": "字号大小",
         "name": "font-size",
-        "category": "Character",
-        "categoryCN": "符号",
+        "category": "Edit",
+        "categoryCN": "编辑操作",
         "author": "字号大小文字",
         "tag": [
             "字号大小",
@@ -5511,8 +5511,8 @@
         "id": 376,
         "title": "字体大小",
         "name": "font-size-two",
-        "category": "Edit",
-        "categoryCN": "编辑操作",
+        "category": "Character",
+        "categoryCN": "符号",
         "author": "字体大小编辑调整",
         "tag": [
             "字体大小",
@@ -5942,8 +5942,8 @@
         "id": 407,
         "title": "更多3",
         "name": "more-three",
-        "category": "Edit",
-        "categoryCN": "编辑操作",
+        "category": "Character",
+        "categoryCN": "符号",
         "author": "更多圆形三点",
         "tag": [
             "更多",
@@ -12498,8 +12498,8 @@
         "id": 866,
         "title": "均衡器",
         "name": "equalizer",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Base",
+        "categoryCN": "常用图标",
         "author": "音量调节调整设置调整",
         "tag": [
             "音量调节",
@@ -12526,8 +12526,8 @@
         "id": 868,
         "title": "城市",
         "name": "city-one",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Build",
+        "categoryCN": "建筑",
         "author": "城市建筑楼房",
         "tag": [
             "城市",
@@ -12716,8 +12716,8 @@
         "id": 880,
         "title": "娱乐",
         "name": "entertainment",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "娱乐唱歌麦克风说话KTV",
         "tag": [
             "娱乐",
@@ -12732,8 +12732,8 @@
         "id": 881,
         "title": "演出",
         "name": "performance",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "演出音乐表演娱乐歌曲播放",
         "tag": [
             "演出",
@@ -12927,8 +12927,8 @@
         "id": 893,
         "title": "对比度",
         "name": "contrast",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Operate",
+        "categoryCN": "其它分类,操作",
         "author": "对比度参数摄像牌照配置",
         "tag": [
             "对比度",
@@ -13534,8 +13534,8 @@
         "id": 932,
         "title": "银行卡",
         "name": "bank-card-two",
-        "category": "Money",
-        "categoryCN": "钱财",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "银行卡财富前金钱银行卡片",
         "tag": [
             "银行卡",
@@ -13826,8 +13826,8 @@
         "id": 951,
         "title": "闪电",
         "name": "lightning",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Base",
+        "categoryCN": "常用图标",
         "author": "闪电天气打雷下雨",
         "tag": [
             "闪电",
@@ -14035,8 +14035,8 @@
         "id": 965,
         "title": "AirPods",
         "name": "airpods",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "蓝牙耳机苹果耳机耳机无线耳机",
         "tag": [
             "蓝牙耳机",
@@ -14419,8 +14419,8 @@
         "id": 991,
         "title": "商圈",
         "name": "shopping-mall",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Build",
+        "categoryCN": "建筑",
         "author": "购物商城购买城市楼",
         "tag": [
             "购物",
@@ -14748,8 +14748,8 @@
         "id": 1012,
         "title": "人脸识别",
         "name": "face-recognition",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Operate",
+        "categoryCN": "其它分类,操作",
         "author": "人脸支付人脸刷脸人脸密码扫脸",
         "tag": [
             "人脸支付",
@@ -15666,8 +15666,8 @@
         "id": 1071,
         "title": "上课铃",
         "name": "bell-ring",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "铃声闹钟信号上课",
         "tag": [
             "铃声",
@@ -16542,8 +16542,8 @@
         "id": 1124,
         "title": "投影仪",
         "name": "projector-two",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "投影仪设备投影投屏播放演示",
         "tag": [
             "投影仪",
@@ -17514,8 +17514,8 @@
         "id": 1195,
         "title": "数据库占比",
         "name": "database-proportion",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Datas",
+        "categoryCN": "数据库",
         "author": "数据库占比",
         "tag": [
             "数据库占比"
@@ -17937,8 +17937,8 @@
         "id": 1229,
         "title": "耳机声音",
         "name": "headphone-sound",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "耳机声音",
         "tag": [
             "耳机声音"
@@ -17987,8 +17987,8 @@
         "id": 1233,
         "title": "人脸识别",
         "name": "ios-face-recognition",
-        "category": "Operate",
-        "categoryCN": "其它分类,操作",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "人脸识别面部识别",
         "tag": [
             "人脸识别",
@@ -18178,8 +18178,8 @@
         "id": 1248,
         "title": "影视板",
         "name": "movie-board",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "影视板",
         "tag": [
             "影视板"
@@ -18190,8 +18190,8 @@
         "id": 1249,
         "title": "音乐律动",
         "name": "music-rhythm",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "音乐律动",
         "tag": [
             "音乐律动"
@@ -18429,8 +18429,8 @@
         "id": 1268,
         "title": "信号强度",
         "name": "signal-strength",
-        "category": "Others",
-        "categoryCN": "其它分类",
+        "category": "Music",
+        "categoryCN": "声音",
         "author": "信号强度",
         "tag": [
             "信号强度"
@@ -18469,8 +18469,8 @@
         "id": 1271,
         "title": "监控摄像头",
         "name": "surveillance-cameras-two",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "监控摄像头",
         "tag": [
             "监控摄像头"
@@ -18481,8 +18481,8 @@
         "id": 1272,
         "title": "监控摄像头",
         "name": "surveillance-cameras",
-        "category": "Base",
-        "categoryCN": "常用图标",
+        "category": "Others",
+        "categoryCN": "其它分类",
         "author": "监控摄像头",
         "tag": [
             "监控摄像头"
@@ -18594,5 +18594,153 @@
             "运动"
         ],
         "time": "2020-03-08"
+    },
+    {
+        "id": 1281,
+        "title": "刷新",
+        "name": "refresh-one",
+        "category": "Base",
+        "categoryCN": "常用图标",
+        "author": "刷新重置更新",
+        "tag": [
+            "刷新",
+            "重置",
+            "更新"
+        ],
+        "time": "2020-08-31"
+    },
+    {
+        "id": 1282,
+        "title": "星星",
+        "name": "star-one",
+        "category": "Brand",
+        "categoryCN": "品牌标识",
+        "author": "收藏已收藏取消收藏评分评价打分星级",
+        "tag": [
+            "收藏",
+            "已收藏",
+            "取消收藏",
+            "评分",
+            "评价",
+            "打分",
+            "星级"
+        ],
+        "time": "2020-01-19"
+    },
+    {
+        "id": 1283,
+        "title": "插入表",
+        "name": "insert-table",
+        "category": "Edit",
+        "categoryCN": "编辑操作",
+        "author": "表格图表表插入",
+        "tag": [
+            "表格",
+            "图表",
+            "表",
+            "插入"
+        ],
+        "time": "2020-08-31"
+    },
+    {
+        "id": 1284,
+        "title": "中药",
+        "name": "traditional-chinese-medicine",
+        "category": "Health",
+        "categoryCN": "医疗健康",
+        "author": "中国药材中药饭碗",
+        "tag": [
+            "中国",
+            "药材",
+            "中药",
+            "饭",
+            "碗"
+        ],
+        "time": "2020-08-31"
+    },
+    {
+        "id": 1285,
+        "title": "声音-大",
+        "name": "volume-notice",
+        "category": "Music",
+        "categoryCN": "声音",
+        "author": "音量声音喇叭小声广播",
+        "tag": [
+            "音量",
+            "声音",
+            "喇叭",
+            "小声",
+            "广播"
+        ],
+        "time": "2020-08-31"
+    },
+    {
+        "id": 1286,
+        "title": "声音-小",
+        "name": "volume-small",
+        "category": "Music",
+        "categoryCN": "声音",
+        "author": "音量声音喇叭小声广播",
+        "tag": [
+            "音量",
+            "声音",
+            "喇叭",
+            "小声",
+            "广播"
+        ],
+        "time": "2020-08-31"
+    },
+    {
+        "id": 1287,
+        "title": "静音",
+        "name": "volume-mute",
+        "category": "Music",
+        "categoryCN": "声音",
+        "author": "音量关闭静音声音音量喇叭广播",
+        "tag": [
+            "音量关闭",
+            "静音",
+            "声音",
+            "音量",
+            "喇叭",
+            "广播"
+        ],
+        "time": "2020-08-31"
+    },
+    {
+        "id": 1288,
+        "title": "树叶",
+        "name": "sleaves",
+        "category": "Others",
+        "categoryCN": "其它分类",
+        "author": "叶子树叶叶标本植物树木草",
+        "tag": [
+            "叶子",
+            "树叶",
+            "叶",
+            "标本",
+            "植物",
+            "树木",
+            "草"
+        ],
+        "time": "2020-08-31"
+    },
+    {
+        "id": 1289,
+        "title": "instagram",
+        "name": "instagram-one",
+        "category": "Brand",
+        "categoryCN": "品牌标识",
+        "author": "小视频短视频logo社交图片分享国际社交社交平台",
+        "tag": [
+            "小视频",
+            "短视频",
+            "logo",
+            "社交",
+            "图片分享",
+            "国际社交",
+            "社交平台"
+        ],
+        "time": "2019-10-12"
     }
 ]

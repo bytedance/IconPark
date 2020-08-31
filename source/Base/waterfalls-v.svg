@@ -4,6 +4,7 @@
     <title>waterfalls-v</title>
     <desc>Created with Sketch.</desc>
     <g id="waterfalls-v" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(5.500000, 5.500000)" fill="#2F88FF" fill-rule="nonzero" stroke="#000000" stroke-width="4">
             <rect id="矩形" transform="translate(9.000000, 7.500000) rotate(-270.000000) translate(-9.000000, -7.500000) " x="2" y="-1" width="14" height="17"></rect>
             <rect id="矩形复制" transform="translate(28.000000, 29.500000) rotate(-270.000000) translate(-28.000000, -29.500000) " x="21" y="21" width="14" height="17"></rect>

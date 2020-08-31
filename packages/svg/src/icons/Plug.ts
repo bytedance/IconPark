@@ -11,6 +11,7 @@ export default IconWrapper('plug', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
         + '<g>'
+            + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
             + '<g transform="translate(6.000000, 4.000000)">'
                 + '<path d="M0,10 L36,10 L36,20 C32,28 26,32 18,32 C10,32 4,28 0,20 L0,10 Z" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
                 + '<polyline stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" points="27 30 26 40 10 40 9 30" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'

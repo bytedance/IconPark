@@ -26,7 +26,7 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
             />
             <g
-                filter={'url(#' + props.id + 'd29314ca' + ')'}
+                filter={'url(#' + props.id + 'f9aa571d' + ')'}
             >
                 <path
                     d="M41.7987 18.0479C39.3724 10.5345 32.3209 3.99985 24 3.99985"
@@ -65,7 +65,7 @@ export default IconWrapper(
             />
             <defs>
                 <filter
-                    id={props.id + 'd29314ca'}
+                    id={props.id + 'f9aa571d'}
                     x="18"
                     y="1.99985"
                     width="29.7992"

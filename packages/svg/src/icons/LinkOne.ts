@@ -11,6 +11,7 @@ export default IconWrapper('link-one', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
         + '<g>'
+            + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
             + '<g transform="translate(2.000000, 2.000000)">'
                 + '<g transform="translate(21.646447, 22.353553) rotate(-45.000000) translate(-21.646447, -22.353553) translate(14.146447, -0.646447)">'
                     + '<path d="M14.9769622,19.1908822 L14.9769622,7.26495624 C14.9769622,3.50123794 11.8429554,0.450141421 7.97696219,0.450141421 C4.11096894,0.450141421 0.97696219,3.50123794 0.97696219,7.26495624 L0.97696219,17.4871785" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'

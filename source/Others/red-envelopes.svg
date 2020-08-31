@@ -4,6 +4,7 @@
     <title>red-envelopes</title>
     <desc>Created with Sketch.</desc>
     <g id="red-envelopes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(8.000000, 4.000000)" stroke="#000000" stroke-width="4">
             <rect id="Rectangle-56" stroke-linecap="round" x="0" y="0" width="32" height="40"></rect>
             <path d="M11.7368854,16.7775148 C7.73688539,15.2066736 4,11.7624921 0,6 M32,6 C28,11.7624921 24.319097,15.3206733 20.319097,16.8915145" id="Combined-Shape" stroke-linecap="round"></path>

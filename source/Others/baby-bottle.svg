@@ -4,6 +4,7 @@
     <title>babybottle</title>
     <desc>Created with Sketch.</desc>
     <g id="babybottle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(8.000000, 4.000000)" stroke="#000000" stroke-width="4">
             <rect id="矩形" x="4" y="16" width="24" height="24"></rect>
             <path d="M18,32 L28,32" id="路径-5"></path>

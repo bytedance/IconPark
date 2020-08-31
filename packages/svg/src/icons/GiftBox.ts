@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('gift-box', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<rect width="48" height="48" fill="#FBB0B0"/>'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M4 7C4 5.34315 5.34315 4 7 4H24H41C42.6569 4 44 5.34315 44 7V24V41C44 42.6569 42.6569 44 41 44H24H7C5.34315 44 4 42.6569 4 41V24V7Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M4 24H44" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M24 44V4" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'

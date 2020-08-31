@@ -4,6 +4,7 @@
     <title>pic</title>
     <desc>Created with Sketch.</desc>
     <g id="pic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组备份-3" transform="translate(5.000000, 8.000000)" stroke="#000000">
             <path d="M2,0 L36,0 C37.1045695,-2.02906125e-16 38,0.8954305 38,2 L38,30 C38,31.1045695 37.1045695,32 36,32 L2,32 C0.8954305,32 1.3527075e-16,31.1045695 0,30 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" stroke-width="4" stroke-linecap="round"></path>
             <circle id="Oval" stroke-width="3" stroke-linecap="round" cx="9.5" cy="8.5" r="1.5"></circle>

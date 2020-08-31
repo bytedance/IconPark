@@ -11,6 +11,7 @@ export default IconWrapper('cutting', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
         + '<g>'
+            + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
             + '<g transform="translate(6.000000, 5.000000)">'
                 + '<g transform="translate(0.000000, 0.021632)">'
                     + '<polyline points="0 4.97836848 32 4.97836848 32 36.9783685" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'

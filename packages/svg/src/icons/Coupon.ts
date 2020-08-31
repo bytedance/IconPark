@@ -11,6 +11,7 @@ export default IconWrapper('coupon', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
         + '<g>'
+            + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
             + '<g transform="translate(4.000000, 8.000000)">'
                 + '<path d="M0,11.3129605 L0,0 L40,0 L40,11.3129605 C37.8814684,12.0679939 36.3636364,14.1052655 36.3636364,16.5 C36.3636364,18.8947345 37.8814684,20.9320061 40,21.6870395 L40,33 L0,33 L0,21.6870395 C2.11853159,20.9320061 3.63636364,18.8947345 3.63636364,16.5 C3.63636364,14.1052655 2.11853159,12.0679939 3.33066907e-16,11.3129605 Z" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '"/>'
                 + '<polyline stroke="' + props.colors[2] + '" stroke-linecap="' + props.strokeLinecap + '" points="14.5454545 6.41666667 20 11.9166667 25.4545455 6.41666667" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'

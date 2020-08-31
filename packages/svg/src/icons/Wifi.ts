@@ -10,6 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('wifi', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M4.00001 18.9653C4.58881 18.4073 5.19523 17.8786 5.81741 17.3792C17.0371 8.37423 33.3821 8.90292 44 18.9653" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M38 25.799C30.268 18.067 17.732 18.067 10 25.799" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M32 32.3137C27.5817 27.8954 20.4183 27.8954 16 32.3137" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'

@@ -4,6 +4,7 @@
     <title>guideboard</title>
     <desc>Created with Sketch.</desc>
     <g id="guideboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(6.000000, 4.000000)" stroke="#000000" stroke-width="4">
             <path d="M18,0 L18,37" id="Path-9" stroke-linecap="round"></path>
             <polygon id="Rectangle-3" fill="#2F88FF" fill-rule="nonzero" points="18 4 33.5454545 4 36 8 33.5454545 12 18 12"></polygon>

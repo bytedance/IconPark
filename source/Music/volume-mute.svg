@@ -1,6 +1,5 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<rect opacity="0.01" x="30" y="18" width="13" height="13" fill="white"/>
 <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="30" y="18" width="13" height="13">
 <rect x="30" y="18" width="13" height="13" fill="white"/>
 </mask>

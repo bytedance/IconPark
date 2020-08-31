@@ -4,6 +4,7 @@
     <title>report</title>
     <desc>Created with Sketch.</desc>
     <g id="report" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(3.754351, 2.827607)" stroke="#000000" stroke-width="4">
             <path d="M32.2456488,32.1723935 L8.24564876,32.1723935 L8.24564876,18.1723935 C8.24564876,11.5449765 13.6182318,6.1723935 20.2456488,6.1723935 C26.8730658,6.1723935 32.2456488,11.5449765 32.2456488,18.1723935 L32.2456488,32.1723935 Z" id="形状结合" fill="#2F88FF" fill-rule="nonzero"></path>
             <path d="M4.24564876,39.1723935 L36.2456488,39.1723935" id="路径-7" stroke-linecap="round"></path>

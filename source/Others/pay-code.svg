@@ -4,6 +4,7 @@
     <title>pay-code</title>
     <desc>Created with Sketch.</desc>
     <g id="pay-code" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(4.000000, 4.000000)" stroke-width="4">
             <rect id="Rectangle-2" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" x="0" y="0" width="40" height="40"></rect>
             <path d="M8,12 L8,28" id="Path-352" stroke="#FFFFFF" stroke-linecap="round"></path>

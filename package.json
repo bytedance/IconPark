@@ -36,6 +36,7 @@
         "@vue/babel-preset-jsx": "^1.1.2",
         "@vue/babel-sugar-inject-h": "^1.1.2",
         "csv-parse": "^4.12.0",
+        "csv-stringify": "^5.3.2",
         "gulp": "^4.0.2",
         "gulp-babel": "^8.0.0",
         "gulp-less": "^4.0.1",

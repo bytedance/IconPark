@@ -4,6 +4,7 @@
     <title>fireworks</title>
     <desc>Created with Sketch.</desc>
     <g id="fireworks" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(6.000000, 2.000000)">
             <polygon id="Path-9" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" points="0 40 8.67409249 15.2640024 25 32.0384615"></polygon>
             <path d="M17,17 L22,12 C24.6666667,9.33333333 25,7 23,5" id="Path-10" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>

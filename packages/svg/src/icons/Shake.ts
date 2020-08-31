@@ -11,6 +11,7 @@ export default IconWrapper('shake', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
         + '<g>'
+            + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
             + '<g transform="translate(4.000000, 6.000000)">'
                 + '<polyline stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" points="0 4 4 8.66666667 0 13.3333333 4 18 0 22.6666667 4 27.3333333 0 32" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'
                 + '<polyline stroke="' + props.colors[0] + '" stroke-linecap="' + props.strokeLinecap + '" transform="translate(38.000000, 18.000000) scale(-1, 1) translate(-38.000000, -18.000000) " points="36 4 40 8.66666667 36 13.3333333 40 18 36 22.6666667 40 27.3333333 36 32" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" fill="none" fill-rule="evenodd"/>'

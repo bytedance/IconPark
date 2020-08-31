@@ -4,6 +4,7 @@
     <title>align-text-center1</title>
     <desc>Created with Sketch.</desc>
     <g id="align-text-center1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
         <g id="编组" transform="translate(6.000000, 8.000000)" stroke="#000000" stroke-width="4">
             <path d="M30,11 L6,11" id="路径"></path>
             <path d="M36,1 L0,1" id="路径"></path>

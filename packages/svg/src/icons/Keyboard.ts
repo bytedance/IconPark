@@ -11,7 +11,6 @@ export default IconWrapper('keyboard', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path fill-rule="evenodd" clip-rule="evenodd" d="M15 19C16.3807 19 17.5 17.8807 17.5 16.5C17.5 15.1193 16.3807 14 15 14C13.6193 14 12.5 15.1193 12.5 16.5C12.5 17.8807 13.6193 19 15 19Z" fill="' + props.colors[0] + '"/>'
         + '<path fill-rule="evenodd" clip-rule="evenodd" d="M15 27C16.3807 27 17.5 25.8807 17.5 24.5C17.5 23.1193 16.3807 22 15 22C13.6193 22 12.5 23.1193 12.5 24.5C12.5 25.8807 13.6193 27 15 27Z" fill="' + props.colors[0] + '"/>'

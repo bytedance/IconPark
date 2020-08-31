@@ -27,9 +27,9 @@
 命令键,command,连接,Connect,command.svg (https://dl.airtable.com/.attachments/ef858b6101cad7c9cb8dd665fedee4d8/e8017686/command.svg),命令建，符号，键盘，按键,常留留 常,2019-05-31
 盒子,box,常用图标,Base,box.svg (https://dl.airtable.com/.attachments/504f1dfea5c9083951370387d0adfdd5/c465c696/box.svg),箱子，盒子，纸盒，容器,齐 奉飞,2019-05-27
 面条,bowl,餐饮食物,Foods,bowl.svg (https://dl.airtable.com/.attachments/ed937fb48240f46b8b7445f93c15d848/2e5422f1/bowl.svg),食物，碗，吃的，美食,齐 奉飞,2019-05-28
-银行卡,bank-card,常用图标,Base,bank-card.svg (https://dl.airtable.com/.attachments/e3180b2e448df09f8c323e1949c0432b/249a8fd4/bank-card.svg),银行卡，卡片，证件,刘心乐,2019-05-28
+银行卡,bank-card,钱财,Money,bank-card.svg (https://dl.airtable.com/.attachments/e3180b2e448df09f8c323e1949c0432b/249a8fd4/bank-card.svg),银行卡，卡片，证件,刘心乐,2019-05-28
 复制链接,copy-link,编辑操作,Edit,copy-link.svg (https://dl.airtable.com/.attachments/7003a563eeddcb9e2da944ecc310ed1c/d4c5483c/copy-link.svg),链接，复制链接，地址,常留留 常,2019-05-27
-复制,copy,常用图标,Base,copy.svg (https://dl.airtable.com/.attachments/7c6caa12643df46243f480b05bad5668/409dfa9f/copy.svg),复制，拷贝，克隆,常留留 常,2019-03-19
+复制,copy,编辑操作,Edit,copy.svg (https://dl.airtable.com/.attachments/7c6caa12643df46243f480b05bad5668/409dfa9f/copy.svg),复制，拷贝，克隆,常留留 常,2019-03-19
 终端,terminal,常用图标,Base,terminal.svg (https://dl.airtable.com/.attachments/7afe4dbfc85243f1e3ffe8941ef71d15/4f906106/terminal.svg),技术，终端，命令行，代码框,常留留 常,2019-05-29
 保存,save,常用图标,Base,save.svg (https://dl.airtable.com/.attachments/aa49f287f7c4bf12559e9b4dfffb8594/736b30cb/save.svg),保存，存储，暂存，草稿,常留留 常,2019-05-27
 保存硬盘,save-one,常用图标,Base,,保存，存储，暂存，草稿,,
@@ -54,18 +54,18 @@
 摄像,monitor,常用图标,Base,monitor.svg (https://dl.airtable.com/.attachments/91ded5172da84b2e6ca8996321d10884/271a2eae/monitor.svg),拍摄，录像，摄像机，影像，电影,刘心乐,2019-03-21
 关闭摄像,monitor-off,常用图标,Base,monitor-off.svg (https://dl.airtable.com/.attachments/3205b8b0a5024211fe7f225ae88f5335/95dac3ed/monitor-off.svg),拍摄，录像，摄像机，影像，电影，关闭,常留留 常,2020-01-17
 照片,pic,常用图标,Base,pic.svg (https://dl.airtable.com/.attachments/241f63d416588de2609c1fed019e7627/9a0c7816/pic.svg),图片，画面，图形,常留留 常,2019-03-21
-3D眼镜,three-d-glasses,常用图标,Base,3D-glasses.svg (https://dl.airtable.com/.attachments/67cd4194ea2911de36d1b8bc0902b4ba/e628909b/3D-glasses.svg),眼镜，三维立体，3d，三维,常留留 常,2019-11-22
+3D眼镜,three-d-glasses,其它分类,Others,3D-glasses.svg (https://dl.airtable.com/.attachments/67cd4194ea2911de36d1b8bc0902b4ba/e628909b/3D-glasses.svg),眼镜，三维立体，3d，三维,常留留 常,2019-11-22
 眼镜,glasses,常用图标,Base,,眼镜，乔布斯，近视，镜片，观察，搜索,金 磊,2020-02-11
 望远镜,telescope,常用图标,Base,telescope.svg (https://dl.airtable.com/.attachments/f09e5b36eaa3d486ab221e58cbe6a94b/8e0488eb/telescope.svg),望远镜，侦查，观察，监视,金 磊,2019-08-16
-理财,financing,常用图标,Base,financing1.svg (https://dl.airtable.com/.attachments/32ad2b1791dac60fd8d945bdf89686a9/f1b20ebf/financing1.svg),货币兑换，钱币，金属钱币，财产，铜钱,齐 奉飞,2019-05-30
+理财,financing,钱财,Money,financing1.svg (https://dl.airtable.com/.attachments/32ad2b1791dac60fd8d945bdf89686a9/f1b20ebf/financing1.svg),货币兑换，钱币，金属钱币，财产，铜钱,齐 奉飞,2019-05-30
 金融,finance,钱财,Money,finance.svg (https://dl.airtable.com/.attachments/5f9de5542116837464365bf0c3fd4cc1/96bdc0e7/finance.svg),钱，钱包，财产，金融，金钱,齐 奉飞,2019-05-30
 电影,movie,常用图标,Base,movie.svg (https://dl.airtable.com/.attachments/5fed888605a8e71ad16ee7f7a793ca57/5c86b1a1/movie.svg),视频，胶片，电影，电视,常留留 常,2019-03-21
-禁止,forbid,常用图标,Base,forbid.svg (https://dl.airtable.com/.attachments/5086368f505b0af1cbc3a60dacf36b72/86d42f7a/forbid.svg),禁止，不允许,齐 奉飞,2019-03-19
+禁止,forbid,符号,Character,forbid.svg (https://dl.airtable.com/.attachments/5086368f505b0af1cbc3a60dacf36b72/86d42f7a/forbid.svg),禁止，不允许,齐 奉飞,2019-03-19
 播放,play,常用图标,Base,play1.svg (https://dl.airtable.com/.attachments/3513ff49495683d7f235e753e286a1f7/8f79144f/play1.svg),视频，播放，播放器，媒体,齐 奉飞,2019-03-19
 暂停,pause-one,常用图标,Base,pause2.svg (https://dl.airtable.com/.attachments/3e650e20ba9024cad0f31e952ed84a2a/65cdd654/pause2.svg),停止播放，暂停,常留留 常,2019-03-19
-减少,reduce,"常用图标,符号","Character",reduce1.svg (https://dl.airtable.com/.attachments/de10f2cbba78bd5e13d0530d3c81d503/e76102a1/reduce1.svg),未全选，复选框-未全选,常留留 常,2019-03-19
-添加,add,"常用图标,符号","Character",add1.svg (https://dl.airtable.com/.attachments/05a4d32e1f9aceff37f8826a4ecb69eb/6492fe23/add1.svg),新建，增加，创建,常留留 常,2019-03-19
-添加,add-one,常用图标,Base,add2.svg (https://dl.airtable.com/.attachments/04892c53587a3d05b6681e770a8377d6/1477832d/add2.svg),新建，增加，创建,常留留 常,2019-03-19
+减少,reduce,"常用图标,符号",Character,reduce1.svg (https://dl.airtable.com/.attachments/de10f2cbba78bd5e13d0530d3c81d503/e76102a1/reduce1.svg),未全选，复选框-未全选,常留留 常,2019-03-19
+添加,add,"常用图标,符号",Character,add1.svg (https://dl.airtable.com/.attachments/05a4d32e1f9aceff37f8826a4ecb69eb/6492fe23/add1.svg),新建，增加，创建,常留留 常,2019-03-19
+添加,add-one,符号,Character,add2.svg (https://dl.airtable.com/.attachments/04892c53587a3d05b6681e770a8377d6/1477832d/add2.svg),新建，增加，创建,常留留 常,2019-03-19
 设置,setting,常用图标,Base,setting1.svg (https://dl.airtable.com/.attachments/c4336ac666498a41c16710c97c5ee386/8aa9067b/setting1.svg),齿轮，设置，配置,刘心乐,2019-03-22
 设置,setting-two,常用图标,Base,设置.svg (https://dl.airtable.com/.attachments/dfa4ec537eb5fe425dd1097af44f4e4a/5239413f.svg),齿轮，设置，螺丝，螺母，配置,常留留 常,2019-10-12
 设置,setting-one,常用图标,Base,setting2.svg (https://dl.airtable.com/.attachments/aed0c591f159c0aa8d7761e277427f8b/17e03d55/setting2.svg),齿轮，设置，螺丝，螺母,刘心乐,2019-03-22
@@ -73,15 +73,15 @@
 配置,config,常用图标,Base,cogfig.svg (https://dl.airtable.com/.attachments/e8847dfab056162e51663e1f8c30e682/189cc75e/cogfig.svg),配置，设置，配置,齐 奉飞,2019-07-11
 闹钟,alarm-clock,时间,Time,alarm-clock.svg (https://dl.airtable.com/.attachments/8b28d76a04034bab74f91dcb3b936f7a/4927d91c/alarm-clock.svg),倒计时 ，闹钟，时间,常留留 常,2019-03-26
 秒表,stopwatch,时间,Time,stopwatch.svg (https://dl.airtable.com/.attachments/187e9610c686ad9483b83cff2d04e086/c1eeb6c9/stopwatch.svg),倒计时 ，时间，描边,常留留 常,2019-03-26
-帮助,help,"常用图标,符号","Character",help.svg (https://dl.airtable.com/.attachments/1008cbefdd218c53af05bf6a73766d0e/fdf725be/help.svg),问题，疑问，帮助,刘心乐,2019-03-22
-注意,attention,"常用图标,符号","Character",attention.svg (https://dl.airtable.com/.attachments/4b2797b57111dc10392916516c848ba6/fe03d050/attention.svg),提示，注意，警示,刘心乐,2019-03-22
-信息,info,"常用图标,符号","Character",info.svg (https://dl.airtable.com/.attachments/e8cb60a4ee35cfe56f3a1115ac04804a/0f043ce1/info.svg),注解，信息，提示,刘心乐,2019-03-22
+帮助,help,"常用图标,符号",Character,help.svg (https://dl.airtable.com/.attachments/1008cbefdd218c53af05bf6a73766d0e/fdf725be/help.svg),问题，疑问，帮助,刘心乐,2019-03-22
+注意,attention,"常用图标,符号",Character,attention.svg (https://dl.airtable.com/.attachments/4b2797b57111dc10392916516c848ba6/fe03d050/attention.svg),提示，注意，警示,刘心乐,2019-03-22
+信息,info,"常用图标,符号",Character,info.svg (https://dl.airtable.com/.attachments/e8cb60a4ee35cfe56f3a1115ac04804a/0f043ce1/info.svg),注解，信息，提示,刘心乐,2019-03-22
 时间,time,时间,Time,time.svg (https://dl.airtable.com/.attachments/cb8e1b5039168d140bb3b173279a073f/10630d78/time.svg),钟表，时间，倒计时,齐 奉飞,2019-03-26
-关闭,close-one,"常用图标,符号","Character",close2.svg (https://dl.airtable.com/.attachments/ce038485e491e908cf637835a2a80c3f/ecb66e94/close2.svg),删除，清除，错误,刘心乐,2019-03-22
-校验,check-one,"常用图标,符号","Character",check1.svg (https://dl.airtable.com/.attachments/cebbad0deafd52497a9c879d4bb02348/ace2859a/check1.svg),勾选，选中，对号，完成,刘心乐,2019-03-22
-减少,reduce-one,"常用图标,符号","Character",reduce.svg (https://dl.airtable.com/.attachments/af2752e94d08c0c9f5db845f944bdcbf/3c3a37da/reduce.svg),未全选，减号，不允许，禁止,常留留 常,2019-03-19
+关闭,close-one,"常用图标,符号",Character,close2.svg (https://dl.airtable.com/.attachments/ce038485e491e908cf637835a2a80c3f/ecb66e94/close2.svg),删除，清除，错误,刘心乐,2019-03-22
+校验,check-one,"常用图标,符号",Character,check1.svg (https://dl.airtable.com/.attachments/cebbad0deafd52497a9c879d4bb02348/ace2859a/check1.svg),勾选，选中，对号，完成,刘心乐,2019-03-22
+减少,reduce-one,"常用图标,符号",Character,reduce.svg (https://dl.airtable.com/.attachments/af2752e94d08c0c9f5db845f944bdcbf/3c3a37da/reduce.svg),未全选，减号，不允许，禁止,常留留 常,2019-03-19
 雷达,radar,常用图标,Base,radar.svg (https://dl.airtable.com/.attachments/bb20f8549042c2da43a5ed0ac3794b55/66dcd058/radar.svg),雷达，瞄准，聚焦,齐 奉飞,2019-05-29
-历史记录,history,常用图标,Base,history.svg (https://dl.airtable.com/.attachments/337402ac20fb92b27219912678bd7441/404673a3/history.svg),历史，记录，时光机,常留留 常,2019-03-26
+历史记录,history,时间,Time,history.svg (https://dl.airtable.com/.attachments/337402ac20fb92b27219912678bd7441/404673a3/history.svg),历史，记录，时光机,常留留 常,2019-03-26
 加载,loading-three,常用图标,Base,加载备份 2.svg (https://dl.airtable.com/.attachments/e0059b7e4202966dfabdeec8d0916dff/461c549a/2.svg),等待，加载，转圈，缓冲,金 磊,2019-10-12
 瞄准,aiming,常用图标,Base,aiming.svg (https://dl.airtable.com/.attachments/22a777c16175ec0d4b1019745199bf68/7d992443/aiming.svg),瞄准，聚焦，关注，锁定,常留留 常,2019-05-30
 刷新,refresh,常用图标,Base,refresh1.svg (https://dl.airtable.com/.attachments/db14e607cc0f4fb6a3856af59439ec75/229ae88d/refresh1.svg),刷新，旋转，切换,齐 奉飞,2019-03-21
@@ -90,12 +90,12 @@
 手电筒,flashlight,常用图标,Base,flashlight.svg (https://dl.airtable.com/.attachments/3014f720337bc48938ad5c5cefc8c28b/d4da2430/flashlight.svg),手电，光芒，点灯,齐 奉飞,2019-05-28
 书签,bookmark-one,常用图标,Base,bookmark2.svg (https://dl.airtable.com/.attachments/1312dfb03ae5429aabcf379810431b38/664a0a06/bookmark2.svg),书签，多书签,齐 奉飞,2019-05-30
 标签,tag-one,常用图标,Base,note.svg (https://dl.airtable.com/.attachments/095a9bd4c12fb3a3b711b63cce2afc81/e92ebed6/note.svg),便签，note，折扣，标记,刘心乐,2019-03-22
-已定位,local,常用图标,Base,local.svg (https://dl.airtable.com/.attachments/2947caeb136d87d4ef9dce326aa42757/be61f8d5/local.svg),位置，坐标，地点,齐 奉飞,2019-05-28
-导航,navigation,常用图标,Base,navigation.svg (https://dl.airtable.com/.attachments/39519e9e651af3a61c8f3f4c2a7de2df/0e2948c7/navigation.svg),指针，方向，指引，指针，导航,常留留 常,2019-05-29
+已定位,local,其它分类,Others,local.svg (https://dl.airtable.com/.attachments/2947caeb136d87d4ef9dce326aa42757/be61f8d5/local.svg),位置，坐标，地点,齐 奉飞,2019-05-28
+导航,navigation,其它分类,Others,navigation.svg (https://dl.airtable.com/.attachments/39519e9e651af3a61c8f3f4c2a7de2df/0e2948c7/navigation.svg),指针，方向，指引，指针，导航,常留留 常,2019-05-29
 预览-打开,preview-open,常用图标,Base,preview-open.svg (https://dl.airtable.com/.attachments/edc229f496cb1ec1c4a089574866a0e5/cdd188ac/preview-open.svg),可见，眼睛，打开,齐 奉飞,2019-03-26
 预览-关闭,preview-close,常用图标,Base,preview-close.svg (https://dl.airtable.com/.attachments/d4619879df0b3643aa633f99c1df4b4f/3ad46be4/preview-close.svg),隐藏，不可见，眼睛，关闭,齐 奉飞,2019-03-26
 预览-关闭,preview-close-one,常用图标,Base,eye-off.svg (https://dl.airtable.com/.attachments/d851b48c1a9cb41a1d610af4ff68b5ff/1b3b54b1/eye-off.svg),隐藏，不可见，眼睛，关闭,常留留 常,2020-01-17
-标记,mark,常用图标,Base,Flag.svg (https://dl.airtable.com/.attachments/8bfa18752650103fdb8da4384cd9c883/75abfbfb/Flag.svg),旗帜，旗子，记号，活动,齐 奉飞,2019-03-26
+标记,mark,其它分类,Others,Flag.svg (https://dl.airtable.com/.attachments/8bfa18752650103fdb8da4384cd9c883/75abfbfb/Flag.svg),旗帜，旗子，记号，活动,齐 奉飞,2019-03-26
 钱包,wallet,钱财,Money,wallet.svg (https://dl.airtable.com/.attachments/13cd4d948dff0f1b66615a9dadb82741/31b76625/wallet.svg),钱， 钱包 ，资金， 金融 ，充值,刘心乐,2019-03-21
 消费,consume,常用图标,Base,consume.svg (https://dl.airtable.com/.attachments/7f9396b7c567bd24a30b37f383c00f06/07801ffd/consume.svg),总消耗，花钱，花费，钱,常留留 常,2019-05-30
 清除,clear,常用图标,Base,clear.svg (https://dl.airtable.com/.attachments/19c197ae14a9348f703bda456ef6dc31/c41e5d26/clear.svg),删除，清除，擦除，扫把，清理,刘心乐,2019-03-22
@@ -113,15 +113,15 @@
 添加购物车,shopping-cart-add,钱财,Money,shopping-cart-add.svg (https://dl.airtable.com/.attachments/91439523ca3a7c6ee22335f01d478fb8/2cd5e891/shopping-cart-add.svg),购物车，添加，买东西，购物,齐 奉飞,2019-05-27
 删除购物车,shopping-cart-del,钱财,Money,shopping-cart-del.svg (https://dl.airtable.com/.attachments/b860d2ceb57de7e80a7e2af16183a5ef/4448eb48/shopping-cart-del.svg),购物车，退货，删除，移除,齐 奉飞,2019-05-27
 汉堡图标,hamburger-button,常用图标,Base,hamburger-button.svg (https://dl.airtable.com/.attachments/7b5a482aafa9e383f2e346e511df21a8/70f57aef/hamburger-button.svg),导航，菜单，更多,齐 奉飞,2019-03-21
-耳机,headset,常用图标,Base,headset.svg (https://dl.airtable.com/.attachments/b0ef4ac798ee7fa937e0ae2699e81e94/289bf2f2/headset.svg),耳麦，客服，耳机,齐 奉飞,2019-05-29
-耳机,headset-one,常用图标,Base,headset2.svg (https://dl.airtable.com/.attachments/d21a978307fad85b1bb7a369d095ca00/10203fc2/headset2.svg),客服，二级，耳麦，服务,齐 奉飞,2019-05-29
+耳机,headset,声音,Music,headset.svg (https://dl.airtable.com/.attachments/b0ef4ac798ee7fa937e0ae2699e81e94/289bf2f2/headset.svg),耳麦，客服，耳机,齐 奉飞,2019-05-29
+耳机,headset-one,声音,Music,headset2.svg (https://dl.airtable.com/.attachments/d21a978307fad85b1bb7a369d095ca00/10203fc2/headset2.svg),客服，二级，耳麦，服务,齐 奉飞,2019-05-29
 AirPlay,airplay,常用图标,Base,airplay.svg (https://dl.airtable.com/.attachments/17fcc9285669fa224402dc41011b3818/88d5b383/airplay.svg),屏幕映像，无线投屏,常留留 常,2019-05-30
 加载,loading,常用图标,Base,loading.svg (https://dl.airtable.com/.attachments/79c9ca54c8594de915868f1d89fa4a5a/53cfa8a2/loading.svg),等待，加载，转圈,常留留 常,2019-03-21
 分享,share,常用图标,Base,share.svg (https://dl.airtable.com/.attachments/df921b050b3ab531b8462b6f263ba034/4dbb8cce/share.svg),分享，转发，跳转，新窗口打开，窗口，浏览器，打开,刘心乐,2019-03-21
-裁切,cutting,常用图标,Base,cutting1.svg (https://dl.airtable.com/.attachments/34f84db6a037dabdfd3ba8f4b3bc1ac3/37b1f843/cutting1.svg),裁剪，剪切，编辑,齐 奉飞,2019-03-19
+裁切,cutting,编辑操作,Edit,cutting1.svg (https://dl.airtable.com/.attachments/34f84db6a037dabdfd3ba8f4b3bc1ac3/37b1f843/cutting1.svg),裁剪，剪切，编辑,齐 奉飞,2019-03-19
 风车,windmill,常用图标,Base,windmill.svg (https://dl.airtable.com/.attachments/7b3cbcc550360d289fa3e9651e2e03b7/bfa53290/windmill.svg),风车，纸风车，旋转，快速,齐 奉飞,2019-05-29
-无线网络,wifi,常用图标,Base,wifi.svg (https://dl.airtable.com/.attachments/b1faf2dc38f6473d22cc4cd84ff99a5e/38902274/wifi.svg),Wi-Fi，无线网，网络，信号,齐 奉飞,2019-05-27
-关闭无线网络,close-wifi,常用图标,Base,close-wifi.svg (https://dl.airtable.com/.attachments/d4b4fbc7d00684d9476735d4707bd80e/9f5d2807/close-wifi.svg),Wi-Fi，无线网，网络，信号，关闭,常留留 常,2020-01-17
+无线网络,wifi,其它分类,Others,wifi.svg (https://dl.airtable.com/.attachments/b1faf2dc38f6473d22cc4cd84ff99a5e/38902274/wifi.svg),Wi-Fi，无线网，网络，信号,齐 奉飞,2019-05-27
+关闭无线网络,close-wifi,其它分类,Others,close-wifi.svg (https://dl.airtable.com/.attachments/d4b4fbc7d00684d9476735d4707bd80e/9f5d2807/close-wifi.svg),Wi-Fi，无线网，网络，信号，关闭,常留留 常,2020-01-17
 广播,broadcast,常用图标,Base,broadcast.svg (https://dl.airtable.com/.attachments/dc62213c9156b4de4715417d1c9686aa/48b40e1a/broadcast.svg),投射，发射，辐射，分享,常留留 常,2019-05-30
 语音信息,voicemail,声音,Music,voicemail.svg (https://dl.airtable.com/.attachments/a0fcc3511de4e9825cc2dae6ea74672a/39ad16f4/voicemail.svg),录音，磁带，语音，语音短信,常留留 常,2019-05-30
 蓝牙,bluetooth,常用图标,Base,bluetooth.svg (https://dl.airtable.com/.attachments/5ade95b748391d3180b73f9648501424/18cfd32a/bluetooth.svg),蓝牙，设备，无线连接,齐 奉飞,2019-05-27
@@ -133,13 +133,13 @@ AirPlay,airplay,常用图标,Base,airplay.svg (https://dl.airtable.com/.attachme
 播放,play-one,常用图标,Base,play2.svg (https://dl.airtable.com/.attachments/bbb5578fffeaf279a88255ad02c2e6c6/4908e8c6/play2.svg),视频，播放，播放器，媒体,齐 奉飞,2019-03-19
 暂停,pause,常用图标,Base,pause1.svg (https://dl.airtable.com/.attachments/95673ae1115ac3746574fd6654400d52/cca4fdc9/pause1.svg),停止播放，暂停,常留留 常,2019-03-19
 切换,switch,常用图标,Base,switch.svg (https://dl.airtable.com/.attachments/711837345009fbad282daac167ebf906/0f8470e2/switch.svg),切换，箭头，左右箭头,齐 奉飞,2019-03-21
-关闭,close,"常用图标,符号","Character",close1.svg (https://dl.airtable.com/.attachments/1e7801e5514c1c903df9db35eb36e83e/433bfb2b/close1.svg),删除，清除，错误,刘心乐,2019-03-22
-关闭-小,close-small,"常用图标,符号","Character",close-small.svg (https://dl.airtable.com/.attachments/fa9c2bdb888d0f11157903bd72f649fa/05f353e4/close-small.svg),删除，清除，错误,刘心乐,2019-03-22
-校验-小,check-small,"符号,常用图标","Character",check-small.svg (https://dl.airtable.com/.attachments/9b45911b6b013d822199468bffc32d48/380c076b/check-small.svg),勾选，对勾，正确，成功,刘心乐,2019-03-22
-校验,check,"常用图标,符号","Character",check1.svg (https://dl.airtable.com/.attachments/44470e44ec64767ef11e13bccaadb4bf/5a9dc655/check1.svg),勾选，对勾，正确，成功，完成,刘心乐,2019-03-22
-加,plus,"常用图标,符号","Character",plus.svg (https://dl.airtable.com/.attachments/e029502344c56d2dfd655a52f12e8b86/f5e2847f/plus.svg),新建， 增加 ，创建,常留留 常,2019-03-19
-减,minus,"常用图标,符号","Character",minus.svg (https://dl.airtable.com/.attachments/6a4a60023008ebf98be6acf2b53a3c5b/b8182ce6/minus.svg),减号，去除，减少，减去,常留留 常,2019-03-19
-裁切,cutting-one,常用图标,Base,cutting2.svg (https://dl.airtable.com/.attachments/b141368a230c9356e42739d5cdd8fdb5/cce90b56/cutting2.svg),裁剪，剪切，编辑，剪刀,齐 奉飞,2019-03-19
+关闭,close,"常用图标,符号",Character,close1.svg (https://dl.airtable.com/.attachments/1e7801e5514c1c903df9db35eb36e83e/433bfb2b/close1.svg),删除，清除，错误,刘心乐,2019-03-22
+关闭-小,close-small,"常用图标,符号",Character,close-small.svg (https://dl.airtable.com/.attachments/fa9c2bdb888d0f11157903bd72f649fa/05f353e4/close-small.svg),删除，清除，错误,刘心乐,2019-03-22
+校验-小,check-small,"符号,常用图标",Character,check-small.svg (https://dl.airtable.com/.attachments/9b45911b6b013d822199468bffc32d48/380c076b/check-small.svg),勾选，对勾，正确，成功,刘心乐,2019-03-22
+校验,check,"常用图标,符号",Character,check1.svg (https://dl.airtable.com/.attachments/44470e44ec64767ef11e13bccaadb4bf/5a9dc655/check1.svg),勾选，对勾，正确，成功，完成,刘心乐,2019-03-22
+加,plus,"常用图标,符号",Character,plus.svg (https://dl.airtable.com/.attachments/e029502344c56d2dfd655a52f12e8b86/f5e2847f/plus.svg),新建， 增加 ，创建,常留留 常,2019-03-19
+减,minus,"常用图标,符号",Character,minus.svg (https://dl.airtable.com/.attachments/6a4a60023008ebf98be6acf2b53a3c5b/b8182ce6/minus.svg),减号，去除，减少，减去,常留留 常,2019-03-19
+裁切,cutting-one,编辑操作,Edit,cutting2.svg (https://dl.airtable.com/.attachments/b141368a230c9356e42739d5cdd8fdb5/cce90b56/cutting2.svg),裁剪，剪切，编辑，剪刀,齐 奉飞,2019-03-19
 链接,link,常用图标,Base,link1.svg (https://dl.airtable.com/.attachments/98a64113066d94f898527487c8ed3008/f05f6df3/link1.svg),回形针，附件，文件,刘心乐,2019-03-28
 理财,financing-one,钱财,Money,financing2.svg (https://dl.airtable.com/.attachments/2bcbb57031ea176f6fbdc81c979ee788/08479254/financing2.svg),货币兑换，财富，钱袋子,齐 奉飞,2019-05-30
 音乐,music-one,声音,Music,music2.svg (https://dl.airtable.com/.attachments/b9acc174941120dd98cbca141e1014c4/378b42c2/music2.svg),音乐，乐符，歌曲，歌声，播放,常留留 常,2019-03-21
@@ -147,43 +147,43 @@ AirPlay,airplay,常用图标,Base,airplay.svg (https://dl.airtable.com/.attachme
 提示,tips,常用图标,Base,tips.svg (https://dl.airtable.com/.attachments/110c05a8303958143bbd0743b3d5aec5/9d058c47/tips.svg),灯泡，创意，灯光，灵感,齐 奉飞,2019-03-26
 点击,click-tap,常用图标,Base,click-tap.svg (https://dl.airtable.com/.attachments/9208c6b19b52d735e930d58a8a067981/1c5f8596/click-tap.svg),点击率，点击效果，按键，触发,齐 奉飞,2019-08-07
 链接,link-one,常用图标,Base,link2.svg (https://dl.airtable.com/.attachments/4091871255a12a0210625152332121a5/9b668265/link2.svg),链接，链条，锁链,常留留 常,2019-05-27
-链接断开,unlink,常用图标,Base,link-open.svg (https://dl.airtable.com/.attachments/aab92e7978ea121ec7ac24089bc411eb/b6e5e528/link-open.svg),链接，链条，锁链，无效链接,刘心乐,2019-05-27
-分享,share-one,"常用图标,连接","Connect",share1.svg (https://dl.airtable.com/.attachments/5068910ead2db727333f499971bd9da6/2ff54bfc/share1.svg),分享，转发，共享,刘心乐,2019-03-21
-电池充电,battery-charge,常用图标,Base,battery-charge.svg (https://dl.airtable.com/.attachments/ca12c128c8515515130ca047eadc4bdd/2b6f02b3/battery-charge.svg),电池，充电,齐 奉飞,2019-05-28
-电池满电,battery-full,常用图标,Base,battery-full.svg (https://dl.airtable.com/.attachments/96288d010c655df14fa2949d44112b03/65e2f175/battery-full.svg),电池，满电,齐 奉飞,2019-05-28
-电池运行,battery-working,常用图标,Base,battery-working.svg (https://dl.airtable.com/.attachments/5f0edce55a7196785f015b9049c66e20/f31f2bcc/battery-working.svg),电池，电池电量，能量,齐 奉飞,2019-05-28
-电池没电,battery-empty,常用图标,Base,battery-empty.svg (https://dl.airtable.com/.attachments/70f5a900ae39f03fce339c22305fc7bc/17bceb5c/battery-empty.svg),电池，电量空,齐 奉飞,2019-05-28
+链接断开,unlink,编辑操作,Edit,link-open.svg (https://dl.airtable.com/.attachments/aab92e7978ea121ec7ac24089bc411eb/b6e5e528/link-open.svg),链接，链条，锁链，无效链接,刘心乐,2019-05-27
+分享,share-one,"常用图标,连接",Connect,share1.svg (https://dl.airtable.com/.attachments/5068910ead2db727333f499971bd9da6/2ff54bfc/share1.svg),分享，转发，共享,刘心乐,2019-03-21
+电池充电,battery-charge,其它分类,Others,battery-charge.svg (https://dl.airtable.com/.attachments/ca12c128c8515515130ca047eadc4bdd/2b6f02b3/battery-charge.svg),电池，充电,齐 奉飞,2019-05-28
+电池满电,battery-full,其它分类,Others,battery-full.svg (https://dl.airtable.com/.attachments/96288d010c655df14fa2949d44112b03/65e2f175/battery-full.svg),电池，满电,齐 奉飞,2019-05-28
+电池运行,battery-working,其它分类,Others,battery-working.svg (https://dl.airtable.com/.attachments/5f0edce55a7196785f015b9049c66e20/f31f2bcc/battery-working.svg),电池，电池电量，能量,齐 奉飞,2019-05-28
+电池没电,battery-empty,其它分类,Others,battery-empty.svg (https://dl.airtable.com/.attachments/70f5a900ae39f03fce339c22305fc7bc/17bceb5c/battery-empty.svg),电池，电量空,齐 奉飞,2019-05-28
 语音信息,voice-message,常用图标,Base,voice-message.svg (https://dl.airtable.com/.attachments/1f819a4274bde7262d2b2e08b6178752/049b3af6/voice-message.svg),语音，信息，声音，识别,齐 奉飞,2019-07-11
-投射屏幕,cast-screen,常用图标,Base,cast-screen.svg (https://dl.airtable.com/.attachments/b21f7aa7a7b77989c2f39f08be64b5f2/fd3b47b1/cast-screen.svg),投射，投屏，无线投屏,常留留 常,2019-05-30
+投射屏幕,cast-screen,其它分类,Others,cast-screen.svg (https://dl.airtable.com/.attachments/b21f7aa7a7b77989c2f39f08be64b5f2/fd3b47b1/cast-screen.svg),投射，投屏，无线投屏,常留留 常,2019-05-30
 列表,list,常用图标,Base,列表.svg (https://dl.airtable.com/.attachments/d9911e1181af520b6a97b89039554c09/0c06af59.svg),目录，清单，完成目录，任务清单,金 磊,2019-10-12
 奖杯,trophy,常用图标,Base,trophy.svg (https://dl.airtable.com/.attachments/191de3442f23517a089b1f112066a728/dd6883be/trophy.svg),奖杯，冠军，比赛，赢了，奖励,白明泽 白,2019-07-11
 已读邮件,mail-open,常用图标,Base,mail-open.svg (https://dl.airtable.com/.attachments/75ac1fb9a56042fdf40a8f194bca0b18/40d5af68/mail-open.svg),"已读邮件，邮箱，邮件，信息,邮箱，打开，收件",白明泽 白,2019-07-11
-购物车,shopping,常用图标,Base,shopping.svg (https://dl.airtable.com/.attachments/f06066df61f3a7a088a8cc98c96b474e/6161fe54/shopping.svg),购物车，买东西，消费,刘心乐,2019-03-27
-赞,thumbs-up,"常用图标,手势","Hands",thumbs-up.svg (https://dl.airtable.com/.attachments/257d78d1af599be8627a27b506d8c48a/1b194e85/thumbs-up.svg),好评，点赞，优秀,刘心乐,2019-03-27
-踩,thumbs-down,"常用图标,手势","Hands",thunbs-down.svg (https://dl.airtable.com/.attachments/187e5c7a78996a16677e3fa5d714a54f/afc3938e/thunbs-down.svg),差评，不赞，错误,刘心乐,2019-03-27
-男性,male,常用图标,Base,male.svg (https://dl.airtable.com/.attachments/eb7d4a6f2552ec0c377612c0c48b7d05/8afa379a/male.svg),男，性别，符号,刘心乐,2019-03-27
+购物车,shopping,钱财,Money,shopping.svg (https://dl.airtable.com/.attachments/f06066df61f3a7a088a8cc98c96b474e/6161fe54/shopping.svg),购物车，买东西，消费,刘心乐,2019-03-27
+赞,thumbs-up,"常用图标,手势",Hands,thumbs-up.svg (https://dl.airtable.com/.attachments/257d78d1af599be8627a27b506d8c48a/1b194e85/thumbs-up.svg),好评，点赞，优秀,刘心乐,2019-03-27
+踩,thumbs-down,"常用图标,手势",Hands,thunbs-down.svg (https://dl.airtable.com/.attachments/187e5c7a78996a16677e3fa5d714a54f/afc3938e/thunbs-down.svg),差评，不赞，错误,刘心乐,2019-03-27
+男性,male,其它分类,Others,male.svg (https://dl.airtable.com/.attachments/eb7d4a6f2552ec0c377612c0c48b7d05/8afa379a/male.svg),男，性别，符号,刘心乐,2019-03-27
 女性,female,常用图标,Base,female.svg (https://dl.airtable.com/.attachments/bc17457ccb95dc75755c0619b49d492d/29ea266b/female.svg),女，性别，符号,刘心乐,2019-03-27
 扫码,scan-code,常用图标,Base,scan-code.svg (https://dl.airtable.com/.attachments/5f4e17f686f75259fa36ab0eca30b521/686b92bd/scan-code.svg),扫一扫，登录，扫码，二维码,白明泽 白,2019-03-27
 设置配置,setting-config,常用图标,Base,setting-config.svg (https://dl.airtable.com/.attachments/25b6f8ed94f4fe0afd13024ec77f9dfd/7d68f208/setting-config.svg),调节，调整，音量调节，设置调节,常留留 常,2019-03-27
 应用,application,建筑,Build,application1.svg (https://dl.airtable.com/.attachments/cc81e965a493d489ff52ba644cf701a3/c45e2938/application1.svg),商店，店铺，门店，上铺,白明泽 白,2019-03-29
-全部,all-application,常用图标,Base,all-application.svg (https://dl.airtable.com/.attachments/7151e0f52cb223f9e391d770a1a6a802/2be9f5a1/all-application.svg),管理，四块，更多，应用，导航，四宫格，矩阵，米亚格，全部应用,白明泽 白,2019-03-29
+全部,all-application,其它分类,Others,all-application.svg (https://dl.airtable.com/.attachments/7151e0f52cb223f9e391d770a1a6a802/2be9f5a1/all-application.svg),管理，四块，更多，应用，导航，四宫格，矩阵，米亚格，全部应用,白明泽 白,2019-03-29
 邮件符号,at-sign,符号,Character,at-sign.svg (https://dl.airtable.com/.attachments/109182f58d381efb4e0658c02a04d263/f8010c0f/at-sign.svg),邮件，圈人，提醒用户，相关人,金 磊,2019-07-23
-地图,map-draw,常用图标,Base,map.svg (https://dl.airtable.com/.attachments/328c238cec09ab600c4048cac6a9e9dd/71a45de1/map.svg),地图，位置，地理，方位，方向，交通，定位,金 磊,2019-07-23
-本地,local-two,常用图标,Base,local.svg (https://dl.airtable.com/.attachments/1d2a533cab5b18b9242f2d087febb0b5/3a37dd6f/local.svg),本地，地表，地点，地图，出行，交通，运输,金 磊,2019-08-16
-本地,local-pin,常用图标,Base,local-pin.svg (https://dl.airtable.com/.attachments/9a72169c0bc571c17ecfacf5f0c5824d/a99ad11d/local-pin.svg),本地，游戏，摇杆，图钉，出行，交通,金 磊,2019-08-16
-星球,planet,常用图标,Base,planet.svg (https://dl.airtable.com/.attachments/2327eddddb081138b81573bd9d46299d/30a552a3/planet.svg),星球，地球，环绕，卫星，宇宙，浏览器,金 磊,2019-08-07
+地图,map-draw,其它分类,Others,map.svg (https://dl.airtable.com/.attachments/328c238cec09ab600c4048cac6a9e9dd/71a45de1/map.svg),地图，位置，地理，方位，方向，交通，定位,金 磊,2019-07-23
+本地,local-two,其它分类,Others,local.svg (https://dl.airtable.com/.attachments/1d2a533cab5b18b9242f2d087febb0b5/3a37dd6f/local.svg),本地，地表，地点，地图，出行，交通，运输,金 磊,2019-08-16
+本地,local-pin,其它分类,Others,local-pin.svg (https://dl.airtable.com/.attachments/9a72169c0bc571c17ecfacf5f0c5824d/a99ad11d/local-pin.svg),本地，游戏，摇杆，图钉，出行，交通,金 磊,2019-08-16
+星球,planet,其它分类,Others,planet.svg (https://dl.airtable.com/.attachments/2327eddddb081138b81573bd9d46299d/30a552a3/planet.svg),星球，地球，环绕，卫星，宇宙，浏览器,金 磊,2019-08-07
 展开,expand-right,常用图标,Base,expand-right.svg (https://dl.airtable.com/.attachments/90768c80b6f76d28719eb5aa30e55b18/945c0643/expand-right.svg),展开，浮层，抽屉，示例,金 磊,2019-08-07
 展开,expand-left,常用图标,Base,expand-left.svg (https://dl.airtable.com/.attachments/a149175d15d5c9bb4d7ed5b3122ccb41/e4add054/expand-left.svg),展开，浮层，抽屉，示例,金 磊,2019-08-07
 展开,expand-up,常用图标,Base,expand-up.svg (https://dl.airtable.com/.attachments/cdf6fee8d4476dac3688ebeef20a657c/4bdfecf5/expand-up.svg),展开，浮层，抽屉，示例,金 磊,2019-08-07
 展开,expand-down,常用图标,Base,expand-down.svg (https://dl.airtable.com/.attachments/3053e6b552039f73800dbe3f5ab02b92/c4ae99a7/expand-down.svg),展开，浮层，抽屉，示例,金 磊,2019-08-07
-风车,windmill-two,常用图标,Base,windmill.svg (https://dl.airtable.com/.attachments/28190e0033259c4c8f099975fc552520/7e9587c1/windmill.svg),风车，转动，旋转，风景，发电，动力,金 磊,2019-08-16
+风车,windmill-two,其它分类,Others,windmill.svg (https://dl.airtable.com/.attachments/28190e0033259c4c8f099975fc552520/7e9587c1/windmill.svg),风车，转动，旋转，风景，发电，动力,金 磊,2019-08-16
 首页,home-two,建筑,Build,home-two.svg (https://dl.airtable.com/.attachments/ecf498ce9f670056fe2b4030ac6fc3f0/cc80a32d/home-two.svg),首页，家，主页，店铺,金 磊,2019-08-16
 线索,clue,连接,Connect,clue.svg (https://dl.airtable.com/.attachments/11b8ad6913a6586b71873d237ce04d15/744d39be/clue.svg),线索池，连接，相连,齐 奉飞,2019-03-28
 两点连接,connection-point-two,连接,Connect,connection-point-two.svg (https://dl.airtable.com/.attachments/cf3768dd543775030e35cf5501b79996/3bd8099e/connection-point-two.svg),两点连接，链接,金 磊,2019-08-16
 连接箭头,connection-arrow,常用图标,Base,connection-arrow.svg (https://dl.airtable.com/.attachments/aa4a04300d55ffa760987e9b80b60bf5/74ada027/connection-arrow.svg),连接，箭头，相连，流程,常留留 常,2019-07-11
 调色盘,platte,常用图标,Base,platte.svg (https://dl.airtable.com/.attachments/101580291e5a86eaad813f91957ca70f/9000bd05/platte.svg),调色盘，美术，绘画，颜色，主题,金 磊,2019-08-16
-光盘,record-disc,常用图标,Base,record-disc.svg (https://dl.airtable.com/.attachments/f38d77d17746ddd3313fa3309b3f0737/194cda16/record-disc.svg),光盘，音乐，磁盘，播放，复古,金 磊,2019-08-16
-地球仪,earth,常用图标,Base,earth.svg (https://dl.airtable.com/.attachments/43fdc223479e42667742e727c1d2c599/bab60cc2/earth.svg),网路，语言，全球，互联网,白明泽 白,2019-03-27
+光盘,record-disc,声音,Music,record-disc.svg (https://dl.airtable.com/.attachments/f38d77d17746ddd3313fa3309b3f0737/194cda16/record-disc.svg),光盘，音乐，磁盘，播放，复古,金 磊,2019-08-16
+地球仪,earth,其它分类,Others,earth.svg (https://dl.airtable.com/.attachments/43fdc223479e42667742e727c1d2c599/bab60cc2/earth.svg),网路，语言，全球，互联网,白明泽 白,2019-03-27
 举报,report,常用图标,Base,report.svg (https://dl.airtable.com/.attachments/3824eb72834dca9eb10e22b99285dc15/fbb030bd/report.svg),举报，检举，告发，报告,白明泽 白,2019-07-11
 保护,protect,常用图标,Base,protect.svg (https://dl.airtable.com/.attachments/f3b38c01ec0ed03145043ce196a48ef3/a9a5ac27/protect.svg),安全，防卫，防护，盾牌，安全通过,白明泽 白,2019-03-27
 危害,harm,常用图标,Base,harm.svg (https://dl.airtable.com/.attachments/0f8fead90ce32dc0176b75b9ac36e42c/44e428e4/harm.svg),危险，防护，盾牌,白明泽 白,2019-03-27
@@ -205,11 +205,11 @@ AirPlay,airplay,常用图标,Base,airplay.svg (https://dl.airtable.com/.attachme
 文档架子,document-folder,常用图标,Base,document-folder.svg (https://dl.airtable.com/.attachments/131e99f510358c63b69e13993ea986aa/487cfe64/document-folder.svg),文档，书架，办公,白明泽 白,2019-07-11
 瀑布流纵向,waterfalls-v,常用图标,Base,waterfalls-v.svg (https://dl.airtable.com/.attachments/a32c37d5bb9a02f7adedc9c6eeed2c13/b2685960/waterfalls-v.svg),瀑布，排版，界面，顺序,白明泽 白,2019-07-11
 瀑布流横向,waterfalls-h,常用图标,Base,waterfalls-h.svg (https://dl.airtable.com/.attachments/269abbd9d3a0b3f675237d8275a0dacd/a463a1ba/waterfalls-h.svg),瀑布，流程，布局，界面,白明泽 白,2019-07-11
-我的,me,"常用图标,人群","Peoples",me.svg (https://dl.airtable.com/.attachments/fd6bb07fa5d7909a0c6c3e91f6649676/789481ec/me.svg),个人中心，用户，人，头像，圆形头像,刘心乐,2019-03-27
-系统,system,常用图标,Base,system.svg (https://dl.airtable.com/.attachments/f56e690c2ea03df818cbc301623b60db/f6e3c5b7/system.svg),系统，更多，四块,齐 奉飞,2019-03-28
-日志,log,"常用图标,书籍","Books",log.svg (https://dl.airtable.com/.attachments/8216f70a806c8875cc8a632b56c2b5a3/ca50266a/log.svg),日志，笔记本，记录，文档,刘心乐,2019-03-28
+我的,me,"常用图标,人群",Peoples,me.svg (https://dl.airtable.com/.attachments/fd6bb07fa5d7909a0c6c3e91f6649676/789481ec/me.svg),个人中心，用户，人，头像，圆形头像,刘心乐,2019-03-27
+系统,system,其它分类,Others,system.svg (https://dl.airtable.com/.attachments/f56e690c2ea03df818cbc301623b60db/f6e3c5b7/system.svg),系统，更多，四块,齐 奉飞,2019-03-28
+日志,log,"常用图标,书籍",Books,log.svg (https://dl.airtable.com/.attachments/8216f70a806c8875cc8a632b56c2b5a3/ca50266a/log.svg),日志，笔记本，记录，文档,刘心乐,2019-03-28
 订单,order,书籍,Books,order.svg (https://dl.airtable.com/.attachments/82921b32060cbeb8d6d1651021f4ba16/4c9b9f31/order.svg),抢单，文档，发票，记录，计分牌,白明泽 白,2019-03-29
-书籍,book-one,"常用图标,书籍","Books",book2.svg (https://dl.airtable.com/.attachments/3ee9ec61f3f9a3a7f292b58bba26e7a4/4c758756/book2.svg),书本，笔记，文件,常留留 常,2019-03-27
+书籍,book-one,"常用图标,书籍",Books,book2.svg (https://dl.airtable.com/.attachments/3ee9ec61f3f9a3a7f292b58bba26e7a4/4c758756/book2.svg),书本，笔记，文件,常留留 常,2019-03-27
 书籍-打开,book-open,书籍,Books,book-open.svg (https://dl.airtable.com/.attachments/7a1721c9d3f141f43640d6b92547445d/8f65c2ad/book-open.svg),书本，笔记，文件，打开书本,常留留 常,2019-03-27
 警报,alarm,常用图标,Base,alarm.svg (https://dl.airtable.com/.attachments/cd59b9a29f6719fb89d6e2b4b9fd9499/c062e2a5/alarm.svg),警灯，警报，灯，警示，灵感,刘心乐,2019-03-27
 游戏机,game-ps,常用图标,Base,game-ps.svg (https://dl.airtable.com/.attachments/ee1eb246e974d7133e5295adbdb23cd5/61bc8374/game-ps.svg),游戏机，索尼，游戏,金 磊,2019-08-16
@@ -219,8 +219,8 @@ AirPlay,airplay,常用图标,Base,airplay.svg (https://dl.airtable.com/.attachme
 指纹,fingerprint,手势,Hands,fingerprint.svg (https://dl.airtable.com/.attachments/ef543cc28120b5fa37012cdd22b12177/f877cf64/fingerprint.svg),指纹，安全，解锁，认证，验证,金 磊,2019-08-16
 投影仪,projector,常用图标,Base,projector.svg (https://dl.airtable.com/.attachments/20526360934ba1fe8bac43dd7ebe79ee/963c315f/projector.svg),投影仪，投影，播放，幻灯片，演讲,金 磊,2019-07-23
 幻灯片,slide,常用图标,Base,slide.svg (https://dl.airtable.com/.attachments/90602b4feed7583d03678debaf307cfb/aee35694/slide.svg),数据看版，销售提报，文稿演示,常留留 常,2019-03-28
-幻灯片,ppt,常用图标,Base,ppt.svg (https://dl.airtable.com/.attachments/25c8e26fd2e21626ee1c46ce63739e13/4693ac7e/ppt.svg),幻灯片，播放，延时，投影,金 磊,2019-08-16
-幻灯片,slide-two,常用图标,Base,slide-two.svg (https://dl.airtable.com/.attachments/81f98c3f4fab872de0a32b832866640c/fee40cb2/slide-two.svg),幻灯片，播放，PPT，投影,金 磊,2019-08-16
+幻灯片,ppt,其它分类,Others,ppt.svg (https://dl.airtable.com/.attachments/25c8e26fd2e21626ee1c46ce63739e13/4693ac7e/ppt.svg),幻灯片，播放，延时，投影,金 磊,2019-08-16
+幻灯片,slide-two,其它分类,Others,slide-two.svg (https://dl.airtable.com/.attachments/81f98c3f4fab872de0a32b832866640c/fee40cb2/slide-two.svg),幻灯片，播放，PPT，投影,金 磊,2019-08-16
 日历,calendar-thirty,时间,Time,calendar-thirty.svg (https://dl.airtable.com/.attachments/9ee064bd916f5d43b3f31cd4dd620489/94a7b915/calendar-thirty.svg),日历，日期，时间，期限，长期,金 磊,2019-08-16
 日历,calendar-thirty-two,时间,Time,calendar-thirty-two.svg (https://dl.airtable.com/.attachments/7400862d18a0b1a38413b5b364134d3d/26a68172/calendar-thirty-two.svg),日历，日期，时间，期限，长期,金 磊,2019-08-16
 日历,calendar-dot,时间,Time,calendar-dot.svg (https://dl.airtable.com/.attachments/f4c616cf556502febf2ac385ae6aaf08/cfc589ae/calendar-dot.svg),日历，日期，时间，期限，长期,金 磊,2019-08-16
@@ -235,14 +235,14 @@ AirPlay,airplay,常用图标,Base,airplay.svg (https://dl.airtable.com/.attachme
 计时器,stopwatch-start,常用图标,Base,stopwatch-start.svg (https://dl.airtable.com/.attachments/8945dce039661409249b7da8e8c2603c/8c59a8c5/stopwatch-start.svg),计时器，倒计时，时间,白明泽 白,2019-07-11
 拼图,puzzle,常用图标,Base,puzzle.svg (https://dl.airtable.com/.attachments/cd03e750ad912cd3d08d258835700388/10bf7c98/puzzle.svg),拼图，版图，拼接，组合,齐 奉飞,2019-07-11
 火箭,rocket,常用图标,Base,rocket.svg (https://dl.airtable.com/.attachments/9f2491f709e30b73c0c68a161de2ba1f/2cfbff4a/rocket.svg),火箭，发射，上升，速度,白明泽 白,2019-07-11
-城市,city,常用图标,Base,city1.svg (https://dl.airtable.com/.attachments/e41418fbe4bbf52b3e62c37969edbf1c/cd9c3bdf/city1.svg),城市，建筑，楼房,齐 奉飞,2019-03-28
+城市,city,建筑,Build,city1.svg (https://dl.airtable.com/.attachments/e41418fbe4bbf52b3e62c37969edbf1c/cd9c3bdf/city1.svg),城市，建筑，楼房,齐 奉飞,2019-03-28
 页面,page,常用图标,Base,page.svg (https://dl.airtable.com/.attachments/6928745f963248f175a689602669045d/fe2ff58a/page.svg),网页，布局，排版，模块,刘心乐,2019-03-28
 方向标识,road-sign-both,常用图标,Base,road-sign-both.svg (https://dl.airtable.com/.attachments/06f6ec417d1a4a0a5bd6944201f19b1d/725ce39b/road-sign-both.svg),方向标识，方向，指示牌，多方向,金 磊,2019-07-23
-切换按钮,switch-button,常用图标,Base,switch-button.svg (https://dl.airtable.com/.attachments/c975812f62d3215f935554ad4b28bc7b/02c086de/switch-button.svg),切换按钮，开关，切换，组合,金 磊,2019-08-07
+切换按钮,switch-button,其它分类,Others,switch-button.svg (https://dl.airtable.com/.attachments/c975812f62d3215f935554ad4b28bc7b/02c086de/switch-button.svg),切换按钮，开关，切换，组合,金 磊,2019-08-07
 篮球服,basketball-clothes,服饰,Clothes,basketball-clothes.svg (https://dl.airtable.com/.attachments/42a932120ef1355c8f25b6814ab55a03/a6083c79/basketball-clothes.svg),篮球服，运动，篮球，球衣，衣服，号码,金 磊,2019-08-16
-无效提醒,remind-disable,常用图标,Base,,闹钟，提醒，无效，时间，超时,金 磊,2020-02-11
-音量减小,volume-down,"常用图标,声音","Music",,音乐，音量，声音，降低，无声，音乐,金 磊,2020-02-11
-音量增大,volume-up,"常用图标,声音","Music",,音乐，音量，声音，增大，最大音量，音乐,金 磊,2020-02-11
+无效提醒,remind-disable,声音,Music,,闹钟，提醒，无效，时间，超时,金 磊,2020-02-11
+音量减小,volume-down,"常用图标,声音",Music,,音乐，音量，声音，降低，无声，音乐,金 磊,2020-02-11
+音量增大,volume-up,"常用图标,声音",Music,,音乐，音量，声音，增大，最大音量，音乐,金 磊,2020-02-11
 箭头左,arrow-left,箭头方向,Arrows,arrow-left.svg (https://dl.airtable.com/.attachments/9270fb8d3d5213371752e34092841e14/0e139c07/arrow-left.svg),箭头，左,齐 奉飞,2019-03-22
 箭头右,arrow-right,箭头方向,Arrows,arrow-right.svg (https://dl.airtable.com/.attachments/0211603d735f9e96baa00b19befc2307/f4552652/arrow-right.svg),右，箭头,齐 奉飞,2019-03-22
 箭头上,arrow-up,箭头方向,Arrows,arrow-up.svg (https://dl.airtable.com/.attachments/3a383fee4e9cba37670b5cce528ee1b0/f455b971/arrow-up.svg),箭头，上,齐 奉飞,2019-03-22
@@ -372,10 +372,10 @@ Figma 选择箭头,figma-flatten-selection,箭头方向,Arrows,,向下箭头，�
 九级标题,level-nine-title,编辑操作,Edit,level-nine-title.svg (https://dl.airtable.com/.attachments/47ad8f208fc97a2fb14bd6c7a74d65dd/aaad9695/level-nine-title.svg),9号字体，第九级别标题，九级,常留留 常,2019-11-22
 有序列表,ordered-list,编辑操作,Edit,ordered-list.svg (https://dl.airtable.com/.attachments/978817369ae1968103d6ba9c2d32946b/f771247f/ordered-list.svg),列表，序列，排序,常留留 常,2019-11-22
 文字斜体,text-italic,编辑操作,Edit,text-Italic.svg (https://dl.airtable.com/.attachments/338339c0a131bd38afe5bf59cc81c5d1/d39f6592/text-Italic.svg),文字，斜体，排版,常留留 常,2019-07-11
-字号大小,font-size,符号,Character,fontsize.svg (https://dl.airtable.com/.attachments/d265c3b866a4dc16dcb0ae5eef7c8d67/dc78a899/fontsize.svg),字号大小，文字,常留留 常,2019-07-11
+字号大小,font-size,编辑操作,Edit,fontsize.svg (https://dl.airtable.com/.attachments/d265c3b866a4dc16dcb0ae5eef7c8d67/dc78a899/fontsize.svg),字号大小，文字,常留留 常,2019-07-11
 文字加粗,text-bold,编辑操作,Edit,text-bold.svg (https://dl.airtable.com/.attachments/a364cbed877227d5e2d2f3dc82b19507/cc1068ce/text-bold.svg),文字加速，排版,常留留 常,2019-07-11
 文字下划线,text-underline,编辑操作,Edit,text-underline.svg (https://dl.airtable.com/.attachments/9ba892272f750387d2f022cae7400c7f/fdbb82bd/text-underline.svg),下划线，文字，排版,常留留 常,2019-07-11
-字体大小,font-size-two,编辑操作,Edit,fontsize.svg (https://dl.airtable.com/.attachments/98d2bfb9992aac72cfca5bdcc1c880c5/310d63b8/fontsize.svg),字体大小，编辑，调整,金 磊,2019-08-16
+字体大小,font-size-two,符号,Character,fontsize.svg (https://dl.airtable.com/.attachments/98d2bfb9992aac72cfca5bdcc1c880c5/310d63b8/fontsize.svg),字体大小，编辑，调整,金 磊,2019-08-16
 文字居中,align-text-center,编辑操作,Edit,align-text-botht.svg (https://dl.airtable.com/.attachments/31366f4d895411c6a5ee7140faa035cb/dd5055b6/align-text-botht.svg),居中对齐，文字对齐,刘心乐,2019-05-29
 文字两边对齐,align-text-both,编辑操作,Edit,align-text-center.svg (https://dl.airtable.com/.attachments/774d35b851cd14e0bab11ab2a538542b/77b8a0c8/align-text-center.svg),两端对齐，文字对齐,刘心乐,2019-05-30
 文字居右,align-text-right,编辑操作,Edit,align-text-right.svg (https://dl.airtable.com/.attachments/2966a061ba375ba618417e2242c8095f/f8cc4ad3/align-text-right.svg),右对齐，文字对齐,刘心乐,2019-05-29
@@ -406,7 +406,7 @@ Figma 选择箭头,figma-flatten-selection,箭头方向,Arrows,,向下箭头，�
 更多,more,编辑操作,Edit,more.svg (https://dl.airtable.com/.attachments/ae2bb78a0237e638a0052988aa1aad07/036bbcd9/more1.svg),点，三点，更多,齐 奉飞,2019-03-26
 更多1,more-one,编辑操作,Edit,more2.svg (https://dl.airtable.com/.attachments/6f8e8da5f63e2cd0b52f56a5badef621/13312830/more2.svg),点，三点，更多,齐 奉飞,2019-03-26
 更多2,more-two,编辑操作,Edit,more2.svg (https://dl.airtable.com/.attachments/449ef4271e100bb3b14fa3f942c3e676/115d1121/more3.svg),更多，圆形，三点,齐 奉飞,2019-03-26
-更多3,more-three,编辑操作,Edit,more3.svg (https://dl.airtable.com/.attachments/42622a160cace4602a250b4308f44e55/4b3e5cfb/more4.svg),更多，圆形，三点,常留留 常,2019-05-27
+更多3,more-three,符号,Character,more3.svg (https://dl.airtable.com/.attachments/42622a160cace4602a250b4308f44e55/4b3e5cfb/more4.svg),更多，圆形，三点,常留留 常,2019-05-27
 文字,text,编辑操作,Edit,text.svg (https://dl.airtable.com/.attachments/644c2b75fde3459b19c918e165cb1124/eb126321/text.svg),文字，输入，文本,白明泽 白,2019-03-26
 翻译,translation,编辑操作,Edit,文本编辑.svg (https://dl.airtable.com/.attachments/a2521c44ef6c76dbd369af859e82189e/8dd27088.svg),文本编辑，文字旋转，翻译，转码,金 磊,2019-10-12
 文本样式,text-style,编辑操作,Edit,文本样式.svg (https://dl.airtable.com/.attachments/e7780c9dae373c92a58358478659e115/b6b7084a.svg),文字样式，样式，文本放大，选中文字，文本,金 磊,2019-10-12
@@ -729,7 +729,7 @@ API 应用,api-app,表意抽象,Abstract,API应用.svg (https://dl.airtable.com/
 两个椭圆,two-ellipses,表意抽象,Abstract,,两个椭圆，央视,金 磊,2020-02-11
 三个菱形,three-hexagons,表意抽象,Abstract,,三个菱形,金 磊,2020-02-11
 纹理,texture,表意抽象,Abstract,,纹理,金 磊,2020-02-11
-切换对比,switch-contrast,"表意抽象,操作","Abstract",,切换对比,金 磊,2020-02-11
+切换对比,switch-contrast,"表意抽象,操作",Abstract,,切换对比,金 磊,2020-02-11
 纹理,texture-two,表意抽象,Abstract,,纹理，底图,金 磊,2020-02-11
 分离,split-branch,表意抽象,Abstract,,分离，编辑，对比,金 磊,2020-02-11
 纹路,process-line,表意抽象,Abstract,,纹路,金 磊,2020-02-11
@@ -865,9 +865,9 @@ API 应用,api-app,表意抽象,Abstract,API应用.svg (https://dl.airtable.com/
 图层,layers,其它分类,Others,layers.svg (https://dl.airtable.com/.attachments/4685c175e83cd7b6c9acc2fcfcbe5ef2/30442a16/layers.svg),推广管理，管理，集合，多层，叠加,常留留 常,2019-03-29
 工作台,workbench,其它分类,Others,workbench.svg (https://dl.airtable.com/.attachments/900caa8968afcdc95e8c4498da72fa58/2c9105a6/workbench.svg),电脑，工作桌，平台,齐 奉飞,2019-03-28
 速度,speed,时间,Time,speed1.svg (https://dl.airtable.com/.attachments/4aa7806b92275614ae3290fd3be9bfa9/f3ea250f/speed1.svg),速率，速度表，仪表盘,刘心乐,2019-03-28
-均衡器,equalizer,其它分类,Others,equalizer.svg (https://dl.airtable.com/.attachments/ff9d4851336269dedbdf5f077112fae7/a6463815/equalizer.svg),音量调节，调整，设置调整,常留留 常,2019-03-27
+均衡器,equalizer,常用图标,Base,equalizer.svg (https://dl.airtable.com/.attachments/ff9d4851336269dedbdf5f077112fae7/a6463815/equalizer.svg),音量调节，调整，设置调整,常留留 常,2019-03-27
 工具,tool,常用图标,Base,tool.svg (https://dl.airtable.com/.attachments/d8688c6747bec73bacde7d02649ef8a1/19e79a64/tool.svg),优化，扳手，设置,白明泽 白,2019-03-28
-城市,city-one,其它分类,Others,city2.svg (https://dl.airtable.com/.attachments/1429bb4517796b859da0fa93f5b43b94/bb137c9b/city2.svg),城市，建筑，楼房,齐 奉飞,2019-03-28
+城市,city-one,建筑,Build,city2.svg (https://dl.airtable.com/.attachments/1429bb4517796b859da0fa93f5b43b94/bb137c9b/city2.svg),城市，建筑，楼房,齐 奉飞,2019-03-28
 速度,speed-one,时间,Time,speed2.svg (https://dl.airtable.com/.attachments/d032a353ef2298ff66801864bad1f2e9/f9daf2f3/speed2.svg),速率，速度表，仪表盘,刘心乐,2019-03-28
 追踪,trace,其它分类,Others,trace.svg (https://dl.airtable.com/.attachments/88e241253925ac0058156ef0df6389a5/47f08cc8/trace.svg),追踪，查探，目标，命中,常留留 常,2019-03-27
 拖拽,drag,内容编辑,ContentEdit,drag.svg (https://dl.airtable.com/.attachments/0fba27c0fc6b7d13e9b904cf5eb2d94d/901484b9/drag.svg),拉，拽，拖拽，位移，移动，六点,常留留 常,2019-03-27
@@ -879,8 +879,8 @@ API 应用,api-app,表意抽象,Abstract,API应用.svg (https://dl.airtable.com/
 回收站,recycle-bin,操作,Operate,回收站.svg (https://dl.airtable.com/.attachments/96bca3037f8ddd34d3b96609cb6b31e1/aa7f78d4.svg),回收站，回收，垃圾桶，恢复，积累,常留留 常,2019-10-12
 火热,fire,其它分类,Others,火.svg (https://dl.airtable.com/.attachments/641604565f504b6f1618a39c24ee1f14/388085a0.svg),火热，热门，流行，火，热，夏天,常留留 常,2019-10-12
 指纹,fingerprint-three,手势,Hands,fingerprint.svg (https://dl.airtable.com/.attachments/e892aafc591de138ed806e6c95258672/8512c3f1/fingerprint.svg),指纹，身份，识别，解锁，验证，安全，认证,常留留 常,2019-10-12
-娱乐,entertainment,其它分类,Others,娱乐.svg (https://dl.airtable.com/.attachments/74a69527c04722ef77bf7bc5041a9a91/2ab009ae.svg),娱乐，唱歌，麦克风，说话，KTV,常留留 常,2019-10-12
-演出,performance,其它分类,Others,演出.svg (https://dl.airtable.com/.attachments/e977bb38c032b184bc12a7880149b8e9/4d969835.svg),演出，音乐，表演，娱乐，歌曲，播放,常留留 常,2019-10-12
+娱乐,entertainment,声音,Music,娱乐.svg (https://dl.airtable.com/.attachments/74a69527c04722ef77bf7bc5041a9a91/2ab009ae.svg),娱乐，唱歌，麦克风，说话，KTV,常留留 常,2019-10-12
+演出,performance,声音,Music,演出.svg (https://dl.airtable.com/.attachments/e977bb38c032b184bc12a7880149b8e9/4d969835.svg),演出，音乐，表演，娱乐，歌曲，播放,常留留 常,2019-10-12
 睡眠,sleep,常用图标,Base,睡眠.svg (https://dl.airtable.com/.attachments/c165783d5089a0960e6cc072d141b484/a97aa7ab.svg),睡眠，夜晚，打呼噜，酣睡，休息，黑夜,常留留 常,2019-10-12
 分组,connection-box,其它分类,Others,分组.svg (https://dl.airtable.com/.attachments/61a276705290a79d11e1338aecd72012/937c435d.svg),分组，关联，联系，服务器，技术，管理,常留留 常,2019-10-12
 沙漏空,hourglass-null,其它分类,Others,hourglass-null.svg (https://dl.airtable.com/.attachments/29f1fff64069efdc3d54352cdda5dbe7/2c5995b4/hourglass-null.svg),沙漏，等待，时间，加载,齐 奉飞,2019-07-11
@@ -892,8 +892,8 @@ API 应用,api-app,表意抽象,Abstract,API应用.svg (https://dl.airtable.com/
 轮播,carousel,其它分类,Others,carousel.svg (https://dl.airtable.com/.attachments/ed10b17e5431f5f2e94707c5fe732daf/e1f1c91c/carousel.svg),轮播，轮换，轮转，头图，焦点图，运营图,金 磊,2019-08-07
 嘴巴,mouth,其它分类,Others,mouth.svg (https://dl.airtable.com/.attachments/400b2bcc25f16fb4ebf091ee6f388a0f/97c8c479/mouth.svg),嘴巴，美妆，化妆，时尚，器官，口，说话,金 磊,2019-08-07
 美元,dollar,钱财,Money,dollar.svg (https://dl.airtable.com/.attachments/57a22900ea2ca7436a7928976b2dd9c4/d14f005d/dollar.svg),美元，钱，财富，货币，经济,金 磊,2019-08-07
-对比度,contrast,其它分类,Others,contrast.svg (https://dl.airtable.com/.attachments/547bed022c6ce592c4d94465cdbd7954/717e4661/contrast.svg),对比度，参数，摄像，牌照，配置,金 磊,2019-08-07
-摇滚手势,rock-gesture,"其它分类,手势","Hands",rock-gesture.svg (https://dl.airtable.com/.attachments/436ec7d1d434083ba610a6531765b2b0/16a92d74/rock-gesture.svg),摇滚手势，爱你，爱心，摇滚，手势，姿势，态度，乐队,金 磊,2019-08-07
+对比度,contrast,"其它分类,操作",Operate,contrast.svg (https://dl.airtable.com/.attachments/547bed022c6ce592c4d94465cdbd7954/717e4661/contrast.svg),对比度，参数，摄像，牌照，配置,金 磊,2019-08-07
+摇滚手势,rock-gesture,"其它分类,手势",Hands,rock-gesture.svg (https://dl.airtable.com/.attachments/436ec7d1d434083ba610a6531765b2b0/16a92d74/rock-gesture.svg),摇滚手势，爱你，爱心，摇滚，手势，姿势，态度，乐队,金 磊,2019-08-07
 仪表盘,dashboard-car,其它分类,Others,dashboard-car.svg (https://dl.airtable.com/.attachments/ed7f248a3cabeaaf484ca482102d4752/512c35a3/dashboard-car.svg),仪表盘，汽车，指针，表盘,金 磊,2019-08-07
 缩放,zoom-internal,其它分类,Others,zoom-internal.svg (https://dl.airtable.com/.attachments/f4d13f223d82f592027a3f3fd30b303c/5228203c/zoom-internal.svg),缩放，内缩放，大小,金 磊,2019-08-07
 插卡,insert-card,钱财,Money,insert-card.svg (https://dl.airtable.com/.attachments/35e298e1fafa2ee83bacfb82cc7c1cd9/e026e030/insert-card.svg),插卡，插入，卡槽，取款机,金 磊,2019-08-07
@@ -926,12 +926,12 @@ VIP,vip,符号,Character,vip.svg (https://dl.airtable.com/.attachments/7d221f805
 晾衣架,hanger,家居,Life,hanger.svg (https://dl.airtable.com/.attachments/8f6e88773296f5c83be4c5cf1a8764b4/5066f194/hanger.svg),危险，挂钩，晾衣架,金 磊,2019-08-16
 试管,cuvette,常用图标,Base,cuvette.svg (https://dl.airtable.com/.attachments/f317f5795a32a0cf02fcabd1f46f7961/adaff8a4/cuvette.svg),试管，试验，容器，化学,金 磊,2019-08-16
 雷达,radar-two,时间,Time,radar.svg (https://dl.airtable.com/.attachments/555975e70d79519ea9e88986d1e381ab/111c70aa/radar.svg),雷达，转动，扫描，侦查,金 磊,2019-08-16
-对比,contrast-view,"其它分类,操作","Operate",contrast-view.svg (https://dl.airtable.com/.attachments/f990ec72fc3da38bca911e8c1721a8fc/689940a7/contrast-view.svg),对比，对比查看，查看，编辑,金 磊,2019-08-16
+对比,contrast-view,"其它分类,操作",Operate,contrast-view.svg (https://dl.airtable.com/.attachments/f990ec72fc3da38bca911e8c1721a8fc/689940a7/contrast-view.svg),对比，对比查看，查看，编辑,金 磊,2019-08-16
 钞票,paper-money-two,钱财,Money,paper-money-two.svg (https://dl.airtable.com/.attachments/ac8261837463eeae3e4f041b746dbdda/b6da92a6/paper-money-two.svg),钞票，钱，财富，资金，投资，美元,金 磊,2019-08-16
 更多,more-app,其它分类,Others,more-app.svg (https://dl.airtable.com/.attachments/8a578a379e4e1d501059531677e5e574/f0a38bfd/more-app.svg),更多，全部，应用,金 磊,2019-08-16
 皇冠,crown,其它分类,Others,crown.svg (https://dl.airtable.com/.attachments/000203fe1fea37411936b34f1cf8790d/3f91e38c/crown.svg),皇冠，王冠，皇上，国王，第一，权利,金 磊,2019-08-16
 床头柜,bedside-two,家居,Life,bedside-two.svg (https://dl.airtable.com/.attachments/98042faf3b8c7b852ea7a9a159defaea/5a56192f/bedside-two.svg),床头柜，家具，家居，台灯,金 磊,2019-08-16
-银行卡,bank-card-two,钱财,Money,bank-card.svg (https://dl.airtable.com/.attachments/85a9c5bd080f47786508b1955842de21/ab28487d/bank-card.svg),银行卡，财富，前，金钱，银行，卡片,金 磊,2019-08-16
+银行卡,bank-card-two,其它分类,Others,bank-card.svg (https://dl.airtable.com/.attachments/85a9c5bd080f47786508b1955842de21/ab28487d/bank-card.svg),银行卡，财富，前，金钱，银行，卡片,金 磊,2019-08-16
 全屏播放,full-screen-play,其它分类,Others,full-screen-play.svg (https://dl.airtable.com/.attachments/1835582d097ce3f8245e02ba9060fc8f/d4b37a71/full-screen-play.svg),全屏播放，播放，媒体，投屏,金 磊,2019-08-16
 抛物线,parabola,其它分类,Others,parabola.svg (https://dl.airtable.com/.attachments/3823026aa4148b39f4cb2db27cc537f4/5cfc7a9f/parabola.svg),抛物线，试验，数学，教育，科学,金 磊,2019-08-16
 双卡片,card-two,其它分类,Others,crad-two.svg (https://dl.airtable.com/.attachments/3f1735726392712342f25023ebc8c601/36a02ebf/crad-two.svg),双卡片，立体，层级，前后，关系,金 磊,2019-08-16
@@ -950,7 +950,7 @@ VIP,vip,符号,Character,vip.svg (https://dl.airtable.com/.attachments/7d221f805
 设备,devices,常用图标,Base,devices.svg (https://dl.airtable.com/.attachments/13d0194c72f0cae63e91336b6110b688/7689224d/devices.svg),设备，手机，平板,金 磊,2019-08-16
 地图,map-two,其它分类,Others,map-two.svg (https://dl.airtable.com/.attachments/528112a10701a72589f119effd2c6e3d/35773ef4/map-two.svg),地图，地点，地图，出行，交通，运输,金 磊,2019-08-16
 水电费,water-rate-two,其它分类,Others,water-rate-two.svg (https://dl.airtable.com/.attachments/c8f4fed47976b7417a02f02107643bf6/43d602ca/water-rate-two.svg),水电费，水滴,金 磊,2019-08-16
-闪电,lightning,其它分类,Others,lightning.svg (https://dl.airtable.com/.attachments/d7e3be54de69b301413c1cced9ab9e0f/59f077a5/lightning.svg),闪电，天气，打雷，下雨,金 磊,2019-08-16
+闪电,lightning,常用图标,Base,lightning.svg (https://dl.airtable.com/.attachments/d7e3be54de69b301413c1cced9ab9e0f/59f077a5/lightning.svg),闪电，天气，打雷，下雨,金 磊,2019-08-16
 曲线调整,curve-adjustment,其它分类,Others,curve-adjustment.svg (https://dl.airtable.com/.attachments/f8e6f7b15b4241543f08b3815835b5a0/6b7820fc/curve-adjustment.svg),曲线调整，调整，曲线，动效,金 磊,2019-08-16
 表格,table,书籍,Books,table.svg (https://dl.airtable.com/.attachments/5affb7a4baac31da1a182fa68f7ed856/f756be1e/table.svg),表格，笔记本，纸张，文件,金 磊,2019-08-16
 建筑,building-four,建筑,Build,building-four.svg (https://dl.airtable.com/.attachments/74b022c4614f1f089c2306dfa2e9c6b4/2326b2a8/building-four.svg),建筑，楼房，建筑，高楼,金 磊,2019-08-16
@@ -964,7 +964,7 @@ VIP,vip,符号,Character,vip.svg (https://dl.airtable.com/.attachments/7d221f805
 审核,audit,其它分类,Others,审核.svg (https://dl.airtable.com/.attachments/d32d58b43c92440280536e5ed18451bd/84a9a9f6.svg),印章，评审，审查,常留留 常,2019-10-12
 链接,deeplink,内容编辑,ContentEdit,链接.svg (https://dl.airtable.com/.attachments/756c1de1c9b274d0e020adb5c300aa50/a8ea218c.svg),深度链接，连接，联系,常留留 常,2019-10-12
 电台,fm,声音,Music,FM.svg (https://dl.airtable.com/.attachments/78a2c165082fc78f0d1e4fe201c3d444/715fa256/FM.svg),收音机，电台节目，无线广播，广播,金 磊,2019-10-12
-AirPods,airpods,其它分类,Others,AirPods.svg (https://dl.airtable.com/.attachments/0a76a60737d27a33e3973cd92e4c4123/3e70af13/AirPods.svg),蓝牙耳机，苹果耳机，耳机，无线耳机,金 磊,2019-10-12
+AirPods,airpods,声音,Music,AirPods.svg (https://dl.airtable.com/.attachments/0a76a60737d27a33e3973cd92e4c4123/3e70af13/AirPods.svg),蓝牙耳机，苹果耳机，耳机，无线耳机,金 磊,2019-10-12
 加载,loading-one,操作,Operate,加载.svg (https://dl.airtable.com/.attachments/0334640735558ae4388d83af64f28bea/66f41c48.svg),等待，加载，转圈，缓冲,金 磊,2019-10-12
 加载,loading-two,操作,Operate,加载备份.svg (https://dl.airtable.com/.attachments/55ba4017305a9ed46ed03b74b5b3387e/d1d43419.svg),等待，加载，转圈，缓冲,金 磊,2019-10-12
 链接,link-two,内容编辑,ContentEdit,链接.svg (https://dl.airtable.com/.attachments/42db44aab96d269810357357d2d9019c/a507358d.svg),链接，关联,金 磊,2019-10-12
@@ -990,7 +990,7 @@ AirPods,airpods,其它分类,Others,AirPods.svg (https://dl.airtable.com/.attach
 婴儿,baby,人群,Peoples,baby.svg (https://dl.airtable.com/.attachments/275fb754595f11038a7488b8d5b60133/a6f67d55/baby.svg),育儿，宝宝，小朋友，婴幼儿，儿童票,常留留 常,2019-11-22
 排行榜,ranking-list,其它分类,Others,ranking-list.svg (https://dl.airtable.com/.attachments/f184452f30cc4c44be7ce2387d930aaa/aeb71945/ranking-list.svg),排行，排名，榜单,常留留 常,2019-11-22
 轻会员,light-member,其它分类,Others,light-member.svg (https://dl.airtable.com/.attachments/47095b089f7f67a36dac515f2bbf3e9b/5f30ba8f/light-member.svg),会员，VIP，客户，顾客,常留留 常,2019-11-22
-商圈,shopping-mall,其它分类,Others,shopping.svg (https://dl.airtable.com/.attachments/53bbff0d848235e1f160e7705e93d2c7/5f17a933/shopping.svg),购物，商城，购买，城市，楼,常留留 常,2019-11-22
+商圈,shopping-mall,建筑,Build,shopping.svg (https://dl.airtable.com/.attachments/53bbff0d848235e1f160e7705e93d2c7/5f17a933/shopping.svg),购物，商城，购买，城市，楼,常留留 常,2019-11-22
 关注,concern,声音,Music,concern.svg (https://dl.airtable.com/.attachments/6821c4e2e6ed2325342fcb73e5134f39/c820acb3/concern.svg),关系，重视，喜欢，爱，心动,常留留 常,2019-11-22
 小食,snacks,其它分类,Others,snacks.svg (https://dl.airtable.com/.attachments/80bdf445b179c80584f118251e33202e/26dd53b5/snacks.svg),小吃，零食，食物，饮料，咖啡，奶茶，果汁,常留留 常,2019-11-22
 影院,theater,其它分类,Others,theater.svg (https://dl.airtable.com/.attachments/1b604b0693259cfd632140b253884e97/c5944c42/theater.svg),看电影，幕布，电影，IMAX,常留留 常,2019-11-22
@@ -1011,7 +1011,7 @@ AirPods,airpods,其它分类,Others,AirPods.svg (https://dl.airtable.com/.attach
 磁盘,disk,其它分类,Others,save.svg (https://dl.airtable.com/.attachments/3e36d19b3df3b869b002d0a10565290e/2063406f/save.svg),保存，存储，储存，硬盘，磁盘,常留留 常,2019-11-22
 页面模版,page-template,其它分类,Others,page-template.svg (https://dl.airtable.com/.attachments/22494912b0a8ef8948bc7e02556573f2/d6005255/page-template.svg),页面，模版，布局,常留留 常,2019-11-22
 理念共享,concept-sharing,手势,Hands,concept-sharing.svg (https://dl.airtable.com/.attachments/39e62ed68c6e8d9ac38668fccc2de1dd/ba89819d/concept-sharing.svg),共享，创意共享，想法,常留留 常,2019-11-22
-人脸识别,face-recognition,其它分类,Others,face-recognition.svg (https://dl.airtable.com/.attachments/f51b40ab0f3666470836359caeb4f9df/68546bba/face-recognition.svg),人脸支付，人脸，刷脸，人脸密码，扫脸,常留留 常,2019-11-22
+人脸识别,face-recognition,"其它分类,操作",Operate,face-recognition.svg (https://dl.airtable.com/.attachments/f51b40ab0f3666470836359caeb4f9df/68546bba/face-recognition.svg),人脸支付，人脸，刷脸，人脸密码，扫脸,常留留 常,2019-11-22
 扫描设置,scan-setting,操作,Operate,scan-setting.svg (https://dl.airtable.com/.attachments/d388a5f6f1e423c7701c1d833086c19c/42992aae/scan-setting.svg),设置，扫描，打印，方向，按键，扫描,金 磊,2019-11-22
 面具,mask-one,操作,Operate,mask-one.svg (https://dl.airtable.com/.attachments/da30b63b76de564499f6a229b0b72fdb/c115d569/mask-one.svg),补水，保湿，美白，敷面膜，面膜，医美,常留留 常,2019-11-22
 全景水平,panorama-horizontal,其它分类,Others,panorama-horizontal.svg (https://dl.airtable.com/.attachments/613d207b19e48f5ccc05ed3ddffc6877/b288a244/panorama-horizontal.svg),水平线，全景，拍照，360度,金 磊,2019-11-22
@@ -1070,7 +1070,7 @@ AirPods,airpods,其它分类,Others,AirPods.svg (https://dl.airtable.com/.attach
 燕窝,nests,医疗健康,Health,nests.svg (https://dl.airtable.com/.attachments/269469032d00747450d1b763bc66963f/902e3b59/nests.svg),补品，滋补，养生，动物，燕窝,常留留 常,2019-11-22
 燕子,swallow,医疗健康,Health,swallow.svg (https://dl.airtable.com/.attachments/c840910666b62fffe446d4c8b86ba36c/da0f828c/swallow.svg),鸟，麻雀，小鸟，动物，燕子，燕窝,常留留 常,2019-11-22
 API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 磊,2020-02-11
-上课铃,bell-ring,其它分类,Others,,铃声，闹钟，信号，上课,金 磊,2020-02-11
+上课铃,bell-ring,声音,Music,,铃声，闹钟，信号，上课,金 磊,2020-02-11
 大钟表,big-clock,时间,Time,,钟表，时间，表，复古,金 磊,2020-02-11
 俄罗斯方块,block-one,其它分类,Others,,俄罗斯方块，拼接，模块，组合，组件，游戏，娱乐，乐高，魔方,金 磊,2020-02-11
 俄罗斯方块,block-two,其它分类,Others,,俄罗斯方块，拼接，模块，组合，组件，游戏，娱乐，乐高，魔方,金 磊,2020-02-11
@@ -1123,7 +1123,7 @@ API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 �
 宫殿,palace,建筑,Build,,银行，建筑，房子，宫殿，居住,金 磊,2020-02-11
 百分号,percentage,符号,Character,,符号，算法，比例，占比，百分比,金 磊,2020-02-11
 爆米花,popcorn,餐饮食物,Foods,,爆米花，娱乐，食物，电影，肥胖,金 磊,2020-02-11
-投影仪,projector-two,常用图标,Base,,投影仪，设备，投影，投屏，播放，演示,金 磊,2020-02-11
+投影仪,projector-two,其它分类,Others,,投影仪，设备，投影，投屏，播放，演示,金 磊,2020-02-11
 卫生间,public-toilet,人群,Peoples,,厕所，男女，卫生间，洗手间,金 磊,2020-02-11
 接收器,receiver,其它分类,Others,,信号，接收，卫星，发现,金 磊,2020-02-11
 路锥,road-cone,其它分类,Others,,道路，警示，安全，交通,金 磊,2020-02-11
@@ -1155,12 +1155,12 @@ API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 �
 添加子条目,add-subset,内容编辑,ContentEdit,,添加子条目,金 磊,2020-03-08
 相邻条目,adjacent-item,内容编辑,ContentEdit,,相邻条目,金 磊,2020-03-08
 小程序关闭,applet-closed,其它分类,Others,,小程序关闭,金 磊,2020-03-08
-通讯录,address-book,"其它分类,人群","Peoples",,通讯录 联系人,金 磊,2020-03-08
+通讯录,address-book,"其它分类,人群",Peoples,,通讯录 联系人,金 磊,2020-03-08
 加减乘除,arithmetic-buttons,其它分类,Others,,加减乘除 键盘,金 磊,2020-03-08
 方向键,arrow-keys,其它分类,Others,,方向键 键盘,金 磊,2020-03-08
 徽章,badge-two,体育运动,Sports,,徽章,金 磊,2020-03-08
 天平,balance-two,常用图标,Base,,天平 公平 法律,金 磊,2020-03-08
-篮球架,basketball-stand,"其它分类,体育运动","Sports",,篮球架 运动 篮板,金 磊,2020-03-08
+篮球架,basketball-stand,"其它分类,体育运动",Sports,,篮球架 运动 篮板,金 磊,2020-03-08
 海滩雨伞,beach-umbrella,家居,Life,,海滩雨伞 度假 休息,金 磊,2020-03-08
 生日蛋糕,birthday-cake,餐饮食物,Foods,,生日蛋糕,金 磊,2020-03-08
 比特币,bitcoin,符号,Character,,比特币,金 磊,2020-03-08
@@ -1194,7 +1194,7 @@ API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 �
 数据库节点,database-point,数据库,Datas,,数据库节点,金 磊,2020-03-08
 数据库定位,database-position,数据库,Datas,,数据库定位,金 磊,2020-03-08
 数据库电源,database-power,数据库,Datas,,数据库电源,金 磊,2020-03-08
-数据库占比,database-proportion,其它分类,Others,,数据库占比,金 磊,2020-03-08
+数据库占比,database-proportion,数据库,Datas,,数据库占比,金 磊,2020-03-08
 数据库搜索,database-search,数据库,Datas,,数据库搜索,金 磊,2020-03-08
 数据库设置,database-setting,数据库,Datas,,数据库设置,金 磊,2020-03-08
 数据库成功,database-success,数据库,Datas,,数据库成功,金 磊,2020-03-08
@@ -1228,11 +1228,11 @@ API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 �
 绿色新能源,green-new-energy,其它分类,Others,,绿色新能源,金 磊,2020-03-08
 吹风机,hair-dryer,家居,Life,,吹风机,金 磊,2020-03-08
 衣架,hanger-two,家居,Life,,衣架 晒衣服 晾衣服,金 磊,2020-03-08
-耳机声音,headphone-sound,其它分类,Others,,耳机声音,金 磊,2020-03-08
+耳机声音,headphone-sound,声音,Music,,耳机声音,金 磊,2020-03-08
 请勿打扫,hotel-do-not-clean,家居,Life,,请勿打扫 房间,金 磊,2020-03-08
 请打扫,hotel-please-clean,家居,Life,,请打扫 房间,金 磊,2020-03-08
 失衡天平,imbalance,常用图标,Base,,失衡天平,金 磊,2020-03-08
-人脸识别,ios-face-recognition,"其它分类,操作","Operate",,人脸识别 面部识别,金 磊,2020-03-08
+人脸识别,ios-face-recognition,其它分类,Others,,人脸识别 面部识别,金 磊,2020-03-08
 熨斗坏了,iron-disable,家居,Life,,熨斗坏了,金 磊,2020-03-08
 熨斗,iron-three,家居,Life,,熨斗,金 磊,2020-03-08
 熨斗,iron-two,家居,Life,,熨斗,金 磊,2020-03-08
@@ -1247,8 +1247,8 @@ API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 �
 大纲视图,mindmap-list,内容编辑,ContentEdit,,大纲视图 列表,金 磊,2020-03-08
 思维导图,mindmap-map,内容编辑,ContentEdit,,思维导图 脑图,金 磊,2020-03-08
 鼠标,mouse,常用图标,Base,,鼠标,金 磊,2020-03-08
-影视板,movie-board,常用图标,Base,,影视板,金 磊,2020-03-08
-音乐律动,music-rhythm,其它分类,Others,,音乐律动,金 磊,2020-03-08
+影视板,movie-board,其它分类,Others,,影视板,金 磊,2020-03-08
+音乐律动,music-rhythm,声音,Music,,音乐律动,金 磊,2020-03-08
 报纸折叠,newspaper-folding,书籍,Books,,报纸折叠,金 磊,2020-03-08
 笔记本和笔,notebook-and-pen,书籍,Books,,笔记本和笔,金 磊,2020-03-08
 线上办公室,online-meeting,交流沟通,Communicate,,线上办公室 语音会议,金 磊,2020-03-08
@@ -1267,11 +1267,11 @@ API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 �
 波纹,ripple,其它分类,Others,,波纹,金 磊,2020-03-08
 跳绳,rope-skipping,体育运动,Sports,,跳绳 绳子,金 磊,2020-03-08
 淋浴喷头,shower-head,家居,Life,,淋浴喷头 酒店 洗澡,金 磊,2020-03-08
-信号强度,signal-strength,其它分类,Others,,信号强度,金 磊,2020-03-08
+信号强度,signal-strength,声音,Music,,信号强度,金 磊,2020-03-08
 单人床,single-bed,家居,Life,,单人床 睡觉 酒店 休息,金 磊,2020-03-08
 方向盘,steering-wheel,其它分类,Others,,方向盘 汽车,金 磊,2020-03-08
-监控摄像头,surveillance-cameras-two,常用图标,Base,,监控摄像头,金 磊,2020-03-08
-监控摄像头,surveillance-cameras,常用图标,Base,,监控摄像头,金 磊,2020-03-08
+监控摄像头,surveillance-cameras-two,其它分类,Others,,监控摄像头,金 磊,2020-03-08
+监控摄像头,surveillance-cameras,其它分类,Others,,监控摄像头,金 磊,2020-03-08
 台灯,table-lamp,常用图标,Base,,台灯 灯光 书桌,金 磊,2020-03-08
 思考问题,thinking-problem,其它分类,Others,,思考问题,金 磊,2020-03-08
 话题讨论,topic-discussion,交流沟通,Communicate,,话题讨论,金 磊,2020-03-08
@@ -1280,3 +1280,12 @@ API 接口,api,常用图标,Base,,接口，开发，程序，研发，API,金 �
 上下楼,up-and-down,建筑,Build,,上下楼 电梯 楼梯,金 磊,2020-03-08
 语音文字,voice-input,其它分类,Others,,语音文字 语音转文字 语音入法,金 磊,2020-03-08
 轮椅,wheelchair,其它分类,Others,,轮椅 残疾 运动,金 磊,2020-03-08
+刷新,refresh-one,常用图标,Base,,刷新 重置 更新 ,齐 奉飞,2020-08-31
+星星,star-one,品牌标识,Brand,,收藏，已收藏，取消收藏，评分，评价，打分，星级,常留留,2020-01-19
+插入表,insert-table,编辑操作,Edit,,表格 图表 表 插入,齐 奉飞,2020-08-31
+中药,traditional-chinese-medicine,医疗健康,Health,,中国 药材 中药 饭 碗,齐 奉飞,2020-08-31
+声音-大,volume-notice,声音,Music,colume-notice.svg (https://dl.airtable.com/.attachments/3577ea27d46570cda737ec8c58b233cb/1a81a540/colume-notice.svg),音量，声音，喇叭，小声，广播,常留留 常,2020-08-31
+声音-小,volume-small,声音,Music,colume-small.svg (https://dl.airtable.com/.attachments/28171d27ed9c68fbfea22918864372b1/2067d375/colume-small.svg),音量，声音，喇叭，小声，广播,常留留 常,2020-08-31
+静音,volume-mute,声音,Music,colume-mute.svg (https://dl.airtable.com/.attachments/d6bebf2a63db5e0c8ab364e23bbe813a/37736fb4/colume-mute.svg),音量关闭，静音，声音，音量，喇叭，广播,常留留 常,2020-08-31
+树叶,sleaves,其它分类,Others,,叶子 树叶 叶 标本 植物 树木 草,齐 奉飞,2020-08-31
+instagram,instagram-one,品牌标识,Brand,instagram.svg (https://dl.airtable.com/.attachments/bc8c4e16c34f0d43f1790fc6625e0912/c1ddb04f/instagram.svg),小视频，短视频，logo，社交，图片分享，国际社交，社交平台,常留留 常,2019-10-12

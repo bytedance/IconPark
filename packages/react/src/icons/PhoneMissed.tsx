@@ -25,14 +25,6 @@ export default IconWrapper(
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
             />
-            <rect
-                opacity="0.01"
-                x="29"
-                y="7"
-                width="13"
-                height="13"
-                fill={props.colors[2]}
-            />
             <path
                 d="M39.7351 9.28589L31.2498 17.7712"
                 stroke={props.colors[0]}
