@@ -19,10 +19,6 @@ export default IconWrapper(
         >
             <path
                 d="M12 8C12 10.2091 10.2091 12 8 12C5.79086 12 4 10.2091 4 8C4 5.79086 5.79086 4 8 4C10.2091 4 12 5.79086 12 8Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M12 8C12 10.2091 10.2091 12 8 12C5.79086 12 4 10.2091 4 8C4 5.79086 5.79086 4 8 4C10.2091 4 12 5.79086 12 8Z"
                 fill={props.colors[1]}
             />
             <path
@@ -31,10 +27,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M12 40C12 37.7909 10.2091 36 8 36C5.79086 36 4 37.7909 4 40C4 42.2091 5.79086 44 8 44C10.2091 44 12 42.2091 12 40Z"
-                fill="#09C8E2"
             />
             <path
                 d="M12 40C12 37.7909 10.2091 36 8 36C5.79086 36 4 37.7909 4 40C4 42.2091 5.79086 44 8 44C10.2091 44 12 42.2091 12 40Z"
@@ -49,10 +41,6 @@ export default IconWrapper(
             />
             <path
                 d="M36 40C36 37.7909 37.7909 36 40 36C42.2091 36 44 37.7909 44 40C44 42.2091 42.2091 44 40 44C37.7909 44 36 42.2091 36 40Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M36 40C36 37.7909 37.7909 36 40 36C42.2091 36 44 37.7909 44 40C44 42.2091 42.2091 44 40 44C37.7909 44 36 42.2091 36 40Z"
                 fill={props.colors[1]}
             />
             <path
@@ -61,10 +49,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M36 8C36 10.2091 37.7909 12 40 12C42.2091 12 44 10.2091 44 8C44 5.79086 42.2091 4 40 4C37.7909 4 36 5.79086 36 8Z"
-                fill="#09C8E2"
             />
             <path
                 d="M36 8C36 10.2091 37.7909 12 40 12C42.2091 12 44 10.2091 44 8C44 5.79086 42.2091 4 40 4C37.7909 4 36 5.79086 36 8Z"

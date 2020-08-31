@@ -11,7 +11,6 @@ export default IconWrapper('composition', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8281 21.786L21.9686 39.6455C18.5544 43.0598 12.9373 42.9784 9.42255 39.4637C5.90784 35.949 5.82643 30.3319 9.24073 26.9176L27.1002 9.05809" fill="#09C8E2"/>'
         + '<path fill-rule="evenodd" clip-rule="evenodd" d="M39.8281 21.786L21.9686 39.6455C18.5544 43.0598 12.9373 42.9784 9.42255 39.4637C5.90784 35.949 5.82643 30.3319 9.24073 26.9176L27.1002 9.05809" fill="' + props.colors[1] + '"/>'
         + '<path d="M39.8281 21.786L21.9686 39.6455C18.5544 43.0598 12.9373 42.9784 9.42255 39.4637C5.90784 35.949 5.82643 30.3319 9.24073 26.9176L27.1002 9.05809" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
         + '<path d="M8.73438 27.4239L34.8784 26.7357" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'

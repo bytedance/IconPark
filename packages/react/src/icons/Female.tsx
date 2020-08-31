@@ -16,29 +16,38 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
-            fill="none"
         >
-            <path
-                d="M38.3787 9.85178C32.9114 4.38444 24.0471 4.38444 18.5798 9.85178C15.8461 12.5855 14.4792 16.1684 14.4792 19.7513C14.4792 23.3342 15.8461 26.9171 18.5798 29.6508C24.0471 35.1181 32.9114 35.1181 38.3787 29.6508C43.8461 24.1834 43.8461 15.3191 38.3787 9.85178Z"
-                fill={props.colors[1]}
-                stroke={props.colors[0]}
+            <g
+                stroke="none"
                 strokeWidth={props.strokeWidth}
-                strokeLinejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M18.4645 29.5355L5.73656 42.2635"
-                stroke={props.colors[0]}
-                strokeWidth={props.strokeWidth}
-                strokeLinecap={props.strokeLinecap}
-                strokeLinejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M19.1717 41.5564L6.44375 28.8284"
-                stroke={props.colors[0]}
-                strokeWidth={props.strokeWidth}
-                strokeLinecap={props.strokeLinecap}
-                strokeLinejoin={props.strokeLinejoin}
-            />
+                fill="none"
+                fillRule="evenodd"
+            >
+                <g
+                    transform="translate(-6.000000, -2.000000)"
+                >
+                    <g
+                        transform="translate(28.000000, 28.000000) scale(-1, -1) rotate(45.000000) translate(-28.000000, -28.000000) translate(13.500000, 4.000000)"
+                        stroke={props.colors[0]}
+                        strokeLinejoin={props.strokeLinejoin}
+                        strokeWidth={props.strokeWidth}
+                    >
+                        <path
+                            d="M14.3370491,47 C22.0690356,47 28.3370491,40.7319865 28.3370491,33 C28.3370491,29.1340068 26.7700457,25.6340068 24.236544,23.1005051 C21.7030423,20.5670034 18.2030423,19 14.3370491,19 C6.6050626,19 0.337049096,25.2680135 0.337049096,33 C0.337049096,40.7319865 6.6050626,47 14.3370491,47 Z"
+                            fill={props.colors[1]}
+                            fillRule="nonzero"
+                        />
+                        <path
+                            d="M14.5,19 L14.5,1"
+                            strokeLinecap={props.strokeLinecap}
+                        />
+                        <path
+                            d="M5.5,11 L23.5,11"
+                            strokeLinecap={props.strokeLinecap}
+                        />
+                    </g>
+                </g>
+            </g>
         </svg>
     )
 );

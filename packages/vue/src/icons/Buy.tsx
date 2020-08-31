@@ -21,18 +21,7 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M6 15H42L40 42H8L6 15Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M6 15H42L40 42H8L6 15Z"
                 fill={props.colors[1]}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M6 15H42L40 42H8L6 15Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}

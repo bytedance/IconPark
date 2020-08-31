@@ -1,5 +1,9 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<path d="M33 6H42V15M42 33V42H33M15 42H6V33M6 15V6H15" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M10 24H38" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Base/scan-code">
+<path d="M0 0H48V48H0V0Z" fill="white" fill-opacity="0.01"/>
+<g id="&#231;&#188;&#150;&#231;&#187;&#132;">
+<path id="Shape" d="M33 6H42V15M42 33V42H33M15 42H6V33M6 15V6H15" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="&#231;&#155;&#180;&#231;&#186;&#191;" d="M10 24H38" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
 </svg>

@@ -18,6 +18,11 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
+            <rect
+                width="48"
+                height="48"
+                fill="#FBB0B0"
+            />
             <path
                 d="M4 7C4 5.34315 5.34315 4 7 4H41C42.6569 4 44 5.34315 44 7V41C44 42.6569 42.6569 44 41 44H7C5.34315 44 4 42.6569 4 41V7Z"
                 fill={props.colors[1]}

@@ -47,17 +47,7 @@ export default IconWrapper(
             />
             <path
                 d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
                 fill={props.colors[1]}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -66,15 +56,6 @@ export default IconWrapper(
                 fill={props.colors[1]}
             />
             <path
-                d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
                 d="M32 24C32 28.4183 28.4183 32 24 32C19.5817 32 16 28.4183 16 24C16 19.5817 19.5817 16 24 16C28.4183 16 32 19.5817 32 24Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}

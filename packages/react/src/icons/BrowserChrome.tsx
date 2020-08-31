@@ -22,19 +22,7 @@ export default IconWrapper(
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
                 fill={props.colors[1]}
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M24 33C28.9706 33 33 28.9706 33 24C33 19.0294 28.9706 15 24 15C19.0294 15 15 19.0294 15 24C15 28.9706 19.0294 33 24 33Z"
-                fill="#09C8E2"
             />
             <path
                 fillRule="evenodd"
@@ -46,31 +34,13 @@ export default IconWrapper(
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M24 15H41.8654H24Z"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M24 15H41.8654H24Z"
                 fill={props.colors[1]}
             />
             <path
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M17 42.7408L29.6439 31L17 42.7408Z"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M17 42.7408L29.6439 31L17 42.7408Z"
                 fill={props.colors[1]}
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M6 15.2717L16.8751 29.552L6 15.2717Z"
-                fill="#09C8E2"
             />
             <path
                 fillRule="evenodd"

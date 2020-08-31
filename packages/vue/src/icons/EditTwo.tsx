@@ -15,32 +15,22 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M42 26V40C42 41.1046 41.1046 42 40 42H8C6.89543 42 6 41.1046 6 40V8C6 6.89543 6.89543 6 8 6L22 6"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(6.000000, 6.000000)"
-                        stroke={props.colors[0]}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <path
-                            d="M36,20 L36,34 C36,35.1045695 35.1045695,36 34,36 L2,36 C0.8954305,36 1.3527075e-16,35.1045695 0,34 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 L16,0"
-                            stroke-linecap={props.strokeLinecap}
-                        />
-                        <polygon
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                            points="8 20.7198497 8 28 15.3171881 28 36 7.30814278 28.6950519 0"
-                        />
-                    </g>
-                </g>
-            </g>
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M14 26.7199V34H21.3172L42 13.3081L34.6951 6L14 26.7199Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

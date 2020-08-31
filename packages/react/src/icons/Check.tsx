@@ -16,21 +16,15 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M43 11L16.875 37L5 25.1818"
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
-            >
-                <polyline
-                    stroke={props.colors[0]}
-                    strokeWidth={props.strokeWidth}
-                    strokeLinecap={props.strokeLinecap}
-                    strokeLinejoin={props.strokeLinejoin}
-                    points="43 11 16.875 37 5 25.1818182"
-                />
-            </g>
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

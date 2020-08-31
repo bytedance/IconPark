@@ -1,26 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="49px" height="48px" viewBox="0 0 49 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>download2</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
-    </defs>
-    <g id="download2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 0.000000)">
-        <g id="Group-19">
-            <mask id="mask-2" fill="white">
-                <use xlink:href="#path-1"></use>
-            </mask>
-            <use id="Mask" fill="#FFFFFF" opacity="0.01" xlink:href="#path-1"></use>
-            <g mask="url(#mask-2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-                <g transform="translate(4.000000, 8.000000)">
-                    <path d="M7.67771603,12.2710459 C3.27476288,13.3181203 -3.63797881e-12,17.2766292 -3.63797881e-12,22 C-3.63797881e-12,27.5228475 4.4771525,32 10,32 L10,32 C10.9473815,32 11.8639929,31.8682576 12.7325136,31.6220934" id="Path"></path>
-                    <path d="M34.677716,12.2710459 C30.2747629,13.3181203 27,17.2766292 27,22 C27,27.5228475 31.4771525,32 37,32 L37,32 C37.9473815,32 38.8639929,31.8682576 39.7325136,31.6220934" id="Path" transform="translate(33.366257, 22.135523) scale(-1, 1) translate(-33.366257, -22.135523) "></path>
-                    <path d="M32,12 C32,5.372583 26.627417,0 20,0 C13.372583,0 8,5.372583 8,12" id="Path"></path>
-                    <polyline id="Path" transform="translate(20.098765, 25.538221) scale(1, -1) translate(-20.098765, -25.538221) " points="13.0655651 28.957409 20 22 27.1319641 29.0764424"></polyline>
-                    <path d="M20,12 L20,25.5382212" id="Path-15"></path>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M11.6777 20.271C7.27476 21.3181 4 25.2766 4 30C4 35.5228 8.47715 40 14 40V40C14.9474 40 15.864 39.8683 16.7325 39.6221" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36.0547 20.271C40.4577 21.3181 43.7324 25.2766 43.7324 30C43.7324 35.5228 39.2553 40 33.7324 40V40C32.785 40 31.8684 39.8683 30.9999 39.6221" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 20C36 13.3726 30.6274 8 24 8C17.3726 8 12 13.3726 12 20" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.0654 30.119L23.9999 37.0764L31.1318 30" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 20V33.5382" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

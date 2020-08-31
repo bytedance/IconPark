@@ -51,20 +51,7 @@ export default IconWrapper(
                 y="9"
                 width="10"
                 height="10"
-                fill="#09C8E2"
-            />
-            <rect
-                x="6"
-                y="9"
-                width="10"
-                height="10"
                 fill={props.colors[1]}
-            />
-            <rect
-                x="6"
-                y="9"
-                width="10"
-                height="10"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

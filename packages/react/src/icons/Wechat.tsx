@@ -22,12 +22,6 @@ export default IconWrapper(
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M36.9974 21.7112C36.8434 13.0079 29.7401 6 21 6C12.1634 6 5 13.1634 5 22C5 26.1701 6.59531 29.9676 9.20892 32.8154L8.01043 40.0257L15.125 36.9699C18.2597 38.0122 21.218 38.2728 24 37.7516"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M36.9974 21.7112C36.8434 13.0079 29.7401 6 21 6C12.1634 6 5 13.1634 5 22C5 26.1701 6.59531 29.9676 9.20892 32.8154L8.01043 40.0257L15.125 36.9699C18.2597 38.0122 21.218 38.2728 24 37.7516"
                 fill={props.colors[1]}
             />
             <path
@@ -49,12 +43,6 @@ export default IconWrapper(
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M38.7618 39.9293C37.0135 41.2302 34.8467 42 32.5 42C26.701 42 22 37.299 22 31.5C22 25.701 26.701 21 32.5 21C38.299 21 43 25.701 43 31.5C43 33.0997 42.6423 34.6159 42.0024 35.9728"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M38.7618 39.9293C37.0135 41.2302 34.8467 42 32.5 42C26.701 42 22 37.299 22 31.5C22 25.701 26.701 21 32.5 21C38.299 21 43 25.701 43 31.5C43 33.0997 42.6423 34.6159 42.0024 35.9728"
                 fill={props.colors[1]}
             />
             <path
@@ -63,12 +51,6 @@ export default IconWrapper(
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M42.0024 35.9728L43 42L38.7618 39.9293"
-                fill="#09C8E2"
             />
             <path
                 fillRule="evenodd"

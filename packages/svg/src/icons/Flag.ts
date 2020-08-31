@@ -13,8 +13,6 @@ export default IconWrapper('flag', (props: ISvgIconProps) => (
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M8 44H12H16" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M12 44V4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M40 6H12V22H40L36 14L40 6Z" fill="#09C8E2"/>'
-        + '<path d="M40 6H12V22H40L36 14L40 6Z" fill="' + props.colors[1] + '"/>'
-        + '<path d="M40 6H12V22H40L36 14L40 6Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M40 6H12V22H40L36 14L40 6Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

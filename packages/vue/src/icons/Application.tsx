@@ -15,32 +15,22 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M40.0393 22V42H8.03931V22"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(5.000000, 6.000000)"
-                        stroke={props.colors[0]}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <polyline
-                            stroke-linecap={props.strokeLinecap}
-                            points="35.0393664 16 35.0393664 36 3.03936636 36 3.03936636 16"
-                        />
-                        <path
-                            d="M5.0972668,16 L6.52764829,16 C9.84135679,16 12.5276483,13.3137085 12.5276483,10 L12.5276483,10 C12.5276483,13.3137085 15.2139398,16 18.5276483,16 L19.5460157,16 C22.8597242,16 25.5460157,13.3137085 25.5460157,10 L25.5460157,10 C25.5460157,13.3137085 28.2323072,16 31.5460157,16 L32.980292,16 C35.7957382,16 38.0781083,13.7176299 38.0781083,10.9021836 C38.0781083,10.2739777 37.9619956,9.65118266 37.7356211,9.06518161 L34.2337065,-1.10134124e-13 L3.84522501,-1.10134124e-13 L0.343478179,9.06844753 C-0.670327498,11.6938925 0.636164281,14.644088 3.26160924,15.6578937 C3.84720124,15.8840179 4.46953269,16 5.0972668,16 Z"
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                        />
-                    </g>
-                </g>
-            </g>
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M5.84231 13.7766C4.31276 17.7377 7.26307 22 11.5092 22C14.8229 22 17.5276 19.3137 17.5276 16C17.5276 19.3137 20.2139 22 23.5276 22H24.546C27.8597 22 30.546 19.3137 30.546 16C30.546 19.3137 33.2518 22 36.5655 22C40.8139 22 43.767 17.7352 42.2362 13.7723L39.2337 6H8.84523L5.84231 13.7766Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

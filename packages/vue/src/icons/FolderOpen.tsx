@@ -19,10 +19,6 @@ export default IconWrapper(
         >
             <path
                 d="M19 7H6C4.89543 7 4 7.89543 4 9V41L9 21H40V15C40 13.8954 39.1046 13 38 13H24L19 7Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M19 7H6C4.89543 7 4 7.89543 4 9V41L9 21H40V15C40 13.8954 39.1046 13 38 13H24L19 7Z"
                 fill={props.colors[1]}
             />
             <path
@@ -33,17 +29,7 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M44 21H40H9L4 41"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M44 21H40H9L4 41"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M4 41H40L44 21H40H9L4 41Z"
-                fill="#09C8E2"
             />
             <path
                 d="M4 41H40L44 21H40H9L4 41Z"

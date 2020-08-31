@@ -23,20 +23,7 @@ export default IconWrapper(
                 y="18"
                 width="40"
                 height="12"
-                fill="#09C8E2"
-            />
-            <rect
-                x="4"
-                y="18"
-                width="40"
-                height="12"
                 fill={props.colors[1]}
-            />
-            <rect
-                x="4"
-                y="18"
-                width="40"
-                height="12"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -47,20 +34,7 @@ export default IconWrapper(
                 y="30"
                 width="40"
                 height="12"
-                fill="#09C8E2"
-            />
-            <rect
-                x="4"
-                y="30"
-                width="40"
-                height="12"
                 fill={props.colors[1]}
-            />
-            <rect
-                x="4"
-                y="30"
-                width="40"
-                height="12"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -105,18 +79,7 @@ export default IconWrapper(
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M32 10C32 5.58172 28.4183 2 24 2C19.5817 2 16 5.58172 16 10H32Z"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M32 10C32 5.58172 28.4183 2 24 2C19.5817 2 16 5.58172 16 10H32Z"
                 fill={props.colors[1]}
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M32 10C32 5.58172 28.4183 2 24 2C19.5817 2 16 5.58172 16 10H32Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

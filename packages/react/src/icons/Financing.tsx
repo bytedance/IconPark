@@ -16,34 +16,27 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
                 strokeLinejoin={props.strokeLinejoin}
-            >
-                <g
-                    transform="translate(4.000000, 4.000000)"
-                    fillRule="nonzero"
-                    strokeWidth={props.strokeWidth}
-                >
-                    <circle
-                        stroke={props.colors[0]}
-                        fill={props.colors[1]}
-                        cx="20"
-                        cy="20"
-                        r="20"
-                    />
-                    <path
-                        d="M17.5638852,15 L22.4361148,15 C23.3276335,15 23.6509198,15.0928256 23.9768457,15.2671327 C24.3027716,15.4414398 24.5585602,15.6972284 24.7328673,16.0231543 C24.9071744,16.3490802 25,16.6723665 25,17.5638852 L25,22.4361148 C25,23.3276335 24.9071744,23.6509198 24.7328673,23.9768457 C24.5585602,24.3027716 24.3027716,24.5585602 23.9768457,24.7328673 C23.6509198,24.9071744 23.3276335,25 22.4361148,25 L17.5638852,25 C16.6723665,25 16.3490802,24.9071744 16.0231543,24.7328673 C15.6972284,24.5585602 15.4414398,24.3027716 15.2671327,23.9768457 C15.0928256,23.6509198 15,23.3276335 15,22.4361148 L15,17.5638852 C15,16.6723665 15.0928256,16.3490802 15.2671327,16.0231543 C15.4414398,15.6972284 15.6972284,15.4414398 16.0231543,15.2671327 C16.3490802,15.0928256 16.6723665,15 17.5638852,15 Z"
-                        stroke={props.colors[2]}
-                        fill={props.colors[3]}
-                        transform="translate(20.000000, 20.000000) rotate(45.000000) translate(-20.000000, -20.000000) "
-                    />
-                </g>
-            </g>
+            />
+            <rect
+                x="24"
+                y="16.929"
+                width="10"
+                height="10"
+                rx="2"
+                transform="rotate(45 24 16.929)"
+                fill={props.colors[3]}
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

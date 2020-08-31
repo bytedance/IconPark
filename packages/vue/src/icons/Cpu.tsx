@@ -19,14 +19,7 @@ export default IconWrapper(
         >
             <path
                 d="M38 8H10C8.89543 8 8 8.89543 8 10V38C8 39.1046 8.89543 40 10 40H38C39.1046 40 40 39.1046 40 38V10C40 8.89543 39.1046 8 38 8Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M38 8H10C8.89543 8 8 8.89543 8 10V38C8 39.1046 8.89543 40 10 40H38C39.1046 40 40 39.1046 40 38V10C40 8.89543 39.1046 8 38 8Z"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M38 8H10C8.89543 8 8 8.89543 8 10V38C8 39.1046 8.89543 40 10 40H38C39.1046 40 40 39.1046 40 38V10C40 8.89543 39.1046 8 38 8Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}
@@ -37,12 +30,6 @@ export default IconWrapper(
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M14.9092 2V8V2Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -61,12 +48,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M14.9092 40V46V40Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M14.9092 40V46V40Z"
                 fill={props.colors[1]}
             />
             <path
@@ -75,12 +56,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M24 2V8V2Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -99,12 +74,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M24 40V46V40Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M24 40V46V40Z"
                 fill={props.colors[1]}
             />
             <path
@@ -113,12 +82,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M33.0908 2V8V2Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -137,12 +100,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M33.0908 40V46V40Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M33.0908 40V46V40Z"
                 fill={props.colors[1]}
             />
             <path
@@ -151,12 +108,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M2 14.9091H8H2Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -175,12 +126,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M40 14.9091H46H40Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M40 14.9091H46H40Z"
                 fill={props.colors[1]}
             />
             <path
@@ -189,12 +134,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M2 24H8H2Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -213,12 +152,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M40 24H46H40Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M40 24H46H40Z"
                 fill={props.colors[1]}
             />
             <path
@@ -232,12 +165,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M2 33.0909H8H2Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M2 33.0909H8H2Z"
                 fill={props.colors[1]}
             />
             <path
@@ -246,12 +173,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M40 33.0909H46H40Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"

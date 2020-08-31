@@ -18,18 +18,11 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + '59f21bff' + ')'}
+                clip-path={'url(#' + props.id + 'adcde383' + ')'}
             >
                 <path
                     d="M44.7818 24.1702L31.918 7.09938L14.1348 20.5L27.5 37L30.8556 34.6644L44.7818 24.1702Z"
-                    fill="#09C8E2"
-                />
-                <path
-                    d="M44.7818 24.1702L31.918 7.09938L14.1348 20.5L27.5 37L30.8556 34.6644L44.7818 24.1702Z"
                     fill={props.colors[1]}
-                />
-                <path
-                    d="M44.7818 24.1702L31.918 7.09938L14.1348 20.5L27.5 37L30.8556 34.6644L44.7818 24.1702Z"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linejoin={props.strokeLinejoin}
@@ -49,7 +42,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + '59f21bff'}
+                    id={props.id + 'adcde383'}
                 >
                     <rect
                         width="48"

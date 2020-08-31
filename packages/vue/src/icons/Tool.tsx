@@ -17,16 +17,20 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g>
-                <path
-                    d="M4 16C4 22.6274 9.37258 28 16 28C18.0267 28 19.9361 27.4975 21.6104 26.6104L39 44L44 39L26.6104 21.6104C27.4975 19.9361 28 18.0267 28 16C28 9.37258 22.6274 4 16 4C13.9733 4 12.0639 4.50245 10.3896 5.38959L18 13L13 18L5.38959 10.3896C4.50245 12.0639 4 13.9733 4 16Z"
-                    fill={props.colors[1]}
-                    stroke={props.colors[0]}
-                    stroke-width={props.strokeWidth}
-                    stroke-linecap={props.strokeLinecap}
-                    stroke-linejoin={props.strokeLinejoin}
-                />
-            </g>
+            <rect
+                width="48"
+                height="48"
+                transform="matrix(-1 0 0 1 48 0)"
+                fill={props.colors[1]}
+            />
+            <path
+                d="M44 16C44 22.6274 38.6274 28 32 28C29.9733 28 28.0639 27.4975 26.3896 26.6104L9 44L4 39L21.3896 21.6104C20.5025 19.9361 20 18.0267 20 16C20 9.37258 25.3726 4 32 4C34.0267 4 35.9361 4.50245 37.6104 5.38959L30 13L35 18L42.6104 10.3896C43.4975 12.0639 44 13.9733 44 16Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

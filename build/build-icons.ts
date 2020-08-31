@@ -10,7 +10,7 @@ interface IIconProps {
     id: number;
     title: string;
     name: string;
-    svg: string;
+    svg?: string;
     tag: string[];
     category: string;
     categoryCN: string;
@@ -25,10 +25,35 @@ const map: {[key: string]: boolean} = {};
 let count = 0;
 let errors: {[key: string]: boolean} = {};
 
-const data: IIconProps[] = arr.slice(1).map((item: string[], i) => {
+const ALL_ICON_MAP: Record<string, [string, string]> = {};
+
+const NEW_CSV: string[][] = arr.slice(0, 1);
+
+fs.readdirSync(path.join(__dirname, '../source')).forEach(dir => {
+
+    const dirPath = path.join(__dirname, '../source', dir);
+
+    if (fs.statSync(dirPath).isDirectory()) {
+
+        fs.readdirSync(dirPath).forEach(file => {
+
+            const filePath = path.join(dirPath, file);
+            const key = path.basename(filePath, '.svg');
+
+            if (ALL_ICON_MAP[key]) {
+                console.log('图标名字重复：', key);
+            }
+
+            ALL_ICON_MAP[key] = [dir, fs.readFileSync(filePath, 'utf8')];
+        });
+    }
+});
+const data: IIconProps[] = [];
+
+arr.slice(1).forEach((item: string[], i) => {
 
     const name = item[1];
-    const category = item[3];
+    let category = item[3];
     const filePath = path.resolve(__dirname, '../source', category, name + '.svg');
     const result = category + '/' + name;
     const printErrorMsg = (msg: string, data = result) => {
@@ -40,9 +65,18 @@ const data: IIconProps[] = arr.slice(1).map((item: string[], i) => {
 
     // 校验
     if (!fs.existsSync(filePath)) {
-        printErrorMsg('svg路径不存在:请检查是否缺失svg或者拼写错误');
+
+        if (ALL_ICON_MAP[name]) {
+            svg = ALL_ICON_MAP[name][1];
+            printErrorMsg('svg分类错误: 请检查图标分类, 真实分类 = ' + ALL_ICON_MAP[name][0]);
+            NEW_CSV.push(item);
+        } else {
+            printErrorMsg('svg路径不存在: 请检查是否缺失svg或者拼写错误');
+            return;
+        }
     } else {
         svg = fs.readFileSync(filePath, 'utf8');
+        NEW_CSV.push(item);
     }
 
     // 非法字符
@@ -63,20 +97,24 @@ const data: IIconProps[] = arr.slice(1).map((item: string[], i) => {
 
     count = count + 1;
 
-    return {
+    data.push({
         id: i,
         title: item[0],
         name,
         category,
         categoryCN: item[2],
         author: item[5].replace(/[,， ]+/g, ''),
-        tag: item[4].split(/[,， ]+/),
-        time: item[6],
+        tag: item[5].split(/[,， ]+/).filter(item => item.trim()),
+        time: item[7],
         svg
-    };
+    });
 });
 
 console.log('总图标数', count);
 console.log('错误图标数', Object.keys(errors).length);
 
 fs.writeFileSync(path.resolve(__dirname, '../source/icons.json'), JSON.stringify(data, null, 4), 'utf8');
+
+data.forEach(item => delete item.svg);
+
+fs.writeFileSync(path.resolve(__dirname, '../source/icons-config.json'), JSON.stringify(data, null, 4), 'utf8');

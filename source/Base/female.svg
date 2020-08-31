@@ -1,7 +1,16 @@
-<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<path d="M38.3787 9.85178C32.9114 4.38444 24.0471 4.38444 18.5798 9.85178C15.8461 12.5855 14.4792 16.1684 14.4792 19.7513C14.4792 23.3342 15.8461 26.9171 18.5798 29.6508C24.0471 35.1181 32.9114 35.1181 38.3787 29.6508C43.8461 24.1834 43.8461 15.3191 38.3787 9.85178Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<path d="M18.4645 29.5355L5.73656 42.2635" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M19.1717 41.5564L6.44375 28.8284" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>female</title>
+    <desc>Created with Sketch.</desc>
+    <g id="female" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" transform="translate(-6.000000, -2.000000)">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="6" y="2" width="48" height="48"></rect>
+            <g id="Group-2" transform="translate(28.000000, 28.000000) scale(-1, -1) rotate(45.000000) translate(-28.000000, -28.000000) translate(13.500000, 4.000000)" stroke="#000000" stroke-linejoin="round" stroke-width="4">
+                <path d="M14.3370491,47 C22.0690356,47 28.3370491,40.7319865 28.3370491,33 C28.3370491,29.1340068 26.7700457,25.6340068 24.236544,23.1005051 C21.7030423,20.5670034 18.2030423,19 14.3370491,19 C6.6050626,19 0.337049096,25.2680135 0.337049096,33 C0.337049096,40.7319865 6.6050626,47 14.3370491,47 Z" id="Oval" fill="#2F88FF" fill-rule="nonzero"></path>
+                <path d="M14.5,19 L14.5,1" id="Path-44" stroke-linecap="round"></path>
+                <path d="M5.5,11 L23.5,11" id="Path-43" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
 </svg>

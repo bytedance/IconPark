@@ -22,12 +22,6 @@ export default IconWrapper(
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M38.1684 22.262L19.0766 41.3539L6.34863 28.6259L25.4405 9.53406"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M38.1684 22.262L19.0766 41.3539L6.34863 28.6259L25.4405 9.53406"
                 fill={props.colors[1]}
             />
             <path

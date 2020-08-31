@@ -20,29 +20,13 @@ export default IconWrapper(
         >
             <path
                 d="M4 14L24 4L34 9L44 14V34L24 44L4 34V14Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M4 14L24 4L34 9L44 14V34L24 44L4 34V14Z"
                 fill={props.colors[1]}
             />
             <path
                 fillRule="evenodd"
                 clipRule="evenodd"
                 d="M4 14L14 19L24 24L44 14"
-                fill="#09C8E2"
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M4 14L14 19L24 24L44 14"
                 fill={props.colors[1]}
-            />
-            <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M24 24V44V24Z"
-                fill="#09C8E2"
             />
             <path
                 fillRule="evenodd"

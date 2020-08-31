@@ -15,32 +15,24 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M8 40C8 36 8 10 8 10C8 6.68629 10.8654 4 14.4 4H40V36C40 36 19.9815 36 14.4 36C9.36225 36 8 36.6842 8 40Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
                 fill-rule="evenodd"
-            >
-                <g>
-                    <g
-                        transform="translate(8.000000, 4.000000)"
-                        stroke={props.colors[0]}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <path
-                            d="M-5.1159077e-13,36 C-5.1159077e-13,33.3333333 -5.1159077e-13,23.3333333 -5.1159077e-13,6 C-5.1159077e-13,2.6862915 2.8653776,0 6.4,0 L32,0 L32,32 C18.6543018,32 10.1209685,32 6.4,32 C1.36225433,32 -5.1159077e-13,32.6841949 -5.1159077e-13,36 Z"
-                            fill={props.colors[1]}
-                            fill-rule="nonzero"
-                        />
-                        <path
-                            d="M4,40 L32,40 L32,32 L4,32 C1.790861,32 0,33.790861 0,36 C0,38.209139 1.790861,40 4,40 Z"
-                            stroke-linecap={props.strokeLinecap}
-                        />
-                    </g>
-                </g>
-            </g>
+                clip-rule="evenodd"
+                d="M12 44H40V36H12C9.79086 36 8 37.7909 8 40C8 42.2091 9.79086 44 12 44Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

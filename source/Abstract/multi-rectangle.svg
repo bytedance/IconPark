@@ -2,7 +2,5 @@
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
 <path d="M12 39H44V7H12V15" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 <path d="M8 39H32V15H8V23" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<rect x="4" y="23" width="16" height="16" fill="#09C8E2"/>
-<rect x="4" y="23" width="16" height="16" fill="#2F88FF"/>
-<rect x="4" y="23" width="16" height="16" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="4" y="23" width="16" height="16" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 </svg>

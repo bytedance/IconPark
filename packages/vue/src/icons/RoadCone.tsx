@@ -19,10 +19,6 @@ export default IconWrapper(
         >
             <path
                 d="M27 6H21L19.75 10.5L18.5 15L16 24L13.5 33L12.25 37.5L11 42H37L35.5 36.6L32 24L29.5 15L28.25 10.5L27 6Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M27 6H21L19.75 10.5L18.5 15L16 24L13.5 33L12.25 37.5L11 42H37L35.5 36.6L32 24L29.5 15L28.25 10.5L27 6Z"
                 fill={props.colors[1]}
             />
             <path

@@ -9,7 +9,7 @@
 English | [简体中文](README.zh-CN.md)
 
 ## Introduction
-The  IconPark gives access to more than 1,300 high-quality icons, and introduces an interface for customizing your icons.
+The  IconPark gives access to more than 1,200 high-quality icons, and introduces an interface for customizing your icons.
 Instead of using various SVG source files to achieve different themes, We implement a technology transforming attributes of an SVG source file into multiple themes. Besides, we provide cross-platform codes, like `react-icons`, `vue-icons`, `svg-icons`.
 So whether you are a designer or a developer, you can use them in your designs or your codes for free.
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-dance.gif"></ifram>

@@ -23,20 +23,7 @@ export default IconWrapper(
                 cy="25"
                 rx="3"
                 ry="8"
-                fill="#09C8E2"
-            />
-            <ellipse
-                cx="41"
-                cy="25"
-                rx="3"
-                ry="8"
                 fill={props.colors[1]}
-            />
-            <ellipse
-                cx="41"
-                cy="25"
-                rx="3"
-                ry="8"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -47,20 +34,7 @@ export default IconWrapper(
                 cy="25"
                 rx="3"
                 ry="8"
-                fill="#09C8E2"
-            />
-            <ellipse
-                cx="7"
-                cy="25"
-                rx="3"
-                ry="8"
                 fill={props.colors[1]}
-            />
-            <ellipse
-                cx="7"
-                cy="25"
-                rx="3"
-                ry="8"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -71,20 +45,7 @@ export default IconWrapper(
                 cy="24"
                 rx="6"
                 ry="20"
-                fill="#09C8E2"
-            />
-            <ellipse
-                cx="24"
-                cy="24"
-                rx="6"
-                ry="20"
                 fill={props.colors[1]}
-            />
-            <ellipse
-                cx="24"
-                cy="24"
-                rx="6"
-                ry="20"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -95,20 +56,7 @@ export default IconWrapper(
                 cy="24"
                 rx="4"
                 ry="16"
-                fill="#09C8E2"
-            />
-            <ellipse
-                cx="34"
-                cy="24"
-                rx="4"
-                ry="16"
                 fill={props.colors[1]}
-            />
-            <ellipse
-                cx="34"
-                cy="24"
-                rx="4"
-                ry="16"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -119,20 +67,7 @@ export default IconWrapper(
                 cy="24"
                 rx="4"
                 ry="16"
-                fill="#09C8E2"
-            />
-            <ellipse
-                cx="14"
-                cy="24"
-                rx="4"
-                ry="16"
                 fill={props.colors[1]}
-            />
-            <ellipse
-                cx="14"
-                cy="24"
-                rx="4"
-                ry="16"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

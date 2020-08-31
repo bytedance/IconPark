@@ -11,7 +11,6 @@ export default IconWrapper('elevator', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M42 41V7H6V41H42Z" fill="#09C8E2"/>'
         + '<path d="M42 41V7H6V41H42Z" fill="' + props.colors[1] + '"/>'
         + '<path d="M42 7V41M42 7H4H6V41M42 7H44M42 41H44M42 41H6M6 41H4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M24 7V41" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'

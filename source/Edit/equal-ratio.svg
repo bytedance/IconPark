@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>Equal-ratio</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Equal-ratio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <g id="编组" transform="translate(6.000000, 6.000000)">
-                <g id="Group" fill="#2F88FF" fill-rule="nonzero" stroke="#000000" stroke-linejoin="round" stroke-width="4">
-                    <rect id="Rectangle" x="0" y="0" width="36" height="36" rx="3"></rect>
-                </g>
-                <circle id="Oval" fill="#FFFFFF" cx="18" cy="14" r="2.5"></circle>
-                <circle id="Oval-Copy" fill="#FFFFFF" cx="18" cy="22" r="2.5"></circle>
-                <path d="M9.5,11 L9.5,25" id="Path-15" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-                <path d="M26.5,11 L26.5,25" id="Path-15-Copy" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<rect x="6" y="6" width="36" height="36" rx="3" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 22.5C25.3807 22.5 26.5 21.3807 26.5 20C26.5 18.6193 25.3807 17.5 24 17.5C22.6193 17.5 21.5 18.6193 21.5 20C21.5 21.3807 22.6193 22.5 24 22.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24 30.5C25.3807 30.5 26.5 29.3807 26.5 28C26.5 26.6193 25.3807 25.5 24 25.5C22.6193 25.5 21.5 26.6193 21.5 28C21.5 29.3807 22.6193 30.5 24 30.5Z" fill="white"/>
+<path d="M15.5 17V31" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.5 17V31" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

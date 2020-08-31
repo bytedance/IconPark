@@ -28,8 +28,6 @@ export default IconWrapper('coronavirus', (props: ISvgIconProps) => (
         + '<path d="M24 16V4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M10 10L18.3431 18.3431" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M4.43266 19.8427C4.14914 21.1838 4 22.5745 4 24C4 25.4255 4.14914 26.8162 4.43266 28.1573" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<circle cx="24" cy="24" r="8" fill="#09C8E2"/>'
-        + '<circle cx="24" cy="24" r="8" fill="' + props.colors[1] + '"/>'
-        + '<circle cx="24" cy="24" r="8" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<circle cx="24" cy="24" r="8" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

@@ -11,7 +11,6 @@ export default IconWrapper('internal-expansion', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path fill-rule="evenodd" clip-rule="evenodd" d="M28 4H4V44H44V20H28V4Z" fill="#09C8E2"/>'
         + '<path fill-rule="evenodd" clip-rule="evenodd" d="M28 4H4V44H44V20H28V4Z" fill="' + props.colors[1] + '"/>'
         + '<path d="M44 20V4H28M44 20V44H4V4H28M44 20H28V4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M12 36L22 26M22 26V33M22 26H15" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'

@@ -1,14 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>align-text-top1</title>
-    <desc>Created with Sketch.</desc>
-    <g id="align-text-top1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
-        <g id="编组" transform="translate(6.000000, 6.000000)" stroke="#000000" stroke-width="4">
-            <path d="M0,30.3055556 L36,30.3055556" id="Path-268"></path>
-            <path d="M0,36 L36,36" id="Path-268-Copy"></path>
-            <polyline id="Path-269" transform="translate(18.000000, 3.000000) scale(1, -1) translate(-18.000000, -3.000000) " points="24 0 18 6 12 0 12 0"></polyline>
-            <path d="M18,0 L18,23" id="Path-270"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="48" height="48" fill="white" fill-opacity="0.01"/>
+<path d="M6 36.3056H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 42H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 12L24 6L18 12V12" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 6V29" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

@@ -1,8 +1,6 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-<rect x="14" y="4" width="20" height="40" fill="#09C8E2"/>
-<rect x="14" y="4" width="20" height="40" fill="#2F88FF"/>
-<rect x="14" y="4" width="20" height="40" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="14" y="4" width="20" height="40" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="34" y="8" width="10" height="32" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <rect x="4" y="8" width="10" height="32" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

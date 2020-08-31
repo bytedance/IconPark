@@ -18,35 +18,20 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g
-                clipPath={'url(#' + props.id + 'ad471a83' + ')'}
-            >
-                <path
-                    d="M4.32497 43.4997L12.81 43.5L43.9227 12.3873L35.4374 3.90202L4.32471 35.0147L4.32497 43.4997Z"
-                    fill={props.colors[1]}
-                    stroke={props.colors[0]}
-                    strokeWidth={props.strokeWidth}
-                    strokeLinejoin={props.strokeLinejoin}
-                />
-                <path
-                    d="M26.9521 12.3873L35.4374 20.8726"
-                    stroke={props.colors[0]}
-                    strokeWidth={props.strokeWidth}
-                    strokeLinecap={props.strokeLinecap}
-                    strokeLinejoin={props.strokeLinejoin}
-                />
-            </g>
-            <defs>
-                <clipPath
-                    id={props.id + 'ad471a83'}
-                >
-                    <rect
-                        width="48"
-                        height="48"
-                        fill={props.colors[2]}
-                    />
-                </clipPath>
-            </defs>
+            <path
+                d="M5.32497 43.4998L13.81 43.5L44.9227 12.3873L36.4374 3.90204L5.32471 35.0147L5.32497 43.4998Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M27.9521 12.3873L36.4374 20.8726"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

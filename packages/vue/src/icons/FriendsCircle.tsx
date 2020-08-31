@@ -28,12 +28,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M31 7V24V7Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M31 7V24V7Z"
                 fill={props.colors[1]}
             />
             <path
@@ -42,12 +36,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M16.636 6.63605L30.7781 20.7782L16.636 6.63605Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -66,12 +54,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M7 17H24H7Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M7 17H24H7Z"
                 fill={props.colors[1]}
             />
             <path
@@ -80,12 +62,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M20.364 17.636L6.22188 31.7782L20.364 17.636Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -104,12 +80,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M17 25V42V25Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M17 25V42V25Z"
                 fill={props.colors[1]}
             />
             <path
@@ -118,12 +88,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M17.636 27.636L31.7781 41.7782L17.636 27.636Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -142,12 +106,6 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M24 31L42 31L24 31Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M24 31L42 31L24 31Z"
                 fill={props.colors[1]}
             />
             <path
@@ -156,12 +114,6 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M42.364 16.636L28.2219 30.7782L42.364 16.636Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"
@@ -178,14 +130,7 @@ export default IconWrapper(
             />
             <path
                 d="M24 31C27.866 31 31 27.866 31 24C31 20.134 27.866 17 24 17C20.134 17 17 20.134 17 24C17 27.866 20.134 31 24 31Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M24 31C27.866 31 31 27.866 31 24C31 20.134 27.866 17 24 17C20.134 17 17 20.134 17 24C17 27.866 20.134 31 24 31Z"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M24 31C27.866 31 31 27.866 31 24C31 20.134 27.866 17 24 17C20.134 17 17 20.134 17 24C17 27.866 20.134 31 24 31Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

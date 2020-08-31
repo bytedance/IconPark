@@ -19,14 +19,7 @@ export default IconWrapper(
         >
             <path
                 d="M24 19L33 38H42L38 4H10L6 38H15L24 19Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M24 19L33 38H42L38 4H10L6 38H15L24 19Z"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M24 19L33 38H42L38 4H10L6 38H15L24 19Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -34,14 +27,7 @@ export default IconWrapper(
             />
             <path
                 d="M34 38L35 44H41V38H34Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M34 38L35 44H41V38H34Z"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M34 38L35 44H41V38H34Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -49,14 +35,7 @@ export default IconWrapper(
             />
             <path
                 d="M13 44H7V38H14L13 44Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M13 44H7V38H14L13 44Z"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M13 44H7V38H14L13 44Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

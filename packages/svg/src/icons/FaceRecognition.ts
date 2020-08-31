@@ -11,9 +11,9 @@ export default IconWrapper('face-recognition', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M34 4H44V14M44 34V44H34M14 44H4V34M4 14V4H14" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M24 40C31.732 40 38 32.8366 38 24C38 15.1634 31.732 8 24 8C16.268 8 10 15.1634 10 24C10 32.8366 16.268 40 24 40Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
-        + '<path d="M6 24.0083L42 24" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
-        + '<path d="M20.0697 32.106C21.3375 33.0432 22.6476 33.5118 24 33.5118C25.3523 33.5118 26.6983 33.0432 28.0381 32.106" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
+        + '<path d="M34 3.99976H44V13.9998M44 33.9998V43.9998H34M14 43.9998H4V33.9998M4 13.9998V3.99976H14" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24 39.9998C31.732 39.9998 38 32.8363 38 23.9998C38 15.1632 31.732 7.99976 24 7.99976C16.268 7.99976 10 15.1632 10 23.9998C10 32.8363 16.268 39.9998 24 39.9998Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
+        + '<path d="M6 24.0081L42 23.9998" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
+        + '<path d="M20.0697 32.1057C21.3375 33.0429 22.6476 33.5115 24 33.5115C25.3523 33.5115 26.6983 33.0429 28.0381 32.1057" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
     + '</svg>'
 ));

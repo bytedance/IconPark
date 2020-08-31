@@ -4,7 +4,5 @@
 <path d="M24 19H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M6 29H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M6 39H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="6" y="9" width="10" height="10" fill="#09C8E2"/>
-<rect x="6" y="9" width="10" height="10" fill="#2F88FF"/>
-<rect x="6" y="9" width="10" height="10" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="6" y="9" width="10" height="10" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

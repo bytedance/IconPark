@@ -20,23 +20,11 @@ export default IconWrapper(
         >
             <path
                 d="M14 4H34V24H14V4Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M14 4H34V24H14V4Z"
                 fill={props.colors[1]}
             />
             <path
                 d="M4 24H24V44H4V24Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M4 24H24V44H4V24Z"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M24 24H44V44H24V24Z"
-                fill="#09C8E2"
             />
             <path
                 d="M24 24H44V44H24V24Z"

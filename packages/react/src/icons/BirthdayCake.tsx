@@ -20,10 +20,6 @@ export default IconWrapper(
         >
             <path
                 d="M8 40H40V24H8V40Z"
-                fill="#09C8E2"
-            />
-            <path
-                d="M8 40H40V24H8V40Z"
                 fill={props.colors[1]}
             />
             <path

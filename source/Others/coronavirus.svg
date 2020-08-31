@@ -17,7 +17,5 @@
 <path d="M24 16V4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M10 10L18.3431 18.3431" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M4.43266 19.8427C4.14914 21.1838 4 22.5745 4 24C4 25.4255 4.14914 26.8162 4.43266 28.1573" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="24" cy="24" r="8" fill="#09C8E2"/>
-<circle cx="24" cy="24" r="8" fill="#2F88FF"/>
-<circle cx="24" cy="24" r="8" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="24" cy="24" r="8" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

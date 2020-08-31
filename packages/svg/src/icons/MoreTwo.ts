@@ -9,13 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('more-two', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g>'
-                + '<rect fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<circle stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" cx="24" cy="24" r="20"/>'
-                + '<path d="M14,26.5 C12.6192881,26.5 11.5,25.3807119 11.5,24 C11.5,22.6192881 12.6192881,21.5 14,21.5 C15.3807119,21.5 16.5,22.6192881 16.5,24 C16.5,25.3807119 15.3807119,26.5 14,26.5 Z M24,26.5 C22.6192881,26.5 21.5,25.3807119 21.5,24 C21.5,22.6192881 22.6192881,21.5 24,21.5 C25.3807119,21.5 26.5,22.6192881 26.5,24 C26.5,25.3807119 25.3807119,26.5 24,26.5 Z M34,26.5 C32.6192881,26.5 31.5,25.3807119 31.5,24 C31.5,22.6192881 32.6192881,21.5 34,21.5 C35.3807119,21.5 36.5,22.6192881 36.5,24 C36.5,25.3807119 35.3807119,26.5 34,26.5 Z" fill="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M24 44C35.0457 44 44 35.0457 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C4 35.0457 12.9543 44 24 44Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<circle cx="14" cy="24" r="3" fill="' + props.colors[2] + '"/>'
+        + '<circle cx="24" cy="24" r="3" fill="' + props.colors[2] + '"/>'
+        + '<circle cx="34" cy="24" r="3" fill="' + props.colors[2] + '"/>'
     + '</svg>'
 ));

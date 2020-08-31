@@ -22,26 +22,11 @@ export default IconWrapper(
                 cx="24"
                 cy="24"
                 r="20"
-                fill="#09C8E2"
-            />
-            <circle
-                cx="24"
-                cy="24"
-                r="20"
                 fill={props.colors[1]}
-            />
-            <circle
-                cx="24"
-                cy="24"
-                r="20"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M20 16H25H27C29.2091 16 31 17.7909 31 20C31 22.2091 29.2091 24 27 24H20V16Z"
-                fill="#09C8E2"
             />
             <path
                 d="M20 16H25H27C29.2091 16 31 17.7909 31 20C31 22.2091 29.2091 24 27 24H20V16Z"
@@ -53,10 +38,6 @@ export default IconWrapper(
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M20 24H29C31.2091 24 33 25.7909 33 28C33 30.2091 31.2091 32 29 32H25H20V24Z"
-                fill="#09C8E2"
             />
             <path
                 d="M20 24H29C31.2091 24 33 25.7909 33 28C33 30.2091 31.2091 32 29 32H25H20V24Z"

@@ -13,7 +13,6 @@ export default IconWrapper('knife-fork', (props: ISvgIconProps) => (
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<path d="M14 4V44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M8 5V15C8 20 14 20 14 20C14 20 20 20 20 15V5" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M30 12C30 4 38 4 38 4V21H30V12Z" fill="#09C8E2"/>'
         + '<path d="M30 12C30 4 38 4 38 4V21H30V12Z" fill="' + props.colors[1] + '"/>'
         + '<path d="M38 21H30V12C30 4 38 4 38 4V21ZM38 21V44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'

@@ -28,7 +28,7 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M13 35H25L13 23V35Z"
-                fill="#09C8E2"
+                fill={props.colors[1]}
             />
             <path
                 fill-rule="evenodd"
@@ -40,31 +40,7 @@ export default IconWrapper(
                 fill-rule="evenodd"
                 clip-rule="evenodd"
                 d="M13 35H25L13 23V35Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M13 35H25L13 23V35Z"
                 fill={props.colors[1]}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M13 35H25L13 23V35Z"
-                fill="#09C8E2"
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M13 35H25L13 23V35Z"
-                fill={props.colors[1]}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M13 35H25L13 23V35Z"
-                fill="#09C8E2"
             />
             <path
                 fill-rule="evenodd"

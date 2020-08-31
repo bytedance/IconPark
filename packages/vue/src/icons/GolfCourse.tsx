@@ -22,20 +22,7 @@ export default IconWrapper(
                 cy="34"
                 rx="20"
                 ry="10"
-                fill="#09C8E2"
-            />
-            <ellipse
-                cx="24"
-                cy="34"
-                rx="20"
-                ry="10"
                 fill={props.colors[1]}
-            />
-            <ellipse
-                cx="24"
-                cy="34"
-                rx="20"
-                ry="10"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -45,26 +32,11 @@ export default IconWrapper(
                 cx="32"
                 cy="34"
                 r="2"
-                fill="#09C8E2"
-            />
-            <circle
-                cx="32"
-                cy="34"
-                r="2"
                 fill={props.colors[1]}
-            />
-            <circle
-                cx="32"
-                cy="34"
-                r="2"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M24 9L13 4V14L24 9Z"
-                fill="#09C8E2"
             />
             <path
                 d="M24 9L13 4V14L24 9Z"

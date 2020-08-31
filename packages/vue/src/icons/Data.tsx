@@ -43,20 +43,7 @@ export default IconWrapper(
                 cy="10"
                 rx="20"
                 ry="6"
-                fill="#09C8E2"
-            />
-            <ellipse
-                cx="24"
-                cy="10"
-                rx="20"
-                ry="6"
                 fill={props.colors[1]}
-            />
-            <ellipse
-                cx="24"
-                cy="10"
-                rx="20"
-                ry="6"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
