@@ -44,7 +44,7 @@ After Transforming:
 ### Website
 #### Customization
 
-> Here is the website of [IconPark](http://iconpark.bytedance.com/official). Each icon is hand-coded within a 48x48 grid, using SVG stroke giving the maximum flexibility on styling. You can adjust the color, size, `stroke-width`, `stroke-linejoin`, `stroke-linecap` and other attributes to match with your need.
+> Here is the website of [IconPark](http://iconpark.bytedance.com/official). Each icon is hand-coded within a 48x48 grid, using SVG stroke giving the maximum flexibility on styling. You can adjust the color, size, `stroke-width`, `stroke-linejoin`, `stroke-linecap` and other attributes to meet your needs.
 
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/screenshot.png" alt="Screenshot of customization"></img>
 
