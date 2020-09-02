@@ -162,9 +162,9 @@ export function IconConverter(id: string, icon: IIconBase, config: IIconConfig):
     switch (theme) {
         case 'outline':
             colors.push(typeof fill[0] === 'string' ? fill[0] : 'currentColor');
-            colors.push('transparent');
+            colors.push('#FFF');
             colors.push(typeof fill[0] === 'string' ? fill[0] : 'currentColor');
-            colors.push('transparent');
+            colors.push('#FFF');
             break;
         case 'filled':
             colors.push(typeof fill[0] === 'string' ? fill[0] : 'currentColor');
