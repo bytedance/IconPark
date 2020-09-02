@@ -2,6 +2,6 @@
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
 <path d="M41 4.00012H7C5.34315 4.00012 4 5.34326 4 7.00012V41.0001C4 42.657 5.34315 44.0001 7 44.0001H41C42.6569 44.0001 44 42.657 44 41.0001V7.00012C44 5.34326 42.6569 4.00012 41 4.00012Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 <path d="M34 4.00012V22.0001H15V4.00012H34Z" fill="#43CCF8" stroke="white" stroke-width="4" stroke-linejoin="round"/>
-<path d="M27 11.0001V15.0001" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<path d="M27 11.0001V15.0001" stroke="black" stroke-width="4" stroke-linecap="round"/>
 <path d="M11.9969 4.00012H36.9985" stroke="black" stroke-width="4" stroke-linecap="round"/>
 </svg>

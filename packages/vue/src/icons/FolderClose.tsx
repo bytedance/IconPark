@@ -26,8 +26,22 @@ export default IconWrapper(
             />
             <path
                 d="M44 22H4"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M4 16V28"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44 16V28"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
         </svg>

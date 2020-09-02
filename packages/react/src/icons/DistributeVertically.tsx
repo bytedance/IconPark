@@ -19,7 +19,7 @@ export default IconWrapper(
             fill="none"
         >
             <mask
-                id={props.id + '487d9ac7'}
+                id={props.id + 'aa3d9007'}
                 maskUnits="userSpaceOnUse"
                 x="0"
                 y="0"
@@ -33,7 +33,7 @@ export default IconWrapper(
                 />
             </mask>
             <g
-                mask={'url(#' + props.id + '487d9ac7' + ')'}
+                mask={'url(#' + props.id + 'aa3d9007' + ')'}
             >
                 <rect
                     x="38"

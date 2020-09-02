@@ -22,7 +22,6 @@ export default IconWrapper(
                 cy="25"
                 rx="3"
                 ry="8"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -33,7 +32,6 @@ export default IconWrapper(
                 cy="25"
                 rx="3"
                 ry="8"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -44,7 +42,6 @@ export default IconWrapper(
                 cy="24"
                 rx="6"
                 ry="20"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -55,7 +52,6 @@ export default IconWrapper(
                 cy="24"
                 rx="4"
                 ry="16"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -66,7 +62,6 @@ export default IconWrapper(
                 cy="24"
                 rx="4"
                 ry="16"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
