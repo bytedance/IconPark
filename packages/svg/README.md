@@ -12,7 +12,7 @@
     * multi-color
 
 ### More
-Please visit [IconPark Website]((http://iconpark.bytedance.com))
+Please visit [IconPark Website](http://iconpark.bytedance.com)
 * Copy SVG
 * Copy React Icon component
 * Copy Vue Icon component
