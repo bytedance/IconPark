@@ -8,8 +8,23 @@
     "keywords": [
         "vue",
         "icon",
-        "icon park"
+        "icon pack",
+        "icon park",
+        "IconPark",
+        "svg",
+        "system icons",
+        "component",
+        "components",
+        "design"
     ],
+    "homepage": "http://iconpark.bytedance.com/",
+    "bugs": {
+        "url": "https://github.com/bytedance/IconPark/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bytedance/IconPark"
+    },
     "license": "Apache-2.0",
     "engines": {
         "node": ">= 8.0.0",
