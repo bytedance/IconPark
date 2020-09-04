@@ -59,4 +59,8 @@ After Transforming:
   - Download PNG
   - Download SVG
     
-<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" alt="Icon Tools" width="200px"></img>    
+<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" alt="Icon Tools" width="200px"></img>   
+
+### Feedback
+
+<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/chat.png" alt="chat" width="400px"></img>

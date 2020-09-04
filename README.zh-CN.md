@@ -52,3 +52,8 @@ IconPark提供了超过1200个高质量图标，并且提供了一个界面来�
   - 下载SVG
     
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" width="200px"></img>    
+
+### 反馈
+> 加入飞书外部群
+
+<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/chat.png" alt="chat" width="400px"></img>
