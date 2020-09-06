@@ -24,7 +24,7 @@ So whether you are a designer or a developer, you can use them in your designs o
 
   - [React Component](./packages/react/README.md) 
   - [Vue Component](./packages/vue/README.md) 
-  - [Pure SVG String](./packages/vue/README.md) 
+  - [Pure SVG String](./packages/svg/README.md)
 
 #### Multiple themes
 
