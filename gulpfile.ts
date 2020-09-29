@@ -181,8 +181,8 @@ function createBuildTask(name: 'react' | 'vue' | 'svg' | 'vue-next'): string {
 }
 
 gulp.task('default', gulp.series([
-    // createBuildTask('react'),
-    // createBuildTask('vue'),
+    createBuildTask('react'),
+    createBuildTask('vue'),
     createBuildTask('vue-next'),
-    // createBuildTask('svg')
+    createBuildTask('svg')
 ]));
