@@ -27,7 +27,7 @@ npm install @icon-park/react --save
 ```
 
 ### Include Component
-Import a icon from `@icon-park/react`at the top of a component and then use it in the render function:
+Import an icon from `@icon-park/react`at the top of a component and then use it in the render function:
 
 ```
 import {Home} from '@icon-park/react';

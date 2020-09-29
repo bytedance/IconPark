@@ -10,13 +10,15 @@ import merge from 'merge2';
 import less from 'gulp-less';
 import minifyCss from 'gulp-minify-css';
 import configVue from './packages/vue/tsconfig.json';
+import configVueNext from './packages/vue-next/tsconfig.json';
 import configSVG from './packages/svg/tsconfig.json';
 import configReact from './packages/react/tsconfig.json';
 
 const TS_CONFIG_MAP = {
     react: configReact,
     vue: configVue,
-    svg: configSVG
+    svg: configSVG,
+    'vue-next': configVueNext
 };
 
 const BABEL_CONFIG_MAP = {
@@ -72,6 +74,32 @@ const BABEL_CONFIG_MAP = {
             ]
         ]
     },
+    'vue-next': {
+        presets: [
+            [
+                '@babel/preset-env',
+                {
+                    modules: false,
+                    targets: {
+                        browsers: [
+                            '> 1%',
+                            'last 2 versions',
+                            'not ie <= 8'
+                        ]
+                    }
+                }
+            ]
+        ],
+        plugins: [
+            [
+                '@babel/plugin-proposal-class-properties',
+                {
+                    loose: false
+                }
+            ],
+            '@vue/babel-plugin-jsx'
+        ]
+    },
     svg: {
         presets: [
             [
@@ -103,7 +131,7 @@ function resolve(p: string): string {
     return path.resolve(process.cwd(), p);
 }
 
-function createBuildTask(name: 'react' | 'vue' | 'svg'): string {
+function createBuildTask(name: 'react' | 'vue' | 'svg' | 'vue-next'): string {
 
     const cwd = resolve('packages/' + name);
 
@@ -153,7 +181,8 @@ function createBuildTask(name: 'react' | 'vue' | 'svg'): string {
 }
 
 gulp.task('default', gulp.series([
-    createBuildTask('react'),
-    createBuildTask('vue'),
-    createBuildTask('svg')
+    // createBuildTask('react'),
+    // createBuildTask('vue'),
+    createBuildTask('vue-next'),
+    // createBuildTask('svg')
 ]));
