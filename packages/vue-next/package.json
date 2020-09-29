@@ -1,6 +1,6 @@
 {
     "name": "@icon-park/vue-next",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "Vue3 Icons for IconPark",
     "main": "lib/index.js",
     "module": "es/index.js",
