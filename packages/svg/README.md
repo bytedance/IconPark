@@ -40,10 +40,10 @@ console.log(svg);
 ```
 
 ### Global Config
-You can use the static methods `setConfig` in `@icon-park/svg/es/runtime` to set the default config globally:
+You can use the static methods `setConfig` in `@icon-park/svg` to set the default config globally:
 
 ```typescript
-import {setConfig} from '@icon-park/svg/es/runtime'
+import {setConfig} from '@icon-park/svg'
 
 setConfig({
     theme: 'outline',

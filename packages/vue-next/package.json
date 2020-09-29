@@ -1,0 +1,39 @@
+{
+    "name": "@icon-park/vue-next",
+    "version": "1.0.9",
+    "description": "Vue3 Icons for IconPark",
+    "main": "lib/index.js",
+    "module": "es/index.js",
+    "typings": "lib/index.d.ts",
+    "keywords": [
+        "vue",
+        "icon",
+        "icon pack",
+        "icon park",
+        "IconPark",
+        "svg",
+        "system icons",
+        "component",
+        "components",
+        "design"
+    ],
+    "homepage": "http://iconpark.bytedance.com/",
+    "bugs": {
+        "url": "https://github.com/bytedance/IconPark/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bytedance/IconPark"
+    },
+    "license": "Apache-2.0",
+    "engines": {
+        "node": ">= 8.0.0",
+        "npm": ">= 5.0.0"
+    },
+    "peerDependencies": {
+        "vue": "3.x"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

@@ -2,7 +2,7 @@
  * @file all
  */
 
-import * as icons from './index';
+import * as icons from './map';
 import {IIconProps} from './runtime';
 import React from 'react';
 

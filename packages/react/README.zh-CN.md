@@ -49,10 +49,10 @@ import '@icon-park/react/styles/index.less';
 ```
 
 ### 全局
-你可以使用 `@icon-park/react/es/runtime` 中的 `IconProvider`来设置全局配置。
+你可以使用 `@icon-park/react` 中的 `IconProvider`来设置全局配置。
 
 ```typescript jsx
-import {IconProvider, DEFAULT_ICON_CONFIGS} from '@icon-park/react/es/runtime'
+import {IconProvider, DEFAULT_ICON_CONFIGS} from '@icon-park/react'
 import {Home} from '@icon-park/react';
 
 const IconConfig = {...DEFAULT_ICON_CONFIGS, prefix: 'icon'}

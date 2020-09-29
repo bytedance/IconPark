@@ -23,7 +23,8 @@ So whether you are a designer or a developer, you can use them in your designs o
 > Find packages in `packages` folder. NPM packages make it painless to import icon components to your project.
 
   - [React Component](./packages/react/README.md) 
-  - [Vue Component](./packages/vue/README.md) 
+  - [Vue Component for Vue3.0](./packages/vue-next/README.md) 
+  - [Vue Component for old Vue2.0](./packages/vue/README.md) 
   - [Pure SVG String](./packages/svg/README.md)
 
 #### Multiple themes

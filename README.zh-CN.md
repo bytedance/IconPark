@@ -19,7 +19,8 @@ IconPark提供了超过1200个高质量图标，并且提供了一个界面来�
 #### 多种代码包
 > 可以在`packages`文件夹下面找到，你可以应用在你的React、Vue、小程序等不同类型项目中使用
   - [React component](./packages/react/README.md) 
-  - [Vue component](./packages/vue/README.md) 
+  - [Vue Component for Vue3.0](./packages/vue-next/README.md) 
+  - [Vue Component for old Vue2.0](./packages/vue/README.md) 
   - [Pure SVG string](./packages/svg/README.md)
 
 #### 多种主题

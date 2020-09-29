@@ -27,7 +27,7 @@ npm install @icon-park/react --save
 ```
 
 ### Include Component
-Import a icon from `@icon-park/react`at the top of a component and then use it in the render function:
+Import an icon from `@icon-park/react`at the top of a component and then use it in the render function:
 
 ```
 import {Home} from '@icon-park/react';
@@ -49,10 +49,10 @@ import '@icon-park/react/styles/index.less';
 ```
 
 ### Global Config
-You can use `IconProvider` in `@icon-park/react/es/runtime` to set the default config globally:
+You can use `IconProvider` in `@icon-park/react` to set the default config globally:
 
 ```typescript jsx
-import {IconProvider, DEFAULT_ICON_CONFIGS} from '@icon-park/react/es/runtime'
+import {IconProvider, DEFAULT_ICON_CONFIGS} from '@icon-park/react'
 import {Home} from '@icon-park/react';
 
 const IconConfig = {...DEFAULT_ICON_CONFIGS, prefix: 'icon'}
