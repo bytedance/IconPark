@@ -230,7 +230,7 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
             ...extra
         } = props;
 
-        const config = useContext(IconContext);
+        const ICON_CONFIGS = useContext(IconContext);
 
         const id = useMemo(guid, []);
 
@@ -241,22 +241,18 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
             strokeLinejoin,
             theme,
             fill
-        }, config);
+        }, ICON_CONFIGS);
 
-        const cls: string[] = ['i-icon'];
+        const cls: string[] = [ICON_CONFIGS.prefix + '-icon'];
 
-        cls.push('i-icon' + '-' + name);
+        cls.push(ICON_CONFIGS.prefix + '-icon' + '-' + name);
 
-        if (rtl && config.rtl) {
-            cls.push('i-icon-rtl');
+        if (rtl && ICON_CONFIGS.rtl) {
+            cls.push(ICON_CONFIGS.prefix + '-icon-rtl');
         }
 
         if (spin) {
-            cls.push('i-icon-spin');
-        }
-
-        if (className) {
-            cls.push(className);
+            cls.push(ICON_CONFIGS.prefix + '-icon-spin');
         }
 
         return (

@@ -3,7 +3,7 @@
  */
 
 import {createVNode, DefineComponent, ComponentOptions} from '@vue/runtime-dom';
-import * as IconMap from './index';
+import * as IconMap from './map';
 import {IIconProps} from './runtime';
 
 export type IconType = keyof typeof IconMap;

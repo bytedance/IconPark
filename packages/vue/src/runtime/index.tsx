@@ -250,16 +250,16 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
                 fill
             }, ICON_CONFIGS);
 
-            const cls: string[] = ['i-icon'];
+            const cls: string[] = [ICON_CONFIGS.prefix + '-icon'];
 
-            cls.push('i-icon' + '-' + name);
+            cls.push(ICON_CONFIGS.prefix + '-icon' + '-' + name);
 
             if (rtl && ICON_CONFIGS.rtl) {
-                cls.push('i-icon-rtl');
+                cls.push(ICON_CONFIGS.prefix + '-icon-rtl');
             }
 
             if (spin) {
-                cls.push('i-icon-spin');
+                cls.push(ICON_CONFIGS.prefix + '-icon-spin');
             }
 
             return (

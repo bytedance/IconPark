@@ -30,7 +30,7 @@ npm install @icon-park/vue-next --save
 
 ``` vue
 <template>
-<home theme="fill"/>
+<home theme="filled"/>
 </template>
 <script>
 import {Home} from '@icon-park/vue-next';
@@ -106,7 +106,7 @@ export default {
 
 ``` vue
 <template>
-<icon-park type="home" theme="fill"/>
+<icon-park type="home" theme="filled"/>
 </template>
 <script>
 import {IconPark} from '@icon-park/vue-next/all';

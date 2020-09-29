@@ -41,10 +41,10 @@ console.log(svg);
 
 ### 全局
 
-你可以使用 `@icon-park/svg/es/runtime` 中的 `setConfig`方法来设置全局配置。
+你可以使用 `@icon-park/svg` 中的 `setConfig`方法来设置全局配置。
 
 ```typescript
-import {setConfig} from '@icon-park/svg/es/runtime'
+import {setConfig} from '@icon-park/svg'
 
 setConfig({
     theme: 'outline',

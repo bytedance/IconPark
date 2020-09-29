@@ -31,7 +31,7 @@ Import an icon from `@icon-park/vue`at the top of a component and then use it in
 
 ``` vue
 <template>
-<home theme="fill"/>
+<home theme="filled"/>
 </template>
 <script>
 import {Home} from '@icon-park/vue';
@@ -74,7 +74,7 @@ You can use the 'provide' property provided by `Vue` to set the global configura
 </div>
 </template>
 <script lang="ts">
-import {DEFAULT_ICON_CONFIGS} from '@icon-park/vue/es/runtime'
+import {DEFAULT_ICON_CONFIGS} from '@icon-park/vue'
 import {Home} from '@icon-park/vue';
 
 const IconConfig = {...DEFAULT_ICON_CONFIGS, prefix: 'icon'}
@@ -123,7 +123,7 @@ Usage:
 
 ``` vue
 <template>
-<icon-park type="home" theme="fill"/>
+<icon-park type="home" theme="filled"/>
 </template>
 <script>
 import {IconPark} from '@icon-park/vue/all';

@@ -31,7 +31,7 @@ Import an icon from `@icon-park/vue-next`at the top of a component and then use 
 
 ``` vue
 <template>
-<home theme="fill"/>
+<home theme="filled"/>
 </template>
 <script>
 import {Home} from '@icon-park/vue-next';
@@ -53,7 +53,7 @@ import '@icon-park/vue-next/styles/index.css';
 ```
 
 ### Global Config
-You can use `IconProvider` in `@icon-park/vue-next/es/runtime` to set the default config globally:
+You can use `IconProvider` in `@icon-park/vue-next` to set the default config globally:
 
 ```html
 <template>
@@ -62,7 +62,7 @@ You can use `IconProvider` in `@icon-park/vue-next/es/runtime` to set the defaul
 </div>
 </template>
 <script lang="ts">
-import {DEFAULT_ICON_CONFIGS, IconProvider} from '@icon-park/vue-next/es/runtime';
+import {DEFAULT_ICON_CONFIGS, IconProvider} from '@icon-park/vue-next';
 import {Home} from '@icon-park/vue-next';
 
 export default {
@@ -107,7 +107,7 @@ Usage:
 
 ``` vue
 <template>
-<icon-park type="home" theme="fill"/>
+<icon-park type="home" theme="filled"/>
 </template>
 <script>
 import {IconPark} from '@icon-park/vue-next/all';
