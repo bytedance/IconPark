@@ -65,3 +65,6 @@ After Transforming:
 ### Changelog
 - 2020.10.29 add new category `Sport`, update icons
 - 2020.9.30 support vue3.0, [vue-next icons](https://github.com/bytedance/IconPark/tree/master/packages/vue-next)
+
+### Contact Us
+<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/lark.png"></img>
