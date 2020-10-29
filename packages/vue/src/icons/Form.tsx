@@ -17,13 +17,16 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <path
-                d="M42 8C43.1046 8 44 8.89543 44 10V38C44 39.1046 43.1046 40 42 40H6C4.89543 40 4 39.1046 4 38V10C4 8.89543 4.89543 8 6 8H42Z"
+            <rect
+                x="4"
+                y="8"
+                width="40"
+                height="32"
+                rx="2"
                 fill={props.colors[1]}
-            />
-            <path
-                d="M42 10V38H46V10H42ZM42 38H6V42H42V38ZM6 38V10H2V38H6ZM6 10H42V6H6V10ZM6 10L6 10V6C3.79086 6 2 7.79086 2 10H6ZM6 38L6 38H2C2 40.2091 3.79086 42 6 42V38ZM42 38L42 38V42C44.2091 42 46 40.2091 46 38H42ZM46 10C46 7.79086 44.2091 6 42 6V10L42 10H46Z"
-                fill={props.colors[0]}
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
             />
             <path
                 fill-rule="evenodd"
