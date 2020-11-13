@@ -19,21 +19,21 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M4 6H44V30H4V6Z"
+                d="M4 6H44V28H4V6Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M44 30V36H4V30"
+                d="M44 28V36H4V28"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M13.0909 19H10.9091C10.407 19 10 19.407 10 19.9091V22.0909C10 22.593 10.407 23 10.9091 23H13.0909C13.593 23 14 22.593 14 22.0909V19.9091C14 19.407 13.593 19 13.0909 19Z"
+                d="M13.0909 18H10.9091C10.407 18 10 18.407 10 18.9091V21.0909C10 21.593 10.407 22 10.9091 22H13.0909C13.593 22 14 21.593 14 21.0909V18.9091C14 18.407 13.593 18 13.0909 18Z"
                 fill={props.colors[2]}
             />
             <path
@@ -41,7 +41,7 @@ export default IconWrapper(
                 fill={props.colors[2]}
             />
             <path
-                d="M21.0909 19H18.9091C18.407 19 18 19.407 18 19.9091V22.0909C18 22.593 18.407 23 18.9091 23H21.0909C21.593 23 22 22.593 22 22.0909V19.9091C22 19.407 21.593 19 21.0909 19Z"
+                d="M21.0909 18H18.9091C18.407 18 18 18.407 18 18.9091V21.0909C18 21.593 18.407 22 18.9091 22H21.0909C21.593 22 22 21.593 22 21.0909V18.9091C22 18.407 21.593 18 21.0909 18Z"
                 fill={props.colors[2]}
             />
             <path
@@ -49,7 +49,7 @@ export default IconWrapper(
                 fill={props.colors[2]}
             />
             <path
-                d="M29.0909 19H26.9091C26.407 19 26 19.407 26 19.9091V22.0909C26 22.593 26.407 23 26.9091 23H29.0909C29.593 23 30 22.593 30 22.0909V19.9091C30 19.407 29.593 19 29.0909 19Z"
+                d="M29.0909 18H26.9091C26.407 18 26 18.407 26 18.9091V21.0909C26 21.593 26.407 22 26.9091 22H29.0909C29.593 22 30 21.593 30 21.0909V18.9091C30 18.407 29.593 18 29.0909 18Z"
                 fill={props.colors[2]}
             />
             <path

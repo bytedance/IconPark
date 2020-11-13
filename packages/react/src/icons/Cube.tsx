@@ -19,8 +19,71 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M41.3207 14L32.6605 19M41.3207 14V24M41.3207 14L32.6605 9M24.0002 44L32.6605 39M24.0002 44L15.3399 39M24.0002 44V34M6.67969 14L15.3399 9M6.67969 14L15.3399 19M6.67969 14V24M24.0002 24L32.6605 19M24.0002 24L15.3399 19M24.0002 24V34M32.6605 19L15.3399 9M32.6605 19V39M15.3399 9L24.0002 4L32.6605 9M32.6605 39L41.3207 34V24M15.3399 39L6.67969 34V24M15.3399 39V19M15.3399 19L32.6605 9M6.67969 24L24.0002 34M24.0002 34L41.3207 24"
-                stroke={props.colors[0]}
+                d="M15.5 9L7 14V24V34L15.5 39L24 44L32.5001 39L41 34V24V14L32.5001 9L24 4L15.5 9Z"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M41 14L24 24"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M7 14L24 24"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 44V24"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M32 19L32 39"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M41.0002 24L24.0002 34"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 34L7 24"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M16 39L16 19"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M32 9L16 19"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M32 19L16 9"
+                stroke="#333333"
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}

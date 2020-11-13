@@ -19,8 +19,50 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M24.0002 4L41.3207 14M24.0002 4L6.67969 14M24.0002 4L41.3207 34M24.0002 4L6.67969 34M41.3207 14V34M41.3207 14H6.67969M41.3207 14L24.0002 44M41.3207 34L24.0002 44M41.3207 34H6.67969M24.0002 44L6.67969 34M24.0002 44L6.67969 14M6.67969 34V14"
-                stroke={props.colors[0]}
+                d="M7 14L41 14"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M7 34L24 4"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M41 34L24 4"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M41 34L7 34"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M41 14L24 44"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M7 14L24 44"
+                stroke="#333333"
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M15.5 9L7 14V24V34L15.5 39L24 44L32.5001 39L41 34V24V14L32.5001 9L24 4L15.5 9Z"
+                stroke="#333333"
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}

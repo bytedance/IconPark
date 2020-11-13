@@ -11,6 +11,9 @@ export default IconWrapper('sphere', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M44 24C44 35.0457 35.0457 44 24 44M44 24C44 12.9543 35.0457 4 24 4M44 24C44 28.4183 35.0457 32 24 32C12.9543 32 4 28.4183 4 24M44 24C44 19.5817 35.0457 16 24 16C12.9543 16 4 19.5817 4 24M24 44C12.9543 44 4 35.0457 4 24M24 44C28.4183 44 32 35.0457 32 24C32 12.9543 28.4183 4 24 4M24 44C19.5817 44 16 35.0457 16 24C16 12.9543 19.5817 4 24 4M4 24C4 12.9543 12.9543 4 24 4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M24 32C35.0457 32 44 28.4183 44 24C44 19.5817 35.0457 16 24 16C12.9543 16 4 19.5817 4 24C4 28.4183 12.9543 32 24 32Z" stroke="#333333" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M32 24C32 35.0457 28.4183 44 24 44C19.5817 44 16 35.0457 16 24C16 12.9543 19.5817 4 24 4C28.4183 4 32 12.9543 32 24Z" stroke="#333333" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<circle cx="24" cy="24" r="20" stroke="#333333" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));
