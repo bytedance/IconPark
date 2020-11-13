@@ -63,6 +63,8 @@ After Transforming:
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" alt="Icon Tools" width="200px"></img>   
 
 ### Changelog
+- 2020.11.13 npm publish v1.0.14
+- 2020.11.05 npm publish v1.0.13
 - 2020.10.29 add new category `Sport`, update icons
 - 2020.9.30 support vue3.0, [vue-next icons](https://github.com/bytedance/IconPark/tree/master/packages/vue-next)
 

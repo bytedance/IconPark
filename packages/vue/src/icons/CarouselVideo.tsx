@@ -33,7 +33,6 @@ export default IconWrapper(
                 y="11"
                 width="7"
                 height="26"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -44,7 +43,6 @@ export default IconWrapper(
                 y="11"
                 width="7"
                 height="26"
-                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

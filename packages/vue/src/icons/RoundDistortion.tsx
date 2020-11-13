@@ -17,9 +17,24 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
+            <circle
+                cx="24"
+                cy="24"
+                r="20"
+                stroke="#333333"
+                stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
             <path
-                d="M44 24C44 35.0457 35.0457 44 24 44M44 24C44 12.9543 35.0457 4 24 4M44 24C44 29.5228 39.5228 34 34 34C28.4772 34 24 29.5228 24 24M24 44C12.9543 44 4 35.0457 4 24M24 44C18.4772 44 14 39.5228 14 34C14 28.4772 18.4772 24 24 24M4 24C4 12.9543 12.9543 4 24 4M4 24C4 18.4772 8.47715 14 14 14C19.5228 14 24 18.4772 24 24M24 4C29.5228 4 34 8.47715 34 14C34 19.5228 29.5228 24 24 24"
-                stroke={props.colors[0]}
+                d="M24 44C18.4772 44 14 39.5228 14 34C14 28.4772 18.4772 24 24 24C29.5228 24 34 19.5228 34 14C34 8.47715 29.5228 4 24 4"
+                stroke="#333333"
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44 24C44 29.5228 39.5228 34 34 34C28.4772 34 24 29.5228 24 24C24 18.4772 19.5228 14 14 14C8.47715 14 4 18.4772 4 24"
+                stroke="#333333"
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
