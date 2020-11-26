@@ -861,7 +861,7 @@ export {default as Milk} from './icons/Milk';
 export {default as Bone} from './icons/Bone';
 export {default as Tea} from './icons/Tea';
 export {default as BowlOne} from './icons/BowlOne';
-export {default as Hotpot} from './icons/Hotpot';
+export {default as HotPotOne} from './icons/HotPotOne';
 export {default as Turkey} from './icons/Turkey';
 export {default as Bread} from './icons/Bread';
 export {default as CakeFive} from './icons/CakeFive';

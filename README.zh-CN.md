@@ -55,7 +55,7 @@ IconPark提供了超过1400个高质量图标，并且提供了一个界面来�
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" width="200px"></img>    
 
 ### 变更记录
-- 2020.11.26 npm 发布 v1.1.0, 丰富图标数量
+- 2020.11.26 npm 发布 v1.1.1, 丰富图标数量
 - 2020.11.13 npm 发布 v1.0.14
 - 2020.11.05 npm 发布 v1.0.13
 - 2020.10.29 丰富icon数量，增加 `Sport`分类, 更新部分icon源文件
