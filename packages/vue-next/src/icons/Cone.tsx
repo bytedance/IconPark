@@ -22,19 +22,19 @@ export default IconWrapper(
                 cy="39"
                 rx="18"
                 ry="6"
-                stroke="#333333"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
                 d="M6 39H42"
-                stroke="#333333"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
             />
             <path
                 d="M6 39L23.9999 4L42 39"
-                stroke="#333333"
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
