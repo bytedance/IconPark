@@ -1,9 +1,9 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="12" y="4" width="8" height="8" rx="4" fill="#338AFF" stroke="black" stroke-width="4"/>
-<rect x="12" y="22" width="8" height="8" rx="4" fill="#338AFF" stroke="black" stroke-width="4"/>
+<rect x="12" y="4" width="8" height="8" rx="4" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="12" y="22" width="8" height="8" rx="4" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <line x1="16" y1="31" x2="16" y2="44" stroke="black" stroke-width="4" stroke-linecap="round"/>
-<rect x="28" y="4" width="8" height="8" rx="4" fill="#338AFF" stroke="black" stroke-width="4"/>
-<rect x="28" y="22" width="8" height="8" rx="4" fill="#338AFF" stroke="black" stroke-width="4"/>
+<rect x="28" y="4" width="8" height="8" rx="4" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="28" y="22" width="8" height="8" rx="4" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <line x1="32" y1="31" x2="32" y2="44" stroke="black" stroke-width="4" stroke-linecap="round"/>
 <path d="M13 17H19" stroke="black" stroke-width="4" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M29 17H35" stroke="black" stroke-width="4" stroke-miterlimit="2" stroke-linecap="round" stroke-linejoin="round"/>

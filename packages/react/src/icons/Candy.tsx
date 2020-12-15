@@ -22,9 +22,11 @@ export default IconWrapper(
                 cx="24"
                 cy="24"
                 r="10"
-                fill="#2E88FF"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
             />
             <path
                 d="M24 28C21.7909 28 20 26.2091 20 24"

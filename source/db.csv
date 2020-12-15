@@ -450,6 +450,56 @@ gitlab,gitlab,品牌,Brand,,代码共享社区，开发，社区,常留留,10/12
 首页,home-two,建筑,Build,,首页，家，主页，店铺,金磊,08/16/2019 00:00
 城市,city,建筑,Build,,城市，建筑，楼房,齐奉飞,03/28/2019 00:00
 城市,city-one,建筑,Build,,城市，建筑，楼房,齐奉飞,03/28/2019 00:00
+凯旋门,arc-de-triomphe,建筑,Build,image.png,建筑，楼，门,王小犇,
+摊位,booth,建筑,Build,image.png,超市，门店，作坊,王小犇,
+桥,brdige-three,建筑,Build,image.png,大桥,王小犇,
+桥,bridge-one,建筑,Build,image.png,大桥，石拱桥,王小犇,
+桥,bridge-two,建筑,Build,image.png,大桥,王小犇,
+城堡,castle,建筑,Build,image.png,城楼，城门，堡垒,王小犇,
+烟筒,chimney,建筑,Build,image.png,烟火，排烟,王小犇,
+中国楼阁,chinese-pavilion,建筑,Build,image.png,亭子，古建筑，寺庙,王小犇,
+教堂,church-one,建筑,Build,image.png,基督教，宗教,王小犇,
+教堂,church-two,建筑,Build,image.png,基督教，宗教,王小犇,
+圈舍,circle-house,建筑,Build,image.png,房子，屋子，阁楼,王小犇,
+马戏团,circus,建筑,Build,image.png,蒙古包，营地，驻扎，露营,王小犇,
+城门,city-gate,建筑,Build,image.png,城楼，阁楼，房子，楼房,王小犇,
+钟楼,clock-tower,建筑,Build,image.png,大笨钟，楼房，大厦,王小犇,
+死亡之星,death-star,建筑,Build,image.png,星星，倒映,王小犇,
+圆顶,dome,建筑,Build,image.png,地球，圆球,王小犇,
+迪拜大厦,dubai,建筑,Build,image.png,迪拜，大厦，高楼，楼宇,王小犇,
+埃菲尔铁塔,eiffel-tower,建筑,Build,image.png,铁塔，塔，法国建筑，浪漫,王小犇,
+栏栅,fence-one,建筑,Build,image.png,护栏，拦网，栅栏,王小犇,
+栅栏,fence-two,建筑,Build,image.png,护栏，拦网，栅栏,王小犇,
+摩天轮,ferris-wheel,建筑,Build,image.png,轮,王小犇,
+未来大厦,future-build-one,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦,王小犇,
+未来建筑,future-build-three,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦,王小犇,
+未来魔都,future-build-two,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦,王小犇,
+车库,garage,建筑,Build,image.png,门，库，卷帘门，收缩门,王小犇,
+大门,gate,建筑,Build,image.png,门,王小犇,
+长城,great-wall,建筑,Build,image.png,墙壁，城墙,王小犇,
+温室房,green-house,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦,王小犇,
+酒店,hotel,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦，办公楼,王小犇,
+灯塔,light-house,建筑,Build,image.png,城楼，阁楼，房子,王小犇,
+玛雅,maya,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦，办公楼,王小犇,
+纪念碑,monument-one,建筑,Build,image.png,石碑,王小犇,
+纪念碑,monument-two,建筑,Build,image.png,石碑,王小犇,
+博物馆,museum-one,建筑,Build,image.png,展览馆，大会堂，政府，机构,王小犇,
+博物馆,museum-two,建筑,Build,image.png,展览馆，大会堂，政府，机构,王小犇,
+核电厂,nuclear-plant,建筑,Build,image.png,厂房，发电厂，试验场，工地,王小犇,
+宝塔,pagoda,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦，办公楼,王小犇,
+东方明珠,pearl-of-the-orient,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦，办公楼,王小犇,
+电话亭,phone-booth,建筑,Build,image.png,公共电话,王小犇,
+监狱,prison,建筑,Build,image.png,囚禁，牢房,王小犇,
+金字塔,pyramid,建筑,Build,image.png,塔,王小犇,
+学校,school,建筑,Build,image.png,政府，机构，房子，大厦，办公楼,王小犇,
+安全台,security-stall,建筑,Build,image.png,高台，观景台，裁判台,王小犇,
+信号塔,signal-tower-one,建筑,Build,image.png,电塔，塔，网络塔,王小犇,
+太空殖民地,space-colony,建筑,Build,image.png,城楼，阁楼，房子，楼房，大厦，办公楼,王小犇,
+泰姬陵,taj-mahal,建筑,Build,image.png,城楼，阁楼，寺庙，教堂，办公楼,王小犇,
+风笛塔,tower-of-babel,建筑,Build,image.png,城楼，阁楼，寺庙，教堂，办公楼,王小犇,
+比萨斜塔,tower-of-pisa,建筑,Build,image.png,城楼，阁楼，寺庙，教堂，办公楼,王小犇,
+塔楼,tower,建筑,Build,image.png,城楼，阁楼，寺庙，教堂，办公楼,王小犇,
+风车,windmill-one,建筑,Build,image.png,车，发电车,王小犇,
 添加,add,符号,Character,,新建，增加，创建,常留留,03/19/2019 00:00
 加,plus,符号,Character,,新建， 增加 ，创建,常留留,03/19/2019 00:00
 更多3,more-three,符号,Character,,更多，圆形，三点,常留留,05/27/2019 00:00
@@ -482,6 +532,7 @@ VIP,vip,符号,Character,,VIP，加V,金磊,08/16/2019 00:00
 注意,attention,符号,Character,,提示，注意，警示,刘心乐,03/22/2019 00:00
 关闭,close,符号,Character,,删除，清除，错误,刘心乐,03/22/2019 00:00
 禁止,forbid,符号,Character,,禁止，不允许,齐奉飞,03/19/2019 00:00
+分享,share-one,连接,Connect,,分享，转发，共享,刘心乐,03/21/2019 00:00
 进度,pie-four,图表,Charts,,进度，百分比，饼图,白明泽,05/31/2019 00:00
 环形图,chart-ring,图表,Charts,,环形图，环状图,白明泽,05/30/2019 00:00
 关系图,chart-graph,图表,Charts,,结构图，关系图，层级,白明泽,05/29/2019 00:00
@@ -539,6 +590,7 @@ kagi图,kagi-map,图表,Charts,,数据，图表,常留留,10/12/2019 00:00
 条形图,chart-histogram,图表,Charts,,图表，数据，柱形图，趋势，财经,齐奉飞,03/26/2019 00:00
 占比图,chart-proportion,图表,Charts,,饼图，占比，比例,齐奉飞,03/26/2019 00:00
 散点图,chart-scatter,图表,Charts,,散点图，图表,齐奉飞,05/30/2019 00:00
+手杖,a-cane,服饰,Clothes,,手杖,金磊,02/11/2020 00:00
 裤子,clothes-pants,服饰,Clothes,,衣服，服装，服饰，裤子,金磊,02/11/2020 00:00
 纸尿裤,clothes-diapers,服饰,Clothes,,衣服，开衫，服装，婴儿，小孩,金磊,02/11/2020 00:00
 运动裤,clothes-pants-sweat,服饰,Clothes,,衣服，服装，服饰，裤子，运动,金磊,02/11/2020 00:00
@@ -556,6 +608,55 @@ kagi图,kagi-map,图表,Charts,,数据，图表,常留留,10/12/2019 00:00
 手套,clothes-gloves,服饰,Clothes,,衣服，服装，服饰，冷,金磊,02/11/2020 00:00
 帽衫,clothes-sweater,服饰,Clothes,,衣服，服装，服饰，正式,金磊,02/11/2020 00:00
 西装,clothes-suit,服饰,Clothes,,衣服，服装，服饰，正式,金磊,02/11/2020 00:00
+学士帽,bachelor-cap,服饰,Clothes,image.png,帽子，学士，博士帽,马玉欣,
+棒球帽,baseball-cap,服饰,Clothes,image.png,运动帽，帽子,马玉欣,
+厨师帽,chef-hat,服饰,Clothes,image.png,厨师，帽子,马玉欣,
+儿童帽,children-cap,服饰,Clothes,image.png,帽子，服装,马玉欣,
+皇冠帽,crown-three,服饰,Clothes,image.png,皇冠,马玉欣,
+帽子,hat,服饰,Clothes,image.png,帽,马玉欣,
+魔术帽,magic-hat,服饰,Clothes,image.png,帽子，魔术，高帽,马玉欣,
+巫师帽,sorcerer-hat,服饰,Clothes,image.png,帽子，尖角帽,马玉欣,
+草帽,straw-hat,服饰,Clothes,image.png,帽子,马玉欣,
+太阳帽,sun-hat,服饰,Clothes,image.png,帽子,马玉欣,
+呢帽,woolen-hat,服饰,Clothes,image.png,帽子，顶帽,马玉欣,
+背包,backpack,服饰,Clothes,image.png,书包，包包，双肩包，运动包，登山包,马玉欣,
+公文包,briefcase,服饰,Clothes,image.png,办公包，皮包，包包，手提包,马玉欣,
+通勤包,commuter-bag,服饰,Clothes,image.png,挎包，手提包，包包,马玉欣,
+手提包,handbag,服饰,Clothes,image.png,皮包，公文包，包包,马玉欣,
+复古包,retro-bag,服饰,Clothes,image.png,包包，复古包，皮包，手提包，背包,马玉欣,
+靴子,boots,服饰,Clothes,image.png,皮靴，高筒靴，女士靴子，雨靴,马玉欣,
+高跟鞋,high-heeled-shoes,服饰,Clothes,image.png,鞋子，皮鞋，高跟鞋,马玉欣,
+冰鞋,skates,服饰,Clothes,image.png,鞋子，靴子，滑冰鞋,马玉欣,
+拖鞋,slippers-one,服饰,Clothes,image.png,鞋子，凉鞋,马玉欣,
+拖鞋,slippers,服饰,Clothes,image.png,鞋子，凉鞋,马玉欣,
+袜子,socks,服饰,Clothes,image.png,袜子,马玉欣,
+中式汉服,hanfu-chinese-style,服饰,Clothes,image.png,上衣，服装，汉服，外套，衣服,马玉欣,
+男士外套,men-jacket,服饰,Clothes,image.png,上衣，服装，汉服，外套，衣服,马玉欣,
+毛衣,sweater,服饰,Clothes,image.png,毛绒，上衣，卫衣，棉衣，外套,马玉欣,
+T恤,t-shirt,服饰,Clothes,image.png,衣服，上衣,马玉欣,
+女大衣,women-coat,服饰,Clothes,image.png,大衣，上衣，衣服,马玉欣,
+背心,vest,服饰,Clothes,image.png,马甲，衣服，上衣,马玉欣,
+礼服长裙,full-dress-longuette,服饰,Clothes,image.png,礼服，裙子，婚纱，服装，连衣裙,马玉欣,
+尿不湿,diapers-one,服饰,Clothes,image.png,内裤,马玉欣,
+内裤,panties,服饰,Clothes,image.png,裤，短裤,马玉欣,
+短裙,short-skirt,服饰,Clothes,image.png,裙子，舞蹈裙,马玉欣,
+短裤,shorts,服饰,Clothes,image.png,短裤，运动裤，训练裤,马玉欣,
+喇叭裤,trousers-bell-bottoms,服饰,Clothes,image.png,裤子，长裤，7分裤，九分裤,马玉欣,
+泳装,swimsuit,服饰,Clothes,image.png,游泳，泳裤，泳衣,马玉欣,
+领带,necktie,服饰,Clothes,image.png,领结,马玉欣,
+腰带,belt,服饰,Clothes,image.png,皮带，皮具,马玉欣,
+领结,bow,服饰,Clothes,image.png,饰品，蝴蝶结，领带,马玉欣,
+衣架,coat-hanger,服饰,Clothes,image.png,衣服撑，衣服架,马玉欣,
+钻石项链,diamond-necklace,服饰,Clothes,image.png,项链，挂件,马玉欣,
+钻戒,diamond-ring,服饰,Clothes,image.png,钻石，戒指,马玉欣,
+钻石,diamonds,服饰,Clothes,image.png,钻，宝石，sketch,马玉欣,
+眼镜,glasses-one,服饰,Clothes,image.png,眼镜，墨镜，复古镜，圆镜,马玉欣,
+衣架,hanger-one,服饰,Clothes,image.png,撑衣架,马玉欣,
+头饰,headwear,服饰,Clothes,image.png,装饰，发夹,马玉欣,
+圣剑,holy-sword,服饰,Clothes,image.png,剑，刺刀，刀刃,马玉欣,
+行李箱,trunk,服饰,Clothes,image.png,行李，箱子，皮箱,马玉欣,
+香水,perfume,服饰,Clothes,image.png,香水，瓶子，容器,马玉欣,
+单肩包,the-single-shoulder-bag,服饰,Clothes,image.png,单肩包，挎包,马玉欣,
 话题,topic,交流,Communicate,,话题，超话，挑战赛，讨论,常留留,10/12/2019 00:00
 评论,comments,交流,Communicate,,信息，聊天，通知，社交，沟通，新消息，合作洽谈，评论区,常留留,11/22/2019 00:00
 提示,tips-one,交流,Communicate,,信息提示，提示，警示，报错，提示信息，message,常留留,11/22/2019 00:00
@@ -578,7 +679,6 @@ kagi图,kagi-map,图表,Charts,,数据，图表,常留留,10/12/2019 00:00
 链接,connect,连接,Connect,,链接，分享，连接，拓扑图，图表,金磊,08/16/2019 00:00
 网络节点,network-tree,连接,Connect,,网络，结构，节点，联通，信息，传输，信号,金磊,02/11/2020 00:00
 连接点,connection-point,连接,Connect,,网络，连接点，节点，网络邻居,刘心乐,03/27/2019 00:00
-分享,share-one,符号,Connect,,分享，转发，共享,刘心乐,03/21/2019 00:00
 线索,clue,连接,Connect,,线索池，连接，相连,齐奉飞,03/28/2019 00:00
 锚点,anchor-one,连接,Connect,,曲线，贝塞尔，可编辑，锚点,齐奉飞,05/30/2019 00:00
 锚点,anchor,连接,Connect,,选中，锚点，可编辑，操作,齐奉飞,05/30/2019 00:00
@@ -1411,7 +1511,6 @@ AirPods,airpods,声音,Music,,蓝牙耳机，苹果耳机，耳机，无线耳�
 电子秤,balance-one,运动,Sports,image.png,称，减肥，减脂，平衡，体重，重量，质量，沉重，体育,梁超,
 精灵球,baokemeng,运动,Sports,image.png,球类，球，弹性球，圆球，彩色球，水晶球，精灵,梁超,
 篮球架1,basketball-one,运动,Sports,image.png,篮球，篮板，三分球，得分，进球，进攻，命中，投篮，球类，球，体育,梁超,
-打篮球,play-basketball,运动,Sports,image.png,篮球，球类，球，运动，扣篮，远投，传球，助攻，体育,梁超,
 保龄球,bowling,运动,Sports,image.png,保龄球，球类，球，圆球，硬球，体育,梁超,
 拳击1,boxing-one,运动,Sports,image.png,拳击，手套，护具，套，训练，打击，拳头，力量，对打，攻击，跆拳道，摔跤，体育,梁超,
 拳击,boxing,运动,Sports,image.png,拳击，手套，护具，套，训练，打击，拳头，力量，对打，攻击，跆拳道，摔跤，体育,梁超,
@@ -1420,41 +1519,42 @@ AirPods,airpods,声音,Music,,蓝牙耳机，苹果耳机，耳机，无线耳�
 冰壶,curling,运动,Sports,image.png,奥运会，冰壶，滑冰，比赛，运动，团队项目，体育,梁超,
 潜水瓶,diving-bottle,运动,Sports,image.png,潜水，氧气瓶，补给，装备，瓶子，救生，医疗，换气，体育,梁超,
 潜水装,diving-suit,运动,Sports,image.png,潜水，服装，装备，潜水服，衣服，呼吸，换气，眼罩，体育,梁超,
-体操1,gymnastics-one,运动,Sports,image.png,体操，运动，跳舞，跳动，活动，训练，舞蹈，挥舞，舞动，放松，热身，体育,梁超,
-体操2,gymnastics,运动,Sports,image.png,体操，运动，跳舞，跳动，活动，训练，舞蹈，挥舞，舞动，放松，热身，体育,梁超,
 心跳,heartbeat,运动,Sports,image.png,心跳，呼吸，喘气，心脏，心电图，跳动，心脏，体育,梁超,
-功夫,kungfu,运动,Sports,image.png,武打，功夫，练功，训练，习武，踢脚，抬腿，舞蹈，体操，压腿，放松，热身，体育,梁超,
 肌肉,muscle,运动,Sports,image.png,武打，功夫，练功，训练，习武，踢脚，抬腿，舞蹈，体操，放松，热身，健身，健壮，健康，力量，体育,梁超,
-骑自行车,riding,运动,Sports,image.png,骑行，运动，比赛，自行车，冲刺，两轮车，轮胎，速度，健身，力量，体育,梁超,
 吊环,rings,运动,Sports,image.png,训练，舞蹈，体操，放松，热身，健身，健壮，健康，力量，运动，拉伸，吊起，技术，技巧，体育,梁超,
 溜冰鞋,rollerskates,运动,Sports,image.png,鞋子，滑冰，溜冰，轮滑，滑行，滑走，运动，训练，技术，技巧，体育,梁超,
-划船,rowing,运动,Sports,image.png,滑动，船，滑行，拨动，前进，划龙舟，划水，体育,梁超,
 橄榄球1,rugby-one,运动,Sports,image.png,球类，球，运动，橄榄球，美式足球，美式体育,梁超,
 头盔,helmet,运动,Sports,image.png,头盔，橄榄球头盔，铁盔，盔，护具，防护，半盔，全盔，帽子，安全,梁超,
 帆船,sailboat,运动,Sports,image.png,船，舰，渔船，港口，航行，旅游,梁超,
 滑板,skate,运动,Sports,image.png,板，滑冰，溜冰，轮滑，滑行，滑走，运动，训练，技术，技巧，体育,梁超,
 溜冰鞋,skating,运动,Sports,image.png,鞋子，滑冰，溜冰，轮滑，滑行，滑走，运动，训练，技术，技巧，体育,梁超,
-足球1,soccer-one,运动,Sports,image.png,踢足球，足球，运动，体育，运球，过人，变向，射门，打球，踢，跑动，助攻,梁超,
 足球,soccer,运动,Sports,image.png,踢足球，足球，运动，体育，运球，打球，踢，跑动，助攻,梁超,
 垒球,softball,运动,Sports,image.png,棒球，球类，球，弹性球，体育,梁超,
 钉鞋,spikedshoes,运动,Sports,image.png,鞋子，跑步，运动，训练，技术，技巧，体育，鞋,梁超,
 游泳池,swimming-pool,运动,Sports,image.png,水池，游泳，潜水，下水，泡水，泡澡，河，水塘,梁超,
 游泳圈,swimming-ring,运动,Sports,image.png,救生圈，气球，游泳，下水，安全，救生，圈,梁超,
-乒乓球,tabletennis,运动,Sports,image.png,乒乓球，乒乓，运动，体育，拍，打，扣，球类，球,梁超,
 靶标,target-one,运动,Sports,image.png,射击，打靶，训练，射，精准，射箭，比赛，标靶，准确，枪战,梁超,
 枪靶,target-two,运动,Sports,image.png,射击，打靶，训练，射，精准，射箭，比赛，标靶，准确，枪战，扫描,梁超,
 瘦身,thin,运动,Sports,image.png,胸，身材，瘦，女人，妩媚，性感,梁超,
 陀螺,spinning-top,运动,Sports,image.png,旋转，陀螺仪，转动，转，平衡，速度,梁超,
 毛巾,towel,运动,Sports,image.png,布，布料，浴巾，毛巾，手绢，生活用品，软，擦，洗,梁超,
-跑步机1,treadmill-one,运动,Sports,image.png,跑步，运动，体育，跑，慢跑，健身，减脂，瘦身，训练,梁超,
 跑步机,treadmill,运动,Sports,image.png,跑步，器材，工具，跑，智能，电子，设备,梁超,
-打排球,play-volleyball,运动,Sports,image.png,打排球，排球，运动，体育，拍，打，扣，球类，球,梁超,
 排球,volleyball,运动,Sports,image.png,球类，球，排球，线球，圆球，轮子，运动，体育,梁超,
-水球1,waterpolo-one,运动,Sports,image.png,运动，体育，排球，水，训练,梁超,
-水球,waterpolo,运动,Sports,image.png,运动，体育，排球，水，训练,梁超,
+打篮球,play-basketball,运动,Sports,image.png,篮球，球类，球，运动，扣篮，远投，传球，助攻，体育,梁超,
+体操1,gymnastics-one,运动,Sports,image.png,体操，运动，跳舞，跳动，活动，训练，舞蹈，挥舞，舞动，放松，热身，体育,梁超,
+体操2,gymnastics,运动,Sports,image.png,体操，运动，跳舞，跳动，活动，训练，舞蹈，挥舞，舞动，放松，热身，体育,梁超,
+功夫,kungfu,运动,Sports,image.png,武打，功夫，练功，训练，习武，踢脚，抬腿，舞蹈，体操，压腿，放松，热身，体育,梁超,
+骑自行车,riding,运动,Sports,image.png,骑行，运动，比赛，自行车，冲刺，两轮车，轮胎，速度，健身，力量，体育,梁超,
+划船,rowing,运动,Sports,image.png,滑动，船，滑行，拨动，前进，划龙舟，划水，体育,梁超,
+足球1,soccer-one,运动,Sports,image.png,踢足球，足球，运动，体育，运球，过人，变向，射门，打球，踢，跑动，助攻,梁超,
+乒乓球,tabletennis,运动,Sports,image.png,乒乓球，乒乓，运动，体育，拍，打，扣，球类，球,梁超,
+跑步机1,treadmill-one,运动,Sports,image.png,跑步，运动，体育，跑，慢跑，健身，减脂，瘦身，训练,梁超,
+打排球,play-volleyball,运动,Sports,image.png,打排球，排球，运动，体育，拍，打，扣，球类，球,梁超,
 举重,weightlifting,运动,Sports,image.png,运动，体育，训练，举重，减脂，重量，负重，力量，比赛，拉伸,梁超,
-吹哨,whistling,运动,Sports,image.png,哨子，吹哨，比赛，声音，响声，裁判，犯规，铃声，音乐，乐器,梁超,
+水球1,waterpolo-one,运动,Sports,image.png,运动，体育，排球，水，训练,梁超,
 翼装飞行,wingsuit-flying,运动,Sports,image.png,飞行，人，体育，运动，比赛，超人，飞人,梁超,
+水球,waterpolo,运动,Sports,image.png,运动，体育，排球，水，训练,梁超,
+吹哨,whistling,运动,Sports,image.png,哨子，吹哨，比赛，声音，响声，裁判，犯规，铃声，音乐，乐器,梁超,
 火炬,torch,运动,Sports,image.png,奥运会，火炬，火，传递，点燃，燃烧，火焰，火把，照明，圣火，生火,梁超,
 曲棍球,hockey,运动,Sports,image.png,打，运动，比赛，体育，球类，球，进球，运球，助攻，棍球,梁超,
 智能手表,iwatch,时间,Time,,smart watches，手表，时间，打电话,常留留,11/22/2019 00:00
@@ -1484,3 +1584,53 @@ AirPods,airpods,声音,Music,,蓝牙耳机，苹果耳机，耳机，无线耳�
 大雨,heavy-rain,天气,Weather,,大雨，下雨，洪水,齐奉飞,08/07/2019 00:00
 大雾,fog,天气,Weather,,大雾，雾霾，云雾,齐奉飞,08/07/2019 00:00
 雪花,snowflake,天气,Weather,,雪花，下雪，天气，寒冷，大雪,齐奉飞,07/11/2019 00:00
+加印,add-print,办公,Office,image.png,印记，印章，打印，印刷,田婧,12/08/2020 23:46
+协议,agreement,办公,Office,image.png,文档，规则，详情，文章，短文，合同,田婧,12/08/2020 23:46
+应用效果,application-effect,办公,Office,image.png,效果，圆环，圆形，连接，关联,田婧,12/08/2020 23:46
+文件查找,file-search,办公,Office,image.png,查找，搜索，检索,田婧,12/08/2020 23:46
+压缩,compression,办公,Office,image.png,挤压，文章，文档，小说，合同，规则，详情,田婧,12/08/2020 23:46
+复制,copy-one,办公,Office,image.png,文章，文档，小说，合同，规则，详情,田婧,12/08/2020 23:46
+沙漏,hourglass,办公,Office,image.png,沙子，时间，计时,田婧,12/08/2020 23:46
+数据文件,data-file,办公,Office,image.png,数据，指标，增长，趋势,田婧,12/08/2020 23:46
+回传数据,date-comes-back,办公,Office,image.png,数据，指标，增长，趋势，回传，传送，连接,田婧,12/08/2020 23:46
+文档,file-doc,办公,Office,image.png,文章，文档，小说，合同，规则，详情,田婧,12/08/2020 23:46
+pdf文件,file-pdf-one,办公,Office,image.png,pdf文档，文件,田婧,12/08/2020 23:46
+ppt文件,file-ppt,办公,Office,image.png,幻灯片，展示，预览，汇报，演示,田婧,12/08/2020 23:46
+txt文件,file-txt-one,办公,Office,image.png,文章，文档，小说，合同，规则，详情,田婧,12/08/2020 23:46
+压缩文件,file-zip,办公,Office,image.png,文件，压缩，解压包，下载，资料，文档，资源包,田婧,12/08/2020 23:46
+编辑,editor,办公,Office,image.png,修改，撰写，书写，写作，抄袭，文章，文档，小说，合同，规则，详情,田婧,12/08/2020 23:46
+中文,chinese,办公,Office,image.png,中，汉语，汉字，语文,田婧,12/08/2020 23:46
+英文,english,办公,Office,image.png,英，英文，英语，西文,田婧,12/08/2020 23:46
+数据统计工具,excel,办公,Office,image.png,表格，文档，统计，分析，汇总,田婧,12/08/2020 23:46
+搜查,find-one,办公,Office,image.png,扫描，检索，搜索，查找，寻找,田婧,12/08/2020 23:46
+形式,form-one,办公,Office,image.png,布局，样式，模块，单元,田婧,12/08/2020 23:46
+格式,format,办公,Office,image.png,类型，分类，清除，刷子,田婧,12/08/2020 23:46
+文字识别,text-recognition,办公,Office,image.png,识别，文字，字体,田婧,12/08/2020 23:46
+健康认知,healthy-recognition,办公,Office,image.png,心，健康，收藏，喜欢,田婧,12/08/2020 23:46
+图片文件,image-files,办公,Office,image.png,图片，图形，图像，影相,田婧,12/08/2020 23:46
+涨幅,increase,办公,Office,image.png,增长，上升，提升，升高,田婧,12/08/2020 23:46
+指令,instruction,办公,Office,image.png,代码，编程，命令,田婧,12/08/2020 23:46
+异常,abnormal,办公,Office,image.png,报错，提示，提醒,田婧,
+视频文件,video-file,办公,Office,image.png,影视，影片，录像，资料,田婧,12/08/2020 23:46
+音频文件,audio-file,办公,Office,image.png,歌曲，音乐，音频，声音,田婧,12/08/2020 23:46
+收藏文件,collection-files,办公,Office,image.png,收藏，星星，评级，级别,田婧,12/08/2020 23:46
+失效文件,invalid-files,办公,Office,image.png,失效，禁用，无效，终止,田婧,12/08/2020 23:46
+安全,security,办公,Office,image.png,保护伞，雨伞,田婧,12/08/2020 23:46
+标签,label,办公,Office,image.png,标记，页签,田婧,12/08/2020 23:46
+级别,level,办公,Office,image.png,层次，等级，高度,田婧,12/08/2020 23:46
+列表视图,list-view,办公,Office,image.png,列表，表单,田婧,12/08/2020 23:46
+市场分析,market-analysis,办公,Office,image.png,分析，数据，趋势,田婧,12/08/2020 23:46
+回形针,paperclip,办公,Office,image.png,夹子，针，页签,田婧,12/08/2020 23:46
+美化,optimize,办公,Office,image.png,魔棒，优化，星星，幸运棒,田婧,12/08/2020 23:46
+权限,permissions,办公,Office,image.png,限制，身份，角色，账户，个人中心,田婧,12/08/2020 23:46
+图片,picture,办公,Office,image.png,图片，图形，图像，影相,田婧,12/08/2020 23:46
+播放器,play-two,办公,Office,image.png,播放，视频,田婧,12/08/2020 23:46
+接收库,receive,办公,Office,image.png,收纳，容纳，接收，回收箱,田婧,12/08/2020 23:46
+日程表,schedule,办公,Office,image.png,时间，日历，课程表，日程，记录，牌子,田婧,12/08/2020 23:46
+终止文件,termination-file,办公,Office,image.png,无效，失效，禁用,田婧,12/08/2020 23:46
+文字讯息,text-message,办公,Office,image.png,音讯，消息，文字，资讯,田婧,12/08/2020 23:46
+字体搜索,font-search,办公,Office,image.png,字体，检索，搜索，查找,田婧,12/08/2020 23:46
+票,ticket-one,办公,Office,image.png,饭票，电影票，活动票，门票，优惠券,田婧,12/08/2020 23:46
+券,ticket,办公,Office,image.png,饭票，电影票，活动票，门票，优惠券,田婧,12/08/2020 23:46
+转变,transform,办公,Office,image.png,转化，连接，旋转，回旋，回传,田婧,12/08/2020 23:46
+视频,video-one,办公,Office,image.png,摄像，视频，电影，投影，影像,田婧,12/08/2020 23:46
