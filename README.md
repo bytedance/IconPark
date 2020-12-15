@@ -63,7 +63,7 @@ After Transforming:
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" alt="Icon Tools" width="200px"></img>   
 
 ### Changelog
-- 2020.12.15 publish v1.2.0
+- 2020.12.15 publish v1.1.2, add 150+ icons
 - 2020.11.26 publish v1.1.1, add new icons
 - 2020.11.13 publish v1.0.14
 - 2020.11.05 publish v1.0.13
