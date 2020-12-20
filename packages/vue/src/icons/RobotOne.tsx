@@ -31,17 +31,17 @@ export default IconWrapper(
                 cx="17"
                 cy="26"
                 r="2"
-                fill={props.colors[0]}
+                fill={props.colors[2]}
             />
             <circle
                 cx="31"
                 cy="26"
                 r="2"
-                fill={props.colors[0]}
+                fill={props.colors[2]}
             />
             <path
                 d="M20 32C18.8954 32 18 32.8954 18 34C18 35.1046 18.8954 36 20 36V32ZM28 36C29.1046 36 30 35.1046 30 34C30 32.8954 29.1046 32 28 32V36ZM20 36H28V32H20V36Z"
-                fill={props.colors[0]}
+                fill={props.colors[2]}
             />
             <path
                 d="M24 10V18"

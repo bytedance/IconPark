@@ -47,12 +47,11 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M41.9059 6.60641C42.2408 5.55383 41.659 4.42906 40.6064 4.09415C39.5538 3.75924 38.4291 4.34102 38.0942 5.39359L41.9059 6.60641ZM31.0942 27.3936C30.7592 28.4462 31.341 29.5709 32.3936 29.9059C33.4462 30.2408 34.5709 29.659 34.9059 28.6064L31.0942 27.3936ZM38.0942 5.39359L31.0942 27.3936L34.9059 28.6064L41.9059 6.60641L38.0942 5.39359Z"
-                fill={props.colors[0]}
-            />
-            <path
-                d="M17 4C15.8954 4 15 4.89543 15 6C15 7.10457 15.8954 8 17 8V4ZM40 8C41.1046 8 42 7.10457 42 6C42 4.89543 41.1046 4 40 4V8ZM17 8H40V4H17V8Z"
-                fill={props.colors[0]}
+                d="M17 6H40L33 27.5"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
             />
         </svg>
     )

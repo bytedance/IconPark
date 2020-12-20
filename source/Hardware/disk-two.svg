@@ -2,7 +2,7 @@
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
 <rect x="4" y="13" width="32" height="22" rx="2" stroke="black" stroke-width="4"/>
 <path d="M4 13H14V35H4V13Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M36 17C34.8954 17 34 17.8954 34 19C34 20.1046 34.8954 21 36 21V17ZM44 19H46C46 17.8954 45.1046 17 44 17V19ZM44 29V31C45.1046 31 46 30.1046 46 29H44ZM36 27C34.8954 27 34 27.8954 34 29C34 30.1046 34.8954 31 36 31V27ZM36 21H44V17H36V21ZM42 19V29H46V19H42ZM44 27H36V31H44V27Z" fill="black"/>
+<path d="M36 19H44V29H36" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="30" cy="21" r="2" fill="black"/>
 <circle cx="30" cy="27" r="2" fill="black"/>
 </svg>
