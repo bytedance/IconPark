@@ -55,6 +55,9 @@ IconPark提供了超过1400个高质量图标，并且提供了一个界面来�
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" width="200px"></img>    
 
 ### 变更记录
+- 2020.12.20 发布1.1.3版本
+    - 修复34个异常图标svg源文件
+    - 修复Vue package包属性继承，改为`inheritAttrs: true`
 - 2020.12.15 新增150+图标，发布v1.1.2版本
 - 2020.11.26 npm 发布 v1.1.1, 丰富图标数量
 - 2020.11.13 npm 发布 v1.0.14

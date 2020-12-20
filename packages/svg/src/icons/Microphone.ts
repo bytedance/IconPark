@@ -19,6 +19,6 @@ export default IconWrapper('microphone', (props: ISvgIconProps) => (
         + '<path d="M16 22H21" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M27 22H32" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M24 38V44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
-        + '<path d="M16 42C14.8954 42 14 42.8954 14 44C14 45.1046 14.8954 46 16 46V42ZM32 46C33.1046 46 34 45.1046 34 44C34 42.8954 33.1046 42 32 42V46ZM16 46L32 46V42L16 42V46Z" fill="' + props.colors[0] + '"/>'
+        + '<path d="M16 44H32" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));
