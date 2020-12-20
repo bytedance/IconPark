@@ -226,7 +226,7 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
         data() {
             return {id: guid()};
         },
-        inheritAttrs: false,
+        inheritAttrs: true,
         render(this: IIconInstance, h: CreateElement): VNode {
 
             const {
