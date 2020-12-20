@@ -10,12 +10,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('headset-two', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<path d="M15 16H21V25C21 26.6569 19.6569 28 18 28C16.3431 28 15 26.6569 15 25V16Z" fill="' + props.colors[1] + '"/>'
-        + '<path d="M15 16V14C13.8954 14 13 14.8954 13 16H15ZM21 16H23C23 14.8954 22.1046 14 21 14V16ZM15 18H21V14H15V18ZM19 16V25H23V16H19ZM17 25V16H13V25H17ZM18 26C17.4477 26 17 25.5523 17 25H13C13 27.7614 15.2386 30 18 30V26ZM19 25C19 25.5523 18.5523 26 18 26V30C20.7614 30 23 27.7614 23 25H19Z" fill="' + props.colors[0] + '"/>'
+        + '<path d="M21 16H15V25C15 26.6569 16.3431 28 18 28V28C19.6569 28 21 26.6569 21 25V16Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M18 28V38L12 38" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M21 4H23C23 2.89543 22.1046 2 21 2V4ZM21 16V18C22.1046 18 23 17.1046 23 16H21ZM11 6H21V2H11V6ZM19 4V16H23V4H19ZM21 14H11V18H21V14ZM11 14C8.79086 14 7 12.2091 7 10H3C3 14.4183 6.58172 18 11 18V14ZM11 2C6.58172 2 3 5.58172 3 10H7C7 7.79086 8.79086 6 11 6V2Z" fill="' + props.colors[0] + '"/>'
+        + '<path d="M21 16V4H10.5C8 4 5 6 5 10C5 14 8.5 16 11 16H21Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M27 22V10H37.5C40 10 43 12 43 16C43 20 39.5 22 37 22H27Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M33 22H27V31C27 32.6569 28.3431 34 30 34C31.6569 34 33 32.6569 33 31V22Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M27 10H25C25 8.89543 25.8954 8 27 8V10ZM27 22V24C25.8954 24 25 23.1046 25 22H27ZM37 12H27V8H37V12ZM29 10V22H25V10H29ZM27 20H37V24H27V20ZM37 20C39.2091 20 41 18.2091 41 16H45C45 20.4183 41.4183 24 37 24V20ZM37 8C41.4183 8 45 11.5817 45 16H41C41 13.7909 39.2091 12 37 12V8Z" fill="' + props.colors[0] + '"/>'
         + '<path d="M30 34L30 44L36 44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

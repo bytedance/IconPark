@@ -11,6 +11,6 @@ export default IconWrapper('coat-hanger', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
         + '<path d="M19 13C19 10.2386 21.2386 8 24 8C26.7614 8 29 10.2386 29 13C29 15.7614 26.7614 18 24 18V22" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M44 36V38C45.1046 38 46 37.1046 46 36H44ZM4 36H2C2 37.1046 2.89543 38 4 38V36ZM6 36C6 32.4323 8.1541 29.4852 11.6701 27.3302C15.1948 25.1699 19.8245 24 24 24V20C19.1755 20 13.8052 21.3301 9.57988 23.9198C5.3459 26.5148 2 30.5677 2 36H6ZM24 24C28.1755 24 32.8052 25.1699 36.3299 27.3302C39.8459 29.4852 42 32.4323 42 36H46C46 30.5677 42.6541 26.5148 38.4201 23.9198C34.1948 21.3301 28.8245 20 24 20V24ZM44 34H4V38H44V34Z" fill="' + props.colors[0] + '"/>'
+        + '<path d="M44 36H4C4 31 10 22 24 22C38 22 44 31 44 36Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));
