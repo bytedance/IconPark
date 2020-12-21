@@ -125,7 +125,7 @@ export default {
 <icon-park type="home" theme="filled"/>
 </template>
 <script>
-import {IconPark} from '@icon-park/vue/all';
+import {IconPark} from '@icon-park/vue/es/all';
 
 export default {
     components: {

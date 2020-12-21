@@ -110,7 +110,7 @@ Usage:
 <icon-park type="home" theme="filled"/>
 </template>
 <script>
-import {IconPark} from '@icon-park/vue-next/all';
+import {IconPark} from '@icon-park/vue-next/es/all';
 
 export default {
     components: {
