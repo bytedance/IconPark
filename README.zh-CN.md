@@ -69,3 +69,4 @@ IconPark提供了超过1400个高质量图标，并且提供了一个界面来�
 
 ### 联系
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/lark.png"></img>
+<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/wx.jpg"></img>
