@@ -63,6 +63,8 @@ After Transforming:
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" alt="Icon Tools" width="200px"></img>   
 
 ### Changelog
+- 2020.12.21 publish v1.1.4
+    - fix `React Package` IconType type problem.[#61](https://github.com/bytedance/IconPark/issues/61)
 - 2020.12.20 publish v1.1.3
     - fix 34 svg files
     - vue package update`inheritAttrs: true`

@@ -254,6 +254,9 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
         if (spin) {
             cls.push(ICON_CONFIGS.prefix + '-icon-spin');
         }
+        if (className) {
+            cls.push(className);
+        }
 
         return (
             <span {...extra} className={cls.join(' ')}>
