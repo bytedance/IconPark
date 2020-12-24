@@ -1,7 +1,7 @@
 {
     "name": "@icon-park/react",
     "description": "React Icons for IconPark",
-    "version": "1.1.4",
+    "version": "1.1.5-alpha.0",
     "main": "lib/index.js",
     "module": "es/index.js",
     "typings": "lib/index.d.ts",
@@ -37,5 +37,7 @@
     "publishConfig": {
         "access": "public"
     },
-    "sideEffects": ["styles/**"]
+    "sideEffects": [
+        "styles/**"
+    ]
 }
