@@ -1,7 +1,7 @@
 {
     "name": "@icon-park/svg",
     "description": "Pure Svg Icons for IconPark",
-    "version": "1.1.5-alpha.1",
+    "version": "1.1.5",
     "main": "lib/index.js",
     "module": "es/index.js",
     "typings": "lib/index.d.ts",
