@@ -47,11 +47,14 @@ export default {
 
 ```typescript
 import {install} from '@icon-park/vue-next/es/all';
-import Vue from 'vue';
+import {createApp} from 'vue';
+
+const app = createApp({});
 
 // Install
-install(Vue); // 默认前缀是 'icon', 例如: 对于`People`这个icon, 组件名字是`icon-people`.
-install(Vue, 'i'); // 使用自定义前缀'i', 例如: 对于`People`这个icon，组件名字是`i-people`.
+install(app); // 默认前缀是 'icon', 例如: 对于`People`这个icon, 组件名字是`icon-people`.
+install(app, 'i'); // 使用自定义前缀'i', 例如: 对于`People`这个icon，组件名字是`i-people`.
+app.mount('#app');
 ```
 ### Style Sheet
 

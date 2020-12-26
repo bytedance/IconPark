@@ -47,11 +47,15 @@ If you don't want to refer to it, you can install icons globally.
 
 ```typescript
 import {install} from '@icon-park/vue-next/es/all';
-import Vue from 'vue';
+import {createApp} from 'vue';
+
+const app = createApp({});
 
 // Install
-install(Vue); // use default prefix 'icon', eg: icon is People, name is icon-people.
-install(Vue, 'i'); // use custom prefix 'i', eg: icon is People, name is i-people.
+install(app); // use default prefix 'icon', eg: icon is People, name is icon-people.
+install(app, 'i'); // use custom prefix 'i', eg: icon is People, name is i-people.
+
+app.mount('#app');
 ```
 ### Style Sheet
 
