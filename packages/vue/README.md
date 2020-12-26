@@ -47,13 +47,12 @@ export default {
 If you don't want to refer to it, you can install icons globally.
 
 ```typescript
-import * as icons from '@icon-park/vue';
+import {install} from '@icon-park/vue/es/all';
 import Vue from 'vue';
 
 // Install
-Object.values(icons).forEach(icon => {
-    Vue.install(icon.name, icon);
-});
+install(Vue); // use default prefix 'icon', eg: icon is People, name is icon-people.
+install(Vue, 'i'); // use custom prefix 'i', eg: icon is People, name is i-people.
 ```
 
 ### Style Sheet

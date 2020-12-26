@@ -4,7 +4,7 @@
 ## 介绍
 
 ### 新特性
-* 提供超过1200图标
+* 提供超过1600图标
 * 支持4种主题:
     * 线性
     * 填充
@@ -43,6 +43,16 @@ export default {
 </script>
 ```
 
+如果你不想引用，那么你可以全局安装图标
+
+```typescript
+import {install} from '@icon-park/vue-next/es/all';
+import Vue from 'vue';
+
+// Install
+install(Vue); // 默认前缀是 'icon', 例如: 对于`People`这个icon, 组件名字是`icon-people`.
+install(Vue, 'i'); // 使用自定义前缀'i', 例如: 对于`People`这个icon，组件名字是`i-people`.
+```
 ### Style Sheet
 
 引用预设样式

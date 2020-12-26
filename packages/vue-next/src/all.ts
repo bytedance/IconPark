@@ -2,7 +2,7 @@
  * @file all
  */
 
-import {createVNode, DefineComponent, ComponentOptions} from '@vue/runtime-dom';
+import {createVNode, App, DefineComponent, ComponentOptions} from '@vue/runtime-dom';
 import * as IconMap from './map';
 import {IIconProps} from './runtime';
 
@@ -52,3 +52,9 @@ const IconParkOptions: IIconAllOptions = {
 };
 
 export const IconPark: AllIcon = IconParkOptions as AllIcon;
+
+export function install(Vue: App, prefix?: string): void {
+    Object.values(IconMap).forEach(icon => {
+        Vue.component(prefix ? prefix + '-' + icon.name.slice(5) : icon.name, icon);
+    });
+}

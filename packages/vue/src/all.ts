@@ -53,3 +53,9 @@ const options: ComponentOptions<IIconParkInstance> = {
 };
 
 export const IconPark: VueConstructor<IIconAllProps> = options as VueConstructor<IIconAllProps>;
+
+export function install(Vue: VueConstructor, prefix?: string): void {
+    Object.values(IconMap).forEach(icon => {
+        Vue.component(prefix ? prefix + '-' + icon.name.slice(5) : icon.name, icon);
+    });
+}

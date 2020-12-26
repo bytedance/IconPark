@@ -221,7 +221,9 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
 
     const options: IconOptions = {
         name: 'icon-' + name,
-        inject: ['ICON_CONFIGS'],
+        inject: {
+            ICON_CONFIGS: {default: DEFAULT_ICON_CONFIGS}
+        },
         props: ['size', 'strokeWidth', 'strokeLinecap', 'strokeLinejoin', 'theme', 'fill', 'spin'],
         data() {
             return {id: guid()};
