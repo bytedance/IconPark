@@ -18,10 +18,12 @@ IconPark提供了超过1400个高质量图标，并且提供了一个界面来�
 ### 代码库
 #### 多种代码包
 > 可以在`packages`文件夹下面找到，你可以应用在你的React、Vue、小程序等不同类型项目中使用
-  - [React component](./packages/react/README.md) 
-  - [Vue Component for Vue3.0](./packages/vue-next/README.md) 
-  - [Vue Component for old Vue2.0](./packages/vue/README.md) 
-  - [Pure SVG string](./packages/svg/README.md)
+| 名称 | Github查看 | NPM包地址 |
+| ------- | --- | --- |
+| React Icons | [React Component](./packages/react/README.md)  | [@icon-park/react](https://www.npmjs.com/package/@icon-park/react) |
+| Vue2 Icons | [Vue Component for old Vue2.0](./packages/vue/README.md) | [@icon-park/vue](https://www.npmjs.com/package/@icon-park/vue) |
+| Vue3 Icons | [Vue Component for Vue3.0](./packages/vue-next/README.md) | [@icon-park/vue-next](https://www.npmjs.com/package/@icon-park/vue-next) |
+| SVG Icons | [Pure SVG String](./packages/svg/README.md)| [@icon-park/svg](https://www.npmjs.com/package/@icon-park/svg) |
 
 #### 多种主题
 基本的换肤可以通过在元素上设置两个属性来搞定：fill属性和stroke属性。fill属性设置对象内部的颜色，stroke属性设置绘制对象的线条的颜色。通过改变不同path的这2个属性，

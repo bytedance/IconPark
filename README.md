@@ -22,11 +22,12 @@ So whether you are a designer or a developer, you can use them in your designs o
 
 > Find packages in `packages` folder. NPM packages make it painless to import icon components to your project.
 
-  - [React Component](./packages/react/README.md) 
-  - [Vue Component for Vue3.0](./packages/vue-next/README.md) 
-  - [Vue Component for old Vue2.0](./packages/vue/README.md) 
-  - [Pure SVG String](./packages/svg/README.md)
-
+| Name | Github link | NPM link |
+| ------- | --- | --- |
+| React Icons | [React Component](./packages/react/README.md)  | [@icon-park/react](https://www.npmjs.com/package/@icon-park/react) |
+| Vue2 Icons | [Vue Component for old Vue2.0](./packages/vue/README.md) | [@icon-park/vue](https://www.npmjs.com/package/@icon-park/vue) |
+| Vue3 Icons | [Vue Component for Vue3.0](./packages/vue-next/README.md) | [@icon-park/vue-next](https://www.npmjs.com/package/@icon-park/vue-next) |
+| SVG Icons | [Pure SVG String](./packages/svg/README.md)| [@icon-park/svg](https://www.npmjs.com/package/@icon-park/svg) |
 #### Multiple themes
 
 Basic coloring can be done by setting two attributes on the node: fill and stroke. Fill sets the color inside the object while stroke sets the color of the line drawn around the object. By changing this two attributes, you can transform a single SVG icon into different themes, including: `outline`, `filled`, `two-tone`, `multi-color`. Take the icon named `camera` for example:
