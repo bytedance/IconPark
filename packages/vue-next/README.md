@@ -43,7 +43,16 @@ export default {
 }
 </script>
 ```
+If you don't want to refer to it, you can install icons globally.
 
+```typescript
+import {install} from '@icon-park/vue-next/es/all';
+import Vue from 'vue';
+
+// Install
+install(Vue); // use default prefix 'icon', eg: icon is People, name is icon-people.
+install(Vue, 'i'); // use custom prefix 'i', eg: icon is People, name is i-people.
+```
 ### Style Sheet
 
 Import the icon style:

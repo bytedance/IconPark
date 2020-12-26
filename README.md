@@ -63,17 +63,7 @@ After Transforming:
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/icon-tool.png" alt="Icon Tools" width="200px"></img>   
 
 ### Changelog
-- 2020.12.21 publish v1.1.4
-    - fix `React Package` IconType type problem.[#61](https://github.com/bytedance/IconPark/issues/61)
-- 2020.12.20 publish v1.1.3
-    - fix 34 svg files
-    - vue package update`inheritAttrs: true`
-- 2020.12.15 publish v1.1.2, add 150+ icons
-- 2020.11.26 publish v1.1.1, add new icons
-- 2020.11.13 publish v1.0.14
-- 2020.11.05 publish v1.0.13
-- 2020.10.29 add new category `Sport`, update icons
-- 2020.9.30 support vue3.0, [vue-next icons](https://github.com/bytedance/IconPark/tree/master/packages/vue-next)
+[CHANGELOG.en-US](CHANGELOG.en-US.md) | [CHANGELOG.简体中文](CHANGELOG.zh-CN.md)
 
 ### Contact Us
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/lark.png"></img>
