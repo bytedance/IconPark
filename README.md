@@ -67,5 +67,7 @@ After Transforming:
 [CHANGELOG.en-US](CHANGELOG.en-US.md) | [CHANGELOG.简体中文](CHANGELOG.zh-CN.md)
 
 ### Contact Us
+#### Lark
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/lark.png"></img>
+#### Wechat
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/wx3.jpg"></img>
