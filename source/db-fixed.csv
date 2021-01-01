@@ -101,6 +101,23 @@ API 应用,api-app,抽象,Abstract,image.png,API，应用，抽象，AD 平台,�
 图形分割,rectangular-circular-separation,抽象,Abstract,image.png,图形分割，链接，抽象，分裂,金磊,08/07/2019 00:00
 矩形撕裂,rectangle-tear,抽象,Abstract,image.png,矩形撕裂,金磊,03/08/2020 00:00
 分离,split-branch,抽象,Abstract,image.png,分离，编辑，对比,金磊,02/11/2020 00:00
+分类管理,category-management,抽象,Abstract,image.png,分类，管理，整理，,张蔓,
+循环,cycle-one,抽象,Abstract,image.png,循环，可利用，周转,张蔓,
+显示屏,display,抽象,Abstract,image.png,显示屏，白板，展示,张蔓,
+错误提示,error-prompt,抽象,Abstract,image.png,错误提示，声音，音量放大，声音提示,张蔓,
+导出,export,抽象,Abstract,image.png,导出，输出，传输,张蔓,
+外部传输,external-transmission,抽象,Abstract,image.png,外部传输，传输，导出文件,张蔓,
+内部数据,internal-data,抽象,Abstract,image.png,内部数据，数据，数据展示，,张蔓,
+内部传输,internal-transmission,抽象,Abstract,image.png,内部传输，输送文件，接收文件,张蔓,
+打开,open-one,抽象,Abstract,image.png,打开，钥匙，开启,张蔓,
+出库,outbound,抽象,Abstract,image.png,出库，导出，传输,张蔓,
+同向运行,reverse-operation-in,抽象,Abstract,image.png,同向运行，汇集，方向,张蔓,
+逆向运行,reverse-operation-out,抽象,Abstract,image.png,逆向运行，反向，散发，左右，方向,张蔓,
+右运行,right-run,抽象,Abstract,image.png,右运行，右看齐，方向,张蔓,
+左运行,run-left,抽象,Abstract,image.png,左运行，左看齐，方向,张蔓,
+搜索引擎,seo,抽象,Abstract,image.png,搜索引擎，seo，组件,张蔓,
+同步,sync,抽象,Abstract,image.png,同步，对齐，复制,张蔓,
+入库,warehousing,抽象,Abstract,image.png,入库，进入，输送,张蔓,
 上,up,方向,Arrows,image.png,向上，箭头,齐奉飞,03/22/2019 00:00
 下,down,方向,Arrows,image.png,向下，箭头,齐奉飞,03/22/2019 00:00
 左,left,方向,Arrows,image.png,返回，向左,齐奉飞,03/22/2019 00:00
@@ -203,6 +220,7 @@ API 应用,api-app,抽象,Abstract,image.png,API，应用，抽象，AD 平台,�
 驳回,reject,方向,Arrows,image.png,拒绝，驳回，拒绝，不通过，有问题,常留留,08/07/2019 00:00
 趋势上升,trending-up,方向,Arrows,image.png,上升，向上，提升，趋势,常留留,01/19/2020 00:00
 Figma 选择箭头,figma-flatten-selection,方向,Arrows,image.png,向下箭头，箭头,金磊,02/11/2020 00:00
+点击缩起,click-to-fold,方向,Arrows,image.png,点击缩起，缩小，收起,张蔓,
 收件下载,inbox-in,基础,Base,image.png,收件箱，信箱，邮箱，邮件，信件，下载,白明泽,08/07/2019 00:00
 收件上载,inbox-out,基础,Base,image.png,收件箱，信箱，邮箱，邮件，信件，上传，上载,白明泽,08/07/2019 00:00
 收件箱,inbox,基础,Base,image.png,收件箱，信箱，邮箱，邮件，信件,白明泽,08/07/2019 00:00
@@ -286,7 +304,6 @@ API 接口,api,基础,Base,image.png,接口，开发，程序，研发，API,金
 缩小,zoom-out,基础,Base,image.png,搜索，查找，缩小,齐奉飞,03/21/2019 00:00
 放大,zoom-in,基础,Base,image.png,搜索，查找，放大,齐奉飞,03/21/2019 00:00
 重新,redo,基础,Base,image.png,重做，再做,刘心乐,03/21/2019 00:00
-刷新,refresh-one,基础,Base,image.png,刷新 重置 更新 ,齐奉飞,08/31/2020 00:00
 刷新,refresh,基础,Base,,刷新，旋转，切换,齐奉飞,03/21/2019 00:00
 删除,delete-two,基础,Base,image.png,删除，清除，消除,金磊,11/22/2019 00:00
 删除,delete,基础,Base,image.png,删除，垃圾桶，勒色桶,齐奉飞,03/19/2019 00:00
@@ -361,6 +378,33 @@ AirPlay,airplay,基础,Base,image.png,屏幕映像，无线投屏,常留留,05/3
 闪电,lightning,基础,Base,image.png,闪电，天气，打雷，下雨,金磊,08/16/2019 00:00
 页面,page,基础,Base,image.png,网页，布局，排版，模块,刘心乐,03/28/2019 00:00
 井号,pound,基础,Base,image.png,井号，符号，字符，话题,齐奉飞,07/11/2019 00:00
+雨伞,umbrella-two,基础,Base,image.png,伞，防潮，保护,史晓彤,
+购物车1,shopping-cart-one,基础,Base,image.png,购物车，消费，买东西,史晓彤,
+购物袋,shopping-bag,基础,Base,image.png,购物袋，快消品，逛街,史晓彤,
+扫描,scan,基础,Base,image.png,识别，扫描，扫码，聚焦,史晓彤,
+尺子1,ruler-one,基础,Base,image.png,尺子，标尺，拦截,史晓彤,
+无穷尽,endless,基础,Base,image.png,基因，链接，无穷大，闭环,史晓彤,
+法案,bill,基础,Base,image.png,标签，书签，文本，法案，订单，合同，文档，规则,史晓彤,
+文件夹,folder,基础,Base,image.png,文件夹，文件本，文件,张蔓,
+检查,inspection,基础,Base,image.png,检查，查找，精确,张蔓,
+镜子,mirror-one,基础,Base,image.png,镜子，化妆镜，美状镜，,张蔓,
+接受邮件,accept-email,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件屏蔽,email-block,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件删除,email-delect,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件下载,email-down,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件发送失败,email-fail,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件锁定,email-lock,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件推送,email-push,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件搜索,email-search,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件安全,email-security,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件发送成功,email-successfully,基础,Base,,,齐奉飞,12/31/2020 21:56
+信封1,envelope-one,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件编辑,mail-edit,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件包,mail-package,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件查阅,mail-review,基础,Base,,,齐奉飞,12/31/2020 21:56
+邮件打开,mail-unpacking,基础,Base,,,齐奉飞,12/31/2020 21:56
+发送邮件,send-email,基础,Base,,,齐奉飞,12/31/2020 21:56
+定时发送,timed-mail,基础,Base,,,齐奉飞,12/31/2020 21:56
 订单,order,书籍,Books,,抢单，文档，发票，记录，计分牌,白明泽,03/29/2019 00:00
 剪切板,clipboard,书籍,Books,,板，画板，黏贴板，公告板,常留留,05/30/2019 00:00
 文件夹-下载,folder-download,书籍,Books,,文件夹，下载，下载文件,常留留,05/27/2019 00:00
@@ -393,6 +437,7 @@ AirPlay,airplay,基础,Base,image.png,屏幕映像，无线投屏,常留留,05/3
 文件夹-添加,folder-plus,书籍,Books,,文件夹，添加，办公,齐奉飞,03/19/2019 00:00
 文件夹-删除,folder-minus,书籍,Books,,文件夹，删除，办公,齐奉飞,03/19/2019 00:00
 文件夹-开,folder-open,书籍,Books,,文件夹，办公,齐奉飞,03/19/2019 00:00
+文件夹,seo-folder,书籍,Books,image.png,文件夹，收藏，整理，收纳,张蔓,
 星星,star-one,品牌,Brand,,收藏，已收藏，取消收藏，评分，评价，打分，星级,常留留,01/19/2020 00:00
 苹果,apple,品牌,Brand,,苹果，手机，电脑，设备,常留留,10/12/2019 00:00
 浏览器-safari,browser-safari,品牌,Brand,,苹果浏览器，Safari,常留留,05/31/2019 00:00
@@ -591,6 +636,8 @@ kagi图,kagi-map,图表,Charts,,数据，图表,常留留,10/12/2019 00:00
 占比图,chart-proportion,图表,Charts,,饼图，占比，比例,齐奉飞,03/26/2019 00:00
 散点图,chart-scatter,图表,Charts,,散点图，图表,齐奉飞,05/30/2019 00:00
 手杖,a-cane,服饰,Clothes,,手杖,金磊,02/11/2020 00:00
+数据看板,data-screen,图表,Charts,image.png,数据看板，代码，编程，符号,史晓彤,
+数据表,data-sheet,图表,Charts,image.png,数据，图表,史晓彤,
 裤子,clothes-pants,服饰,Clothes,,衣服，服装，服饰，裤子,金磊,02/11/2020 00:00
 纸尿裤,clothes-diapers,服饰,Clothes,,衣服，开衫，服装，婴儿，小孩,金磊,02/11/2020 00:00
 运动裤,clothes-pants-sweat,服饰,Clothes,,衣服，服装，服饰，裤子，运动,金磊,02/11/2020 00:00
@@ -682,6 +729,43 @@ T恤,t-shirt,服饰,Clothes,image.png,衣服，上衣,马玉欣,
 线索,clue,连接,Connect,,线索池，连接，相连,齐奉飞,03/28/2019 00:00
 锚点,anchor-one,连接,Connect,,曲线，贝塞尔，可编辑，锚点,齐奉飞,05/30/2019 00:00
 锚点,anchor,连接,Connect,,选中，锚点，可编辑，操作,齐奉飞,05/30/2019 00:00
+锚轮,anchor-round,连接,Connect,image.png,锚点，定位，钢笔工具，曲线，路径,高亚栋,
+锚方,anchor-squre,连接,Connect,image.png,锚点，定位，钢笔工具，曲线，路径,高亚栋,
+流水线,assembly-line,连接,Connect,image.png,流水线，流转，流向，串联，链接，连接，路径,高亚栋,
+移到前面,bring-to-front-one,连接,Connect,image.png,移到前面，置于顶层，路径查找器,高亚栋,
+连接地址1,connect-address-one,连接,Connect,image.png,锚点，定位，定点,高亚栋,
+连接地址2,connect-address-two,连接,Connect,image.png,锚点，定位，定点,高亚栋,
+差异集,difference-set,连接,Connect,image.png,交集，路径查找器,高亚栋,
+交集,intersection,连接,Connect,image.png,复制，粘贴，重合,高亚栋,
+断开连接,link-break,连接,Connect,image.png,剪辑，插入，终止,高亚栋,
+云中断,link-cloud-faild,连接,Connect,image.png,云中断，中断，终止，错误，出错,高亚栋,
+云连接,link-cloud-sucess,连接,Connect,image.png,云连接，成功，上传成功,高亚栋,
+云运行,link-cloud,连接,Connect,image.png,云，转化，传输，运行,高亚栋,
+接入链接,link-in,连接,Connect,image.png,接入，锁定，,高亚栋,
+链接中断,link-interrupt,连接,Connect,image.png,断开，禁止，错误，出错，失败,高亚栋,
+左链接,link-left,连接,Connect,image.png,返回，向左，上一步,高亚栋,
+向外连接,link-out,连接,Connect,image.png,链接，左右，数据，,高亚栋,
+右连接,link-right,连接,Connect,image.png,导出，向右，下一步,高亚栋,
+链接4,link-four,连接,Connect,image.png,连接，接口，按钮，指示灯,高亚栋,
+移到底部,minus-the-bottom,连接,Connect,image.png,移到底部，置于底部，下移,高亚栋,
+移到顶部,minus-the-top,连接,Connect,image.png,移到顶部，置于顶部，上移,高亚栋,
+关系链,relational-graph,连接,Connect,image.png,连接，关系链，发散，跳跃,高亚栋,
+底部连接,s-turn-down,连接,Connect,image.png,底部连接，底部，连接，流转,高亚栋,
+左侧连接,s-turn-left,连接,Connect,image.png,左侧连接，左侧，连接，流转,高亚栋,
+右侧连接,s-turn-right,连接,Connect,image.png,右侧连接，右侧，连接，流转,高亚栋,
+顶部连接,s-turn-up,连接,Connect,image.png,连接，传输，串联，流转,高亚栋,
+移到后面,send-to-back,连接,Connect,image.png,置顶，筛选，分类，分离,高亚栋,
+左下分支,split-turn-down-left,连接,Connect,image.png,思维导图，分支，分散,高亚栋,
+右下分支,split-turn-down-right,连接,Connect,image.png,思维导图，分支，分散,高亚栋,
+合并,sum,连接,Connect,image.png,并集，合集，加选，融合,高亚栋,
+上回转,u-turn-down,连接,Connect,image.png,转向，回转，返回，上回转,高亚栋,
+右回转,u-turn-left,连接,Connect,image.png,转向，回转，返回，右回转,高亚栋,
+左回转,u-turn-right,连接,Connect,image.png,转向，回转，返回，左回转,高亚栋,
+下回转,u-turn-up,连接,Connect,image.png,下回转，转向，回转，返回,高亚栋,
+站点加速,whole-site-accelerator,连接,Connect,image.png,站点加速，加速，闪电，站点,高亚栋,
+分支,branch-one,连接,Connect,image.png,分支，排列，结构,张蔓,
+链接,link-three,连接,Connect,image.png,链接，链接，组合，合并,张蔓,
+树状图,tree-diagram,连接,Connect,image.png,整理，树状图，散发,张蔓,
 拖拽,drag,内容编辑,ContentEdit,,拉，拽，拖拽，位移，移动，六点,常留留,03/27/2019 00:00
 链接,deeplink,内容编辑,ContentEdit,,深度链接，连接，联系,常留留,10/12/2019 00:00
 字母倒序,alphabetical-sorting-two,内容编辑,ContentEdit,,字母倒序，排序，顺序,金磊,08/16/2019 00:00
@@ -891,6 +975,56 @@ T恤,t-shirt,服饰,Clothes,image.png,衣服，上衣,马玉欣,
 更多2,more-two,编辑,Edit,,更多，圆形，三点,齐奉飞,03/26/2019 00:00
 裁切,cutting-one,编辑,Edit,,裁剪，剪切，编辑，剪刀,齐奉飞,03/19/2019 00:00
 文件-txt,file-txt,编辑,Edit,,文件，文本文件，文稿，写字，文字,齐奉飞,08/07/2019 00:00
+添加,add-three,编辑,Edit,image.png,聚焦，精准，扫描，识别,夏立诚,
+添加,add-four,编辑,Edit,image.png,聚焦，精准，扫描，识别,夏立诚,
+文字,add-text-two,编辑,Edit,image.png,文字，编辑，书写，文案,夏立诚,
+文字大小,add-text,编辑,Edit,image.png,文字，编辑，书写，文案，文字大小,夏立诚,
+传入,afferent-two,编辑,Edit,image.png,传送，传输，向左，箭头,夏立诚,
+传入,afferent,编辑,Edit,image.png,传送，传输，向左，箭头,夏立诚,
+文字左对齐,align-left-one,编辑,Edit,image.png,文字，左对其，编辑，排版,夏立诚,
+文字右对齐,align-right-one,编辑,Edit,image.png,文字，右对其，编辑，排版,夏立诚,
+排除选择,exclude-selection,编辑,Edit,image.png,剪切，相交，排除选择,夏立诚,
+填充,fill,编辑,Edit,image.png,填充，空，排除,夏立诚,
+相交选择,intersect-selection,编辑,Edit,image.png,合并，并拢，交集，相交,夏立诚,
+合并,merge,编辑,Edit,image.png,交叉，合并，交集,夏立诚,
+分裂,split,编辑,Edit,image.png,图层，双层，链接，上层,夏立诚,
+减去上一层,subtract-selection-one,编辑,Edit,image.png,双层，减去上层，排除,夏立诚,
+减去下一层,subtract-selection,编辑,Edit,image.png,双层，减去上层，排除,夏立诚,
+裁剪放大,tailoring-two,编辑,Edit,image.png,裁剪，裁切，编辑，裁剪放大,夏立诚,
+裁剪,tailoring,编辑,Edit,image.png,裁剪，裁切，编辑,夏立诚,
+合并选择,union-selection,编辑,Edit,image.png,合并，并拢，交集,夏立诚,
+创建,newlybuild,编辑,Edit,image.png,新建，增加，创建,夏立诚,
+表格,excel-one,编辑,Edit,image.png,表格，电子文件,夏立诚,
+幻灯片,powerpoint,编辑,Edit,image.png,幻灯片,夏立诚,
+文档,word,编辑,Edit,image.png,文档，文案，文本,夏立诚,
+应用,application-two,编辑,Edit,image.png,编辑，其他，应用,夏立诚,
+自定对焦,auto-focus,编辑,Edit,image.png,对焦，中心，靶心,夏立诚,
+数据图,chart-pie-one,编辑,Edit,image.png,圆形图，饼状图，图表,夏立诚,
+删除,delete-three,编辑,Edit,image.png,删除，关闭，错误，乘号,夏立诚,
+方向,direction,编辑,Edit,image.png,游戏，方向，左右,夏立诚,
+收缩,reduce-two,编辑,Edit,image.png,收缩，游戏，方向，左右,夏立诚,
+拓展,extend,编辑,Edit,image.png,扩大，拓展,夏立诚,
+移动,move-in-one,编辑,Edit,image.png,移动，指向，拉伸,夏立诚,
+扫描,scanning-two,编辑,Edit,image.png,扫描，聚焦，识别,夏立诚,
+扫描,scanning,编辑,Edit,image.png,扫描，聚焦，识别,夏立诚,
+截图,screenshot-one,编辑,Edit,image.png,聚焦，对准，截图，扩展,夏立诚,
+下载,download-four,编辑,Edit,image.png,向下，下载，指向,夏立诚,
+电波,electric-wave,编辑,Edit,image.png,电流，电波，心电图，股票，浮动,夏立诚,
+闪光模式,flashlamp,编辑,Edit,image.png,闪电，闪光，快速，能量，电池,夏立诚,
+对焦,focus,编辑,Edit,image.png,对焦，精准，镜头,夏立诚,
+伸展,stretching,编辑,Edit,image.png,拉伸，扩展，拖大,夏立诚,
+反转镜头,invert-camera,编辑,Edit,image.png,镜头，旋转，反转镜头,夏立诚,
+刷新,refresh-one,编辑,Edit,image.png,旋转，刷新，循环，逆转，转动,夏立诚,
+列表,list-one,编辑,Edit,image.png,排列，列表，左对齐,夏立诚,
+遮罩,mask-two,编辑,Edit,image.png,遮罩，蒙版,夏立诚,
+修改,modify-two,编辑,Edit,image.png,橡皮，修改，涂抹,夏立诚,
+修改,modify,编辑,Edit,image.png,错误，修改,夏立诚,
+更多,more-four,编辑,Edit,image.png,更多，编辑，其他,夏立诚,
+井号,pound-sign,编辑,Edit,image.png,井号，网格，编辑,夏立诚,
+比例缩放,proportional-scaling,编辑,Edit,image.png,三角，层次,夏立诚,
+旋转,rotate-one,编辑,Edit,image.png,中心，焦点，雷达，转动，统计,夏立诚,
+筛选1,filter-one,编辑,Edit,image.png,过滤，筛查,夏立诚,12/31/2020 19:38
+编辑,repair,编辑,Edit,image.png,编辑，代码，文案，写字,张蔓,
 张嘴闭眼笑,grinning-face-with-tightly-closed-eyes-open-mouth,表情,Emoji,,张嘴闭眼笑,金磊,09/11/2019 00:00
 无语脸,expressionless-face,表情,Emoji,,无语脸,金磊,09/11/2019 00:00
 囧笑,sly-face-whit-smile,表情,Emoji,,囧笑,金磊,09/11/2019 00:00
@@ -958,6 +1092,8 @@ T恤,t-shirt,服饰,Clothes,image.png,衣服，上衣,马玉欣,
 茶,tea,餐饮,Foods,image.png,饮料，茶饮,孔维佳,
 碗,bowl-one,餐饮,Foods,image.png,容器，饭菜，餐饮，餐具,孔维佳,
 火锅,hot-pot-one,餐饮,Foods,image.png,餐饮，锅，美食,孔维佳,
+火锅,chafing-dish-one,餐饮,Foods,image.png,火锅，铜锅，涮锅，烹饪，锅,胡玉娜,
+鸳鸯锅,chafing-dish,餐饮,Foods,image.png,鸳鸯锅，锅，火锅，烹饪，涮菜,胡玉娜,
 火鸡,turkey,餐饮,Foods,image.png,鸡肉，鸡，火,孔维佳,
 面包,bread,餐饮,Foods,image.png,面食，食物，零食，早餐,孔维佳,
 蛋糕,cake-five,餐饮,Foods,image.png,甜点，糕点，甜食，甜品，食物，点心，下午茶,孔维佳,
@@ -991,8 +1127,60 @@ T恤,t-shirt,服饰,Clothes,image.png,衣服，上衣,马玉欣,
 梨子,pear,餐饮,Foods,image.png,水果,孔维佳,
 南瓜,pumpkin,餐饮,Foods,image.png,蔬菜，水果,孔维佳,
 萝卜,radish,餐饮,Foods,image.png,蔬菜，水果,孔维佳,
+牛油果,avocado-one,餐饮,Foods,image.png,牛油果，水果，果蔬,胡玉娜,
+汉堡,hamburger-one,餐饮,Foods,image.png,汉堡，汉堡包，面包，食物，美食，食品,胡玉娜,
+三明治,sandwich-one,餐饮,Foods,image.png,三明治，热狗，食品，面包,胡玉娜,
+茄子,eggplant,餐饮,Foods,image.png,茄子，蔬菜，生鲜,胡玉娜,
+大蒜,garlic,餐饮,Foods,image.png,大蒜，蒜头，蔬菜，蒜,胡玉娜,
+柠檬片,orange-one,餐饮,Foods,image.png,柠檬片，柠檬，水果，柠檬干,胡玉娜,
+豌豆角,peas,餐饮,Foods,image.png,豌豆角，豆角，蔬菜,胡玉娜,
+菠萝,pineapple,餐饮,Foods,image.png,菠萝，水果，生鲜,胡玉娜,
+圆萝卜,radish-one,餐饮,Foods,image.png,圆萝卜，萝卜，蔬菜，水萝卜,胡玉娜,
+大葱,scallion,餐饮,Foods,image.png,大葱，葱头，葱蒜，蔬菜,胡玉娜,
+大虾,shrimp,餐饮,Foods,image.png,大虾，虾，水产，海鲜，生鲜，虾仁,胡玉娜,
+青菜,vegetables,餐饮,Foods,image.png,青菜，白菜，蔬菜,胡玉娜,
+蚕豆,vicia-faba,餐饮,Foods,image.png,蚕豆，豆子，蔬菜，食品,胡玉娜,
 番茄,tomato,餐饮,Foods,image.png,水果，蔬菜，西红柿,孔维佳,
 西瓜,watermelon-one,餐饮,Foods,image.png,水果，瓜,孔维佳,
+鱼,fish,餐饮,Foods,image.png,鱼，食物，美食,史晓彤,
+鸡蛋,egg-one,餐饮,Foods,image.png,鸡蛋，美妆蛋,史晓彤,
+三明治,sandwich,餐饮,Foods,image.png,三明治，早餐，切角,史晓彤,
+面包机,bread-machine,餐饮,Foods,image.png,面包机，面包，电器，早餐，烤面包,胡玉娜,
+面包,bread-one,餐饮,Foods,image.png,面包，早餐，甜品，下午茶,胡玉娜,
+蛋糕,cake,餐饮,Foods,image.png,生日蛋糕，生日，蛋糕，糕点，甜品，蜡烛,胡玉娜,
+水果罐头,canned-fruit,餐饮,Foods,image.png,水果罐头，罐头，瓶子,胡玉娜,
+奶酪,cheese,餐饮,Foods,image.png,奶酪，甜点，蛋糕，芝士奶酪,胡玉娜,
+厨师帽子,chef-hat-one,餐饮,Foods,image.png,帽子，厨师帽,胡玉娜,
+鸡肉,chicken,餐饮,Foods,image.png,肉食，鸡肉，鸡，烤鸡，烧鸡,胡玉娜,
+切菜板,chopping-board,餐饮,Foods,image.png,切菜板，案板，菜板，砧板，切菜,胡玉娜,
+可乐,cola,餐饮,Foods,image.png,可乐，饮料，水，听装可乐，可口可乐,胡玉娜,
+煮饭,cook,餐饮,Foods,image.png,煮饭，锅，奶锅，锅具，炒锅，汤锅,胡玉娜,
+螃蟹,crab,餐饮,Foods,image.png,螃蟹，海鲜，生鲜，梭子蟹,胡玉娜,
+牛角面包,croissant,餐饮,Foods,image.png,牛角包，面包，甜点，零食，下午茶,胡玉娜,
+杯子,cup-one,餐饮,Foods,image.png,杯子，水杯，喝水,胡玉娜,
+甜甜圈,doughnut,餐饮,Foods,image.png,甜甜圈，面包，甜点，糕点,胡玉娜,
+鸡腿,drumstick,餐饮,Foods,image.png,鸡腿，肉食，鸡肉,胡玉娜,
+胶手套,glove,餐饮,Foods,image.png,胶手套，手套，保暖，橡胶手套，塑胶手套,胡玉娜,
+冰激凌,icecream-four,餐饮,Foods,image.png,冰淇淋，冷饮，雪糕,胡玉娜,
+水壶,kettle-one,餐饮,Foods,image.png,水壶，壶，热水壶，容器,胡玉娜,
+计量杯,measuring-cup,餐饮,Foods,image.png,计量杯，量杯，厨房厨具,胡玉娜,
+榨汁机,soybean-milk-maker,餐饮,Foods,image.png,榨汁机，榨汁，豆浆机，厨房厨具,胡玉娜,
+茶壶,teapot,餐饮,Foods,image.png,茶壶，水壶，热水壶，泡茶,胡玉娜,
+菜刀,kitchen-knife,餐饮,Foods,image.png,菜刀，切菜，刀，厨房用品,胡玉娜,
+棒棒糖,lollipop,餐饮,Foods,image.png,棒棒糖，零食，甜食，糖果,胡玉娜,
+夏威夷果,macadamia-nut,餐饮,Foods,image.png,夏威夷果，坚果,胡玉娜,
+牛奶,milk-one,餐饮,Foods,image.png,牛奶，盒装，乳品，牛奶盒，牛奶杯,胡玉娜,
+坚果,nut,餐饮,Foods,image.png,坚果，零食，食品，炒货，果脯,胡玉娜,
+托盘,oven-tray,餐饮,Foods,image.png,托盘，盘子，厨具,胡玉娜,
+电烤箱,oven,餐饮,Foods,image.png,电烤箱，烤箱，家电,胡玉娜,
+铁锅,pot,餐饮,Foods,image.png,铁锅，煎锅，炒锅，厨具,胡玉娜,
+冰箱,refrigerator,餐饮,Foods,image.png,冰箱，电器，厨房厨具，电冰箱,胡玉娜,
+托盘,tray,餐饮,Foods,image.png,托盘，盘子，厨具,胡玉娜,
+菜篮子,vegetable-basket,餐饮,Foods,image.png,菜篮子，篮子，蔬菜，买菜,胡玉娜,
+啤酒杯,beer-mug,餐饮,Foods,,,齐奉飞,12/31/2020 22:27
+茶杯4,cup-four,餐饮,Foods,,,齐奉飞,12/31/2020 22:27
+冰棍4,icecream-five,餐饮,Foods,,,齐奉飞,12/31/2020 22:27
+保温杯,thermos-cup,餐饮,Foods,,,齐奉飞,12/31/2020 22:27
 马尤拉手势,mayura-gesture,手势,Hands,,手，手势，,常留留,11/22/2019 00:00
 手动拖动,hand-drag,手势,Hands,,拖动，滑动，手滑单手滑动，右滑,常留留,11/22/2019 00:00
 食指,index-finger,手势,Hands,,手指，手势，指，指引,常留留,11/22/2019 00:00
@@ -1012,6 +1200,52 @@ T恤,t-shirt,服饰,Clothes,image.png,衣服，上衣,马玉欣,
 指纹,fingerprint,手势,Hands,,指纹，安全，解锁，认证，验证,金磊,08/16/2019 00:00
 赞,thumbs-up,手势,Hands,,好评，点赞，优秀,刘心乐,03/27/2019 00:00
 踩,thumbs-down,手势,Hands,,差评，不赞，错误,刘心乐,03/27/2019 00:00
+差劲,bad-one,手势,Hands,image.png,踩，坏的，不认可,陈子豪,
+优秀,good-one,手势,Hands,image.png,赞，好的，认可,陈子豪,
+踩,bad-two,手势,Hands,image.png,不好，不认可，不肯定,陈子豪,
+赞,good-two,手势,Hands,image.png,好，认可，肯定,陈子豪,
+酷的,cool,手势,Hands,image.png,喜欢，指向，手型，手指,陈子豪,
+简单,easy,手势,Hands,image.png,差劲，小拇指，手势，手指,陈子豪,
+第一,first,手势,Hands,image.png,一，手指，食指，手势,陈子豪,
+一,one,手势,Hands,image.png,一，手指，食指，手势,陈子豪,
+一,one-one,手势,Hands,image.png,一，手指，食指，手势,陈子豪,
+二,two-two,手势,Hands,image.png,二，手指，手势,陈子豪,
+二,two,手势,Hands,image.png,二，手指，胜利,陈子豪,
+三,three-three,手势,Hands,image.png,三，手指，手势,陈子豪,
+三,three,手势,Hands,image.png,三，手指，手势,陈子豪,
+四,four-four,手势,Hands,image.png,四，手指，手势,陈子豪,
+四,four,手势,Hands,image.png,四，手指，手势,陈子豪,
+五,five-five,手势,Hands,image.png,五，手指，手势，手掌,陈子豪,
+五,five,手势,Hands,image.png,五，手指，手势，手掌,陈子豪,
+六,six,手势,Hands,image.png,六，手指，手势,陈子豪,
+拳头,fist,手势,Hands,image.png,石头，拳,陈子豪,
+手掌,palm,手势,Hands,image.png,五，手指，手势，手掌,陈子豪,
+胜利,yep,手势,Hands,image.png,二，手指，胜利,陈子豪,
+勾引,flirt,手势,Hands,image.png,引诱，勾引，引诱,陈子豪,
+认可,okay,手势,Hands,image.png,三，手指，手势，OK，肯定，胜利,陈子豪,
+摇滚指,rock,手势,Hands,image.png,弹手，手指，手势,陈子豪,
+弹指,spider-man,手势,Hands,image.png,弹手，手指，手势,陈子豪,
+保佑,bless,手势,Hands,image.png,手势，祈祷，拜佛，行李,陈子豪,
+鼓掌,clap,手势,Hands,image.png,拍手，打击，掌声,陈子豪,
+交货,delivery,手势,Hands,image.png,服务，传递，交付，拱手相让,陈子豪,
+空手,empty,手势,Hands,image.png,摊手，空手，伸手,陈子豪,
+好的,good,手势,Hands,image.png,好，认可，肯定，赞,陈子豪,
+坏的,bad,手势,Hands,image.png,不好，不认可，不肯定,陈子豪,
+招引,come,手势,Hands,image.png,引诱，勾引，引诱,陈子豪,
+指向,point,手势,Hands,image.png,一，手指，食指，手势,陈子豪,
+指出,point-out,手势,Hands,image.png,一，手指，食指，手势,陈子豪,
+打招呼,hi,手势,Hands,image.png,手掌，手势,陈子豪,
+托起,hold-interface,手势,Hands,image.png,拿起，拱手，交接,陈子豪,
+孕育,hold-seeds,手势,Hands,image.png,拿起，拱手，交接,陈子豪,
+承接,hold,手势,Hands,image.png,拿起，拱手,陈子豪,
+移动,move,手势,Hands,image.png,滑动，侧滑,陈子豪,
+点击,press,手势,Hands,image.png,按动，触发，轻点,陈子豪,
+重装,reload,手势,Hands,image.png,更新，画圈，转动，指向,陈子豪,
+打开,turn-on,手势,Hands,image.png,按动，点击，触发，触动，轻点,陈子豪,
+放大,zoom,手势,Hands,image.png,滑动，侧滑,陈子豪,
+打开,open,手势,Hands,image.png,张开双手，鼓掌，手势，动作,陈子豪,
+抱拳,respect,手势,Hands,image.png,佩服，膜拜，崇拜，恳求,陈子豪,
+招手,swing,手势,Hands,image.png,摇手，再见，鼓掌，击掌,陈子豪,
 大巴,bus,硬件,Hardware,,大巴，旅游，汽车，出行，交通,白明泽,07/11/2019 00:00
 监控摄像头,monitor-camera,硬件,Hardware,,监控，摄像头，网络摄像头，摄像机，摄像机，摄像头，监视,白明泽,08/07/2019 00:00
 汽车,car,硬件,Hardware,,交通，汽车，小轿车，出行,白明泽,03/29/2019 00:00
@@ -1212,6 +1446,25 @@ U盘,u-disk,硬件,Hardware,image.png,U盘，硬盘，储存，硬件，移动�
 理财,financing-one,钱财,Money,,货币兑换，财富，钱袋子,齐奉飞,05/30/2019 00:00
 购物车,shopping-cart,钱财,Money,,购物，买东西，购物卡，消费,齐奉飞,05/27/2019 00:00
 添加购物车,shopping-cart-add,钱财,Money,,购物车，添加，买东西，购物,齐奉飞,05/27/2019 00:00
+加减,add-subtract,钱财,Money,image.png,算数，计算,史晓彤,
+银行卡,bank-card-one,钱财,Money,image.png,钱，银行，财务，财富,史晓彤,
+银行,bank,钱财,Money,image.png,钱，银行，财务，财富,史晓彤,
+信用卡,credit,钱财,Money,image.png,卡片，银行，财务，财富,史晓彤,
+货币流通,currency,钱财,Money,image.png,钱，银行，财务，财富,史晓彤,
+存款,deposit,钱财,Money,image.png,钱，银行，财务，财富,史晓彤,
+货币兑换,exchange,钱财,Money,image.png,钱，银行，财务，财富,史晓彤,
+支出,expenses-one,钱财,Money,image.png,消费，支出，钱，转出,史晓彤,
+收入,income-one,钱财,Money,image.png,钱，消费，收入，到账,史晓彤,
+转出,expenses,钱财,Money,image.png,消费，支出，钱，转出,史晓彤,
+转入,income,钱财,Money,image.png,钱，消费，收入，到账,史晓彤,
+闪付,flash-payment,钱财,Money,image.png,闪电，快速，能量，速度,史晓彤,
+准时吃药,medication-time,钱财,Money,image.png,按时，准时,史晓彤,
+付款码,pay-code-one,钱财,Money,image.png,二维码，扫码，扫描，识别，支付,史晓彤,
+支付码,pay-code-two,钱财,Money,image.png,条形码，扫码，识别，支付,史晓彤,
+币种兑换,payment-method,钱财,Money,image.png,支付，钱，兑换，交易,史晓彤,
+红包,red-envelope,钱财,Money,image.png,钱，红包,史晓彤,
+刷卡,swipe,钱财,Money,image.png,刷卡，支付，识别,史晓彤,
+钱包,wallet-one,钱财,Money,image.png,钱包，消费，卡包,史晓彤,
 声波,acoustic,声音,Music,,音频，音量，语音，录音，波纹，声音,常留留,11/22/2019 00:00
 语音信息,voicemail,声音,Music,,录音，磁带，语音，语音短信,常留留,05/30/2019 00:00
 提醒,remind,声音,Music,,提示，消息，警示，警钟，铃铛,常留留,03/19/2019 00:00
@@ -1241,6 +1494,11 @@ AirPods,airpods,声音,Music,,蓝牙耳机，苹果耳机，耳机，无线耳�
 耳机,headset,声音,Music,,耳麦，客服，耳机,齐奉飞,05/29/2019 00:00
 耳机,headset-one,声音,Music,,客服，二级，耳麦，服务,齐奉飞,05/29/2019 00:00
 磁带,tape,声音,Music,,磁带，音乐，复古，收音机、,齐奉飞,05/29/2019 00:00
+收藏音乐,collection-records,声音,Music,,,齐奉飞,12/31/2020 22:37
+音乐cd,music-cd,声音,Music,,,齐奉飞,12/31/2020 22:38
+音乐菜单,music-menu,声音,Music,,,齐奉飞,12/31/2020 22:38
+唱片集,record,声音,Music,,,齐奉飞,12/31/2020 22:38
+音波,sound-wave,声音,Music,,,齐奉飞,12/31/2020 22:38
 面具,mask-one,操作,Operate,,补水，保湿，美白，敷面膜，面膜，医美,常留留,11/22/2019 00:00
 人脸识别,face-recognition,操作,Operate,,人脸支付，人脸，刷脸，人脸密码，扫脸,常留留,11/22/2019 00:00
 回收站,recycle-bin,操作,Operate,,回收站，回收，垃圾桶，恢复，积累,常留留,10/12/2019 00:00
@@ -1396,6 +1654,7 @@ AirPods,airpods,声音,Music,,蓝牙耳机，苹果耳机，耳机，无线耳�
 地图,map-road-two,其它,Others,,地图，地点，地图，出行，交通，运输,金磊,08/16/2019 00:00
 全球,globe,其它,Others,,全球，地球仪，玩具,金磊,08/16/2019 00:00
 汽车导航,gps,其它,Others,,汽车导航,金磊,03/08/2020 00:00
+投影仪,projector-three,其它,Others,,投影仪，设备，投影，投屏，播放，演示,金磊,02/11/2020 00:00
 小程序关闭,applet-closed,其它,Others,,小程序关闭,金磊,03/08/2020 00:00
 切换按钮,switch-button,其它,Others,,切换按钮，开关，切换，组合,金磊,08/07/2019 00:00
 加减乘除,arithmetic-buttons,其它,Others,,加减乘除 键盘,金磊,03/08/2020 00:00
@@ -1485,6 +1744,7 @@ AirPods,airpods,声音,Music,,蓝牙耳机，苹果耳机，耳机，无线耳�
 通讯录,address-book,人群,Peoples,,通讯录 联系人,金磊,03/08/2020 00:00
 身份证,id-card-h,人群,Peoples,,身份证，ID，工牌，卡片,金磊,08/16/2019 00:00
 删除用户,people-delete,人群,Peoples,,删除用户,金磊,03/08/2020 00:00
+删除用户,people-delete-one,人群,Peoples,,删除用户,齐奉飞,03/08/2020 00:00
 众多用户,every-user,人群,Peoples,,用户，很多，群，用户群，用户组,金磊,02/11/2020 00:00
 我的,me,人群,Peoples,,个人中心，用户，人，头像，圆形头像,刘心乐,03/27/2019 00:00
 减少人群,people-minus,人群,Peoples,,添加，用户，客户,齐奉飞,03/27/2019 00:00
@@ -1493,6 +1753,22 @@ AirPods,airpods,声音,Music,,蓝牙耳机，苹果耳机，耳机，无线耳�
 添加人群,people-plus,人群,Peoples,,减少，用户，客户，删除,齐奉飞,03/27/2019 00:00
 减少人群,people-minus-one,人群,Peoples,,添加，用户，客户,齐奉飞,03/27/2019 00:00
 人员,people,人群,Peoples,,用户，客户，个人中心，账户中心，我的，员工,齐奉飞,03/27/2019 00:00
+定时见面,appointment,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+编辑姓名,edit-name,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人像卡片下,people-bottom-card,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人像卡片上,people-top-card,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员上,people-top,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员下,people-bottom,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员左,people-left,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员右,people-right,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人身安全1,people-safe-one,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人身安全,people-safe,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员查找,people-search-one,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员说话,people-speak,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员屏蔽,people-unknown,人群,Peoples,,,齐奉飞,12/31/2020 22:41
+收藏好友,personal-collection,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+个人隐私,personal-privacy,人群,Peoples,,,齐奉飞,12/31/2020 22:42
+人员调动,turn-around,人群,Peoples,,,齐奉飞,12/31/2020 22:43
 网球,tennis,运动,Sports,,运动，球，网球,常留留,11/22/2019 00:00
 健身,dumbbell,运动,Sports,,健身，运动，减肥，体育，哑铃，举重,常留留,10/12/2019 00:00
 运动,sport,运动,Sports,,跑步，健康，活力,常留留,11/22/2019 00:00
@@ -1634,3 +1910,92 @@ txt文件,file-txt-one,办公,Office,image.png,文章，文档，小说，合同
 券,ticket,办公,Office,image.png,饭票，电影票，活动票，门票，优惠券,田婧,12/08/2020 23:46
 转变,transform,办公,Office,image.png,转化，连接，旋转，回旋，回传,田婧,12/08/2020 23:46
 视频,video-one,办公,Office,image.png,摄像，视频，电影，投影，影像,田婧,12/08/2020 23:46
+美容仪,beauty-instrument,美妆,Makeup,image.png,扫码仪，扫描，识别，美容仪,史晓彤,
+护发素,conditioner,美妆,Makeup,image.png,洗护，日化，面霜，护发素,史晓彤,
+洗面奶,facial-cleanser,美妆,Makeup,image.png,洗面奶，洁面，护手霜，洗化,史晓彤,
+指甲,fingernail,美妆,Makeup,image.png,美甲，指甲,史晓彤,
+护手霜,hand-cream,美妆,Makeup,image.png,面霜，洗化,史晓彤,
+洗手液,handwashing-fluid,美妆,Makeup,image.png,酒精，清洁，洗手液，滴露,史晓彤,
+洗手,handwashing,美妆,Makeup,image.png,洗手，水资源，清洁,史晓彤,
+保健品,health-products,美妆,Makeup,image.png,药品，保健，,史晓彤,
+首饰,jewelry,美妆,Makeup,image.png,雪花膏，首饰盒，面霜,史晓彤,
+唇纹身,lip-tattoo,美妆,Makeup,image.png,嘴，唇膏，护唇,史晓彤,
+口红,lipstick,美妆,Makeup,image.png,化妆品，口红，美妆,史晓彤,
+美容,makeups,美妆,Makeup,image.png,面膜，护肤，美妆,史晓彤,
+睫毛膏,mascara,美妆,Makeup,image.png,睫毛刷，美妆，化妆,史晓彤,
+按摩椅1,massage-chair-one,美妆,Makeup,image.png,椅子，凳子，办公,史晓彤,
+按摩椅,massage-chair,美妆,Makeup,image.png,椅子，凳子，办公，按摩椅,史晓彤,
+镜子,mirror,美妆,Makeup,image.png,镜子，化妆镜，正面，照,史晓彤,
+指甲油,nail-polish,美妆,Makeup,image.png,行李箱，手提箱，指甲油，美甲,史晓彤,
+化妆刷,paint,美妆,Makeup,image.png,刷子，扫把，化妆刷，清洁，扫除,史晓彤,
+线轮,reel,美妆,Makeup,image.png,线，轮，绳,史晓彤,
+剪刀,scissors,美妆,Makeup,image.png,剪刀，剪切，裁剪,史晓彤,
+剃须刀,shaver-one,美妆,Makeup,image.png,标签，书签，贴纸，剃须刀,史晓彤,12/31/2020 18:57
+飞机加速,acceleration,旅行,Travel,image.png,加速，加速度，超音速，快速，飞行气流,张文珠,
+飞机窗口,airplane-window-one,旅行,Travel,image.png,靠窗，靠边，座椅，窗口,张文珠,12/31/2020 19:06
+飞机窗口,airplane-window,旅行,Travel,image.png,靠窗，靠边，座椅，窗口，窗户，窗外,张文珠,12/31/2020 19:06
+航空,aviation,旅行,Travel,image.png,飞机，飞行，滑行，飞行中,张文珠,12/31/2020 19:06
+行李延误,baggage-delay,旅行,Travel,image.png,行李延误,张文珠,12/31/2020 19:06
+缆车,cable-car,旅行,Travel,image.png,缆车，电缆车，观光车,张文珠,12/31/2020 19:06
+野营,camp,旅行,Travel,image.png,宿营，宿营地，帐篷，户外,张文珠,12/31/2020 19:06
+插入,check-in,旅行,Travel,image.png,值机，检票,张文珠,12/31/2020 19:06
+鸡尾酒,cocktail,旅行,Travel,image.png,鸡尾酒，浪漫，酒杯，红酒，调制酒，气泡酒,张文珠,12/31/2020 19:06
+椰子树,coconut-tree,旅行,Travel,image.png,椰子树，海边，沙滩，棕榈树,张文珠,12/31/2020 19:06
+指南针,compass-one,旅行,Travel,image.png,指南针，方向，位置,张文珠,12/31/2020 19:06
+托运,consignment,旅行,Travel,image.png,托运，运输，运送，行李托运，传送,张文珠,12/31/2020 19:06
+航海,cruise,旅行,Travel,image.png,邮轮，轮船，航海，轮渡,张文珠,12/31/2020 19:06
+下降,descend,旅行,Travel,image.png,下降，降落,张文珠,12/31/2020 19:06
+潜水,diving,旅行,Travel,image.png,潜水，游泳镜，游泳，,张文珠,12/31/2020 19:06
+安检,enquire,旅行,Travel,image.png,问询，检票，人工，安检，沟通,张文珠,12/31/2020 19:06
+垂钓,fishing,旅行,Travel,image.png,钓鱼，垂钓，平静,张文珠,12/31/2020 19:06
+飞行气流,flight-airflow,旅行,Travel,image.png,飞行中，飞行平稳，飞行气流,张文珠,12/31/2020 19:06
+飞行安全,flight-safety,旅行,Travel,image.png,飞行安全，飞行保险,张文珠,12/31/2020 19:06
+检票机,gate-machine,旅行,Travel,image.png,检票机，闸机，检票，过关,张文珠,12/31/2020 19:06
+民宿,homestay,旅行,Travel,image.png,民宿，酒店，度假，农家乐，度假村,张文珠,12/31/2020 19:06
+热气球,hot-air-balloon,旅行,Travel,image.png,气球，热气球，氢气球,张文珠,12/31/2020 19:06
+飞行巡航,in-flight,旅行,Travel,image.png,环球旅行，周游世界，飞行,张文珠,12/31/2020 19:06
+旅行,journey,旅行,Travel,image.png,环球旅行，周游世界，绕地飞行,张文珠,12/31/2020 19:06
+风景区,landscape,旅行,Travel,image.png,山水，风景，景区，景点，自然，户外，环境,张文珠,12/31/2020 19:06
+行李箱,luggage,旅行,Travel,image.png,行李，行李箱,张文珠,12/31/2020 19:06
+护照,passport-one,旅行,Travel,image.png,护照，护照夹，证件,张文珠,12/31/2020 19:06
+旅行照,photograph,旅行,Travel,image.png,照片，风景照，摄影，拍照,张文珠,12/31/2020 19:06
+金字塔,pyramid-one,旅行,Travel,image.png,金字塔，日出，景点,张文珠,12/31/2020 19:06
+铁路,railway,旅行,Travel,image.png,铁路，陆运，运输,张文珠,12/31/2020 19:06
+重新定位,repositioning,旅行,Travel,image.png,定位，位置，刷新位置,张文珠,12/31/2020 19:06
+休闲,resting,旅行,Travel,image.png,遮阳伞，躺椅，遮阳，休息，小憩,张文珠,12/31/2020 19:06
+骑术,riding-one,旅行,Travel,image.png,骑马，游玩，户外,张文珠,12/31/2020 19:06
+往返飞,round-trip,旅行,Travel,image.png,往返，往返旅行,张文珠,12/31/2020 19:06
+航行,sailing,旅行,Travel,image.png,航行，帆船，船舶,张文珠,12/31/2020 19:06
+凉鞋,sandals,旅行,Travel,image.png,拖鞋，凉拖，度假，休闲，人字拖,张文珠,12/31/2020 19:06
+自拍杆,selfie,旅行,Travel,image.png,自拍，自拍杆，拍照，拍摄，摄影,张文珠,12/31/2020 19:06
+出发,set-off,旅行,Travel,image.png,出行，下班，出发，动身,张文珠,12/31/2020 19:06
+乘凉,shade,旅行,Travel,image.png,雨伞，保护，休闲,张文珠,12/31/2020 19:06
+日光浴,sunbath,旅行,Travel,image.png,休闲，休息，躺椅，日光浴，度假，放松,张文珠,12/31/2020 19:06
+日出,sunrise,旅行,Travel,image.png,日出，风景,张文珠,12/31/2020 19:06
+遮阳篷,sunshade,旅行,Travel,image.png,遮阳伞，度假，休闲,张文珠,12/31/2020 19:06
+飞机起飞,take-off,旅行,Travel,image.png,飞行，起飞，航空，航空航天，飞机,张文珠,12/31/2020 19:06
+票务检查,tickets-checked,旅行,Travel,image.png,检票，值机，票务，票，票据，开票,张文珠,12/31/2020 19:06
+门票,tickets-one,旅行,Travel,image.png,检票，值机，票务，票，票据，机票，票夹,张文珠,12/31/2020 19:06
+门票,tickets-two,旅行,Travel,image.png,检票，值机，票务，票，票据，机票，发票，收据,张文珠,12/31/2020 19:06
+旅游巴士,tour-bus,旅行,Travel,image.png,陆运，巴士，公交，公交车，大巴车，旅行巴士，旅游巴士,张文珠,12/31/2020 19:06
+转机,transfer,旅行,Travel,image.png,转机，换乘，移动,张文珠,12/31/2020 19:06
+运送车,transport,旅行,Travel,image.png,行李运输，运送，运送车，搬运，托运,张文珠,12/31/2020 19:06
+全球旅游,universal,旅行,Travel,image.png,,张文珠,12/31/2020 19:06
+菱形1,diamond-one,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+菱形2,diamond-two,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+菱形,diamond-three,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+六边形1,hexagon-one,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+八边形,octagon,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+椭圆形,oval-one,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+平行四边形,parallelogram,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+五边形,pentagon-one,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+四边形,quadrilateral,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+矩形1,rectangle-one,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+小矩形,rectangle-small,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+矩形,rectangle,图形,Graphics,,,齐奉飞,12/31/2020 22:29
+直角形,right-angle,图形,Graphics,,,齐奉飞,12/31/2020 22:30
+圆形,round,图形,Graphics,,,齐奉飞,12/31/2020 22:31
+小方形,square-small,图形,Graphics,,,齐奉飞,12/31/2020 22:31
+方形,square,图形,Graphics,,,齐奉飞,12/31/2020 22:32
+梯形,trapezoid,图形,Graphics,,,齐奉飞,12/31/2020 22:32
+三角形,triangle,图形,Graphics,,,齐奉飞,12/31/2020 22:32
