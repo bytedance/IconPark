@@ -1,4 +1,8 @@
 # Changelog
+## v1.2.0
+> 2021.01.01
+- 🦋**add icons**:add 365 icons,the number increased to 2000
+
 ## v1.1.5
 > 2020.12.26
 - 🐞**fix vue2**: '[Vue warn]: Injection "ICON_CONFIGS" not found' [#80](https://github.com/bytedance/IconPark/issues/80)
