@@ -4,7 +4,7 @@
 ## Introduction
 
 ### Features
-* Provide more than 1200 icons
+* Provide more than 2000 icons
 * Provide 4 themes:
     * outline
     * filled
