@@ -10,7 +10,7 @@ English | [简体中文](README.zh-CN.md)
 
 ## Introduction
 
-IconPark gives access to more than 1,400 high-quality icons, and introduces an interface for customizing your icons.
+IconPark gives access to more than 2000 high-quality icons, and introduces an interface for customizing your icons.
 Instead of using various SVG source files to achieve different themes, We implement a technology transforming attributes of a single SVG source file into multiple themes. Besides, we provide cross-platform components, including [`react-icons`](./packages/react/README.md), [`vue-icons`](./packages/vue/README.md) and [`svg-icons`](./packages/vue/README.md).
 So whether you are a designer or a developer, you can use them in your designs or your projects for free.
 

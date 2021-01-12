@@ -114,7 +114,7 @@ arr.slice(1).forEach((item: string[], i) => {
         name,
         category,
         categoryCN: item[2],
-        author: item[5].replace(/[,， ]+/g, ''),
+        author: item[6].replace(/[,， ]+/g, ''),
         tag: item[5].split(/[,， ]+/).filter(item => item.trim()),
         time: item[7],
         svg

@@ -22,6 +22,7 @@ export default IconWrapper(
                 cx="24"
                 cy="11"
                 r="7"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -34,19 +35,20 @@ export default IconWrapper(
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
-            <path
-                d="M33 31V35H37"
-                stroke={props.colors[0]}
-                strokeWidth={props.strokeWidth}
-                strokeLinecap={props.strokeLinecap}
-                strokeLinejoin={props.strokeLinejoin}
-            />
             <circle
                 cx="34"
                 cy="34"
                 r="9"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
+            />
+            <path
+                d="M33 31V35H37"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
             />
         </svg>
     )

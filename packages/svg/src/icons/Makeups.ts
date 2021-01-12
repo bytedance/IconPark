@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('makeups', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<path d="M46 24C46 22.8954 45.1046 22 44 22C42.8954 22 42 22.8954 42 24H46ZM24 6C25.1046 6 26 5.10457 26 4C26 2.89543 25.1046 2 24 2V6ZM42 24C42 33.9411 33.9411 42 24 42V46C36.1503 46 46 36.1503 46 24H42ZM24 42C14.0589 42 6 33.9411 6 24H2C2 36.1503 11.8497 46 24 46V42ZM6 24C6 14.0589 14.0589 6 24 6V2C11.8497 2 2 11.8497 2 24H6Z" fill="' + props.colors[0] + '"/>'
+        + '<path d="M44 24C44 35.0457 35.0457 44 24 44C12.9543 44 4 35.0457 4 24C4 12.9543 12.9543 4 24 4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M37.6098 9.47214L37.8652 10.2582H38.6917L38.023 10.744L38.2784 11.5301L37.6098 11.0443L36.9411 11.5301L37.1965 10.744L36.5278 10.2582H37.3543L37.6098 9.47214Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
         + '<path d="M16 31C16 31 18 35 24 35C30 35 32 31 32 31" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<circle cx="17" cy="22" r="3" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'

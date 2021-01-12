@@ -17,20 +17,35 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <path
-                d="M42 18V39C42 40.6569 40.6569 42 39 42H9C7.34315 42 6 40.6569 6 39V9C6 7.34315 7.34315 6 9 6H32"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M14 20L24 28L42 6"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
+            <g
+                clip-path={'url(#' + props.id + '603f2b83' + ')'}
+            >
+                <path
+                    d="M42 20V39C42 40.6569 40.6569 42 39 42H9C7.34315 42 6 40.6569 6 39V9C6 7.34315 7.34315 6 9 6H30"
+                    stroke={props.colors[0]}
+                    stroke-width={props.strokeWidth}
+                    stroke-linecap={props.strokeLinecap}
+                    stroke-linejoin={props.strokeLinejoin}
+                />
+                <path
+                    d="M16 20L26 28L41 7"
+                    stroke={props.colors[0]}
+                    stroke-width={props.strokeWidth}
+                    stroke-linecap={props.strokeLinecap}
+                    stroke-linejoin={props.strokeLinejoin}
+                />
+            </g>
+            <defs>
+                <clipPath
+                    id={props.id + '603f2b83'}
+                >
+                    <rect
+                        width="48"
+                        height="48"
+                        fill={props.colors[2]}
+                    />
+                </clipPath>
+            </defs>
         </svg>
     )
 );

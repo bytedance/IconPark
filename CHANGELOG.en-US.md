@@ -1,7 +1,11 @@
 # Changelog
+## v1.2.1
+> 2021.01.12
+- 🦋**add icons**:add 9 icons, update 80 icons.
+
 ## v1.2.0
 > 2021.01.01
-- 🦋**add icons**:add 365 icons,the number increased to 2000
+- 🦋**add icons**:add 365 icons,the number increased to 2000.
 
 ## v1.1.5
 > 2020.12.26

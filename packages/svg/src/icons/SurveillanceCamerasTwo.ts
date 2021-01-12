@@ -10,8 +10,9 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('surveillance-cameras-two', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M8.62354 9L40.4991 17.541L38.7567 20.18L34.7543 27.3898L33.0119 30.0287L19.006 26.2758L5.00007 22.523L8.62354 9Z" fill="' + props.colors[1] + '"/>'
-        + '<path d="M38.7567 20.18L42.6204 21.2153L40.5499 28.9427L34.7543 27.3898M38.7567 20.18L40.4991 17.541L8.62354 9L5.00007 22.523L19.006 26.2758M38.7567 20.18L34.7543 27.3898M34.7543 27.3898L33.0119 30.0287L19.006 26.2758M19.006 26.2758L19.006 37L5.00007 37" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>'
+        + '<path d="M19.0059 26.2758V37H5" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M42.6205 21.2153L38.7568 20.18L34.7544 27.3898L40.55 28.9427L42.6205 21.2153Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M38.7566 20.18L34.7542 27.3898L33.0118 30.0287L5 22.523L8.62347 9L40.499 17.541L38.7566 20.18Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));
