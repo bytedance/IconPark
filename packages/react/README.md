@@ -4,7 +4,7 @@
 ## Introduction
 
 ### Features
-* Provide more than 1200 icons
+* Provide more than 2000 icons
 * Provide 4 themes:
     * outline
     * filled
@@ -136,6 +136,8 @@ export function Demo(props: {type: IconType}): JSX.Element {
     )
 }
 ```
+### Embed IconPark in your project 
+If you need to use additional information such as icon name, author, category, label and creation time, you can use the `icons.json` file located in the root directory of each NPM.
 
 ## Props
 

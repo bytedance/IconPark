@@ -20,7 +20,7 @@ So whether you are a designer or a developer, you can use them in your designs o
 ### Packages
 #### Generate Cross-platform Components
 
-> Find packages in `packages` folder. NPM packages make it painless to import icon components to your project.
+Find packages in `packages` folder. NPM packages make it painless to import icon components to your project.
 
 | Name | Github link | NPM link |
 | ------- | --- | --- |
@@ -42,11 +42,13 @@ After Transforming:
 | ```<Camera theme="filled" size="32" fill="#333"/>``` | <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/camera_filled.png" width="100"></img> | Filled theme |
 | ```<Camera theme="two-tone" size="32" fill={['#333' ,'#2F88FF']}/>``` | <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/camera_two-tone.png" width="100"></img> | Two-tone theme |
 | ```<Camera theme="multi-color" size="32" fill={['#333' ,'#2F88FF' ,'#FFF' ,'#43CCF8']}/>``` | <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/camera_multi-color.png" width="100"></img> | Multi-color theme |
-    
+
+#### Embed IconPark in your project 
+If you need to use additional information such as icon name, author, category, label and creation time, you can use the `icons.json` file located in the root directory of each NPM.
+
 ### Website
 #### Customization
-
-> Here is the website of [IconPark](http://iconpark.bytedance.com/official). Each icon is hand-coded within a 48x48 grid, using SVG stroke giving the maximum flexibility on styling. You can adjust the color, size, `stroke-width`, `stroke-linejoin`, `stroke-linecap` and other attributes to meet your needs.
+Here is the website of [IconPark](http://iconpark.bytedance.com/official). Each icon is hand-coded within a 48x48 grid, using SVG stroke giving the maximum flexibility on styling. You can adjust the color, size, `stroke-width`, `stroke-linejoin`, `stroke-linecap` and other attributes to meet your needs.
 
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/screenshot.png" alt="Screenshot of customization"></img>
 

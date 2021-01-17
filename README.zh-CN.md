@@ -17,7 +17,7 @@ IconPark提供了超过2000个高质量图标，并且提供了一个界面来�
 
 ### 代码库
 #### 多种代码包
-> 可以在`packages`文件夹下面找到，你可以应用在你的React、Vue、小程序等不同类型项目中使用
+可以在`packages`文件夹下面找到，你可以应用在你的React、Vue、小程序等不同类型项目中使用
 | 名称 | Github查看 | NPM包地址 |
 | ------- | --- | --- |
 | React Icons | [React Component](./packages/react/README.md)  | [@icon-park/react](https://www.npmjs.com/package/@icon-park/react) |
@@ -38,15 +38,19 @@ IconPark提供了超过2000个高质量图标，并且提供了一个界面来�
 | ```<Camera theme="filled" size="32" fill="#333"/>``` | <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/camera_filled.png" width="100"></img> | 填充主题 |
 | ```<Camera theme="two-tone" size="32" fill={['#333' ,'#2F88FF']}/>``` | <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/camera_two-tone.png" width="100"></img> | 双色主题 |
 | ```<Camera theme="multi-color" size="32" fill={['#333' ,'#2F88FF' ,'#FFF' ,'#43CCF8']}/>``` | <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/camera_multi-color.png" width="100"></img> | 多色主题| 
+
+#### 将IconPark嵌入到你的项目中
+如果你的项目中需要使用到图标名称，作者，分类，标签以及创建时间等额外的信息，你可以使用位于每个NPM根目录的`icons.json`文件。
+
 ### 网站
 #### 定制化 
-> 这里是网站[IconPark](http://iconpark.bytedance.com/official)，每一个图标都被手绘在一个48*48的格子里，通过使用SVG 边框属性确保了最大范围的样式灵活性。
+这里是网站[IconPark](http://iconpark.bytedance.com/official)，每一个图标都被手绘在一个48*48的格子里，通过使用SVG 边框属性确保了最大范围的样式灵活性。
 你可以在线去更改颜色、大小、线框宽度、端点类型、拐点类型等属性
 
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/screenshot.png"></img>
 
 
-#### 便捷的工具
+#### 便捷操作
 > 你可以应用在 Figma, Sketch, Photoshop, PPT等等场景里，这里有一些快捷操作：
   - 复制SVG源码
   - 复制React图标代码组件

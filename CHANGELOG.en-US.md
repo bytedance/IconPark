@@ -1,4 +1,8 @@
 # Changelog
+## v1.2.2
+> 2021.01.17
+- 🆕**update npm**: add `icon.json`
+
 ## v1.2.1
 > 2021.01.12
 - 🦋**add icons**:add 9 icons, update 80 icons.
