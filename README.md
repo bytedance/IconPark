@@ -72,4 +72,4 @@ Here is the website of [IconPark](http://iconpark.bytedance.com/official). Each 
 #### Lark
 <img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/lark.png"></img>
 #### Wechat
-<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/wx3.jpg"></img>
+<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/wx.png"></img>
