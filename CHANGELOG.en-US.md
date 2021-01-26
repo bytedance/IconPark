@@ -1,4 +1,8 @@
 # Changelog
+## v1.2.3
+> 2021.01.26
+- 🦋**add icons**: add 103 icons，add categories:`Brand`、`Child`、`Music`、`Operate`
+
 ## v1.2.2
 > 2021.01.17
 - 🆕**update npm**: add `icon.json`

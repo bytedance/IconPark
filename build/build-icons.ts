@@ -16,7 +16,7 @@ interface IIconProps {
     category: string;
     categoryCN: string;
     author: string;
-    time: string;
+    rtl: boolean;
 }
 
 const ICON_CSV = path.resolve(__dirname, '../source/db.csv');
@@ -114,9 +114,9 @@ arr.slice(1).forEach((item: string[], i) => {
         name,
         category,
         categoryCN: item[2],
-        author: item[6].replace(/[,， ]+/g, ''),
-        tag: item[5].split(/[,， ]+/).filter(item => item.trim()),
-        time: item[7],
+        author: item[8].replace(/[,， ]+/g, ''),
+        tag: item[7].split(/[,， ]+/).filter(item => item.trim()),
+        rtl: item[6].trim() === '是',
         svg
     });
 });

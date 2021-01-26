@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('tower-of-pisa', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<g clip-path="' + 'url(#' + props.id + '7dc593be' + ')' + '">'
+        + '<g clip-path="' + 'url(#' + props.id + '47d91233' + ')' + '">'
             + '<path d="M4 44H44" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
             + '<path d="M21.2493 7.47464L36.7041 11.6157L28 44L10.9999 44L21.2493 7.47464Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
             + '<path d="M19.3174 6.957L38.6359 12.1334" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
@@ -22,7 +22,7 @@ export default IconWrapper('tower-of-pisa', (props: ISvgIconProps) => (
             + '<path d="M19.4823 42.9318L20.5176 39.0681" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
         + '</g>'
         + '<defs>'
-            + '<clipPath id="' + props.id + '7dc593be' + '">'
+            + '<clipPath id="' + props.id + '47d91233' + '">'
                 + '<rect width="48" height="48" fill="' + props.colors[2] + '"/>'
             + '</clipPath>'
         + '</defs>'

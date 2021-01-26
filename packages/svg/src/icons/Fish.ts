@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('fish', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<g clip-path="' + 'url(#' + props.id + '27021816' + ')' + '">'
+        + '<g clip-path="' + 'url(#' + props.id + '45a8c05e' + ')' + '">'
             + '<path d="M15.3808 32.8442C9.72351 31.4296 0.531437 34.9654 9.72365 38.5008C13.2595 47.6935 16.7947 38.5008 15.3808 32.8442Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
             + '<path d="M22.4823 10.2474C17.5789 10.2343 11.2504 11.7843 10.4533 13.9753C9.87553 15.5636 12.878 17.6766 16.7036 18.7931" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
             + '<path d="M37.9776 25.7423C37.9907 30.6457 36.4407 36.9743 34.2497 37.7713C32.6614 38.3491 30.5484 35.3466 29.4319 31.521" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
@@ -21,7 +21,7 @@ export default IconWrapper('fish', (props: ISvgIconProps) => (
             + '<path d="M27.0002 7.65639C25.3026 8.1445 23.7176 8.95037 22.4513 10.2167C21.2665 11.4015 20.2678 13.0825 19.4293 15" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '</g>'
         + '<defs>'
-            + '<clipPath id="' + props.id + '27021816' + '">'
+            + '<clipPath id="' + props.id + '45a8c05e' + '">'
                 + '<rect width="48" height="48" fill="' + props.colors[2] + '"/>'
             + '</clipPath>'
         + '</defs>'
