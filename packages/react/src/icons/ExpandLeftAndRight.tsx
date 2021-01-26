@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'expand-left-and-right',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

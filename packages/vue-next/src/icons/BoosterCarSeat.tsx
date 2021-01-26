@@ -9,7 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'booster-car-seat',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

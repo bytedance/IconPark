@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'flip-horizontally',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

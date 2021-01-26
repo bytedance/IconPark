@@ -9,7 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'energy-socket',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

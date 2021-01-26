@@ -9,7 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'double-down',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

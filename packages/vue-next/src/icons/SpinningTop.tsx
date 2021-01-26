@@ -9,7 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'spinning-top',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

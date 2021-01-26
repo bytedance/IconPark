@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'upload',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}
@@ -19,7 +19,7 @@ export default IconWrapper(
             fill="none"
         >
             <mask
-                id={props.id + 'd550b0b2'}
+                id={props.id + 'acbdfe1e'}
                 maskUnits="userSpaceOnUse"
                 x="0"
                 y="0"
@@ -33,7 +33,7 @@ export default IconWrapper(
                 />
             </mask>
             <g
-                mask={'url(#' + props.id + 'd550b0b2' + ')'}
+                mask={'url(#' + props.id + 'acbdfe1e' + ')'}
             >
                 <path
                     d="M6 24.0083V42H42V24"

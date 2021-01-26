@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'connect-address-one',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

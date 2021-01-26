@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'radar-chart',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}
@@ -19,7 +19,7 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clipPath={'url(#' + props.id + 'd9ae26cd' + ')'}
+                clipPath={'url(#' + props.id + 'a49009e0' + ')'}
             >
                 <path
                     d="M23.9998 3L45.8741 18.8926L38 45H10L2.12549 18.8926L23.9998 3Z"
@@ -103,7 +103,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'd9ae26cd'}
+                    id={props.id + 'a49009e0'}
                 >
                     <rect
                         width="48"

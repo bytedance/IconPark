@@ -133,7 +133,7 @@ SUPPORT_PLATFORMS.forEach(type => {
         name: item.name,
         description: item.title,
         content: item.svg,
-        rtl: true
+        rtl: item.rtl
     }));
 
     const files = compiler.getIconFiles();

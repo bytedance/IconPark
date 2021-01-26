@@ -1,4 +1,8 @@
 # Changelog
+## v1.2.4
+> 2021.01.26
+- 🦋**feature**: support RTL
+
 ## v1.2.3
 > 2021.01.26
 - 🦋**add icons**: add 103 icons，add categories:`Brand`、`Child`、`Music`、`Operate`

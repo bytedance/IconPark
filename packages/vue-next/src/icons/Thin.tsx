@@ -9,7 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'thin',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'hexagonal',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

@@ -9,7 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'direction',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}
@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + 'aaa71bf3' + ')'}
+                clip-path={'url(#' + props.id + '54c07e3f' + ')'}
             >
                 <rect
                     x="6"
@@ -49,7 +49,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'aaa71bf3'}
+                    id={props.id + '54c07e3f'}
                 >
                     <rect
                         width="48"

@@ -9,7 +9,7 @@ import {ISvgIconProps, IconHelper, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'maslow-pyramids',
-    true,
+    false,
     (h: IconHelper, props: ISvgIconProps) => (
         <svg
             width={props.size}
@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + 'a45730ed' + ')'}
+                clip-path={'url(#' + props.id + '8e1a634e' + ')'}
             >
                 <path
                     fill-rule="evenodd"
@@ -64,7 +64,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'a45730ed'}
+                    id={props.id + '8e1a634e'}
                 >
                     <rect
                         width="48"

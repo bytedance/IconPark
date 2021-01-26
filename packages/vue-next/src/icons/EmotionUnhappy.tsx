@@ -9,7 +9,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'emotion-unhappy',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}
