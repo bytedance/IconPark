@@ -228,7 +228,7 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
         data() {
             return {id: guid()};
         },
-        inheritAttrs: true,
+        inheritAttrs: false,
         render(this: IIconInstance, h: CreateElement): VNode {
 
             const {
@@ -264,11 +264,11 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
                 cls.push(ICON_CONFIGS.prefix + '-icon-spin');
             }
 
-            return (
-                <span class={cls.join(' ')}>
-                    {render(h, svgProps)}
-                </span>
-            );
+            return h('span', {
+                class: cls.join(' '),
+                on: this.$listeners,
+                attrs: this.$attrs
+            }, [render(h, svgProps)]);
         }
     };
 

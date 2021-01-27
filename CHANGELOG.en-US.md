@@ -1,4 +1,9 @@
 # Changelog
+
+## v1.2.5
+> 2021.01.27
+- 🦋**fix vue2**: add event inherit.
+
 ## v1.2.4
 > 2021.01.26
 - 🦋**feature**: support RTL
