@@ -9,6 +9,7 @@ import ts from 'gulp-typescript';
 import merge from 'merge2';
 import less from 'gulp-less';
 import minifyCss from 'gulp-minify-css';
+import rename from 'gulp-rename';
 import configVue from './packages/vue/tsconfig.json';
 import configVueNext from './packages/vue-next/tsconfig.json';
 import configSVG from './packages/svg/tsconfig.json';
@@ -18,7 +19,7 @@ const TS_CONFIG_MAP = {
     react: configReact,
     vue: configVue,
     svg: configSVG,
-    'vue-next': configVueNext
+    'vue-next': configVueNext,
 };
 
 const BABEL_CONFIG_MAP = {
@@ -29,24 +30,20 @@ const BABEL_CONFIG_MAP = {
                 {
                     modules: false,
                     targets: {
-                        browsers: [
-                            '> 1%',
-                            'last 2 versions',
-                            'not ie <= 8'
-                        ]
-                    }
-                }
+                        browsers: ['> 1%', 'last 2 versions', 'not ie <= 8'],
+                    },
+                },
             ],
-            '@babel/preset-react'
+            '@babel/preset-react',
         ],
         plugins: [
             [
                 '@babel/plugin-proposal-class-properties',
                 {
-                    loose: false
-                }
-            ]
-        ]
+                    loose: false,
+                },
+            ],
+        ],
     },
     vue: {
         presets: [
@@ -55,24 +52,20 @@ const BABEL_CONFIG_MAP = {
                 {
                     modules: false,
                     targets: {
-                        browsers: [
-                            '> 1%',
-                            'last 2 versions',
-                            'not ie <= 8'
-                        ]
-                    }
-                }
+                        browsers: ['> 1%', 'last 2 versions', 'not ie <= 8'],
+                    },
+                },
             ],
-            '@vue/babel-preset-jsx'
+            '@vue/babel-preset-jsx',
         ],
         plugins: [
             [
                 '@babel/plugin-proposal-class-properties',
                 {
-                    loose: false
-                }
-            ]
-        ]
+                    loose: false,
+                },
+            ],
+        ],
     },
     'vue-next': {
         presets: [
@@ -81,24 +74,20 @@ const BABEL_CONFIG_MAP = {
                 {
                     modules: false,
                     targets: {
-                        browsers: [
-                            '> 1%',
-                            'last 2 versions',
-                            'not ie <= 8'
-                        ]
-                    }
-                }
-            ]
+                        browsers: ['> 1%', 'last 2 versions', 'not ie <= 8'],
+                    },
+                },
+            ],
         ],
         plugins: [
             [
                 '@babel/plugin-proposal-class-properties',
                 {
-                    loose: false
-                }
+                    loose: false,
+                },
             ],
-            '@vue/babel-plugin-jsx'
-        ]
+            '@vue/babel-plugin-jsx',
+        ],
     },
     svg: {
         presets: [
@@ -107,68 +96,73 @@ const BABEL_CONFIG_MAP = {
                 {
                     modules: false,
                     targets: {
-                        browsers: [
-                            '> 1%',
-                            'last 2 versions',
-                            'not ie <= 8'
-                        ]
-                    }
-                }
-            ]
+                        browsers: ['> 1%', 'last 2 versions', 'not ie <= 8'],
+                    },
+                },
+            ],
         ],
         plugins: [
             [
                 '@babel/plugin-proposal-class-properties',
                 {
-                    loose: false
-                }
-            ]
-        ]
-    }
+                    loose: false,
+                },
+            ],
+        ],
+    },
 };
 
-function resolve(p: string): string {
-    return path.resolve(process.cwd(), p);
+function resolve(...arg: string[]): string {
+    return path.resolve(process.cwd(), ...arg);
 }
 
 function createBuildTask(name: 'react' | 'vue' | 'svg' | 'vue-next'): string {
-
-    const cwd = resolve('packages/' + name);
+    const cwd = resolve('packages/', name);
 
     gulp.task('build-script-' + name, () => {
-
         const result = gulp
-            .src(['src/*.ts', 'src/*.tsx', 'src/**/*.ts', 'src/**/*.tsx'], {cwd})
+            .src(['src/*.ts', 'src/*.tsx', 'src/**/*.ts', 'src/**/*.tsx'], {
+                cwd,
+            })
             .pipe(ts(TS_CONFIG_MAP[name].compilerOptions));
 
         return merge([
-            result
-                .js
+            result.js
                 .pipe(babel(BABEL_CONFIG_MAP[name]))
                 .pipe(gulp.dest(cwd + '/es'))
-                .pipe(babel({plugins: ['@babel/plugin-transform-modules-commonjs']}))
+                .pipe(
+                    babel({
+                        plugins: ['@babel/plugin-transform-modules-commonjs'],
+                    }),
+                )
                 .pipe(gulp.dest(cwd + '/lib')),
-            result.dts.pipe(gulp.dest(cwd + '/es')).pipe(gulp.dest(cwd + '/lib'))
+            result.dts
+                .pipe(gulp.dest(cwd + '/es'))
+                .pipe(gulp.dest(cwd + '/lib')),
         ]);
     });
 
-    const tasks = ['build-script-' + name];
+    gulp.task('build-copy-icons-json-' + name, () => {
+        return gulp
+            .src(resolve('source/icons-config.json'))
+            .pipe(rename('icons.json'))
+            .pipe(gulp.dest(cwd));
+    });
+
+    const tasks = ['build-script-' + name, 'build-copy-icons-json-' + name];
 
     if (name !== 'svg') {
-
         gulp.task('build-css-' + name, () => {
-
             return gulp
-                .src('src/runtime/index.less', {cwd})
+                .src('src/runtime/index.less', { cwd })
                 .pipe(less())
                 .pipe(minifyCss())
                 .pipe(gulp.dest(cwd + '/styles'));
         });
 
         gulp.task('build-less-' + name, () => {
-
             return gulp
-                .src('src/runtime/index.less', {cwd})
+                .src('src/runtime/index.less', { cwd })
                 .pipe(gulp.dest(cwd + '/styles'));
         });
 
@@ -180,9 +174,12 @@ function createBuildTask(name: 'react' | 'vue' | 'svg' | 'vue-next'): string {
     return 'build-' + name;
 }
 
-gulp.task('default', gulp.series([
-    createBuildTask('react'),
-    createBuildTask('vue'),
-    createBuildTask('vue-next'),
-    createBuildTask('svg')
-]));
+gulp.task(
+    'default',
+    gulp.series([
+        createBuildTask('react'),
+        createBuildTask('vue'),
+        createBuildTask('vue-next'),
+        createBuildTask('svg'),
+    ]),
+);
