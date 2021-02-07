@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('dropbox', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<g clip-path="' + 'url(#' + props.id + 'd83ea0b4' + ')' + '">'
+        + '<g clip-path="' + 'url(#' + props.id + 'f7f8e3d2' + ')' + '">'
             + '<path d="M24 10L12 18L24 26L36 18L24 10Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
             + '<path d="M24 10L36 18L41 11L30 4L24 10Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
             + '<path d="M24 10L12 18L7 11L18 4L24 10Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
@@ -19,7 +19,7 @@ export default IconWrapper('dropbox', (props: ISvgIconProps) => (
             + '<path d="M36 28V37L24 44L12 37V28" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '</g>'
         + '<defs>'
-            + '<clipPath id="' + props.id + 'd83ea0b4' + '">'
+            + '<clipPath id="' + props.id + 'f7f8e3d2' + '">'
                 + '<rect width="48" height="48" fill="' + props.colors[2] + '"/>'
             + '</clipPath>'
         + '</defs>'

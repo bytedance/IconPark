@@ -1,4 +1,8 @@
 # Changelog
+## v1.2.7
+> 2021.02.07
+- 🦋**add icons**:add 102 icons
+
 ## v1.2.6
 > 2021.02.04
 - 🐞**Bug fix**: Fix `icons.json` problem of synchronization

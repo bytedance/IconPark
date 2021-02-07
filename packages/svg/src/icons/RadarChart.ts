@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('radar-chart', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<g clip-path="' + 'url(#' + props.id + '06eaa7d3' + ')' + '">'
+        + '<g clip-path="' + 'url(#' + props.id + 'f40257b2' + ')' + '">'
             + '<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>'
             + '<path d="M23.9998 3L45.8741 18.8926L38 45H10L2.12549 18.8926L23.9998 3Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
             + '<path d="M38 45L31 37" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
@@ -26,7 +26,7 @@ export default IconWrapper('radar-chart', (props: ISvgIconProps) => (
             + '<path d="M29.4684 6.97315L23.9998 3L18.5312 6.97315" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '</g>'
         + '<defs>'
-            + '<clipPath id="' + props.id + '06eaa7d3' + '">'
+            + '<clipPath id="' + props.id + 'f40257b2' + '">'
                 + '<rect width="48" height="48" fill="' + props.colors[2] + '"/>'
             + '</clipPath>'
         + '</defs>'
