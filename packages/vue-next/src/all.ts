@@ -21,9 +21,11 @@ const IconParkOptions: IIconAllOptions = {
     name: 'icon-park',
     props: ['size', 'strokeWidth', 'strokeLinecap', 'strokeLinejoin', 'theme', 'fill', 'spin', 'type'],
     setup: (props => {
-
+        const toPascalCase = (val: string) => {
+            return val.replace(/(^\w|-\w)/g, (c: string) => c.replace(/-/, '').toUpperCase());
+        }
+        const type = toPascalCase(props.type);
         const {
-            type,
             theme,
             size,
             fill,
