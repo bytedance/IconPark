@@ -131,8 +131,8 @@ export function Demo(props: {type: IconType}): JSX.Element {
     return (
         <Fragment>
             <Icon type={type} theme="filled" />
-            <Icon type="People" theme="filled" />
-            <Icon type="Switch" />
+            <Icon type="AddText" theme="filled" />
+            <Icon type="add-text" />
         </Fragment>
     )
 }
