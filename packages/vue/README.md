@@ -122,7 +122,8 @@ Usage:
 
 ``` vue
 <template>
-<icon-park type="home" theme="filled"/>
+<icon-park type="AddText" theme="filled"/>
+<icon-park type="add-text" theme="filled"/>
 </template>
 <script>
 import {IconPark} from '@icon-park/vue/es/all';

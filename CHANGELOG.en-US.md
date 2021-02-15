@@ -1,4 +1,9 @@
 # Changelog
+
+## v1.3.0
+> 2021.02.15
+- 🦋**feature**: The `type` prop of the `AllIcon` component now support camal case and hypenate case.
+
 ## v1.2.7
 > 2021.02.07
 - 🦋**add icons**:add 102 icons

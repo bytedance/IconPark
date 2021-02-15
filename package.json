@@ -15,31 +15,29 @@
         "publish:all": "npm run build:prepare && npm run publish:lerna && npm run build:clean"
     },
     "dependencies": {
-        "@icon-park/compiler": "^1.0.5",
-        "@types/react": "^16.9.47",
-        "@vue/composition-api": "^0.3.4",
-        "vue": "^2.6.12",
-        "vue-hooks-env": "^2.2.13"
+        "@icon-park/compiler": "^1.0.7",
+        "@types/react": "^16.14.4",
+        "vue": "^2.6.12"
     },
     "devDependencies": {
-        "@babel/core": "^7.11.4",
-        "@babel/plugin-proposal-class-properties": "^7.10.4",
-        "@babel/preset-env": "^7.11.0",
-        "@babel/preset-react": "^7.10.4",
-        "@types/babel__core": "^7.1.9",
-        "@types/gulp": "^4.0.6",
+        "@babel/core": "^7.12.16",
+        "@babel/plugin-proposal-class-properties": "^7.12.13",
+        "@babel/preset-env": "^7.12.16",
+        "@babel/preset-react": "^7.12.13",
+        "@types/babel__core": "^7.1.12",
+        "@types/gulp": "^4.0.8",
         "@types/gulp-less": "0.0.31",
         "@types/gulp-minify-css": "0.0.32",
         "@types/gulp-rename": "^2.0.0",
         "@types/merge2": "^1.3.0",
         "@types/mkdirp": "^1.0.1",
         "@types/node": "^14.6.0",
-        "@vue/babel-plugin-jsx": "^1.0.0-rc.3",
-        "@vue/babel-preset-jsx": "^1.1.2",
-        "@vue/babel-sugar-inject-h": "^1.1.2",
-        "@vue/runtime-dom": "^3.0.0",
-        "csv-parse": "^4.12.0",
-        "csv-stringify": "^5.3.2",
+        "@vue/babel-plugin-jsx": "^1.0.3",
+        "@vue/babel-preset-jsx": "^1.2.4",
+        "@vue/babel-sugar-inject-h": "^1.2.2",
+        "@vue/runtime-dom": "^3.0.5",
+        "csv-parse": "^4.15.1",
+        "csv-stringify": "^5.6.1",
         "gulp": "^4.0.2",
         "gulp-babel": "^8.0.0",
         "gulp-less": "^4.0.1",
@@ -49,7 +47,7 @@
         "lerna": "~3.16.5",
         "merge2": "^1.4.1",
         "mkdirp": "^1.0.4",
-        "ts-node": "^9.0.0",
-        "typescript": "^4.0.2"
+        "ts-node": "^9.1.1",
+        "typescript": "^4.1.5"
     }
 }

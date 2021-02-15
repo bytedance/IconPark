@@ -2,14 +2,15 @@
  * @file all
  */
 
-import {createVNode, App, DefineComponent, ComponentOptions} from '@vue/runtime-dom';
+import { createVNode, App, DefineComponent, ComponentOptions } from '@vue/runtime-dom';
 import * as IconMap from './map';
-import {IIconProps} from './runtime';
+import { IIconProps } from './runtime';
 
 export type IconType = keyof typeof IconMap;
 
 export interface IIconAllProps extends IIconProps {
-    type: IconType
+    // FIXME just use string to prevent type error.
+    type: IconType | string;
 }
 
 export type IIconAllOptions = ComponentOptions<IIconAllProps>;
@@ -17,13 +18,15 @@ export type IIconAllOptions = ComponentOptions<IIconAllProps>;
 // 包裹后的图标
 export type AllIcon = DefineComponent<IIconAllProps>;
 
+function toPascalCase(val: string): string {
+    return val.replace(/(^\w|-\w)/g, c => c.slice(-1).toUpperCase());
+}
+
 const IconParkOptions: IIconAllOptions = {
     name: 'icon-park',
     props: ['size', 'strokeWidth', 'strokeLinecap', 'strokeLinejoin', 'theme', 'fill', 'spin', 'type'],
     setup: (props => {
-        const toPascalCase = (val: string) => {
-            return val.replace(/(^\w|-\w)/g, (c: string) => c.replace(/-/, '').toUpperCase());
-        }
+
         const type = toPascalCase(props.type);
         const {
             theme,
@@ -40,7 +43,7 @@ const IconParkOptions: IIconAllOptions = {
         }
 
         return () => {
-            return createVNode(IconMap[type], {
+            return createVNode(IconMap[type as IconType], {
                 theme,
                 size,
                 fill,
