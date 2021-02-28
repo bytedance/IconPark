@@ -1,4 +1,7 @@
 # Changelog
+## v1.3.1
+> 2021.02.28
+- 🦋**add icons**:add 119 icons, the number increased to 2235.
 
 ## v1.3.0
 > 2021.02.15
