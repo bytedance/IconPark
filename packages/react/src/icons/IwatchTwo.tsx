@@ -18,11 +18,8 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <ellipse
-                cx="26"
-                cy="24"
-                rx="16"
-                ry="18"
+            <path
+                d="M15.4167 10.5C18.2373 7.69936 21.9423 6 26 6C34.8366 6 42 14.0589 42 24C42 33.9411 34.8366 42 26 42C21.9423 42 18.2373 40.3006 15.4167 37.5"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
             />

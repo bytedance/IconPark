@@ -23,6 +23,7 @@ export default IconWrapper(
                 y="4"
                 width="40"
                 height="40"
+                rx="2"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -33,21 +34,18 @@ export default IconWrapper(
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
-                strokeLinejoin={props.strokeLinejoin}
             />
             <path
                 d="M24 4V44"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
-                strokeLinejoin={props.strokeLinejoin}
             />
             <path
                 d="M34 4V44"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
-                strokeLinejoin={props.strokeLinejoin}
             />
             <path
                 d="M4 14H44"

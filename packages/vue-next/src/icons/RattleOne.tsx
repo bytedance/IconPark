@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + '0fac72d8' + ')'}
+                clip-path={'url(#' + props.id + 'ea9a8e24' + ')'}
             >
                 <circle
                     cx="29.4637"
@@ -55,7 +55,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + '0fac72d8'}
+                    id={props.id + 'ea9a8e24'}
                 >
                     <rect
                         width="48"

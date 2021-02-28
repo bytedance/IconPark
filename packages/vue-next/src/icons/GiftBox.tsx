@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M4 7C4 5.34315 5.34315 4 7 4H24H41C42.6569 4 44 5.34315 44 7V24V41C44 42.6569 42.6569 44 41 44H24H7C5.34315 44 4 42.6569 4 41V24V7Z"
+                d="M6 9C6 7.34315 7.34315 6 9 6H24H39C40.6569 6 42 7.34315 42 9V24V39C42 40.6569 40.6569 42 39 42H24H9C7.34315 42 6 40.6569 6 39V24V9Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
@@ -40,35 +40,35 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M4 34V14"
+                d="M6 30V18"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M44 34V14"
+                d="M42 30V18"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M41 44H7"
+                d="M30 42H18"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M41 4H7"
+                d="M30 6H18"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M24.0002 23.9999C24.0002 23.9999 34.2663 19.3905 35.8284 17.8284C37.3905 16.2663 37.3905 13.7337 35.8284 12.1716C34.2663 10.6095 31.7337 10.6095 30.1716 12.1716C28.6095 13.7337 24.0002 23.9999 24.0002 23.9999ZM24.0002 23.9999C24.0002 23.9999 13.7337 19.3905 12.1716 17.8284M24.0002 23.9999C24.0002 23.9999 19.3905 13.7337 17.8284 12.1716M24.0002 23.9999C24.0002 23.9999 34.2661 28.6095 35.8282 30.1716M24.0002 23.9999C24.0002 23.9999 28.6093 34.2663 30.1714 35.8284M24.0002 23.9999C24.0002 23.9999 13.7339 28.6095 12.1718 30.1716C10.6097 31.7337 10.6097 34.2663 12.1718 35.8284C13.7339 37.3905 16.2666 37.3905 17.8287 35.8284C19.3908 34.2663 24.0002 23.9999 24.0002 23.9999Z"
+                d="M24.0001 23.9999C24.0001 23.9999 31.8972 20.4542 33.0988 19.2526C34.3004 18.051 34.3004 16.1028 33.0988 14.9012C31.8972 13.6996 29.9489 13.6996 28.7473 14.9012C27.5457 16.1028 24.0001 23.9999 24.0001 23.9999ZM24.0001 23.9999C24.0001 23.9999 16.1027 20.4542 14.901 19.2526M24.0001 23.9999C24.0001 23.9999 20.4541 16.1028 19.2525 14.9012M24.0001 23.9999C24.0001 23.9999 31.897 27.5458 33.0986 28.7474M24.0001 23.9999C24.0001 23.9999 27.5455 31.8972 28.7472 33.0988M24.0001 23.9999C24.0001 23.9999 16.1028 27.5458 14.9012 28.7474C13.6996 29.949 13.6996 31.8972 14.9012 33.0988C16.1028 34.3004 18.0511 34.3004 19.2527 33.0988C20.4543 31.8972 24.0001 23.9999 24.0001 23.9999Z"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

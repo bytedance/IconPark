@@ -20,9 +20,9 @@ export default IconWrapper(
         >
             <rect
                 x="6"
-                y="4"
+                y="5"
                 width="12"
-                height="40"
+                height="38"
                 rx="6"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
@@ -30,23 +30,23 @@ export default IconWrapper(
             />
             <rect
                 x="30"
-                y="4"
+                y="5"
                 width="12"
-                height="40"
+                height="38"
                 rx="6"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M12 44C15.3137 44 18 41.3137 18 38C18 34.6863 15.3137 32 12 32C8.68629 32 6 34.6863 6 38C6 41.3137 8.68629 44 12 44Z"
+                d="M12 43C15.3137 43 18 40.3137 18 37C18 33.6863 15.3137 31 12 31C8.68629 31 6 33.6863 6 37C6 40.3137 8.68629 43 12 43Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M36 44C39.3137 44 42 41.3137 42 38C42 34.6863 39.3137 32 36 32C32.6863 32 30 34.6863 30 38C30 41.3137 32.6863 44 36 44Z"
+                d="M36 43C39.3137 43 42 40.3137 42 37C42 33.6863 39.3137 31 36 31C32.6863 31 30 33.6863 30 37C30 40.3137 32.6863 43 36 43Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
