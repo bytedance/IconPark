@@ -1,5 +1,4 @@
 ﻿Name-CN,Name-EN,图标分类-CN,图标分类-EN,动效图标,图标预览,LTR,图标标签,UI 设计负责人
-发现指数,discovery-index,钱财,Money,,image.png,否,阴线，阳线，股市图，指数,齐奉飞
 拐杖,a-cane,服饰,Clothes,,image.png,是,工具，登山杖，拐杖,马玉欣
 腹部,abdominal,医疗健康,Health,,image.png,否,肚子，腹，腰,常留留
 异常,abnormal,办公,Office,,image.png,是,报错，提示，提醒,田婧
@@ -43,11 +42,15 @@ AirPods,airpods,声音,Music,,image.png,否,蓝牙耳机，苹果耳机，耳机
 警报,alarm,基础,Base,,image.png,是,警灯，警报，灯，警示，灵感,刘心乐
 闹钟,alarm-clock,时间,Time,,image.png,是,倒计时 ，闹钟，时间,常留留
 底对齐,align-bottom,编辑,Edit,,image.png,是,对齐，底对齐，下对齐,刘心乐
+下对齐2,align-bottom-two,编辑,Edit,,image.png,是,,齐奉飞
+水平居中对齐2,align-horizontal-center-two,编辑,Edit,,image.png,是,,齐奉飞
 水平对齐,align-horizontally,编辑,Edit,,image.png,否,居中对齐，中间对齐，对齐,刘心乐
 左对齐,align-left,编辑,Edit,,image.png,是,左对齐，对齐,刘心乐
-文字左对齐,align-left-one,编辑,Edit,,image.png,是,文字，左对其，编辑，排版,夏立诚
+左对齐2,align-left-one,编辑,Edit,,image.png,是,,齐奉飞
+文字左对齐,align-left-two,编辑,Edit,,image.png,是,文字，左对其，编辑，排版,夏立诚
 右对齐,align-right,编辑,Edit,,image.png,是,右对齐，对齐,刘心乐
-文字右对齐,align-right-one,编辑,Edit,,image.png,是,文字，右对其，编辑，排版,夏立诚
+右对齐2,align-right-one,编辑,Edit,,image.png,是,,齐奉飞
+文字右对齐,align-right-two,编辑,Edit,,image.png,是,文字，右对其，编辑，排版,夏立诚
 文字两边对齐,align-text-both,编辑,Edit,,image.png,否,两端对齐，文字对齐,刘心乐
 文字两边对齐1,align-text-both-one,编辑,Edit,,image.png,否,文字对齐，左右对齐，两边对齐,刘心乐
 文字底对齐,align-text-bottom,编辑,Edit,,image.png,否,底对齐，文字对齐,刘心乐
@@ -63,7 +66,27 @@ AirPods,airpods,声音,Music,,image.png,否,蓝牙耳机，苹果耳机，耳机
 文字顶对齐,align-text-top,编辑,Edit,,image.png,否,文字顶对齐，对齐，文字对齐,刘心乐
 文字顶对齐1,align-text-top-one,编辑,Edit,,image.png,是,文字对齐，顶对齐，对齐,刘心乐
 顶对齐,align-top,编辑,Edit,,image.png,是,顶部对齐，上对齐，对齐,刘心乐
+上对齐2,align-top-two,编辑,Edit,,image.png,是,,齐奉飞
+垂直居中对齐2,align-vertical-center-two,编辑,Edit,,image.png,是,,齐奉飞
 垂直对齐,align-vertically,编辑,Edit,,image.png,是,对齐，中间随其，居中对齐,刘心乐
+底部中心对齐,alignment-bottom-center,编辑,Edit,,image.png,是,,齐奉飞
+底部左对齐,alignment-bottom-left,编辑,Edit,,image.png,是,,齐奉飞
+底部右对齐,alignment-bottom-right,编辑,Edit,,image.png,是,,齐奉飞
+水平下对齐,alignment-horizontal-bottom,编辑,Edit,,image.png,是,,齐奉飞
+水平居中对齐,alignment-horizontal-center,编辑,Edit,,image.png,是,,齐奉飞
+水平上对齐,alignment-horizontal-top,编辑,Edit,,image.png,是,,齐奉飞
+左侧下对齐,alignment-left-bottom,编辑,Edit,,image.png,是,,齐奉飞
+左侧居中对齐,alignment-left-center,编辑,Edit,,image.png,是,,齐奉飞
+左侧上对齐,alignment-left-top,编辑,Edit,,image.png,是,,齐奉飞
+右侧下对齐,alignment-right-bottom,编辑,Edit,,image.png,是,,齐奉飞
+右侧居中对齐,alignment-right-center,编辑,Edit,,image.png,是,,齐奉飞
+右侧上对齐,alignment-right-top,编辑,Edit,,image.png,是,,齐奉飞
+顶部居中对齐,alignment-top-center,编辑,Edit,,image.png,是,,齐奉飞
+顶部左对齐,alignment-top-left,编辑,Edit,,image.png,是,,齐奉飞
+顶部右对齐,alignment-top-right,编辑,Edit,,image.png,是,,齐奉飞
+垂直居中对齐,alignment-vertical-center,编辑,Edit,,image.png,是,,齐奉飞
+垂直左对齐,alignment-vertical-left,编辑,Edit,,image.png,是,,齐奉飞
+垂直右对齐,alignment-vertical-right,编辑,Edit,,image.png,是,,齐奉飞
 支付宝,alipay,品牌,Brand,,image.png,是,手机付款，移动支付，无现金支付，阿里支付,常留留
 全部,all-application,其它,Others,是,image.png,否,管理，四块，更多，应用，导航，四宫格，矩阵，米亚格，全部应用，分类,白明泽
 字母顺序,alphabetical-sorting,编辑,Edit,,image.png,是,字母顺序，排序，顺序,金磊
@@ -88,6 +111,7 @@ API 应用,api-app,抽象,Abstract,,image.png,是,API，应用，抽象，AD 平
 小程序关闭,applet-closed,其它,Others,,image.png,否,小程序关闭,金磊
 应用,application,建筑,Build,是,image.png,否,商店，店铺，门店，上铺,白明泽
 应用效果,application-effect,办公,Office,,image.png,是,效果，圆环，圆形，连接，关联,田婧
+应用菜单,application-menu,操作,Operate,,image.png,否,菜单，应用，更多,齐奉飞
 应用,application-one,抽象,Abstract,,image.png,否,受众分析，抽象,白明泽
 应用,application-two,编辑,Edit,,image.png,否,编辑，其他，应用，分类,夏立诚
 定时见面,appointment,人群,Peoples,,image.png,是,,齐奉飞
@@ -121,6 +145,11 @@ API 应用,api-app,抽象,Abstract,,image.png,是,API，应用，抽象，AD 平
 音频文件,audio-file,办公,Office,,image.png,是,歌曲，音乐，音频，声音,田婧
 审核,audit,其它,Others,,image.png,是,印章，评审，审查,常留留
 自定对焦,auto-focus,编辑,Edit,,image.png,是,对焦，中心，靶心,夏立诚
+自动高度1,auto-height-one,编辑,Edit,,image.png,否,自适应,齐奉飞
+自动行高,auto-line-height,编辑,Edit,,image.png,否,自适应,齐奉飞
+自动列宽,auto-line-width,编辑,Edit,,image.png,否,自适应,齐奉飞
+自动宽度,auto-width,编辑,Edit,,image.png,否,自适应,齐奉飞
+自动宽度1,auto-width-one,编辑,Edit,,image.png,否,自适应,齐奉飞
 平均值,average,图表,Charts,,image.png,是,平均，中等，数值，数据，图表,金磊
 航空,aviation,旅行,Travel,,image.png,是,飞机，飞行，滑行，飞行中,张文珠
 牛油果,avocado,餐饮,Foods,,image.png,是,牛油果，水果，果蔬,胡玉娜
@@ -155,8 +184,8 @@ API 应用,api-app,抽象,Abstract,,image.png,是,API，应用，抽象，AD 平
 银行卡,bank-card,钱财,Money,,image.png,是,银行卡，卡片，证件,刘心乐
 银行卡,bank-card-one,钱财,Money,,image.png,是,钱，银行，财务，财富,史晓彤
 银行卡,bank-card-two,其它,Others,,image.png,是,银行卡，财富，前，金钱，银行，卡片,金磊
-精灵球,baokemeng,运动,Sports,,image.png,否,球类，球，弹性球，圆球，彩色球，水晶球，精灵,梁超
 银行转账,bank-transfer,钱财,Money,,image.png,是,银行，转账,齐奉飞
+精灵球,baokemeng,运动,Sports,,image.png,否,球类，球，弹性球，圆球，彩色球，水晶球，精灵,梁超
 条形码,bar-code,其它,Others,,image.png,是,条形码，扫码，支付，结账,常留留
 烧烤,barbecue,餐饮,Foods,,image.png,否,食物，肉，饭菜，夜宵，烤,孔维佳
 理发刷,barber-brush,美妆,Makeups,,image.png,否,刷子,齐奉飞
@@ -271,8 +300,8 @@ behance,behance,品牌,Brand,,image.png,是,设计，案例，作品,齐奉飞
 购买,buy,其它,Others,,image.png,否,购物，采购，手提包，购物袋，袋子,常留留
 字节设计,bydesign,品牌,Brand,,image.png,是,Bytedesign，Bydesign，字节跳动，设计中台，design,常留留
 拜拜,bye,手势,Hands,,image.png,是,再见，再会，离开，分别，bye,常留留
-字节小程序,bytedance-mini-app,其它,Others,,,否,小程序，图标,金磊
 字节跳动,bytedance,品牌,Brand,,image.png,是,头条，音符，跳动,齐奉飞
+字节跳动小程序,bytedance-mini-app,操作,Operate,,image.png,否,小程序，字节跳动,齐奉飞
 缆车,cable-car,旅行,Travel,,image.png,是,缆车，电缆车，观光车,张文珠
 蛋糕,cake,餐饮,Foods,,image.png,否,生日蛋糕，生日，蛋糕，糕点，甜品，蜡烛,胡玉娜
 蛋糕,cake-five,餐饮,Foods,,image.png,是,甜点，糕点，甜食，甜品，食物，点心，下午茶,孔维佳
@@ -337,6 +366,7 @@ K线图,chart-stock,图表,Charts,,image.png,否,K线图，股票图，股票,�
 插入,check-in,旅行,Travel,,image.png,是,值机，检票,张文珠
 校验,check-one,符号,Character,是,image.png,是,勾选，选中，对号，完成,刘心乐
 校验-小,check-small,符号,Character,是,image.png,是,勾选，对勾，正确，成功,刘心乐
+多选框,checkbox,操作,Operate,,image.png,否,,齐奉飞
 棋盘,checkerboard,运动,Sports,,image.png,是,棋盘 下棋 围棋,金磊
 检查列表,checklist,其它,Others,,image.png,是,核查，列表，校验，纠正，检查,金磊
 奶酪,cheese,餐饮,Foods,,image.png,是,奶酪，甜点，蛋糕，芝士奶酪,胡玉娜
@@ -349,8 +379,8 @@ K线图,chart-stock,图表,Charts,,image.png,否,K线图，股票图，股票,�
 鸡肉,chicken,餐饮,Foods,,image.png,是,肉食，鸡肉，鸡，烤鸡，烧鸡,胡玉娜
 鸡腿,chicken-leg,餐饮,Foods,,image.png,是,鸡肉，鸡腿，肉，鸡,孔维佳
 吃奶嘴,child-with-pacifier,儿童,Child,,image.png,是,吃奶,齐奉飞
-儿童金字塔,children-pyramid,儿童,Child,,image.png,否,玩具，模型,齐奉飞
 儿童帽,children-cap,服饰,Clothes,,image.png,否,帽子，服装,马玉欣
+儿童金字塔,children-pyramid,儿童,Child,,image.png,否,玩具，模型,齐奉飞
 辣椒,chili,餐饮,Foods,,image.png,是,蔬菜，青椒,孔维佳
 烟筒,chimney,建筑,Build,,image.png,是,烟火，排烟,王小犇
 中文,chinese,办公,Office,,image.png,否,中，汉语，汉字，语文,田婧
@@ -362,10 +392,18 @@ K线图,chart-stock,图表,Charts,,image.png,否,K线图，股票图，股票,�
 圣诞树,christmas-tree,其它,Others,,image.png,否,圣诞，树，节日，假期，温暖，过节,金磊
 教堂,church-one,建筑,Build,,image.png,否,基督教，宗教,王小犇
 教堂,church-two,建筑,Build,,image.png,否,基督教，宗教,王小犇
+圆形双下箭头,circle-double-down,方向,Arrows,,image.png,否,下,齐奉飞
+圆形双左箭头,circle-double-left,方向,Arrows,,image.png,是,左,齐奉飞
+圆形双右箭头,circle-double-right,方向,Arrows,,image.png,是,右,齐奉飞
+圆形双上箭头,circle-double-up,方向,Arrows,,image.png,否,上,齐奉飞
 圆圈,circle-five-line,抽象,Abstract,,image.png,否,圆圈，连接，抽象，五个,金磊
 圆圈,circle-four,抽象,Abstract,,image.png,否,圆圈，抽象，四个,金磊
 圆圈,circle-four-line,抽象,Abstract,,image.png,是,圆圈，连接，抽象，四个,金磊
 圈舍,circle-house,建筑,Build,,image.png,否,房子，屋子，阁楼,王小犇
+圆形左下,circle-left-down,方向,Arrows,,image.png,是,左下,齐奉飞
+圆形左上,circle-left-up,方向,Arrows,,image.png,是,左上,齐奉飞
+圆形右下,circle-right-down,方向,Arrows,,image.png,是,右下,齐奉飞
+圆形右上,circle-right-up,方向,Arrows,,image.png,是,右上,齐奉飞
 圆圈,circle-three,抽象,Abstract,,image.png,否,圆圈，抽象，三个,金磊
 圆圈,circle-two-line,抽象,Abstract,,image.png,是,圆圈，连接，抽象，两个,金磊
 圆形和三角,circles-and-triangles,抽象,Abstract,,image.png,否,圆形和三角,金磊
@@ -408,6 +446,7 @@ K线图,chart-stock,图表,Charts,,image.png,否,K线图，股票图，股票,�
 风衣,clothes-windbreaker,服饰,Clothes,,image.png,是,衣服，服装，服饰，正式,金磊
 云存储,cloud-storage,硬件,Hardware,,image.png,是,储存，云盘，cloud，store,常留留
 多云,cloudy,天气,Weather,,image.png,是,阴天，云彩，云朵，多云,齐奉飞
+夜间多云,cloudy-night,天气,Weather,,image.png,是,云,
 线索,clue,连接,Connect,,image.png,是,线索池，连接，相连,齐奉飞
 衣架,coat-hanger,服饰,Clothes,,image.png,是,衣服撑，衣服架,马玉欣
 鸡尾酒,cocktail,旅行,Travel,,image.png,是,鸡尾酒，浪漫，酒杯，红酒，调制酒，气泡酒,张文珠
@@ -433,6 +472,7 @@ K线图,chart-stock,图表,Charts,,image.png,否,K线图，股票图，股票,�
 通勤包,commuter-bag,服饰,Clothes,,image.png,否,挎包，手提包，包包,马玉欣
 圆规,compass,基础,Base,,image.png,否,圆规,金磊
 指南针,compass-one,旅行,Travel,,image.png,是,指南针，方向，位置,张文珠
+组件,components,编辑,Edit,,image.png,否,,齐奉飞
 成份,composition,医疗健康,Health,,image.png,是,实验，元素，组成部分，组成元素，试管,常留留
 压缩,compression,办公,Office,,image.png,是,挤压，文章，文档，小说，合同，规则，详情,田婧
 电脑,computer,硬件,Hardware,,image.png,否,显示屏，PC电脑，电视,孟祥瑞
@@ -517,6 +557,7 @@ K线图,chart-stock,图表,Charts,,image.png,否,K线图，股票图，股票,�
 循环移动,cycle-movement,方向,Arrows,,image.png,是,循环，移动,金磊
 循环,cycle-one,抽象,Abstract,,image.png,是,循环，可利用，周转,张蔓
 圆柱,cylinder,抽象,Abstract,,image.png,否,圆柱,金磊
+故障图,damage-map,操作,Operate,,image.png,是,图片，故障，断裂，破坏,齐奉飞
 夜晚模式,dark-mode,操作,Operate,,image.png,是,模式，亮度，对比度，黑暗,李宁
 仪表盘,dashboard,时间,Time,,image.png,是,仪表盘，仪表，指针，数据，转盘,金磊
 仪表盘,dashboard-car,其它,Others,,image.png,否,仪表盘，汽车，指针，表盘,金磊
@@ -592,6 +633,7 @@ K线图,chart-stock,图表,Charts,,image.png,否,K线图，股票图，股票,�
 方向校准,direction-adjustment-three,编辑,Edit,,image.png,否,方向校准 方向箭头,金磊
 方向校准,direction-adjustment-two,编辑,Edit,,image.png,否,方向校准 方向箭头,金磊
 失落,disappointed-face,表情,Emoji,,image.png,否,失落,金磊
+发现指数,discovery-index,钱财,Money,,image.png,否,阴线，阳线，股市图，指数,齐奉飞
 磁盘,disk,其它,Others,,image.png,是,保存，存储，储存，硬盘，磁盘,常留留
 U盘1,disk-one,硬件,Hardware,,image.png,否,U盘，硬盘，储存，硬件，移动，保存，文件，安全,张晏
 U盘2,disk-two,硬件,Hardware,,image.png,是,U盘，硬盘，储存，硬件，移动，保存，文件，安全,张晏
@@ -600,7 +642,9 @@ U盘2,disk-two,硬件,Hardware,,image.png,是,U盘，硬盘，储存，硬件，
 显示屏,display,抽象,Abstract,,image.png,是,显示屏，白板，展示,张蔓
 扭曲,distortion,编辑,Edit,,image.png,是,扭曲 不规则,金磊
 闭眼生气,distraught-face,表情,Emoji,,image.png,否,闭眼生气,金磊
+水平间距分布,distribute-horizontal-spacing,编辑,Edit,,image.png,否,,齐奉飞
 水平分布,distribute-horizontally,编辑,Edit,,image.png,否,水平分布，分布,刘心乐
+垂直间距分布,distribute-vertical-spacing,编辑,Edit,,image.png,否,,齐奉飞
 垂直分布,distribute-vertically,编辑,Edit,,image.png,是,垂直分布，分布,刘心乐
 分界线,dividing-line,编辑,Edit,,image.png,否,分割线，界线,齐奉飞
 潜水,diving,旅行,Travel,,image.png,是,潜水，游泳镜，游泳，,张文珠
@@ -645,6 +689,10 @@ U盘2,disk-two,硬件,Hardware,,image.png,是,U盘，硬盘，储存，硬件，
 无人机,drone,基础,Base,,image.png,否,无人机，飞机，玩具，数码，飞行，大疆,金磊
 无人机,drone-one,硬件,Hardware,,image.png,否,飞机，遥控，飞行，航空，航行，飞,张晏
 下拉列表,drop-down-list,编辑,Edit,,image.png,是,下拉，列表，表单，向下,常留留
+下投影,drop-shadow-down,编辑,Edit,,image.png,否,,齐奉飞
+左投影,drop-shadow-left,编辑,Edit,,image.png,是,,齐奉飞
+右投影,drop-shadow-right,编辑,Edit,,image.png,是,,齐奉飞
+上投影,drop-shadow-up,编辑,Edit,,image.png,否,,齐奉飞
 管理箱,dropbox,品牌,Brand,,image.png,是,盒子，箱子，管理，存储,齐奉飞
 鸡腿,drumstick,餐饮,Foods,,image.png,是,鸡腿，肉食，鸡肉,胡玉娜
 迪拜大厦,dubai,建筑,Build,,image.png,是,迪拜，大厦，高楼，楼宇,王小犇
@@ -878,12 +926,38 @@ txt文件,file-txt-one,办公,Office,,image.png,是,文章，文档，小说，�
 大雾,fog,天气,Weather,,image.png,是,大雾，雾霾，云雾,齐奉飞
 向上收起,fold-up-one,方向,Arrows,,image.png,否,缩小，收起,齐奉飞
 文件夹,folder,基础,Base,,image.png,是,文件夹，文件本，文件,张蔓
+禁用文件夹,folder-block,书籍,Books,,image.png,是,禁用文件,齐奉飞
+禁用文件夹1,folder-block-one,书籍,Books,,image.png,是,禁用文件,齐奉飞
 文件夹-关,folder-close,书籍,Books,,image.png,是,文件夹，关闭文件夹,齐奉飞
+代码文件夹,folder-code,书籍,Books,,image.png,是,代码文件,齐奉飞
+代码文件夹1,folder-code-one,书籍,Books,,image.png,是,代码文件,齐奉飞
+转换文件夹,folder-conversion,书籍,Books,,image.png,是,转换文件,齐奉飞
+转换文件夹1,folder-conversion-one,书籍,Books,,image.png,是,转换文件,齐奉飞
 文件夹-下载,folder-download,书籍,Books,,image.png,是,文件夹，下载，下载文件,常留留
+失败文件夹,folder-failed,书籍,Books,,image.png,是,失败文件,齐奉飞
+失败文件夹1,folder-failed-one,书籍,Books,,image.png,是,失败文件,齐奉飞
+收藏文件夹,folder-focus,书籍,Books,,image.png,是,收藏文件,齐奉飞
+收藏文件夹1,folder-focus-one,书籍,Books,,image.png,是,收藏文件,齐奉飞
+加密文件夹,folder-lock,书籍,Books,,image.png,是,加密文件,齐奉飞
+加密文件夹1,folder-lock-one,书籍,Books,,image.png,是,加密文件,齐奉飞
 文件夹-删除,folder-minus,书籍,Books,,image.png,是,文件夹，删除，办公,齐奉飞
+音乐文件夹,folder-music,书籍,Books,,image.png,是,音乐文件,齐奉飞
+音乐文件夹1,folder-music-one,书籍,Books,,image.png,是,音乐文件,齐奉飞
 文件夹-开,folder-open,书籍,Books,,image.png,是,文件夹，办公,齐奉飞
 文件夹-添加,folder-plus,书籍,Books,,image.png,是,文件夹，添加，办公,齐奉飞
+文件夹保护,folder-protection,书籍,Books,,image.png,是,文件保护,齐奉飞
+文件夹保护1,folder-protection-one,书籍,Books,,image.png,是,文件保护,齐奉飞
+高质量文件夹,folder-quality,书籍,Books,,image.png,是,钻石文件,齐奉飞
+高质量文件夹1,folder-quality-one,书籍,Books,,image.png,是,钻石文件,齐奉飞
+搜索文件夹,folder-search,书籍,Books,,image.png,是,搜索文件,齐奉飞
+搜索文件夹1,folder-search-one,书籍,Books,,image.png,是,搜索文件,齐奉飞
+文件夹设置,folder-settings,书籍,Books,,image.png,是,文件设置,齐奉飞
+文件夹设置1,folder-settings-one,书籍,Books,,image.png,是,文件设置,齐奉飞
+成功文件夹,folder-success,书籍,Books,,image.png,是,成功文件,齐奉飞
+成功文件夹1,folder-success-one,书籍,Books,,image.png,是,成功文件,齐奉飞
 文件夹-上传,folder-upload,书籍,Books,,image.png,是,文件夹，上传，上传文件,齐奉飞
+退出文件夹,folder-withdrawal,书籍,Books,,image.png,是,退出文件,齐奉飞
+退出文件夹1,folder-withdrawal-one,书籍,Books,,image.png,是,退出文件,齐奉飞
 按跟进日期排序,follow-up-date-sort,图表,Charts,,image.png,是,跟进，箭头，下一步，排序，图表，数据,常留留
 字体搜索,font-search,办公,Office,,image.png,是,字体，检索，搜索，查找,田婧
 字号大小,font-size,编辑,Edit,,image.png,是,字号大小，文字,常留留
@@ -1056,6 +1130,7 @@ HDMI接口,hdmi-connector,硬件,Hardware,,image.png,否,接口，数据线，hd
 加热电阻,heater-resistor,工业,Industry,,image.png,是,电阻,齐奉飞
 重金属,heavy-metal,钱财,Money,,image.png,是,金属，黄金，金条，金融，财务，财富,常留留
 大雨,heavy-rain,天气,Weather,,image.png,是,大雨，下雨，洪水,齐奉飞
+大风,heavy-wind,天气,Weather,,image.png,是,风,
 头盔,helmet,运动,Sports,,image.png,是,头盔，橄榄球头盔，铁盔，盔，护具，防护，半盔，全盔，帽子，安全,梁超
 安全帽,helmet-one,工业,Industry,,image.png,否,安全，帽子,齐奉飞
 帮助,help,符号,Character,是,image.png,是,问题，疑问，帮助,刘心乐
@@ -1080,6 +1155,9 @@ HDMI接口,hdmi-connector,硬件,Hardware,,image.png,否,接口，数据线，hd
 民宿,homestay,旅行,Travel,,image.png,是,民宿，酒店，度假，农家乐，度假村,张文珠
 蜂蜜,honey,其它,Others,,image.png,是,滋补，补品，养生，蜂蜜,常留留
 蜂蜜,honey-one,餐饮,Foods,,image.png,是,糖，甜品，甜食，蜜糖,孔维佳
+水平间距,horizontal-spacing-between-items,编辑,Edit,,image.png,否,,齐奉飞
+水平整理,horizontal-tidy-up,编辑,Edit,,image.png,否,,齐奉飞
+水平居中对齐,horizontally-centered,编辑,Edit,,image.png,否,,齐奉飞
 医院,hospital,医疗健康,Health,,image.png,是,就医，看病，就诊，医疗,常留留
 医院,hospital-two,建筑,Build,,image.png,是,医疗，建筑，医院，药品，治疗，医生，护士，健康,金磊
 热气球,hot-air-balloon,旅行,Travel,,image.png,是,气球，热气球，氢气球,张文珠
@@ -1106,6 +1184,7 @@ html5,html-five,品牌,Brand,,image.png,是,研发，前端,齐奉飞
 身份证,id-card-v,人群,Peoples,,image.png,是,身份证，ID，工牌，卡片,金磊
 图片文件,image-files,办公,Office,,image.png,是,图片，图形，图像，影相,田婧
 失衡天平,imbalance,基础,Base,,image.png,是,失衡天平,金磊
+进出口,import-and-export,操作,Operate,,image.png,是,进口，出口,齐奉飞
 飞行巡航,in-flight,旅行,Travel,,image.png,是,环球旅行，周游世界，飞行,张文珠
 收件箱,inbox,基础,Base,是,image.png,否,收件箱，信箱，邮箱，邮件，信件,白明泽
 收件箱下载,inbox-download-r,书籍,Books,,image.png,否,收件箱，下载，下传,金磊
@@ -1129,6 +1208,14 @@ html5,html-five,品牌,Brand,,image.png,是,研发，前端,齐奉飞
 信息,info,符号,Character,是,image.png,是,注解，信息，提示,刘心乐
 打针,injection,医疗健康,Health,,image.png,是,麻醉，麻醉科,常留留
 块公式,inline,编辑,Edit,,image.png,是,公式,齐奉飞
+内左下投影,inner-shadow-bottom-left,编辑,Edit,,image.png,是,,齐奉飞
+内右下投影,inner-shadow-bottom-right,编辑,Edit,,image.png,是,,齐奉飞
+内下投影,inner-shadow-down,编辑,Edit,,image.png,否,,齐奉飞
+内左投影,inner-shadow-left,编辑,Edit,,image.png,是,,齐奉飞
+内右投影,inner-shadow-right,编辑,Edit,,image.png,是,,齐奉飞
+内左上投影,inner-shadow-top-left,编辑,Edit,,image.png,是,,齐奉飞
+内右上投影,inner-shadow-top-right,编辑,Edit,,image.png,是,,齐奉飞
+内上投影,inner-shadow-up,编辑,Edit,,image.png,否,,齐奉飞
 插卡,insert-card,钱财,Money,,image.png,是,插卡，插入，卡槽，取款机,金磊
 插入表,insert-table,编辑,Edit,,image.png,否,表格 图表 表 插入,齐奉飞
 检查,inspection,基础,Base,,image.png,是,检查，查找，精确,张蔓
@@ -1311,8 +1398,6 @@ kagi图,kagi-map,图表,Charts,,image.png,是,数据，图表,常留留
 按摩椅,massage-chair,美妆,Makeups,,image.png,否,椅子，凳子，办公，按摩椅,史晓彤
 按摩椅1,massage-chair-one,美妆,Makeups,,image.png,否,椅子，凳子，办公,史晓彤
 按摩椅,massage-table,美妆,Makeups,,image.png,是,椅子，床,齐奉飞
-短信,messages,品牌,Brand,,image.png,是,信息，讯息，交流，社交,齐奉飞
-短信1,messages-one,品牌,Brand,,image.png,是,信息，讯息，交流，社交,齐奉飞
 主机,master,硬件,Hardware,,image.png,是,储存器，服务器，管理器,齐奉飞
 素材,material,其它,Others,,image.png,是,用户素材，图像，素材,齐奉飞
 材料3,material-three,图表,Charts,,image.png,是,数据，图表,齐奉飞
@@ -1347,6 +1432,8 @@ kagi图,kagi-map,图表,Charts,,image.png,是,数据，图表,常留留
 信息已发送,message-sent,交流,Communicate,,image.png,是,发送信息，消息，完成,金磊
 信息成功,message-success,交流,Communicate,,image.png,是,对话，评论，聊天，消息，通知，发送,齐奉飞
 未读消息,message-unread,交流,Communicate,,image.png,是,信息，聊天，通知，社交，沟通，新消息，评论,常留留
+短信,messages,品牌,Brand,,image.png,是,信息，讯息，交流，社交,齐奉飞
+短信1,messages-one,品牌,Brand,,image.png,是,信息，讯息，交流，社交,齐奉飞
 微型SD,micro-sd,硬件,Hardware,,image.png,是,卡，储存，信号，流量,齐奉飞
 微单,micro-slr-camera,基础,Base,,image.png,是,微单 摄影 设备 相机,金磊
 麦克风,microphone,硬件,Hardware,,image.png,否,话筒，收音器，音乐，乐器，扩音器，耳麦，麦霸,张晏
@@ -1394,6 +1481,7 @@ kagi图,kagi-map,图表,Charts,,image.png,是,数据，图表,常留留
 移动,move,手势,Hands,,image.png,是,滑动，侧滑,陈子豪
 向内移动,move-in,方向,Arrows,,image.png,否,移动，剧中，聚合,金磊
 移动,move-in-one,编辑,Edit,,image.png,是,移动，指向，拉伸,夏立诚
+移动,move-one,编辑,Edit,,image.png,是,,齐奉飞
 电影,movie,基础,Base,,image.png,是,视频，胶片，电影，电视,常留留
 影视板,movie-board,其它,Others,,image.png,是,影视板,金磊
 多圆形,multi-circular,抽象,Abstract,,image.png,否,多圆形，圆形，叠加，缩放,金磊
@@ -1437,6 +1525,7 @@ kagi图,kagi-map,图表,Charts,,image.png,是,数据，图表,常留留
 九点连接,nine-points-connected,抽象,Abstract,,image.png,是,九点连接,金磊
 任天堂游戏机,nintendo-switch,其它,Others,,image.png,是,游戏机，任天堂，娱乐，玩啥，电子游戏，掌机,金磊
 核磁共振,nmr,医疗健康,Health,,image.png,是,影像科，影像，检查，医疗,常留留
+禁止拍照,no-shooting,操作,Operate,,image.png,是,禁止,齐奉飞
 方头节点,node-flat,编辑,Edit,,image.png,是,端点类型,刘心乐
 圆头节点,node-round,编辑,Edit,,image.png,是,端点类型,刘心乐
 平头节点,node-square,编辑,Edit,,image.png,是,端点类型,刘心乐
@@ -1465,9 +1554,9 @@ kagi图,kagi-map,图表,Charts,,image.png,是,数据，图表,常留留
 连体衣,onesies,儿童,Child,,image.png,否,衣服，童装，上衣,齐奉飞
 线上办公室,online-meeting,交流,Communicate,,image.png,是,线上办公室 语音会议,金磊
 打开,open,手势,Hands,,image.png,是,张开双手，鼓掌，手势，动作,陈子豪
-打开,open-one,抽象,Abstract,,image.png,是,打开，钥匙，开启,张蔓
 开户,open-an-account,钱财,Money,,image.png,是,创建,齐奉飞
 开门,open-door,建筑,Build,,image.png,是,开门，打开，立体，透视,金磊
+打开,open-one,抽象,Abstract,,image.png,是,打开，钥匙，开启,张蔓
 美化,optimize,办公,Office,,image.png,是,魔棒，优化，星星，幸运棒,田婧
 自选,optional,钱财,Money,,image.png,是,行情，趋势，数据,齐奉飞
 橙子,orange,餐饮,Foods,,image.png,是,水果,孔维佳
@@ -1597,6 +1686,7 @@ paypal,paypal,品牌,Brand,,image.png,是,支付，转账,齐奉飞
 进度3,pie-three,图表,Charts,,image.png,是,进度，百分比，饼图,白明泽
 进度2,pie-two,图表,Charts,,image.png,是,进度，百分比，饼图,白明泽
 药丸,pills,医疗健康,Health,,image.png,是,药，生病，吃药，看医生,常留留
+大头钉,pin,操作,Operate,,image.png,是,钉子,齐奉飞
 菠萝,pineapple,餐饮,Foods,,image.png,是,菠萝，水果，生鲜,胡玉娜
 风车,pinwheel,其它,Others,,image.png,是,风车，风轮，旋风，旋转,金磊
 数据透视表,pivot-table,图表,Charts,,image.png,是,数据，透视，表格，交互式表格,常留留
@@ -1675,6 +1765,7 @@ paypal,paypal,品牌,Brand,,image.png,是,支付，转账,齐奉飞
 收音机,radio,硬件,Hardware,,image.png,是,新闻，播报机，播音，音响，广播，通知，喇叭，声音，乐器，听音乐，听书,孟祥瑞
 广播保姆,radio-nanny,儿童,Child,,image.png,是,遥控器，播放器，广播,齐奉飞
 收音机,radio-one,硬件,Hardware,,image.png,是,播音，音响，广播，通知，喇叭，声音，乐器，听音乐，听书,张晏
+单选,radio-two,操作,Operate,,image.png,否,,齐奉飞
 萝卜,radish,餐饮,Foods,,image.png,是,蔬菜，水果,孔维佳
 圆萝卜,radish-one,餐饮,Foods,,image.png,是,圆萝卜，萝卜，蔬菜，水萝卜,胡玉娜
 铁路,railway,旅行,Travel,,image.png,是,铁路，陆运，运输,张文珠
@@ -1735,6 +1826,7 @@ paypal,paypal,品牌,Brand,,image.png,是,支付，转账,齐奉飞
 复古包,retro-bag,服饰,Clothes,,image.png,否,包包，复古包，皮包，手提包，背包,马玉欣
 返回,return,编辑,Edit,,image.png,是,重做，返回，箭头,刘心乐
 镜头反转,reverse-lens,操作,Operate,,image.png,是,相机，镜头，反转,李宁
+反转相机,reverse-lens-one,操作,Operate,,image.png,是,镜头，相机，反转,齐奉飞
 同向运行,reverse-operation-in,抽象,Abstract,,image.png,是,同向运行，汇集，方向,张蔓
 逆向运行,reverse-operation-out,抽象,Abstract,,image.png,是,逆向运行，反向，散发，左右，方向,张蔓
 逆向旋转,reverse-rotation,操作,Operate,,image.png,是,逆向，逆时针，逆时针旋转，旋转，转动，箭头,金磊
@@ -1780,6 +1872,7 @@ paypal,paypal,品牌,Brand,,image.png,是,支付，转账,齐奉飞
 正向旋转,rotating-forward,操作,Operate,,image.png,是,正向，顺时针，顺时针旋转，旋转，转动，箭头,金磊
 旋转,rotation,编辑,Edit,,image.png,是,加载,金磊
 横向旋转,rotation-horizontal,方向,Arrows,,image.png,是,旋转，横向，水平旋转,金磊
+角度,rotation-one,编辑,Edit,,image.png,是,,齐奉飞
 纵向旋转,rotation-vertical,方向,Arrows,,image.png,是,旋转，纵向,金磊
 圆形,round,图形,Graphics,,image.png,否,,齐奉飞
 圆形卡钳,round-caliper,抽象,Abstract,,image.png,否,圆形卡钳,金磊
@@ -1812,6 +1905,7 @@ RS,rs-male,硬件,Hardware,,image.png,否,接口，数据,齐奉飞
 树苗,sapling,其它,Others,,image.png,是,节能，环保，新能源，植物，树木，幼小，苗木,金磊
 保存,save,基础,Base,,image.png,是,保存，存储，暂存，草稿,常留留
 保存硬盘,save-one,基础,Base,,image.png,是,保存，存储，暂存，草稿,齐奉飞
+等比缩放,scale,编辑,Edit,,image.png,是,,齐奉飞
 大葱,scallion,餐饮,Foods,,image.png,是,大葱，葱头，葱蒜，蔬菜,胡玉娜
 扫描,scan,基础,Base,,image.png,否,识别，扫描，扫码，聚焦,史晓彤
 扫码,scan-code,基础,Base,是,image.png,否,扫一扫，登录，扫码，二维码,白明泽
@@ -1890,7 +1984,7 @@ SD卡,sd,硬件,Hardware,,image.png,是,卡，储存，信号，流量,齐奉飞
 电话卡,sim,其它,Others,,image.png,是,电话卡，sim 卡，5G 卡,常留留
 储存卡,sim-card,硬件,Hardware,,image.png,是,移动卡，卡片，手机卡，流量卡，电话卡，芯片,张晏
 单人床,single-bed,家居,Life,,image.png,否,单人床 睡觉 酒店 休息,金磊
-正玄曲线,sinusoid,其它,Others,,image.png,是,正玄曲线，科学，数学，教育，物理,金磊
+正弦曲线,sinusoid,其它,Others,,image.png,是,正玄曲线，科学，数学，教育，物理,金磊
 吸管杯,sippy-cup,儿童,Child,,image.png,是,杯子，吸管,齐奉飞
 六,six,手势,Hands,,image.png,是,六，手指，手势,陈子豪
 圆形连接,six-circular-connection,抽象,Abstract,,image.png,否,圆形连接,金磊
@@ -1919,6 +2013,7 @@ sketch,sketch,品牌,Brand,,image.png,否,,
 笑脸,smiling-face,表情,Emoji,,image.png,否,笑脸,金磊
 笑眯眼,smiling-face-with-squinting-eyes,表情,Emoji,,image.png,否,笑眯眼,金磊
 小食,snacks,其它,Others,,image.png,否,小吃，零食，食物，饮料，咖啡，奶茶，果汁,常留留
+下雪,snow,天气,Weather,,image.png,是,雪,
 雪花,snowflake,天气,Weather,,image.png,否,雪花，下雪，天气，寒冷，大雪,齐奉飞
 泡泡,soap-bubble,美妆,Makeups,,image.png,是,泡沫，气泡,齐奉飞
 足球,soccer,运动,Sports,,image.png,否,踢足球，足球，运动，体育，运球，打球，踢，跑动，助攻,梁超
@@ -2068,6 +2163,7 @@ QQ,tencent-qq,品牌,Brand,,image.png,是,企鹅,齐奉飞
 文字下划线,text-underline,编辑,Edit,,image.png,是,下划线，文字，排版,常留留
 文本换行-溢出,text-wrap-overflow,编辑,Edit,,image.png,是,超出，溢出，文本，换行，折行,常留留
 文本换行-截断,text-wrap-truncation,编辑,Edit,,image.png,是,截断，省略，文本省略，换行,常留留
+文字域,textarea,操作,Operate,,image.png,否,文字,齐奉飞
 纹理,texture,抽象,Abstract,,image.png,是,纹理,金磊
 纹理,texture-two,抽象,Abstract,,image.png,是,纹理，底图,金磊
 单肩包,the-single-shoulder-bag,服饰,Clothes,,image.png,否,单肩包，挎包,马玉欣
@@ -2197,12 +2293,12 @@ U盘,u-disk,硬件,Hardware,,image.png,是,U盘，硬盘，储存，硬件，移
 解锁,unlock,基础,Base,,image.png,是,解锁，开锁，锁定，打开,刘心乐
 无序列表,unordered-list,编辑,Edit,,image.png,是,无序，列表,齐奉飞
 上,up,方向,Arrows,是,image.png,否,向上，箭头,齐奉飞
-上1,up-two,方向,Arrows,,image.png,否,箭头，上，指针,齐奉飞
 上下楼,up-and-down,建筑,Build,,image.png,是,上下楼 电梯 楼梯,金磊
 上-圆,up-c,方向,Arrows,,image.png,否,向上，箭头，圆圈箭头,齐奉飞
 上1,up-one,方向,Arrows,,image.png,否,上1,齐奉飞
 上-小,up-small,方向,Arrows,,image.png,否,箭头，上，小箭头,齐奉飞
 上箭头-方,up-square,方向,Arrows,,image.png,否,上,齐奉飞
+上1,up-two,方向,Arrows,,image.png,否,箭头，上，指针,齐奉飞
 更新,update-rotation,抽象,Abstract,,image.png,是,更新，旋转，下载，最新,金磊
 上传,upload,方向,Arrows,,image.png,否,向上，上传,刘心乐
 上传日志,upload-logs,编辑,Edit,,image.png,是,上传，日志，上传文档，文档,常留留
@@ -2224,7 +2320,10 @@ TypeC,usb-type-c,硬件,Hardware,,image.png,否,接口，数据线，,齐奉飞
 吸尘器,vacuum-cleaner,硬件,Hardware,,image.png,是,卫生，打扫，清除，干净，垃圾，清洗，电器,张晏
 菜篮子,vegetable-basket,餐饮,Foods,,image.png,是,菜篮子，篮子，蔬菜，买菜,胡玉娜
 青菜,vegetables,餐饮,Foods,,image.png,是,青菜，白菜，蔬菜,胡玉娜
+垂直间距,vertical-spacing-between-items,编辑,Edit,,image.png,否,,齐奉飞
+垂直整理,vertical-tidy-up,编辑,Edit,,image.png,否,,齐奉飞
 垂直时间线,vertical-timeline,图表,Charts,,image.png,是,时间线，时间，数据，分析，图表,常留留
+垂直居中对齐,vertically-centered,编辑,Edit,,image.png,否,,齐奉飞
 背心,vest,服饰,Clothes,,image.png,否,马甲，衣服，上衣,马玉欣
 试管,vial,其它,Others,,image.png,否,试管，试验，量管，测量，测试,白明泽
 蚕豆,vicia-faba,餐饮,Foods,,image.png,是,蚕豆，豆子，蔬菜，食品,胡玉娜
@@ -2300,6 +2399,7 @@ VR 眼镜,vr-glasses,硬件,Hardware,,image.png,否,VR 眼镜，眼镜，虚拟�
 吹哨,whistling,运动,Sports,,image.png,是,哨子，吹哨，比赛，声音，响声，裁判，犯规，铃声，音乐，乐器,梁超
 站点加速,whole-site-accelerator,连接,Connect,,image.png,是,站点加速，加速，闪电，站点,高亚栋
 无线网络,wifi,其它,Others,,image.png,否,Wi-Fi，无线网，网络，信号,齐奉飞
+刮风,wind,天气,Weather,,image.png,是,风,
 风力发电机,wind-turbine,工业,Industry,,image.png,是,风车，发电机,齐奉飞
 风车,windmill,基础,Base,,image.png,是,风车，纸风车，旋转，快速,齐奉飞
 风车,windmill-one,建筑,Build,,image.png,是,车，发电车,王小犇

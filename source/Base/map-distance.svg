@@ -1,15 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>map-distance</title>
-    <desc>Created with Sketch.</desc>
-    <g id="map-distance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <rect id="Rectangle-4-Copy" stroke="#000000" stroke-width="4" fill="#2F88FF" fill-rule="nonzero" stroke-linejoin="round" x="4" y="4" width="40" height="40" rx="3"></rect>
-            <path d="M12,38 L37,28" id="Path-11-Copy-4" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2,6"></path>
-            <path d="M14,31 C16.6666667,27.139426 18,24.4727593 18,23 C18,20.790861 16.209139,19 14,19 C11.790861,19 10,20.790861 10,23 C10,24.4727593 11.3333333,27.139426 14,31 Z" id="Oval-6-Copy" stroke="#FFFFFF" stroke-width="4" fill="#43CCF8" fill-rule="nonzero" stroke-linejoin="round"></path>
-            <path d="M34,22 C36.6666667,18.139426 38,15.4727593 38,14 C38,11.790861 36.209139,10 34,10 C31.790861,10 30,11.790861 30,14 C30,15.4727593 31.3333333,18.139426 34,22 Z" id="Oval-6-Copy" stroke="#FFFFFF" stroke-width="4" fill="#43CCF8" fill-rule="nonzero" stroke-linejoin="round"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M39.3 6H8.7C7.20883 6 6 7.20883 6 8.7V39.3C6 40.7912 7.20883 42 8.7 42H39.3C40.7912 42 42 40.7912 42 39.3V8.7C42 7.20883 40.7912 6 39.3 6Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M36 27L29 30" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M21 33L14 36" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 29C18 26.1046 19 24.1046 19 23C19 21.3431 17.6569 20 16 20C14.3431 20 13 21.3431 13 23C13 24.1046 14 26.1046 16 29Z" fill="#43CCF8" stroke="white" stroke-width="4" stroke-linejoin="round"/>
+<path d="M32 22C34 19.1046 35 17.1046 35 16C35 14.3431 33.6569 13 32 13C30.3431 13 29 14.3431 29 16C29 17.1046 30 19.1046 32 22Z" fill="#43CCF8" stroke="white" stroke-width="4" stroke-linejoin="round"/>
 </svg>

@@ -23,6 +23,7 @@ export default IconWrapper(
                 y="31"
                 width="14"
                 height="13"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
@@ -32,6 +33,7 @@ export default IconWrapper(
                 y="17"
                 width="10"
                 height="14"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
@@ -41,6 +43,7 @@ export default IconWrapper(
                 y="4"
                 width="6"
                 height="13"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}

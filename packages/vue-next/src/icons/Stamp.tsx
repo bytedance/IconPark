@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M4 8L8 4L12 7L16 4L20 7L24 4L28 7L32 4L36 7L40 4L44 8L41 12L44 16L41 20L44 24L41 28L44 32L41 36L44 40L40 44L36 41L32 44L28 41L24 44L20 41L16 44L12 41L8 44L4 40L7 36L4 32L7 28L4 24L7 20L4 16L7 12L4 8Z"
+                d="M5 8.8L8.8 5L12.6 7.85L16.4 5L20.2 7.85L24 5L27.8 7.85L31.6 5L35.4 7.85L39.2 5L43 8.8L40.15 12.6L43 16.4L40.15 20.2L43 24L40.15 27.8L43 31.6L40.15 35.4L43 39.2L39.2 43L35.4 40.15L31.6 43L27.8 40.15L24 43L20.2 40.15L16.4 43L12.6 40.15L8.8 43L5 39.2L7.85 35.4L5 31.6L7.85 27.8L5 24L7.85 20.2L5 16.4L7.85 12.6L5 8.8Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
@@ -28,7 +28,7 @@ export default IconWrapper(
             <circle
                 cx="24"
                 cy="24"
-                r="10"
+                r="9"
                 fill={props.colors[3]}
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}

@@ -38,7 +38,7 @@ export default IconWrapper(
             />
             <path
                 d="M24 18V24L28 28"
-                stroke={props.colors[0]}
+                stroke={props.colors[2]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}

@@ -25,18 +25,18 @@ export default IconWrapper(
                 strokeLinecap={props.strokeLinecap}
             />
             <path
-                fillRule="evenodd"
-                clipRule="evenodd"
-                d="M18.019 4V15.0386L6.27443 39.3014C5.48692 40.9283 6.16737 42.8855 7.79427 43.673C8.23882 43.8882 8.7263 44 9.22019 44H38.7875C40.595 44 42.0602 42.5347 42.0602 40.7273C42.0602 40.2348 41.9491 39.7488 41.7351 39.3052L30.0282 15.0386V4H18.019Z"
-                stroke={props.colors[0]}
-                strokeWidth={props.strokeWidth}
-                strokeLinejoin={props.strokeLinejoin}
-            />
-            <path
-                d="M10.9604 29.9998C13.1241 31.3401 15.2893 32.0103 17.4559 32.0103C19.6226 32.0103 21.7908 31.3401 23.9605 29.9998C26.1088 28.6735 28.2664 28.0103 30.433 28.0103C32.5997 28.0103 34.7755 28.6735 36.9604 29.9998"
+                d="M10.7768 30L18.019 15.0386V4H30.0282V15.0386L37.246 30"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M7.79426 43.673C6.16736 42.8855 5.4869 40.9282 6.27442 39.3013L10.7768 30C10.7768 30 18 35 24 30C30 25 37.246 30 37.246 30L41.7351 39.3052C41.9491 39.7488 42.0602 40.2348 42.0602 40.7273C42.0602 42.5347 40.595 44 38.7875 44H9.22018C8.72629 44 8.2388 43.8882 7.79426 43.673Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
             />
         </svg>
     )

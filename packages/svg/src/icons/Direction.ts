@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('direction', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<g clip-path="' + 'url(#' + props.id + 'b81089b5' + ')' + '">'
+        + '<g clip-path="' + 'url(#' + props.id + '4b051959' + ')' + '">'
             + '<rect x="6" y="6" width="36" height="36" rx="3" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
             + '<path d="M23.2925 10.565L20.0499 13.8076C19.4199 14.4376 19.8661 15.5147 20.757 15.5147H27.2423C28.1332 15.5147 28.5793 14.4376 27.9494 13.8076L24.7067 10.565C24.3162 10.1745 23.683 10.1745 23.2925 10.565Z" fill="' + props.colors[2] + '"/>'
             + '<path d="M10.5649 24.7071L13.8075 27.9498C14.4375 28.5797 15.5146 28.1336 15.5146 27.2426V20.7574C15.5146 19.8665 14.4375 19.4203 13.8075 20.0503L10.5649 23.2929C10.1744 23.6834 10.1744 24.3166 10.5649 24.7071Z" fill="' + props.colors[2] + '"/>'
@@ -18,7 +18,7 @@ export default IconWrapper('direction', (props: ISvgIconProps) => (
             + '<path d="M37.4341 23.2929L34.1915 20.0502C33.5615 19.4203 32.4844 19.8664 32.4844 20.7574V27.2426C32.4844 28.1335 33.5615 28.5797 34.1915 27.9497L37.4341 24.7071C37.8246 24.3166 37.8246 23.6834 37.4341 23.2929Z" fill="' + props.colors[2] + '"/>'
         + '</g>'
         + '<defs>'
-            + '<clipPath id="' + props.id + 'b81089b5' + '">'
+            + '<clipPath id="' + props.id + '4b051959' + '">'
                 + '<rect width="48" height="48" fill="' + props.colors[2] + '"/>'
             + '</clipPath>'
         + '</defs>'

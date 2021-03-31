@@ -25,7 +25,7 @@ export default IconWrapper(
                 stroke-miterlimit="2"
             />
             <path
-                d="M40 23H32.37C31.81 23 31.27 22.76 30.89 22.35L25.55 16.57C24.9 15.86 23.84 15.71 23.02 16.21L15.57 20.79C14.94 21.18 14.94 22.1 15.57 22.49L23.03 27.06C23.62 27.42 23.99 28.07 23.99 28.77L24 38"
+                d="M40.0002 23H32.3702C31.8102 23 31.2702 22.76 30.8902 22.35L25.5502 16.57C24.9002 15.86 23.8402 15.71 23.0202 16.21L15.5702 20.79C14.9402 21.18 14.9402 22.1 15.5702 22.49L23.0302 27.06C23.6202 27.42 23.9902 28.07 23.9902 28.77L24.0002 38"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-miterlimit="2"
@@ -36,6 +36,7 @@ export default IconWrapper(
                 cx="36.5"
                 cy="36.5"
                 r="7.5"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />
@@ -43,6 +44,7 @@ export default IconWrapper(
                 cx="11.5"
                 cy="36.5"
                 r="7.5"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />
