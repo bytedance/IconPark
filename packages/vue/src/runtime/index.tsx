@@ -114,6 +114,9 @@ export interface IIconBase {
 // 包裹后的图标属性
 export interface IIconProps extends IIconBase {
     spin?: boolean;
+
+    // title 悬浮提示
+    title?: string;
 }
 
 // 渲染Help函数属性
