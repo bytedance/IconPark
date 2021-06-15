@@ -5,62 +5,62 @@
 
 import {ComponentOptions, DefineComponent, inject, provide} from '@vue/runtime-dom';
 
-// 描边连接类型
+/** 描边连接类型 */
 export type StrokeLinejoin = 'miter' | 'round' | 'bevel';
 
-// 描边端点类型
+/** 描边端点类型 */
 export type StrokeLinecap = 'butt' | 'round' | 'square';
 
-// 主题
+/** 主题 */
 export type Theme = 'outline' | 'filled' | 'two-tone' | 'multi-color';
 
-// 包裹前的图标属性
+/** 包裹前的图标属性 */
 export interface ISvgIconProps {
 
-    // 当前图标的唯一Id
+    /** 当前图标的唯一Id */
     id: string;
 
-    // 图标尺寸大小，默认1em
+    /** 图标尺寸大小，默认1em */
     size: number | string;
 
-    // 描边宽度
+    /** 描边宽度 */
     strokeWidth: number;
 
-    // 描边端点类型
+    /** 描边端点类型 */
     strokeLinecap: StrokeLinecap;
 
-    // 描边连接线类型
+    /** 描边连接线类型 */
     strokeLinejoin: StrokeLinejoin;
 
-    // 换肤的颜色数组
+    /** 换肤的颜色数组 */
     colors: string[];
 }
 
-// 图标配置属性
+/** 图标配置属性 */
 export interface IIconConfig {
 
-    // 图标尺寸大小，默认1em
+    /** 图标尺寸大小，默认1em */
     size: number | string;
 
-    // 描边宽度
+    /** 描边宽度 */
     strokeWidth: number;
 
-    // 描边端点类型
+    /** 描边端点类型 */
     strokeLinecap: StrokeLinecap;
 
-    // 描边连接线类型
+    /** 描边连接线类型 */
     strokeLinejoin: StrokeLinejoin;
 
-    // CSS前缀
+    /** CSS前缀 */
     prefix: string;
 
-    // RTL是否开启
+    /** RTL是否开启 */
     rtl: boolean;
 
-    // 默认主题
+    /** 默认主题 */
     theme: Theme;
 
-    // 主题默认颜色
+    /** 主题默认颜色 */
     colors: {
 
         outline: {
@@ -87,40 +87,40 @@ export interface IIconConfig {
     };
 }
 
-// 图标基础属性
+/** 图标基础属性 */
 export interface IIconBase {
 
-    // 图标尺寸大小，默认1em
+    /** 图标尺寸大小，默认1em */
     size?: number | string;
 
-    // 描边宽度
+    /** 描边宽度 */
     strokeWidth?: number;
 
-    // 描边端点类型
+    /** 描边端点类型 */
     strokeLinecap?: StrokeLinecap;
 
-    // 描边连接线类型
+    /** 描边连接线类型 */
     strokeLinejoin?: StrokeLinejoin;
 
-    // 默认主题
+    /** 默认主题 */
     theme?: Theme;
 
-    // 填充色
+    /** 填充色 */
     fill?: string | string[];
 }
 
-// 包裹后的图标属性
+/** 包裹后的图标属性 */
 export interface IIconProps extends IIconBase {
     spin?: boolean;
 }
 
-// 包裹后的图标属性
+/** 包裹后的图标属性 */
 export type IconOptions = ComponentOptions<IIconProps>;
 
-// 包裹前的图标渲染器
+/** 包裹前的图标渲染器 */
 export type IconRender = (props: ISvgIconProps) => JSX.Element;
 
-// 包裹后的图标
+/** 包裹后的图标 */
 export type Icon = DefineComponent<IIconProps>;
 
 // 默认属性

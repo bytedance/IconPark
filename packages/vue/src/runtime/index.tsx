@@ -6,63 +6,63 @@
 import Vue, {ComponentOptions, CreateElement, VNode, VueConstructor} from 'vue';
 import {ArrayPropsDefinition, DefaultComputed, DefaultData, DefaultMethods} from 'vue/types/options';
 
-// 描边连接类型
+/** 描边连接类型 */
 export type StrokeLinejoin = 'miter' | 'round' | 'bevel';
 
-// 描边端点类型
+/** 描边端点类型 */
 export type StrokeLinecap = 'butt' | 'round' | 'square';
 
-// 主题
+/** 主题 */
 export type Theme = 'outline' | 'filled' | 'two-tone' | 'multi-color';
 
 
-// 包裹前的图标属性
+/** 包裹前的图标属性 */
 export interface ISvgIconProps {
 
-    // 当前图标的唯一Id
+    /** 当前图标的唯一Id */
     id: string;
 
-    // 图标尺寸大小，默认1em
+    /** 图标尺寸大小，默认1em */
     size: number | string;
 
-    // 描边宽度
+    /** 描边宽度 */
     strokeWidth: number;
 
-    // 描边端点类型
+    /** 描边端点类型 */
     strokeLinecap: StrokeLinecap;
 
-    // 描边连接线类型
+    /** 描边连接线类型 */
     strokeLinejoin: StrokeLinejoin;
 
-    // 换肤的颜色数组
+    /** 换肤的颜色数组 */
     colors: string[];
 }
 
-// 图标配置属性
+/** 图标配置属性 */
 export interface IIconConfig {
 
-    // 图标尺寸大小，默认1em
+    /** 图标尺寸大小，默认1em */
     size: number | string;
 
-    // 描边宽度
+    /** 描边宽度 */
     strokeWidth: number;
 
-    // 描边端点类型
+    /** 描边端点类型 */
     strokeLinecap: StrokeLinecap;
 
-    // 描边连接线类型
+    /** 描边连接线类型 */
     strokeLinejoin: StrokeLinejoin;
 
-    // CSS前缀
+    /** CSS前缀 */
     prefix: string;
 
-    // RTL是否开启
+    /** RTL是否开启 */
     rtl: boolean;
 
-    // 默认主题
+    /** 默认主题 */
     theme: Theme;
 
-    // 主题默认颜色
+    /** 主题默认颜色 */
     colors: {
 
         outline: {
@@ -89,51 +89,51 @@ export interface IIconConfig {
     };
 }
 
-// 图标基础属性
+/** 图标基础属性 */
 export interface IIconBase {
 
-    // 图标尺寸大小，默认1em
+    /** 图标尺寸大小，默认1em */
     size?: number | string;
 
-    // 描边宽度
+    /** 描边宽度 */
     strokeWidth?: number;
 
-    // 描边端点类型
+    /** 描边端点类型 */
     strokeLinecap?: StrokeLinecap;
 
-    // 描边连接线类型
+    /** 描边连接线类型 */
     strokeLinejoin?: StrokeLinejoin;
 
-    // 默认主题
+    /** 默认主题 */
     theme?: Theme;
 
-    // 填充色
+    /** 填充色 */
     fill?: string | string[];
 }
 
-// 包裹后的图标属性
+/** 包裹后的图标属性 */
 export interface IIconProps extends IIconBase {
     spin?: boolean;
 }
 
-// 渲染Help函数属性
+/** 渲染Help函数属性 */
 export type IconHelper = CreateElement;
 
 
-// 包裹前的图标实例
+/** 包裹前的图标实例 */
 export interface IIconInstance extends Vue, IIconProps {
     id: string;
     ICON_CONFIGS?: IIconConfig;
 }
 
-// 包裹后的图标属性
+/** 包裹后的图标属性 */
 // eslint-disable-next-line max-len
 export type IconOptions = ComponentOptions<IIconInstance, DefaultData<{id: string}>, DefaultMethods<never>, DefaultComputed, ArrayPropsDefinition<IIconProps>, IIconProps>;
 
-// 包裹前的图标渲染器
+/** 包裹前的图标渲染器 */
 export type IconRender = (h: IconHelper, props: ISvgIconProps) => VNode;
 
-// 包裹后的图标
+/** 包裹后的图标 */
 export type Icon = VueConstructor<IIconInstance>;
 
 // 默认属性

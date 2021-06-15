@@ -10,7 +10,7 @@ import { IIconInstance, IIconProps } from './runtime';
 export type IconType = keyof typeof IconMap;
 
 export interface IIconParkInstance extends IIconInstance {
-    // FIXME just use string to prevent type error.
+    /** FIXME just use string to prevent type error. */
     type: IconType | string;
 }
 
