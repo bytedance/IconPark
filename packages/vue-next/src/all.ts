@@ -9,13 +9,13 @@ import { IIconProps } from './runtime';
 export type IconType = keyof typeof IconMap;
 
 export interface IIconAllProps extends IIconProps {
-    // FIXME just use string to prevent type error.
+    /** FIXME just use string to prevent type error. */
     type: IconType | string;
 }
 
 export type IIconAllOptions = ComponentOptions<IIconAllProps>;
 
-// 包裹后的图标
+/** 包裹后的图标 */
 export type AllIcon = DefineComponent<IIconAllProps>;
 
 function toPascalCase(val: string): string {

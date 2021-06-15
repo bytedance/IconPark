@@ -20,7 +20,7 @@ function getKeys<T>(obj: T): Array<keyof T> {
 export const ALL_ICON_KEYS = getKeys(IconMap);
 
 export interface IIconAllProps extends IIconProps {
-    // FIXME just use string to prevent type error.
+    /** FIXME just use string to prevent type error. */
     type: IconType | string;
 }
 
