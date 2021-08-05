@@ -9,14 +9,11 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('broadcast', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<g transform="translate(4.000000, 10.000000)">'
-                + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-                + '<ellipse fill="' + props.colors[1] + '" fill-rule="nonzero" cx="20" cy="14.0979414" rx="4.54545455" ry="4.53125" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-                + '<path d="M12,5 C6.66666667,9.97056275 6.66666667,18.0294373 12,23 M28,23 C33.3333333,18.0294373 33.3333333,9.97056275 28,5" stroke-linecap="' + props.strokeLinecap + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '" fill="none" fill-rule="evenodd"/>'
-                + '<path d="M5.85786438,1.59872116e-14 C-1.95262146,7.78607807 -1.95262146,20.4098048 5.85786438,28.1958829 M34.1421356,28.1958829 C41.9526215,20.4098048 41.9526215,7.78607807 34.1421356,1.24344979e-14" stroke-linecap="' + props.strokeLinecap + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M24.0005 28.6292C26.5109 28.6292 28.546 26.6005 28.546 24.0979C28.546 21.5954 26.5109 19.5667 24.0005 19.5667C21.4901 19.5667 19.4551 21.5954 19.4551 24.0979C19.4551 26.6005 21.4901 28.6292 24.0005 28.6292Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M16 15C10.6667 19.9706 10.6667 28.0294 16 33" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M32 33C37.3333 28.0294 37.3333 19.9706 32 15" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M10 10C2 17.732 2 30.268 10 38" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M38.1426 38.1959C45.9531 30.4098 45.9531 17.7861 38.1426 10" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

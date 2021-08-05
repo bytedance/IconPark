@@ -1,4 +1,9 @@
 # Changelog
+
+## v1.3.3
+> 2021.08.05
+- 🦋**add icons**:add 2 icons, update 34 icons
+
 ## v1.3.2
 > 2021.03.31
 - 🦋**add icons**:add 101 icons, update 103 icons

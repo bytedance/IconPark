@@ -35070,5 +35070,36 @@
             "缩小"
         ],
         "rtl": true
+    },
+    {
+        "id": 2435,
+        "title": "头像",
+        "name": "avatar",
+        "category": "Peoples",
+        "categoryCN": "人群",
+        "author": "齐奉飞",
+        "tag": [
+            "用户",
+            "客户",
+            "个人中心",
+            "账户中心",
+            "我的",
+            "员工"
+        ],
+        "rtl": true
+    },
+    {
+        "id": 2436,
+        "title": "加载4",
+        "name": "loading-four",
+        "category": "Base",
+        "categoryCN": "基础",
+        "author": "齐奉飞",
+        "tag": [
+            "等待",
+            "加载",
+            "转圈"
+        ],
+        "rtl": true
     }
 ]

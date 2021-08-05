@@ -1065,7 +1065,9 @@ export {default as GrinningFace} from './icons/GrinningFace';
 export {default as GrinningFaceWithOpenMouth} from './icons/GrinningFaceWithOpenMouth';
 export {default as GrinningFaceWithSquintingEyes} from './icons/GrinningFaceWithSquintingEyes';
 export {default as GrinningFaceWithTightlyClosedEyes} from './icons/GrinningFaceWithTightlyClosedEyes';
-export {default as GrinningFaceWithTightlyClosedEyesOpenMouth} from './icons/GrinningFaceWithTightlyClosedEyesOpenMouth';
+export {
+    default as GrinningFaceWithTightlyClosedEyesOpenMouth
+} from './icons/GrinningFaceWithTightlyClosedEyesOpenMouth';
 export {default as Group} from './icons/Group';
 export {default as GuideBoard} from './icons/GuideBoard';
 export {default as Gymnastics} from './icons/Gymnastics';
@@ -2438,4 +2440,6 @@ export {default as Zoom} from './icons/Zoom';
 export {default as ZoomIn} from './icons/ZoomIn';
 export {default as ZoomInternal} from './icons/ZoomInternal';
 export {default as ZoomOut} from './icons/ZoomOut';
+export {default as Avatar} from './icons/Avatar';
+export {default as LoadingFour} from './icons/LoadingFour';
 

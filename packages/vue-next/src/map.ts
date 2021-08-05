@@ -2438,4 +2438,6 @@ export {default as Zoom} from './icons/Zoom';
 export {default as ZoomIn} from './icons/ZoomIn';
 export {default as ZoomInternal} from './icons/ZoomInternal';
 export {default as ZoomOut} from './icons/ZoomOut';
+export {default as Avatar} from './icons/Avatar';
+export {default as LoadingFour} from './icons/LoadingFour';
 
