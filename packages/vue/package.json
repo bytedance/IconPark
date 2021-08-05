@@ -1,6 +1,6 @@
 {
     "name": "@icon-park/vue",
-    "version": "1.3.4",
+    "version": "1.3.5",
     "description": "Vue Icons for IconPark",
     "main": "lib/index.js",
     "module": "es/index.js",
