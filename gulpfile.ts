@@ -10,6 +10,7 @@ import merge from 'merge2';
 import less from 'gulp-less';
 import minifyCss from 'gulp-minify-css';
 import rename from 'gulp-rename';
+import replace from 'gulp-replace';
 import configVue from './packages/vue/tsconfig.json';
 import configVueNext from './packages/vue-next/tsconfig.json';
 import configSVG from './packages/svg/tsconfig.json';
@@ -125,9 +126,15 @@ function createBuildTask(name: 'react' | 'vue' | 'svg' | 'vue-next'): string {
                 cwd,
             })
             .pipe(ts(TS_CONFIG_MAP[name].compilerOptions));
-
+        /**
+         * sinc vue@3.x is installed under alias: 'alias-for-vue3', we need to
+         * replace it back to 'vue' in the compiled colde & type description before publish
+         */
+        const isVueNext = name === 'vue-next';
+        let jsResultStream = isVueNext ? result.js.pipe(replace('alias-for-vue3', 'vue')) : result.js;
+        let dtsResultStream = isVueNext ? result.dts.pipe(replace('alias-for-vue3', 'vue')) : result.dts;
         return merge([
-            result.js
+            jsResultStream
                 .pipe(babel(BABEL_CONFIG_MAP[name]))
                 .pipe(gulp.dest(cwd + '/es'))
                 .pipe(
@@ -136,7 +143,7 @@ function createBuildTask(name: 'react' | 'vue' | 'svg' | 'vue-next'): string {
                     }),
                 )
                 .pipe(gulp.dest(cwd + '/lib')),
-            result.dts
+            dtsResultStream
                 .pipe(gulp.dest(cwd + '/es'))
                 .pipe(gulp.dest(cwd + '/lib')),
         ]);
