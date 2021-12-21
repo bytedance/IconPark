@@ -2,7 +2,7 @@
  * @file all
  */
 
-import { createVNode, App, DefineComponent, ComponentOptions } from '@vue/runtime-dom';
+import { createVNode, App, DefineComponent, ComponentOptions } from 'alias-for-vue3';
 import * as IconMap from './map';
 import { IIconProps } from './runtime';
 
