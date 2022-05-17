@@ -1,0 +1,5 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M39 16V9C39 7.34315 37.6569 6 36 6H9C7.34315 6 6 7.34315 6 9V39C6 40.6569 7.34314 42 9 42H36C37.6569 42 39 40.6569 39 39V32" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="22" y="16" width="20" height="16" rx="3" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<circle r="2" transform="matrix(-1.31134e-07 -1 -1 1.31134e-07 30 24)" fill="white"/>
+</svg>
