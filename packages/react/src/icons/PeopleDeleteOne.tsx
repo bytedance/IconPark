@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'people-delete-one',
-    false,
+    true,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}

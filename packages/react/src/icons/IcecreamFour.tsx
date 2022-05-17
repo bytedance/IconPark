@@ -10,7 +10,7 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper(
     'icecream-four',
-    true,
+    false,
     (props: ISvgIconProps) => (
         <svg
             width={props.size}
@@ -19,7 +19,7 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clipPath={'url(#' + props.id + 'b9fddda7' + ')'}
+                clipPath={'url(#' + props.id + '4adfa452' + ')'}
             >
                 <path
                     d="M18.8428 13.7225L32.2778 27.1575L11.6793 40.5001L5.63355 34.4544L18.8428 13.7225Z"
@@ -46,7 +46,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'b9fddda7'}
+                    id={props.id + '4adfa452'}
                 >
                     <rect
                         width="48"

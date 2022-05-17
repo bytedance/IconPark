@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.4.0
+
+> 2022.5.17
+
+- 🦋**add icons**:add 220 icons
+
 ## v1.3.5
 > 2021.08.05
 - 🦋**add icons**:add 2 icons, update 34 icons
