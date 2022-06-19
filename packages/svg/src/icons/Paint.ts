@@ -9,10 +9,10 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('paint', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<path d="M16.9893 23.6108L26.8888 33.5103" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M16.9893 23.6108L8.50398 32.0961C5.77031 34.8298 5.77031 39.2619 8.50398 41.9956V41.9956C11.2376 44.7293 15.6698 44.7293 18.4035 41.9956L26.8888 33.5103" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M16.9893 33.5104L12.7466 37.753" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M26.8887 33.5104L41.7961 27.0781C44.4833 25.9186 45.6045 22.6991 43.8816 20.3333C39.7179 14.6162 34.1044 9.60358 29.9632 6.53609C27.6736 4.84022 24.6332 5.89535 23.5044 8.5114L16.9892 23.6109L26.8887 33.5104Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M14.9897 22.6108L24.8892 32.5103" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M14.9897 22.6108L6.50447 31.0961C3.7708 33.8298 3.7708 38.2619 6.50447 40.9956V40.9956C9.23814 43.7293 13.6703 43.7293 16.404 40.9956L24.8892 32.5103" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M14.9897 32.5103L10.7471 36.7529" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M24.8892 32.5102L39.7966 26.0778C42.4838 24.9183 43.605 21.6988 41.8821 19.3331C37.7183 13.6159 32.1049 8.60333 27.9636 5.53585C25.6741 3.83998 22.6337 4.8951 21.5049 7.51115L14.9897 22.6107L24.8892 32.5102Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

@@ -17,12 +17,8 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <rect
-                x="4"
-                y="4"
-                width="40"
-                height="40"
-                rx="3"
+            <path
+                d="M41 4H7C5.34315 4 4 5.34315 4 7V41C4 42.6569 5.34315 44 7 44H41C42.6569 44 44 42.6569 44 41V7C44 5.34315 42.6569 4 41 4Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
@@ -86,7 +82,7 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M24 4L24 44"
+                d="M24 4V44"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -112,7 +108,7 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M4 28L4 20"
+                d="M4 28V20"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

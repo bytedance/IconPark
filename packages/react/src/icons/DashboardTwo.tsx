@@ -33,7 +33,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M9.84521 9.87045L12.9747 13"
+                d="M9.84521 9.87036L12.9747 12.9999"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -54,7 +54,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M38.1549 9.87045L35.0254 13"
+                d="M38.1549 9.87036L35.0254 12.9999"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -68,7 +68,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M39.8525 36.1961C36.1956 40.9422 30.455 44 24.0002 44C17.5454 44 11.8048 40.9422 8.14795 36.1961C12.8211 33.5259 18.2325 32 24.0002 32C29.7679 32 35.1792 33.5259 39.8525 36.1961Z"
+                d="M39.8523 36.1961C36.1954 40.9422 30.4548 44 24 44C17.5452 44 11.8046 40.9422 8.14771 36.1961C12.8209 33.5259 18.2323 32 24 32C29.7677 32 35.179 33.5259 39.8523 36.1961Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

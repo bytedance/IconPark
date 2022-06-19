@@ -14,7 +14,7 @@ export default IconWrapper(
         <svg
             width={props.size}
             height={props.size}
-            viewBox="0 0 48 49"
+            viewBox="0 0 48 48"
             fill="none"
         >
             <path
@@ -25,14 +25,14 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M29.5 18.4081L18.1863 29.7218"
+                d="M29.5 18.4082L18.1863 29.7219"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M18.1863 18.4081L29.5 29.7218"
+                d="M18.1865 18.4085L29.5002 29.7222"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

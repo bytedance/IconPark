@@ -18,12 +18,12 @@ export default IconWrapper(
             fill="none"
         >
             <rect
-                x="4.92847"
+                x="4.92871"
                 y="13.2239"
                 width="11"
                 height="5"
                 rx="2"
-                transform="rotate(-46.0247 4.92847 13.2239)"
+                transform="rotate(-46.0247 4.92871 13.2239)"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />
@@ -38,37 +38,37 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
             />
             <rect
-                x="6.4436"
-                y="18.8546"
+                x="6.44336"
+                y="18.8545"
                 width="17"
                 height="5"
                 rx="2"
-                transform="rotate(-46.0247 6.4436 18.8546)"
+                transform="rotate(-46.0247 6.44336 18.8545)"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />
             <rect
-                x="13.6401"
-                y="25.798"
+                x="13.6406"
+                y="25.7981"
                 width="17"
                 height="5"
                 rx="2"
-                transform="rotate(-46.0247 13.6401 25.798)"
+                transform="rotate(-46.0247 13.6406 25.7981)"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />
             <rect
-                x="7.2644"
+                x="7.26465"
                 y="25.2048"
                 width="25"
                 height="5"
                 rx="2"
-                transform="rotate(-46.0247 7.2644 25.2048)"
+                transform="rotate(-46.0247 7.26465 25.2048)"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />
             <path
-                d="M25.0024 28.4237L29.1685 24.1058L43.5751 38.0061L39.409 42.3239L25.0024 28.4237Z"
+                d="M25.0029 28.4238L29.169 24.106L43.5756 38.0062L39.4095 42.3241L25.0029 28.4238Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}

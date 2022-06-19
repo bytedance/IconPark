@@ -15,11 +15,11 @@ export default IconWrapper(
         <svg
             width={props.size}
             height={props.size}
-            viewBox="0 0 48 48"
+            viewBox="0 0 49 48"
             fill="none"
         >
             <rect
-                x="8"
+                x="8.77783"
                 y="4"
                 width="32"
                 height="40"
@@ -28,26 +28,26 @@ export default IconWrapper(
                 strokeWidth={props.strokeWidth}
             />
             <path
-                d="M8 15.5H40"
+                d="M8.77783 15.5H40.7778"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <circle
-                cx="28"
+                cx="28.7778"
                 cy="10"
                 r="2"
                 fill={props.colors[0]}
             />
             <circle
-                cx="34"
+                cx="34.7778"
                 cy="10"
                 r="2"
                 fill={props.colors[0]}
             />
             <circle
-                cx="24"
+                cx="24.7778"
                 cy="30"
                 r="7"
                 fill={props.colors[1]}

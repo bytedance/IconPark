@@ -53,13 +53,13 @@ export default IconWrapper(
                 strokeLinecap={props.strokeLinecap}
             />
             <path
-                d="M30.9999 31C30.9999 32.8728 30.2644 34.5738 29.0666 35.83C28.4107 36.5178 27.6163 37.0722 26.728 37.4484"
+                d="M31.0004 31C31.0004 32.8728 30.2649 34.5738 29.0671 35.83C28.4112 36.5178 27.6168 37.0722 26.7285 37.4484"
                 stroke={props.colors[2]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
             />
             <path
-                d="M18.9331 26.17C20.208 24.8331 22.0066 24 23.9998 24C25.993 24 27.7917 24.8331 29.0665 26.17"
+                d="M18.9336 26.17C20.2085 24.8331 22.0071 24 24.0003 24C25.9935 24 27.7922 24.8331 29.067 26.17"
                 stroke={props.colors[2]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

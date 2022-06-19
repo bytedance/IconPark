@@ -1,17 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>pull-requests</title>
-    <desc>Created with Sketch.</desc>
-    <g id="pull-requests" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
-        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-        <g id="编组" transform="translate(7.000000, 4.000000)" stroke="#000000" stroke-width="4">
-            <circle id="Oval" fill="#2F88FF" fill-rule="nonzero" cx="30" cy="36" r="4"></circle>
-            <circle id="Oval-Copy" fill="#2F88FF" fill-rule="nonzero" cx="4" cy="4" r="4"></circle>
-            <circle id="Oval-Copy-2" fill="#2F88FF" fill-rule="nonzero" cx="4" cy="36" r="4"></circle>
-            <path d="M4,8 L4,32" id="Path-315" stroke-linecap="round"></path>
-            <path d="M17,6 L26,6 C28.209139,6 30,7.790861 30,10 L30,32" id="Path-317" stroke-linecap="round"></path>
-            <polyline id="Path-367" stroke-linecap="round" transform="translate(20.000000, 6.000000) rotate(180.000000) translate(-20.000000, -6.000000) " points="17 0 23 6 17 12"></polyline>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M37 44C39.2091 44 41 42.2091 41 40C41 37.7909 39.2091 36 37 36C34.7909 36 33 37.7909 33 40C33 42.2091 34.7909 44 37 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M11 12C13.2091 12 15 10.2091 15 8C15 5.79086 13.2091 4 11 4C8.79086 4 7 5.79086 7 8C7 10.2091 8.79086 12 11 12Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M11 44C13.2091 44 15 42.2091 15 40C15 37.7909 13.2091 36 11 36C8.79086 36 7 37.7909 7 40C7 42.2091 8.79086 44 11 44Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M11 12V36" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24 10H33C35.2091 10 37 11.7909 37 14V36" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30 16L24 10L30 4" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

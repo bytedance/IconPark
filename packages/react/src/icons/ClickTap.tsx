@@ -16,44 +16,49 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M15 26V15C15 13.3431 16.3431 12 18 12C19.6569 12 21 13.3431 21 15V26"
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
                 strokeLinecap={props.strokeLinecap}
-            >
-                <g
-                    transform="translate(8.000000, 5.000000)"
-                    stroke={props.colors[0]}
-                    strokeWidth={props.strokeWidth}
-                >
-                    <g
-                        transform="translate(7.000000, 7.000000)"
-                        strokeLinejoin={props.strokeLinejoin}
-                    >
-                        <path
-                            d="M0,14 L0,3 C0,1.34314575 1.34314575,0 3,0 C4.65685425,0 6,1.34314575 6,3 L6,14"
-                        />
-                        <path
-                            d="M24,13 L24,19.5 C24,25.8512746 18.8512746,31 12.5,31 L11.5,31 C5.14872538,31 0,25.8512746 0,19.5 L0,13"
-                        />
-                        <path
-                            d="M6,17 L6,15.1057529 L6,12 C6,10.3431458 7.34314575,9 9,9 C10.6568542,9 12,10.3431458 12,12 L12,15.1818037 L12,17"
-                        />
-                        <path
-                            d="M12,17 L12,15.1057529 L12,12 C12,10.3431458 13.3431458,9 15,9 C16.6568542,9 18,10.3431458 18,12 L18,15.1818037 L18,17"
-                        />
-                        <path
-                            d="M18,17 L18,15.1057529 L18,12 C18,10.3431458 19.3431458,9 21,9 C22.6568542,9 24,10.3431458 24,12 L24,15.1818037 L24,17"
-                        />
-                    </g>
-                    <path
-                        d="M20,10 C20,8.94888684 19.8378284,7.93565088 19.5371411,6.98394793 C19.2008409,5.91952713 18.6912709,4.93207821 18.0415268,4.05469702 C16.2197921,1.59471942 13.2961294,0 10,0 C6.70387063,0 3.78020794,1.59471942 1.95847316,4.05469702 C1.30872911,4.93207821 0.799159071,5.91952713 0.462858909,6.98394793 C0.162171574,7.93565088 0,8.94888684 0,10"
-                    />
-                </g>
-            </g>
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M39 25V31.5C39 37.8513 33.8513 43 27.5 43H26.5C20.1487 43 15 37.8513 15 31.5V25"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M21 29V27.1058V24C21 22.3431 22.3431 21 24 21C25.6569 21 27 22.3431 27 24V27.1818V29"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M27 29V27.1058V24C27 22.3431 28.3431 21 30 21C31.6569 21 33 22.3431 33 24V27.1818V29"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M33 29V27.1058V24C33 22.3431 34.3431 21 36 21C37.6569 21 39 22.3431 39 24V27.1818V29"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M28 15C28 13.9489 27.8378 12.9357 27.5371 11.9839C27.2008 10.9195 26.6913 9.93208 26.0415 9.0547C24.2198 6.59472 21.2961 5 18 5C14.7039 5 11.7802 6.59472 9.95847 9.0547C9.30873 9.93208 8.79916 10.9195 8.46286 11.9839C8.16217 12.9357 8 13.9489 8 15"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+            />
         </svg>
     )
 );

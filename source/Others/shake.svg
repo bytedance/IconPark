@@ -1,15 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>shake</title>
-    <desc>Created with Sketch.</desc>
-    <g id="shake" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
-        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-        <g id="编组" transform="translate(4.000000, 6.000000)" stroke-width="4">
-            <polyline id="Path-14-Copy" stroke="#000000" stroke-linecap="round" points="0 4 4 8.66666667 0 13.3333333 4 18 0 22.6666667 4 27.3333333 0 32"></polyline>
-            <polyline id="Path-14-Copy复制" stroke="#000000" stroke-linecap="round" transform="translate(38.000000, 18.000000) scale(-1, 1) translate(-38.000000, -18.000000) " points="36 4 40 8.66666667 36 13.3333333 40 18 36 22.6666667 40 27.3333333 36 32"></polyline>
-            <rect id="Rectangle-10" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" x="10" y="0" width="20" height="36"></rect>
-            <path d="M18,29 L22,29" id="路径-4" stroke="#FFFFFF" stroke-linecap="round"></path>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M4 10L8 14.6667L4 19.3333L8 24L4 28.6667L8 33.3333L4 38" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44 10L40 14.6667L44 19.3333L40 24L44 28.6667L40 33.3333L44 38" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34 6H14V42H34V6Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M22 35H26" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

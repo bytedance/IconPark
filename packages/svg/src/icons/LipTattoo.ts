@@ -14,7 +14,7 @@ export default IconWrapper('lip-tattoo', (props: ISvgIconProps) => (
         + '<path d="M12 25C15.7899 25.7546 26.2958 26.8111 38 25" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M44 24C44 35.0457 35.0457 44 24 44C12.9543 44 4 35.0457 4 24C4 12.9543 12.9543 4 24 4" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M39 8.47214L39.343 9.52786H40.4531L39.555 10.1803L39.8981 11.2361L39 10.5836L38.1019 11.2361L38.445 10.1803L37.5469 9.52786H38.657L39 8.47214Z" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
-        + '<path d="M35.0001 22.6564C36.2936 23.9047 37.3745 24.666 38.0001 24.9432C37.1558 26.0264 35.7108 27.6083 33.7627 29" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M35.0001 22.6562C36.2936 23.9045 37.3745 24.6658 38.0001 24.943C37.1558 26.0262 35.7108 27.6081 33.7627 28.9998" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M16.0978 22C14.5549 23.374 12.6562 24.6523 12 24.9432C12.9413 26.2716 15.2114 28.3503 18 29.9081" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

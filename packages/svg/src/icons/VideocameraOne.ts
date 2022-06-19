@@ -10,7 +10,6 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('videocamera-one', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
         + '<rect x="4" y="21" width="31" height="20" rx="2" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '"/>'
         + '<rect x="20" y="27" width="9" height="8" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<circle cx="27" cy="13" r="5" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'

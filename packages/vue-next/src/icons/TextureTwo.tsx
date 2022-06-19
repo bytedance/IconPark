@@ -17,12 +17,8 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <rect
-                x="4"
-                y="4"
-                width="40"
-                height="40"
-                rx="4"
+            <path
+                d="M40 4H8C5.79086 4 4 5.79086 4 8V40C4 42.2091 5.79086 44 8 44H40C42.2091 44 44 42.2091 44 40V8C44 5.79086 42.2091 4 40 4Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}

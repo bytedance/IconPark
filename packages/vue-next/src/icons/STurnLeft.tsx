@@ -40,9 +40,9 @@ export default IconWrapper(
             />
             <circle
                 cx="12"
-                cy="9.99997"
+                cy="9.99994"
                 r="5"
-                transform="rotate(-180 12 9.99997)"
+                transform="rotate(-180 12 9.99994)"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}

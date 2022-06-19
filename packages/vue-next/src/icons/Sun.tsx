@@ -18,88 +18,11 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M24 3V6.15V3Z"
-                fill={props.colors[0]}
-            />
-            <path
-                d="M24 3V6.15"
+                d="M9.15039 9.15088L11.3778 11.3783"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M38.8492 9.15076L36.6219 11.3781L38.8492 9.15076Z"
-                fill={props.colors[0]}
-            />
-            <path
-                d="M38.8492 9.15076L36.6219 11.3781"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M45 24H41.85H45Z"
-                fill={props.colors[0]}
-            />
-            <path
-                d="M45 24H41.85"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M38.8492 38.8492L36.6219 36.6219L38.8492 38.8492Z"
-                fill={props.colors[0]}
-            />
-            <path
-                d="M38.8492 38.8492L36.6219 36.6219"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M24 45V41.85V45Z"
-                fill={props.colors[0]}
-            />
-            <path
-                d="M24 45V41.85"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M9.15076 38.8492L11.3781 36.6219L9.15076 38.8492Z"
-                fill={props.colors[0]}
-            />
-            <path
-                d="M9.15076 38.8492L11.3781 36.6219"
-                stroke={props.colors[0]}
-                stroke-width={props.strokeWidth}
-                stroke-linecap={props.strokeLinecap}
-                stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M3 24H6.15H3Z"
-                fill={props.colors[0]}
             />
             <path
                 d="M3 24H6.15"
@@ -109,13 +32,35 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M9.15076 9.15076L11.3781 11.3781L9.15076 9.15076Z"
-                fill={props.colors[0]}
+                d="M9.15039 38.8495L11.3778 36.6221"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M9.15076 9.15076L11.3781 11.3781"
+                d="M38.8495 38.8495L36.6221 36.6221"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M44.9996 24H41.8496"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M38.8495 9.15088L36.6221 11.3783"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 3V6.15"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -123,9 +68,16 @@ export default IconWrapper(
             />
             <path
                 d="M24 36C30.6274 36 36 30.6274 36 24C36 17.3726 30.6274 12 24 12C17.3726 12 12 17.3726 12 24C12 30.6274 17.3726 36 24 36Z"
-                fill={props.colors[1]}
+                fill={props.colors[2]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 45.0001V41.8501"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
         </svg>

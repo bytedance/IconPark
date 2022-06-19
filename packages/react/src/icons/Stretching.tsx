@@ -19,17 +19,17 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clipPath={'url(#' + props.id + 'bd654249' + ')'}
+                clipPath={'url(#' + props.id + 'edc284bd' + ')'}
             >
                 <path
-                    d="M23 5.99966H8C6.89543 5.99966 6 6.89509 6 7.99966V40C6 41.1046 6.89543 42 8 42H40C41.1046 42 42 41.1046 42 40V25"
+                    d="M23.0005 5.99951H8.00049C6.89592 5.99951 6.00049 6.89494 6.00049 7.99951V39.9999C6.00049 41.1044 6.89592 41.9998 8.00049 41.9998H40.0005C41.1051 41.9998 42.0005 41.1044 42.0005 39.9998V24.9998"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinecap={props.strokeLinecap}
                     strokeLinejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M24 15.9998V23.9998"
+                    d="M24.001 15.9998V23.9998"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinecap={props.strokeLinecap}
@@ -41,18 +41,18 @@ export default IconWrapper(
                     strokeLinecap={props.strokeLinecap}
                 />
                 <path
-                    d="M32 23.9998H24"
+                    d="M32.001 23.9998H24.001"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinecap={props.strokeLinecap}
                 />
                 <path
-                    d="M42 5.99966L24 23.9997"
+                    d="M42 5.99951L24 23.9995"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                 />
                 <path
-                    d="M42 5.99966H34"
+                    d="M42.0005 5.99951H34.0005"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                     strokeLinecap={props.strokeLinecap}
@@ -60,7 +60,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'bd654249'}
+                    id={props.id + 'edc284bd'}
                 >
                     <rect
                         width="48"

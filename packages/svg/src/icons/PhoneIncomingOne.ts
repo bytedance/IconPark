@@ -9,11 +9,9 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('phone-incoming-one', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 52 51" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<rect width="48" height="48" transform="translate(4)" fill="white" fill-opacity="0.01"/>'
-        + '<rect x="3.99997" width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M17.3756 9.79423C18.1022 9.79423 18.7716 10.1883 19.1242 10.8235L21.5707 15.2303C21.891 15.8073 21.906 16.5052 21.6109 17.0955L19.2541 21.8092C19.2541 21.8092 19.937 25.3206 22.7955 28.179C25.6539 31.0374 29.1536 31.7086 29.1536 31.7086L33.8665 29.3522C34.4572 29.0568 35.1556 29.0721 35.7328 29.393L40.1521 31.85C40.7867 32.2028 41.1803 32.8719 41.1803 33.598L41.1803 38.6715C41.1803 41.2552 38.7804 43.1213 36.3323 42.2952C31.3044 40.5987 23.4997 37.3685 18.5528 32.4216C13.606 27.4748 10.3758 19.6701 8.67925 14.6422C7.85323 12.1941 9.71932 9.79423 12.303 9.79423L17.3756 9.79423Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M38.2404 6L30.2404 14L38.2404 22" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M46.2404 14.0083H30.2404" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M13.3755 9.79423C14.1021 9.79423 14.7715 10.1883 15.1241 10.8235L17.5706 15.2303C17.8909 15.8073 17.9059 16.5052 17.6108 17.0955L15.254 21.8092C15.254 21.8092 15.937 25.3206 18.7954 28.179C21.6538 31.0374 25.1535 31.7086 25.1535 31.7086L29.8664 29.3522C30.4571 29.0568 31.1555 29.0721 31.7327 29.393L36.152 31.85C36.7866 32.2029 37.1802 32.8719 37.1802 33.598L37.1802 38.6715C37.1802 41.2552 34.7803 43.1213 32.3322 42.2952C27.3043 40.5987 19.4996 37.3685 14.5528 32.4216C9.60592 27.4748 6.3757 19.6701 4.67916 14.6422C3.85314 12.1941 5.71923 9.79423 8.30287 9.79423L13.3755 9.79423Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M34.2402 6L26.2402 14L34.2402 22" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M42.2402 14.0083H26.2402" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

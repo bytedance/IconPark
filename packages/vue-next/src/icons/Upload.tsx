@@ -18,21 +18,20 @@ export default IconWrapper(
             fill="none"
         >
             <mask
-                id={props.id + '48f36634'}
+                id={props.id + '04cec2fa'}
                 maskUnits="userSpaceOnUse"
                 x="0"
                 y="0"
                 width="48"
                 height="48" style={{maskType: 'alpha'}}
             >
-                <rect
-                    width="48"
-                    height="48"
+                <path
+                    d="M48 0H0V48H48V0Z"
                     fill={props.colors[2]}
                 />
             </mask>
             <g
-                mask={'url(#' + props.id + '48f36634' + ')'}
+                mask={'url(#' + props.id + '04cec2fa' + ')'}
             >
                 <path
                     d="M6 24.0083V42H42V24"

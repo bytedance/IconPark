@@ -33,7 +33,7 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M27.7901 26.2193C28.6064 25.1268 30.2528 25.1537 31.0329 26.2724L39.8077 38.856C40.7322 40.1819 39.7835 42 38.1671 42H16L27.7901 26.2193Z"
+                d="M27.7901 26.2194C28.6064 25.1269 30.2528 25.1538 31.0329 26.2725L39.8077 38.8561C40.7322 40.182 39.7835 42.0001 38.1671 42.0001H16L27.7901 26.2194Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

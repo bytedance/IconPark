@@ -54,7 +54,7 @@ export default IconWrapper(
                 strokeLinecap={props.strokeLinecap}
             />
             <path
-                d="M36 11V4.99999C36 4.99999 34.5 7.99999 30 4.99999C25.5 1.99999 24 4.99999 24 4.99999V11C24 11 25.5 7.99999 30 11C34.5 14 36 11 36 11Z"
+                d="M36 10.9998V4.99984C36 4.99984 34.5 7.99984 30 4.99984C25.5 1.99984 24 4.99984 24 4.99984V10.9998C24 10.9998 25.5 7.99984 30 10.9998C34.5 13.9998 36 10.9998 36 10.9998Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

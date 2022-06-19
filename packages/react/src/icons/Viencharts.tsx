@@ -19,7 +19,7 @@ export default IconWrapper(
             fill="none"
         >
             <circle
-                cx="24"
+                cx="23.9999"
                 cy="17"
                 r="12"
                 stroke={props.colors[0]}

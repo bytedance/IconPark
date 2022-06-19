@@ -26,7 +26,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M43.9998 36.7273H36.7271V44H43.9998V36.7273Z"
+                d="M43.9998 36.7271H36.7271V43.9998H43.9998V36.7271Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
@@ -40,7 +40,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M23.9998 36.7273H16.7271V44H23.9998V36.7273Z"
+                d="M23.9998 36.7271H16.7271V43.9998H23.9998V36.7271Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
@@ -54,49 +54,49 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M43.9998 16.7273H36.7271V24H43.9998V16.7273Z"
+                d="M43.9998 16.7271H36.7271V23.9998H43.9998V16.7271Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M11.2729 7.63636H24.0002"
+                d="M11.2729 7.63623H24.0002"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M24 40.3636H36.7273"
+                d="M24 40.3638H36.7273"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M11.2729 27.6364H27.6366V11.2727"
+                d="M11.2729 27.6366H27.6366V11.2729"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M28.828 20.3636H36.7274M20.3638 36.7273V27.6286V36.7273Z"
+                d="M28.8275 20.3633H36.7269M20.3633 36.7269V27.6282V36.7269Z"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M7.63623 11.2727V24"
+                d="M7.63672 11.2725V23.9997"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M40.3638 24V36.7273"
+                d="M40.3633 24V36.7273"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

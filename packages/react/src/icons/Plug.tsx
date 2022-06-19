@@ -16,48 +16,43 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M6 14H42V24C38 32 32 36 24 36C16 36 10 32 6 24V14Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
                 strokeLinejoin={props.strokeLinejoin}
-            >
-                <g
-                    transform="translate(6.000000, 4.000000)"
-                    strokeWidth={props.strokeWidth}
-                >
-                    <path
-                        d="M0,10 L36,10 L36,20 C32,28 26,32 18,32 C10,32 4,28 0,20 L0,10 Z"
-                        stroke={props.colors[0]}
-                        fill={props.colors[1]}
-                        fillRule="nonzero"
-                    />
-                    <polyline
-                        stroke={props.colors[0]}
-                        strokeLinecap={props.strokeLinecap}
-                        points="27 30 26 40 10 40 9 30"
-                    />
-                    <path
-                        d="M16,20 L20,20"
-                        stroke={props.colors[2]}
-                        strokeLinecap={props.strokeLinecap}
-                    />
-                    <path
-                        d="M10,8 L10,0"
-                        stroke={props.colors[0]}
-                        strokeLinecap={props.strokeLinecap}
-                        transform="translate(10.000000, 4.000000) rotate(180.000000) translate(-10.000000, -4.000000) "
-                    />
-                    <path
-                        d="M26,8 L26,0"
-                        stroke={props.colors[0]}
-                        strokeLinecap={props.strokeLinecap}
-                        transform="translate(26.000000, 4.000000) rotate(180.000000) translate(-26.000000, -4.000000) "
-                    />
-                </g>
-            </g>
+            />
+            <path
+                d="M33 34L32 44H16L15 34"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M22 24H26"
+                stroke={props.colors[2]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M16 4L16 12"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M32 4V12"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

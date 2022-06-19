@@ -1,17 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
-    <title>slide</title>
-    <desc>Created with Sketch.</desc>
-    <g id="slide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="编组-2">
-            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
-            <g id="编组" transform="translate(4.000000, 5.000000)" stroke-linejoin="round" stroke-width="4">
-                <rect id="Rectangle" stroke="#000000" fill="#2F88FF" fill-rule="nonzero" x="3" y="0.5" width="34" height="28"></rect>
-                <polyline id="Path-286" stroke="#000000" stroke-linecap="round" points="12 36.5 20 28.5 28 36.5"></polyline>
-                <polyline id="Line-2" stroke="#FFFFFF" stroke-linecap="round" transform="translate(19.950550, 14.097000) rotate(-135.000000) translate(-19.950550, -14.097000) " points="23.1048003 3.07144261 23.009533 10.9557885 16.7962996 11.0244674 16.8108301 25.1225569"></polyline>
-                <path d="M0,0.5 L40,0.5" id="Path-39" stroke="#000000" stroke-linecap="round"></path>
-            </g>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M41 5.5H7V33.5H41V5.5Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M16 41.5L24 33.5L32 41.5" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13.9239 24.6628L19.5664 19.155L24.0083 23.4999L33.9669 13.5208" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4 5.5H44" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

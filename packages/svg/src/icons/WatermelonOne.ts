@@ -14,6 +14,6 @@ export default IconWrapper('watermelon-one', (props: ISvgIconProps) => (
         + '<circle cx="24" cy="17" r="2" fill="' + props.colors[2] + '"/>'
         + '<circle cx="27" cy="23" r="2" fill="' + props.colors[2] + '"/>'
         + '<circle cx="21" cy="23" r="2" fill="' + props.colors[2] + '"/>'
-        + '<path d="M41 39.92C41 39.92 36.0457 44 24 44C11.9543 44 7 39.92 7 39.92" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
+        + '<path d="M41 39.9199C41 39.9199 36.0457 43.9999 24 43.9999C11.9543 43.9999 7 39.9199 7 39.9199" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
     + '</svg>'
 ));

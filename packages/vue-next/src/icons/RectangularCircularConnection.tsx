@@ -24,11 +24,8 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}
             />
-            <rect
-                x="7"
-                y="31"
-                width="10"
-                height="10"
+            <path
+                d="M17 31H7V41H17V31Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}

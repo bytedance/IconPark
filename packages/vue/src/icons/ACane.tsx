@@ -17,28 +17,13 @@ export default IconWrapper(
             viewBox="0 0 48 48"
             fill="none"
         >
-            <g
-                clip-path={'url(#' + props.id + '5e07feea' + ')'}
-            >
-                <path
-                    d="M19.5571 44.7684C19.5571 44.7684 32.4675 20.4873 33.6412 18.28C34.8149 16.0726 37.453 8.98102 30.3894 5.22524C23.3258 1.46947 19.1566 7.18063 17.7482 9.82948"
-                    stroke={props.colors[0]}
-                    stroke-width={props.strokeWidth}
-                    stroke-linecap={props.strokeLinecap}
-                    stroke-linejoin={props.strokeLinejoin}
-                />
-            </g>
-            <defs>
-                <clipPath
-                    id={props.id + '5e07feea'}
-                >
-                    <rect
-                        width="48"
-                        height="48"
-                        fill={props.colors[2]}
-                    />
-                </clipPath>
-            </defs>
+            <path
+                d="M19.5576 44.7684C19.5576 44.7684 32.468 20.4873 33.6417 18.28C34.8154 16.0726 37.4535 8.98102 30.3899 5.22524C23.3263 1.46947 19.1571 7.18063 17.7486 9.82948"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

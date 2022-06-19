@@ -9,14 +9,9 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('parachute', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-            + '<g transform="translate(4.000000, 4.000000)">'
-                + '<path d="M12.7272727,20 C15.1515152,17.5757576 17.5757576,16.3636364 20,16.3636364 C22.4242424,16.3636364 24.8484848,17.5757576 27.2727273,20 C30.1010101,17.5757576 32.2222222,16.3636364 33.6363636,16.3636364 C35.0505051,16.3636364 37.1717172,17.5757576 40,20 C40,8.954305 31.045695,0 20,0 C8.954305,0 0,8.954305 0,20 C2.82828283,17.5757576 4.94949495,16.3636364 6.36363636,16.3636364 C7.77777778,16.3636364 9.8989899,17.5757576 12.7272727,20 Z" fill="' + props.colors[1] + '" fill-rule="nonzero" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '"/>'
-                + '<polyline stroke-linecap="' + props.strokeLinecap + '" points="0 20 20 40 12.7272727 20" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-                + '<polyline stroke-linecap="' + props.strokeLinecap + '" points="27.2727273 20 20 40 40 20" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="none" fill-rule="evenodd"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M16.7273 24C19.1515 21.5758 21.5758 20.3636 24 20.3636C26.4242 20.3636 28.8485 21.5758 31.2727 24C34.101 21.5758 36.2222 20.3636 37.6364 20.3636C39.0505 20.3636 41.1717 21.5758 44 24C44 12.9543 35.0457 4 24 4C12.9543 4 4 12.9543 4 24C6.82828 21.5758 8.9495 20.3636 10.3636 20.3636C11.7778 20.3636 13.899 21.5758 16.7273 24Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M4 24L24 44L16.7273 24" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M31.2727 24L24 44L44 24" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

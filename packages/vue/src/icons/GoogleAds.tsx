@@ -18,25 +18,25 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + '16fefa8f' + ')'}
+                clip-path={'url(#' + props.id + '4ea055a1' + ')'}
             >
                 <path
-                    d="M41.3541 34.1527L29.5208 8.7761C28.1203 5.77286 24.5505 4.47352 21.5472 5.87396C18.544 7.27439 17.2447 10.8443 18.6451 13.8475L30.4784 39.2241C31.8788 42.2274 35.4487 43.5267 38.452 42.1263C41.4552 40.7258 42.7545 37.156 41.3541 34.1527Z"
+                    d="M41.3551 34.1527L29.5218 8.7761C28.1213 5.77286 24.5514 4.47352 21.5482 5.87396C18.545 7.27439 17.2456 10.8443 18.6461 13.8475L30.4794 39.2241C31.8798 42.2274 35.4497 43.5267 38.4529 42.1263C41.4562 40.7258 42.7555 37.156 41.3551 34.1527Z"
                     fill={props.colors[1]}
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                 />
                 <path
-                    d="M23.4365 26.5357L17.5199 39.224C16.1195 42.2273 12.5496 43.5266 9.54633 42.1262V42.1262C6.54309 40.7257 5.24376 37.1558 6.6442 34.1526L18.373 9"
+                    d="M23.4375 26.5357L17.5209 39.224C16.1204 42.2273 12.5506 43.5266 9.54731 42.1262V42.1262C6.54407 40.7257 5.24474 37.1558 6.64517 34.1526L18.374 9"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                 />
                 <circle
-                    cx="12.0818"
+                    cx="12.0828"
                     cy="36.6882"
                     r="6"
-                    transform="rotate(25 12.0818 36.6882)"
+                    transform="rotate(25 12.0828 36.6882)"
                     fill={props.colors[1]}
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
@@ -44,7 +44,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + '16fefa8f'}
+                    id={props.id + '4ea055a1'}
                 >
                     <rect
                         width="48"

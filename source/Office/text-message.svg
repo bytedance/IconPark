@@ -3,6 +3,6 @@
 <path d="M14 16H20" stroke="white" stroke-width="4" stroke-linecap="round"/>
 <path d="M14 24H16" stroke="white" stroke-width="4" stroke-linecap="round"/>
 <path d="M29 14L36 28" stroke="white" stroke-width="4" stroke-linecap="round"/>
-<path d="M28.9998 14L21.9998 28" stroke="white" stroke-width="4" stroke-linecap="round"/>
+<path d="M28.9998 13.9998L21.9998 27.9998" stroke="white" stroke-width="4" stroke-linecap="round"/>
 <path d="M24 24H34" stroke="white" stroke-width="4" stroke-linecap="round"/>
 </svg>

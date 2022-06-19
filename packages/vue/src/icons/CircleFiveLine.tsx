@@ -53,23 +53,11 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M20 40H28H20Z"
-                fill={props.colors[1]}
-            />
-            <path
                 d="M20 40H28"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M20 8H28H20Z"
-                fill={props.colors[1]}
             />
             <path
                 d="M20 8H28"
@@ -79,23 +67,11 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M8 20V28V20Z"
-                fill={props.colors[1]}
-            />
-            <path
                 d="M8 20V28"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            />
-            <path
-                fill-rule="evenodd"
-                clip-rule="evenodd"
-                d="M40 20V28V20Z"
-                fill={props.colors[1]}
             />
             <path
                 d="M40 20V28"

@@ -19,12 +19,12 @@ export default IconWrapper(
             fill="none"
         >
             <rect
-                x="9.85742"
-                y="29.657"
+                x="9.8584"
+                y="29.6567"
                 width="28"
                 height="12"
                 rx="2"
-                transform="rotate(-45 9.85742 29.657)"
+                transform="rotate(-45 9.8584 29.6567)"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
@@ -38,21 +38,21 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M33.9004 14.1006L40.9715 7.02952"
+                d="M33.9014 14.1006L40.9724 7.02952"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M14.8086 24.7073L23.2939 33.1926"
+                d="M14.8076 24.707L23.2929 33.1923"
                 stroke={props.colors[2]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M19.7578 19.7576L28.2431 28.2428"
+                d="M19.7578 19.7573L28.2431 28.2426"
                 stroke={props.colors[2]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -66,14 +66,14 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M12.6875 26.8286L26.8296 12.6865"
+                d="M12.6865 26.8286L26.8287 12.6865"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M21.1719 35.3137L35.314 21.1716"
+                d="M21.1719 35.314L35.314 21.1718"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

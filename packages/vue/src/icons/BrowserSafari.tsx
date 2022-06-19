@@ -26,7 +26,7 @@ export default IconWrapper(
             />
             <path
                 d="M15 33L19.5 19.5L33 15L28.5 28.5L15 33Z"
-                fill={props.colors[3]}
+                fill={props.colors[0]}
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}

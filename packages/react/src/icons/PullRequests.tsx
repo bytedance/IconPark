@@ -16,55 +16,50 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M37 44C39.2091 44 41 42.2091 41 40C41 37.7909 39.2091 36 37 36C34.7909 36 33 37.7909 33 40C33 42.2091 34.7909 44 37 44Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
-                fill="none"
-                fillRule="evenodd"
                 strokeLinejoin={props.strokeLinejoin}
-            >
-                <g
-                    transform="translate(7.000000, 4.000000)"
-                    stroke={props.colors[0]}
-                    strokeWidth={props.strokeWidth}
-                >
-                    <circle
-                        fill={props.colors[1]}
-                        fillRule="nonzero"
-                        cx="30"
-                        cy="36"
-                        r="4"
-                    />
-                    <circle
-                        fill={props.colors[1]}
-                        fillRule="nonzero"
-                        cx="4"
-                        cy="4"
-                        r="4"
-                    />
-                    <circle
-                        fill={props.colors[1]}
-                        fillRule="nonzero"
-                        cx="4"
-                        cy="36"
-                        r="4"
-                    />
-                    <path
-                        d="M4,8 L4,32"
-                        strokeLinecap={props.strokeLinecap}
-                    />
-                    <path
-                        d="M17,6 L26,6 C28.209139,6 30,7.790861 30,10 L30,32"
-                        strokeLinecap={props.strokeLinecap}
-                    />
-                    <polyline
-                        strokeLinecap={props.strokeLinecap}
-                        transform="translate(20.000000, 6.000000) rotate(180.000000) translate(-20.000000, -6.000000) "
-                        points="17 0 23 6 17 12"
-                    />
-                </g>
-            </g>
+            />
+            <path
+                d="M11 12C13.2091 12 15 10.2091 15 8C15 5.79086 13.2091 4 11 4C8.79086 4 7 5.79086 7 8C7 10.2091 8.79086 12 11 12Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M11 44C13.2091 44 15 42.2091 15 40C15 37.7909 13.2091 36 11 36C8.79086 36 7 37.7909 7 40C7 42.2091 8.79086 44 11 44Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M11 12V36"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 10H33C35.2091 10 37 11.7909 37 14V36"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M30 16L24 10L30 4"
+                stroke={props.colors[0]}
+                strokeWidth={props.strokeWidth}
+                strokeLinecap={props.strokeLinecap}
+                strokeLinejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

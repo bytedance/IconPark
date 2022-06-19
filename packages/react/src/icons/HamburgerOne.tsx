@@ -53,13 +53,13 @@ export default IconWrapper(
             />
             <circle
                 cx="17"
-                cy="15.05"
+                cy="15.0498"
                 r="2.5"
                 fill={props.colors[0]}
             />
             <circle
                 cx="23.75"
-                cy="12.3"
+                cy="12.2998"
                 r="2.5"
                 fill={props.colors[0]}
             />

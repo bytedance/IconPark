@@ -40,7 +40,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M40.3651 12.5C39.662 11.5013 38.8698 10.5698 38 9.71716C37.0819 8.81711 36.0773 8.00488 35 7.29407"
+                d="M40.3651 12.5001C39.662 11.5014 38.8698 10.5699 38 9.71728C37.0819 8.81723 36.0773 8.005 35 7.29419"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -54,14 +54,14 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M7.63477 12.5C8.33788 11.5013 9.13011 10.5698 9.99989 9.71716C10.918 8.81711 11.9225 8.00488 12.9999 7.29407"
+                d="M7.63477 12.5001C8.33788 11.5014 9.13011 10.5699 9.99989 9.71728C10.918 8.81723 11.9225 8.005 12.9999 7.29419"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M40.5 35.294C39.7969 36.2928 39.0047 37.2243 38.1349 38.0769C37.2168 38.977 36.2122 39.7892 35.1349 40.5"
+                d="M40.5001 35.2939C39.797 36.2927 39.0048 37.2242 38.135 38.0768C37.2169 38.9769 36.2123 39.7891 35.135 40.4999"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -130,10 +130,8 @@ export default IconWrapper(
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
-            <circle
-                cx="24"
-                cy="24"
-                r="8"
+            <path
+                d="M24 32C28.4183 32 32 28.4183 32 24C32 19.5817 28.4183 16 24 16C19.5817 16 16 19.5817 16 24C16 28.4183 19.5817 32 24 32Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}

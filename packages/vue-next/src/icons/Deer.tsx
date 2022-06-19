@@ -54,19 +54,19 @@ export default IconWrapper(
                 stroke-linecap={props.strokeLinecap}
             />
             <circle
-                cx="19.9998"
+                cx="19.9995"
                 cy="26"
                 r="2"
                 fill={props.colors[2]}
             />
             <circle
-                cx="23.9998"
+                cx="23.9995"
                 cy="34"
                 r="2"
                 fill={props.colors[2]}
             />
             <circle
-                cx="27.9998"
+                cx="27.9995"
                 cy="26"
                 r="2"
                 fill={props.colors[2]}

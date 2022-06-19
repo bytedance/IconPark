@@ -1,9 +1,9 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="4.92847" y="13.2239" width="11" height="5" rx="2" transform="rotate(-46.0247 4.92847 13.2239)" stroke="black" stroke-width="4"/>
+<rect x="4.92871" y="13.2239" width="11" height="5" rx="2" transform="rotate(-46.0247 4.92871 13.2239)" stroke="black" stroke-width="4"/>
 <rect x="19.3213" y="27.1108" width="11" height="5" rx="2" transform="rotate(-46.0247 19.3213 27.1108)" stroke="black" stroke-width="4"/>
-<rect x="6.4436" y="18.8546" width="17" height="5" rx="2" transform="rotate(-46.0247 6.4436 18.8546)" stroke="black" stroke-width="4"/>
-<rect x="13.6401" y="25.798" width="17" height="5" rx="2" transform="rotate(-46.0247 13.6401 25.798)" stroke="black" stroke-width="4"/>
-<rect x="7.2644" y="25.2048" width="25" height="5" rx="2" transform="rotate(-46.0247 7.2644 25.2048)" stroke="black" stroke-width="4"/>
-<path d="M25.0024 28.4237L29.1685 24.1058L43.5751 38.0061L39.409 42.3239L25.0024 28.4237Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="6.44336" y="18.8545" width="17" height="5" rx="2" transform="rotate(-46.0247 6.44336 18.8545)" stroke="black" stroke-width="4"/>
+<rect x="13.6406" y="25.7981" width="17" height="5" rx="2" transform="rotate(-46.0247 13.6406 25.7981)" stroke="black" stroke-width="4"/>
+<rect x="7.26465" y="25.2048" width="25" height="5" rx="2" transform="rotate(-46.0247 7.26465 25.2048)" stroke="black" stroke-width="4"/>
+<path d="M25.0029 28.4238L29.169 24.106L43.5756 38.0062L39.4095 42.3241L25.0029 28.4238Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M21 40.25C21 42.3211 19.2091 44 17 44C14.7909 44 13 42.3211 13 40.25C13 38.1789 17 34 17 34C17 34 21 38.1789 21 40.25Z" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 </svg>

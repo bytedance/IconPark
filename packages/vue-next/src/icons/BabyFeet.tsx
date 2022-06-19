@@ -24,45 +24,45 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
             />
             <ellipse
-                cx="34.5355"
+                cx="34.5354"
                 cy="13.5354"
                 rx="2"
                 ry="3"
-                transform="rotate(40 34.5355 13.5354)"
+                transform="rotate(40 34.5354 13.5354)"
                 fill={props.colors[0]}
             />
             <ellipse
-                cx="29.3814"
-                cy="10.603"
+                cx="29.3807"
+                cy="10.6032"
                 rx="2"
                 ry="3"
-                transform="rotate(25 29.3814 10.603)"
+                transform="rotate(25 29.3807 10.6032)"
                 fill={props.colors[0]}
             />
             <ellipse
-                cx="23.3814"
-                cy="9.60266"
+                cx="23.3805"
+                cy="9.60278"
                 rx="2"
                 ry="3"
-                transform="rotate(6 23.3814 9.60266)"
+                transform="rotate(6 23.3805 9.60278)"
                 fill={props.colors[0]}
             />
             <ellipse
-                cx="14"
-                cy="7.99992"
+                cx="13.9997"
+                cy="8.00029"
                 rx="3"
                 ry="4"
-                transform="rotate(-20 14 7.99992)"
+                transform="rotate(-20 13.9997 8.00029)"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />
             <ellipse
-                cx="38.5355"
-                cy="17.5355"
+                cx="38.5353"
+                cy="17.5356"
                 rx="2"
                 ry="3"
-                transform="rotate(50 38.5355 17.5355)"
+                transform="rotate(50 38.5353 17.5356)"
                 fill={props.colors[0]}
             />
         </svg>

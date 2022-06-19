@@ -19,14 +19,14 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M22 8.01176C20.5 8.01193 16.0714 7.93811 15 13.0005C13.917 18.1177 9.85714 22.8477 8 24"
+                d="M22 8.01189C20.5 8.01205 16.0714 7.93823 15 13.0006C13.917 18.1178 9.85714 22.8479 8 24.0001"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M22 40C20.5 40.0003 16.0714 40.0628 15 35.0005C13.917 29.8833 9.85714 25.1522 8 23.9999"
+                d="M22 40.0002C20.5 40.0005 16.0714 40.0631 15 35.0007C13.917 29.8835 9.85714 25.1524 8 24.0002"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -34,19 +34,19 @@ export default IconWrapper(
             />
             <circle
                 cx="8"
-                cy="24"
+                cy="24.0001"
                 r="4"
                 fill={props.colors[0]}
             />
             <path
-                d="M8 24L22 24"
+                d="M8 24.0001L22 24.0001"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M30 24.001H42"
+                d="M30 24.0006H42"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}

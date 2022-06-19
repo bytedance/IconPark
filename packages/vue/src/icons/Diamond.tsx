@@ -15,34 +15,38 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
-                stroke-width={props.strokeWidth}
-                fill="none"
+            <path
                 fill-rule="evenodd"
+                clip-rule="evenodd"
+                d="M10.6364 5H37.3636L45 18.3L24 43L3 18.3L10.6364 5Z"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
-            >
-                <g
-                    transform="translate(3.000000, 5.000000)"
-                    stroke={props.colors[0]}
-                    stroke-width={props.strokeWidth}
-                >
-                    <polygon
-                        points="7.63636364 0 34.3636364 0 42 13.3 21 38 0 13.3"
-                    />
-                    <polyline
-                        points="7.63636364 0 21 38 34.3636364 0"
-                    />
-                    <path
-                        d="M0,13.3 L42,13.3"
-                    />
-                    <polyline
-                        points="12.4090909 13.3 21 0 29.5909091 13.3"
-                    />
-                </g>
-            </g>
+            />
+            <path
+                d="M10.6362 5L23.9999 43L37.3635 5"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M3 18.3H45"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M15.4092 18.3L24.0001 5L32.591 18.3"
+                stroke={props.colors[0]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

@@ -22,6 +22,7 @@ export default IconWrapper(
                 cy="24"
                 rx="14"
                 ry="20"
+                fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />

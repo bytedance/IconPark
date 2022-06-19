@@ -18,12 +18,12 @@ export default IconWrapper(
             fill="none"
         >
             <rect
-                x="3.60913"
-                y="36.5336"
+                x="3.60938"
+                y="36.5337"
                 width="38"
                 height="6"
                 rx="2"
-                transform="rotate(-10 3.60913 36.5336)"
+                transform="rotate(-10 3.60938 36.5337)"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}

@@ -26,7 +26,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <circle
-                cx="38.0002"
+                cx="38"
                 cy="35"
                 r="6"
                 stroke={props.colors[0]}

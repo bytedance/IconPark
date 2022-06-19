@@ -1,7 +1,5 @@
-<svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="48" height="48" transform="translate(3)" fill="white" fill-opacity="0.01"/>
-<rect x="3" width="48" height="48" fill="white" fill-opacity="0.01"/>
-<path d="M31 20L44 7.5" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M31 7H44V20" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M17.3757 9.79423C18.1022 9.79423 18.7716 10.1883 19.1243 10.8235L21.5707 15.2303C21.891 15.8073 21.9061 16.5052 21.6109 17.0955L19.2541 21.8092C19.2541 21.8092 19.9371 25.3206 22.7955 28.179C25.654 31.0374 29.1536 31.7086 29.1536 31.7086L33.8665 29.3522C34.4572 29.0568 35.1556 29.0721 35.7328 29.393L40.1521 31.85C40.7868 32.2028 41.1803 32.8719 41.1803 33.598L41.1803 38.6715C41.1803 41.2552 38.7804 43.1213 36.3324 42.2952C31.3044 40.5987 23.4997 37.3685 18.5529 32.4216C13.606 27.4748 10.3758 19.6701 8.67928 14.6422C7.85326 12.1941 9.71935 9.79423 12.303 9.79423L17.3757 9.79423Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M28 20L41 7.5" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28 7H41V20" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.3755 9.79423C15.1021 9.79423 15.7715 10.1883 16.1241 10.8235L18.5706 15.2303C18.8909 15.8073 18.9059 16.5052 18.6108 17.0955L16.254 21.8092C16.254 21.8092 16.937 25.3206 19.7954 28.179C22.6538 31.0374 26.1535 31.7086 26.1535 31.7086L30.8664 29.3522C31.4571 29.0568 32.1555 29.0721 32.7327 29.393L37.152 31.85C37.7866 32.2029 38.1802 32.8719 38.1802 33.598L38.1802 38.6715C38.1802 41.2552 35.7803 43.1213 33.3322 42.2952C28.3043 40.5987 20.4996 37.3685 15.5528 32.4216C10.6059 27.4748 7.3757 19.6701 5.67916 14.6422C4.85314 12.1941 6.71923 9.79423 9.30287 9.79423L14.3755 9.79423Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 </svg>

@@ -38,7 +38,7 @@ export default IconWrapper(
                 stroke-width={props.strokeWidth}
             />
             <path
-                d="M32.2261 9C32.2261 9 28.0668 17.8828 27.2261 24C26.1574 31.7763 28.0001 44 28.0001 44"
+                d="M32.2266 9C32.2266 9 28.0673 17.8828 27.2266 24C26.1578 31.7763 28.0006 44 28.0006 44"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
             />

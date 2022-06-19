@@ -20,7 +20,7 @@ export default IconWrapper(
             <path
                 fill-rule="evenodd"
                 clip-rule="evenodd"
-                d="M20 5.91396H28V13.914H43V21.914H5V13.914H20V5.91396Z"
+                d="M20 5.91406H28V13.9141H43V21.9141H5V13.9141H20V5.91406Z"
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
@@ -34,21 +34,21 @@ export default IconWrapper(
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M16 39.8975V33.914"
+                d="M16 39.8976V33.9141"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M24 39.8975V33.8975"
+                d="M24 39.8977V33.8977"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <path
-                d="M32 39.8975V33.914"
+                d="M32 39.8976V33.9141"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

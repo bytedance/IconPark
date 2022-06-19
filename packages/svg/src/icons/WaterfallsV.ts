@@ -9,15 +9,10 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 
 export default IconWrapper('waterfalls-v', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
-    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">'
-        + '<g>'
-            + '<rect width="48" height="48" fill="white" fill-opacity="0.01" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="none" fill-rule="evenodd"/>'
-            + '<g transform="translate(5.500000, 5.500000)">'
-                + '<rect transform="translate(9.000000, 7.500000) rotate(-270.000000) translate(-9.000000, -7.500000) " x="2" y="-1" width="14" height="17" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero"/>'
-                + '<rect transform="translate(28.000000, 29.500000) rotate(-270.000000) translate(-28.000000, -29.500000) " x="21" y="21" width="14" height="17" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero"/>'
-                + '<rect transform="translate(31.000000, 7.500000) rotate(-90.000000) translate(-31.000000, -7.500000) " x="24" y="2" width="14" height="11" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero"/>'
-                + '<rect transform="translate(6.000000, 29.500000) rotate(-90.000000) translate(-6.000000, -29.500000) " x="-1" y="24" width="14" height="11" stroke-linejoin="' + props.strokeLinejoin + '" stroke-width="' + props.strokeWidth + '" stroke="' + props.colors[0] + '" fill="' + props.colors[1] + '" fill-rule="nonzero"/>'
-            + '</g>'
-        + '</g>'
+    + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
+        + '<path d="M23 20L23 6L6 6L6 20L23 20Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M42 42V28L25 28L25 42H42Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M31 6V20H42V6H31Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
+        + '<path d="M6 28L6 42H17V28H6Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
     + '</svg>'
 ));

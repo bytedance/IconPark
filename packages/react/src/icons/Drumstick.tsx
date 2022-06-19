@@ -27,7 +27,7 @@ export default IconWrapper(
                 strokeLinejoin={props.strokeLinejoin}
             />
             <path
-                d="M24.0498 6.94974L14.1503 16.8492C9.46402 21.5355 9.46402 29.1335 14.1503 33.8198V33.8198C18.8366 38.5061 26.4346 38.5061 31.1209 33.8198L41.0204 23.9203"
+                d="M24.0498 6.9502L14.1503 16.8497C9.46402 21.536 9.46402 29.134 14.1503 33.8203V33.8203C18.8366 38.5065 26.4346 38.5065 31.1209 33.8203L41.0204 23.9208"
                 stroke={props.colors[0]}
                 strokeWidth={props.strokeWidth}
                 strokeLinecap={props.strokeLinecap}
@@ -47,23 +47,23 @@ export default IconWrapper(
             />
             <circle
                 cx="30.0605"
-                cy="11.3979"
+                cy="11.3983"
                 r="2"
-                transform="rotate(45 30.0605 11.3979)"
+                transform="rotate(45 30.0605 11.3983)"
                 fill={props.colors[2]}
             />
             <circle
                 cx="37.1318"
-                cy="18.469"
+                cy="18.4691"
                 r="2"
-                transform="rotate(45 37.1318 18.469)"
+                transform="rotate(45 37.1318 18.4691)"
                 fill={props.colors[2]}
             />
             <circle
                 cx="31.4746"
-                cy="17.0548"
+                cy="17.055"
                 r="2"
-                transform="rotate(45 31.4746 17.0548)"
+                transform="rotate(45 31.4746 17.055)"
                 fill={props.colors[2]}
             />
         </svg>

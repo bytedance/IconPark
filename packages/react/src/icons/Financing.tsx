@@ -27,11 +27,11 @@ export default IconWrapper(
             />
             <rect
                 x="24"
-                y="16.929"
+                y="16.9287"
                 width="10"
                 height="10"
                 rx="2"
-                transform="rotate(45 24 16.929)"
+                transform="rotate(45 24 16.9287)"
                 fill={props.colors[3]}
                 stroke={props.colors[2]}
                 strokeWidth={props.strokeWidth}

@@ -18,7 +18,7 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + 'db897bf5' + ')'}
+                clip-path={'url(#' + props.id + '0800c80f' + ')'}
             >
                 <path
                     fill-rule="evenodd"
@@ -36,27 +36,27 @@ export default IconWrapper(
                     stroke-linecap={props.strokeLinecap}
                 />
                 <path
-                    d="M11.3466 25.9746L2 42.0001H17.0046"
+                    d="M11.3466 25.9746L1.99998 42.0001H17.0045"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M9.10059 30.9951H17.0049"
+                    d="M9.10008 30.9951H17.0044"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                 />
                 <path
-                    d="M36.7481 25.9746L46.0947 42.0001H31.0004"
+                    d="M36.7477 25.9746L46.0943 42.0001H31"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M39.0947 30.9951H31.1007"
+                    d="M39.0943 30.9951H31.1002"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
@@ -64,7 +64,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'db897bf5'}
+                    id={props.id + '0800c80f'}
                 >
                     <rect
                         width="48"

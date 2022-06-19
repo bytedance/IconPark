@@ -28,7 +28,7 @@ export default IconWrapper(
             />
             <circle
                 cx="36"
-                cy="24"
+                cy="24.0001"
                 r="2"
                 fill={props.colors[2]}
             />

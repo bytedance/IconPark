@@ -18,13 +18,13 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + '0a42b192' + ')'}
+                clip-path={'url(#' + props.id + '0e7dddca' + ')'}
             >
                 <circle
-                    cx="30.0748"
-                    cy="15.5623"
+                    cx="30.0746"
+                    cy="15.562"
                     r="11"
-                    transform="rotate(40 30.0748 15.5623)"
+                    transform="rotate(40 30.0746 15.562)"
                     fill={props.colors[1]}
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
@@ -32,24 +32,24 @@ export default IconWrapper(
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M21.6483 8.49166C17.0388 8.54003 15.3218 5.14119 13.072 7.82235C11.0393 10.2448 13.565 13.4577 11.6367 15.7558"
+                    d="M21.6485 8.49117C17.0389 8.53954 15.322 5.1407 13.0722 7.82186C11.0395 10.2443 13.5652 13.4572 11.6369 15.7553"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M25.3022 25.9171C25.3022 25.9171 21.1241 30.8964 19.5172 32.8115C17.9102 34.7267 17.8353 37.9273 15.9069 40.2255C13.9786 42.5236 11.1609 42.7701 8.86278 40.8418C6.56465 38.9134 6.31814 36.0957 8.2465 33.7976C10.1749 31.4995 13.3139 30.8699 14.9209 28.9548C16.5279 27.0397 20.0837 23.0613 20.706 22.0604"
+                    d="M25.3022 25.9167C25.3022 25.9167 21.1241 30.8959 19.5171 32.8111C17.9101 34.7262 17.8352 37.9269 15.9069 40.225C13.9785 42.5231 11.1609 42.7696 8.86272 40.8413C6.56459 38.9129 6.31808 36.0952 8.24644 33.7971C10.1748 31.499 13.3139 30.8694 14.9208 28.9543C16.5278 27.0392 20.0837 23.0608 20.7059 22.0599"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <circle
-                    cx="11.2404"
-                    cy="19.3395"
+                    cx="11.2399"
+                    cy="19.3392"
                     r="3"
-                    transform="rotate(40 11.2404 19.3395)"
+                    transform="rotate(40 11.2399 19.3392)"
                     fill={props.colors[1]}
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
@@ -57,10 +57,10 @@ export default IconWrapper(
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <circle
-                    cx="28.4632"
-                    cy="37.7073"
+                    cx="28.4625"
+                    cy="37.7069"
                     r="3"
-                    transform="rotate(40 28.4632 37.7073)"
+                    transform="rotate(40 28.4625 37.7069)"
                     fill={props.colors[1]}
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
@@ -68,7 +68,7 @@ export default IconWrapper(
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M37.2157 24.165C37.8452 27.3041 40.0685 32.4331 38.0785 34.0269C36.0885 35.6206 31.5539 32.4683 30.3915 35.4092"
+                    d="M37.2158 24.165C37.8454 27.304 40.0686 32.4331 38.0786 34.0268C36.0886 35.6205 31.554 32.4682 30.3917 35.4091"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
@@ -77,7 +77,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + '0a42b192'}
+                    id={props.id + '0e7dddca'}
                 >
                     <rect
                         width="48"

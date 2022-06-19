@@ -26,12 +26,12 @@ export default IconWrapper(
             />
             <circle
                 cx="11"
-                cy="35"
+                cy="34.9999"
                 r="2"
                 fill={props.colors[2]}
             />
             <path
-                d="M11 11V25"
+                d="M11 10.9999V24.9999"
                 stroke={props.colors[2]}
                 stroke-width={props.strokeWidth}
                 stroke-linecap={props.strokeLinecap}

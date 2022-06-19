@@ -18,17 +18,17 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + '336354d9' + ')'}
+                clip-path={'url(#' + props.id + '5b91b0bd' + ')'}
             >
                 <path
-                    d="M5.73657 24.1212L10.6863 29.071C15.7632 34.1478 23.9943 34.1478 29.0711 29.071V29.071C34.1479 23.9942 34.1479 15.763 29.0711 10.6862L24.1213 5.73647"
+                    d="M5.73633 24.1211L10.6861 29.0709C15.7629 34.1477 23.9941 34.1477 29.0709 29.0709V29.0709C34.1477 23.994 34.1477 15.7629 29.0709 10.6861L24.1211 5.73632"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M30.0002 29.9999L36 36"
+                    d="M30 29.9998L35.9998 35.9998"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-miterlimit="2"
@@ -36,27 +36,27 @@ export default IconWrapper(
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <ellipse
-                    cx="14"
-                    cy="13.9999"
+                    cx="13.9996"
+                    cy="13.9998"
                     rx="13"
                     ry="7"
-                    transform="rotate(-45 14 13.9999)"
+                    transform="rotate(-45 13.9996 13.9998)"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                 />
                 <ellipse
-                    cx="38.0002"
-                    cy="37.9999"
+                    cx="37.9997"
+                    cy="37.9998"
                     rx="6"
                     ry="3"
-                    transform="rotate(-45 38.0002 37.9999)"
+                    transform="rotate(-45 37.9997 37.9998)"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                 />
             </g>
             <defs>
                 <clipPath
-                    id={props.id + '336354d9'}
+                    id={props.id + '5b91b0bd'}
                 >
                     <rect
                         width="48"

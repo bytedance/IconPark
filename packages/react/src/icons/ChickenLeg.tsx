@@ -19,10 +19,10 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clipPath={'url(#' + props.id + 'a6d0ab63' + ')'}
+                clipPath={'url(#' + props.id + '33966990' + ')'}
             >
                 <path
-                    d="M33.3744 33.8744C37.617 29.6317 34.7886 15.4896 28.4246 9.12563C25.5961 6.29713 17.4645 0.286786 8.62557 9.12556C-0.213326 17.9643 5.79721 26.0962 8.62557 28.9245C14.9896 35.2886 29.1317 38.117 33.3744 33.8744Z"
+                    d="M33.3748 33.8744C37.6175 29.6318 34.7891 15.4897 28.4251 9.12572C25.5966 6.29723 17.465 0.286877 8.62606 9.12565C-0.212837 17.9644 5.7977 26.0963 8.62606 28.9246C14.9901 35.2887 29.1322 38.1171 33.3748 33.8744Z"
                     fill={props.colors[1]}
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
@@ -30,22 +30,22 @@ export default IconWrapper(
                     strokeLinejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M41 41.0001C40.2533 40.2534 36.0222 36.0223 33.9999 34"
+                    d="M41 41C40.2533 40.2533 36.0222 36.0222 33.9999 33.9999"
                     stroke={props.colors[0]}
                     strokeWidth={props.strokeWidth}
                 />
                 <circle
-                    cx="42.1925"
-                    cy="40.0712"
+                    cx="42.193"
+                    cy="40.0713"
                     r="2.5"
-                    transform="rotate(135 42.1925 40.0712)"
+                    transform="rotate(135 42.193 40.0713)"
                     fill={props.colors[0]}
                 />
                 <circle
-                    cx="40.0712"
-                    cy="42.1925"
+                    cx="40.0719"
+                    cy="42.1924"
                     r="2.5"
-                    transform="rotate(135 40.0712 42.1925)"
+                    transform="rotate(135 40.0719 42.1924)"
                     fill={props.colors[0]}
                 />
                 <circle
@@ -69,7 +69,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + 'a6d0ab63'}
+                    id={props.id + '33966990'}
                 >
                     <rect
                         width="48"

@@ -15,44 +15,43 @@ export default IconWrapper(
             width={props.size}
             height={props.size}
             viewBox="0 0 48 48"
+            fill="none"
         >
-            <g
-                stroke="none"
+            <path
+                d="M24 44C32.8366 44 40 37.4876 40 29.4545C40 21.5758 34.6667 13.0909 24 4C13.3333 13.0909 8 21.5758 8 29.4545C8 37.4878 15.1634 44 24 44Z"
+                fill={props.colors[1]}
+                stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
-                fill="none"
-                fill-rule="evenodd"
-            >
-                <g>
-                    <path
-                        d="M24,44 C32.836556,44 40,37.4875642 40,29.4545455 C40,21.5757576 34.6666667,13.0909091 24,4 C13.3333333,13.0909091 8,21.5757576 8,29.4545455 C8,37.4877782 15.163444,44 24,44 Z"
-                        stroke={props.colors[0]}
-                        stroke-width={props.strokeWidth}
-                        fill={props.colors[1]}
-                        fill-rule="nonzero"
-                        stroke-linejoin={props.strokeLinejoin}
-                    />
-                    <g
-                        transform="translate(18.000000, 19.000000)"
-                        stroke={props.colors[2]}
-                        stroke-linecap={props.strokeLinecap}
-                        stroke-linejoin={props.strokeLinejoin}
-                        stroke-width={props.strokeWidth}
-                    >
-                        <polyline
-                            points="0.857142857 0 6 5.36842105 11.1428571 0"
-                        />
-                        <path
-                            d="M0,7.15789474 L12,7.15789474"
-                        />
-                        <path
-                            d="M0,12.5263158 L12,12.5263158"
-                        />
-                        <path
-                            d="M6,7.15789474 L6,17"
-                        />
-                    </g>
-                </g>
-            </g>
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18.8572 19L24 24.3684L29.1429 19"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18 26.158H30"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M18 31.5264H30"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
+            <path
+                d="M24 26.158V36.0001"
+                stroke={props.colors[2]}
+                stroke-width={props.strokeWidth}
+                stroke-linecap={props.strokeLinecap}
+                stroke-linejoin={props.strokeLinejoin}
+            />
         </svg>
     )
 );

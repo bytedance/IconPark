@@ -18,31 +18,31 @@ export default IconWrapper(
             fill="none"
         >
             <path
-                d="M5.61522 22.5852C4.44364 21.4136 4.44364 19.5141 5.61522 18.3425L18.3431 5.61463C19.5147 4.44305 21.4142 4.44305 22.5858 5.61462L42.3848 25.4136C43.5563 26.5852 43.5563 28.4847 42.3848 29.6563L29.6568 42.3842C28.4853 43.5557 26.5858 43.5557 25.4142 42.3842L5.61522 22.5852Z"
+                d="M5.61497 22.5852C4.4434 21.4136 4.4434 19.5141 5.61497 18.3425L18.3429 5.61463C19.5145 4.44305 21.414 4.44305 22.5855 5.61462L42.3845 25.4136C43.5561 26.5852 43.5561 28.4847 42.3845 29.6563L29.6566 42.3842C28.485 43.5557 26.5855 43.5557 25.414 42.3842L5.61497 22.5852Z"
                 fill={props.colors[1]}
                 stroke={props.colors[0]}
                 stroke-width={props.strokeWidth}
                 stroke-linejoin={props.strokeLinejoin}
             />
             <circle
-                cx="14.8084"
+                cx="14.8079"
                 cy="20.4648"
                 r="2"
-                transform="rotate(-45 14.8084 20.4648)"
+                transform="rotate(-45 14.8079 20.4648)"
                 fill={props.colors[2]}
             />
             <circle
-                cx="23.293"
+                cx="23.2928"
                 cy="28.9492"
                 r="2"
-                transform="rotate(-45 23.293 28.9492)"
+                transform="rotate(-45 23.2928 28.9492)"
                 fill={props.colors[2]}
             />
             <circle
-                cx="19.0504"
+                cx="19.0501"
                 cy="24.707"
                 r="2"
-                transform="rotate(-45 19.0504 24.707)"
+                transform="rotate(-45 19.0501 24.707)"
                 fill={props.colors[2]}
             />
             <circle
@@ -53,10 +53,10 @@ export default IconWrapper(
                 fill={props.colors[2]}
             />
             <circle
-                cx="20.4647"
+                cx="20.4642"
                 cy="14.8066"
                 r="2"
-                transform="rotate(-45 20.4647 14.8066)"
+                transform="rotate(-45 20.4642 14.8066)"
                 fill={props.colors[2]}
             />
             <circle
@@ -67,10 +67,10 @@ export default IconWrapper(
                 fill={props.colors[2]}
             />
             <circle
-                cx="24.7076"
+                cx="24.7073"
                 cy="19.0508"
                 r="2"
-                transform="rotate(-45 24.7076 19.0508)"
+                transform="rotate(-45 24.7073 19.0508)"
                 fill={props.colors[2]}
             />
             <circle

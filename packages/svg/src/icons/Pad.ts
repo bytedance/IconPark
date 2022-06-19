@@ -10,8 +10,6 @@ import {ISvgIconProps, IconWrapper} from '../runtime';
 export default IconWrapper('pad', (props: ISvgIconProps) => (
     '<?xml version="1.0" encoding="UTF-8"?>'
     + '<svg width="' + props.size + '" height="' + props.size + '" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">'
-        + '<rect width="48" height="48" fill="white" fill-opacity="0.01"/>'
-        + '<path d="M48 0H0V48H48V0Z" fill="white" fill-opacity="0.01"/>'
         + '<path d="M42 4H6V31H42V4Z" fill="' + props.colors[1] + '" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M42 31V44H6V31" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M16 9H13C12.4477 9 12 9.44772 12 10V13C12 13.5523 12.4477 14 13 14H16C16.5523 14 17 13.5523 17 13V10C17 9.44772 16.5523 9 16 9Z" fill="' + props.colors[2] + '"/>'

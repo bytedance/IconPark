@@ -18,37 +18,37 @@ export default IconWrapper(
             fill="none"
         >
             <g
-                clip-path={'url(#' + props.id + '96cf5b2e' + ')'}
+                clip-path={'url(#' + props.id + '64299104' + ')'}
             >
                 <path
-                    d="M16.1005 25.8284L38.728 6.02943C38.728 6.02943 40.8493 3.90811 42.9706 6.02943C45.0919 8.15075 42.9706 10.2721 42.9706 10.2721L23.1716 32.8995L16.1005 25.8284Z"
+                    d="M16.0991 25.8287L38.7265 6.02967C38.7265 6.02967 40.8478 3.90835 42.9691 6.02967C45.0904 8.15099 42.9691 10.2723 42.9691 10.2723L23.1701 32.8997L16.0991 25.8287Z"
                     fill={props.colors[1]}
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M22.4646 20.8787L28.1215 26.5356"
+                    d="M22.4639 20.8789L28.1207 26.5358"
                     stroke={props.colors[2]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M5.49404 30.7782L16.1006 25.8285L23.1717 32.8996L18.222 43.5062C18.222 43.5062 13.2722 44.2133 9.02958 39.9706C4.78694 35.728 5.49404 30.7782 5.49404 30.7782Z"
+                    d="M5.49331 30.7782L16.0999 25.8284L23.171 32.8995L18.2212 43.5061C18.2212 43.5061 13.2715 44.2132 9.02884 39.9706C4.7862 35.7279 5.49331 30.7782 5.49331 30.7782Z"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M6.90831 36.4351L11.8581 34.3137"
+                    d="M6.90783 36.4349L11.8576 34.3136"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M12.565 42.0919L13.9792 39.2635"
+                    d="M12.5653 42.0921L13.9795 39.2637"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linecap={props.strokeLinecap}
@@ -61,7 +61,7 @@ export default IconWrapper(
                     stroke-linejoin={props.strokeLinejoin}
                 />
                 <path
-                    d="M30.5962 24.4142L28.1213 27.2427L25.6464 30.0711"
+                    d="M30.5957 24.4141L28.1208 27.2425L25.646 30.0709"
                     stroke={props.colors[0]}
                     stroke-width={props.strokeWidth}
                     stroke-linejoin={props.strokeLinejoin}
@@ -69,7 +69,7 @@ export default IconWrapper(
             </g>
             <defs>
                 <clipPath
-                    id={props.id + '96cf5b2e'}
+                    id={props.id + '64299104'}
                 >
                     <rect
                         width="48"

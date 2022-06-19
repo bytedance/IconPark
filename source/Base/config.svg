@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>cogfig</title>
-    <desc>Created with Sketch.</desc>
-    <g id="cogfig" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
-        <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
-        <g id="编组" transform="translate(4.000000, 4.000000)" fill-rule="nonzero" stroke-width="4">
-            <polygon id="Path-15" stroke="#000000" fill="#2F88FF" points="20 1.74860126e-15 14 6 6 6 6 14 1.74860126e-15 20 6 26 6 34 14 34 20 40 26 34 34 34 34 26 40 20 34 14 34 6 26 6"></polygon>
-            <circle id="Oval-6" stroke="#FFFFFF" fill="#43CCF8" cx="20" cy="20" r="6"></circle>
-        </g>
-    </g>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M24 4L18 10H10V18L4 24L10 30V38H18L24 44L30 38H38V30L44 24L38 18V10H30L24 4Z" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<path d="M24 30C27.3137 30 30 27.3137 30 24C30 20.6863 27.3137 18 24 18C20.6863 18 18 20.6863 18 24C18 27.3137 20.6863 30 24 30Z" fill="#43CCF8" stroke="white" stroke-width="4" stroke-linejoin="round"/>
 </svg>

@@ -18,6 +18,6 @@ export default IconWrapper('radish', (props: ISvgIconProps) => (
         + '<path d="M29 27H36" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-miterlimit="2" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M16 34H22" stroke="' + props.colors[2] + '" stroke-width="' + props.strokeWidth + '" stroke-miterlimit="2" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
         + '<path d="M13.812 15C12.0515 17.2521 11 20.1014 11 23.2C11 28.7547 16.1797 35.5844 20 39.8663" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '" stroke-linejoin="' + props.strokeLinejoin + '"/>'
-        + '<path d="M37 23.2C37 25.9741 35.7082 29.0661 33.939 32" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
+        + '<path d="M37.0005 23.2C37.0005 25.974 35.7087 29.066 33.9395 31.9999" stroke="' + props.colors[0] + '" stroke-width="' + props.strokeWidth + '" stroke-linecap="' + props.strokeLinecap + '"/>'
     + '</svg>'
 ));
