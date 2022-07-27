@@ -1858,7 +1858,7 @@ export {default as PivotTable} from './icons/PivotTable';
 export {default as Plan} from './icons/Plan';
 export {default as Planet} from './icons/Planet';
 export {default as PlasticSurgery} from './icons/PlasticSurgery';
-export {default as Platte} from './icons/Platte';
+export {default as Palette} from './icons/Palette';
 export {default as Play} from './icons/Play';
 export {default as PlayBasketball} from './icons/PlayBasketball';
 export {default as PlayCycle} from './icons/PlayCycle';
