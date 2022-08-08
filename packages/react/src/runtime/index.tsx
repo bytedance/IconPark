@@ -86,6 +86,9 @@ export interface IIconConfig {
             innerFillColor: string;
         };
     };
+
+    // 唯一ID 生成函数
+    guid?: () => string,
 }
 
 // 图标基础属性
@@ -232,7 +235,10 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
 
         const ICON_CONFIGS = useContext(IconContext);
 
-        const id = useMemo(guid, []);
+        let id = guid();
+        if (ICON_CONFIGS.guid && typeof ICON_CONFIGS.guid == 'function') {
+            id = ICON_CONFIGS.guid();
+        }
 
         const svgProps = IconConverter(id, {
             size,
