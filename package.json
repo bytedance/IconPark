@@ -3,6 +3,7 @@
     "private": true,
     "version": "1.0.0",
     "scripts": {
+        "scripts": "better-scripts",
         "compiler:icons": "ts-node build/build-icons.ts",
         "compiler:code": "ts-node build/build-code.ts",
         "compiler:git": "git add ./packages/*",
@@ -17,8 +18,8 @@
     "dependencies": {
         "@icon-park/compiler": "^1.0.7",
         "@types/react": "^16.14.4",
-        "vue": "^2.6.12",
-        "alias-for-vue3": "npm:vue@^3.2.6"
+        "alias-for-vue3": "npm:vue@^3.2.6",
+        "vue": "^2.6.12"
     },
     "devDependencies": {
         "@babel/core": "^7.12.16",
@@ -36,6 +37,7 @@
         "@vue/babel-plugin-jsx": "^1.0.3",
         "@vue/babel-preset-jsx": "^1.2.4",
         "@vue/babel-sugar-inject-h": "^1.2.2",
+        "better-scripts": "^0.1.2",
         "csv-parse": "^4.15.1",
         "csv-stringify": "^5.6.1",
         "gulp": "^4.0.2",
