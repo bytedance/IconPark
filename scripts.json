@@ -1,0 +1,50 @@
+{
+    "$schema": "https://raw.githubusercontent.com/iamyoki/better-scripts/main/lib/schema.json",
+    "compilers": {
+        "alias": "🔨 Compilers",
+        "desc": "Select a compile script to run",
+        "command": "echo parent",
+        "scripts": {
+            "icons": ["ts-node build/build-icons.ts", "Compile icons"],
+            "code": ["ts-node build/build-code.ts", "Compile code"],
+            "git": ["git add ./packages/*", "Git add packages/*"],
+            "clean": [
+                "rm -rf packages/*/src/runtime packages/*/src/index.ts packages/*/src/icons",
+                "Clean before compile"
+            ],
+            "compiler": [
+                "npm run compiler:clean && npm run compiler:icons && npm run compiler:code && npm run compiler:git",
+                "Clean then compile then git add"
+            ]
+        }
+    },
+    "builds": {
+        "alias": "📦 Builds",
+        "desc": "Select a build script to run",
+        "scripts": {
+            "clean": [
+                "rm -rf packages/*/lib packages/*/es packages/*/styles",
+                "Clean before build"
+            ],
+            "source": ["gulp", "Build source code"],
+            "prepare": [
+                "npm run build:clean && npm run build:source",
+                "Clean then build source code before publish"
+            ]
+        }
+    },
+    "publishes": {
+        "alias": "🎉 Publishes",
+        "desc": "Select a publish script to run",
+        "scripts": {
+            "lerna": [
+                "lerna publish --skip-temp-tag --registry=https://registry.npmjs.org",
+                "Publish by lerna"
+            ],
+            "all": [
+                "npm run build:prepare && npm run publish:lerna && npm run build:clean",
+                "Build and publish"
+            ]
+        }
+    }
+}
