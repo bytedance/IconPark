@@ -85,6 +85,9 @@ export interface IIconConfig {
             innerFillColor: string;
         };
     };
+
+    // 唯一ID 生成函数
+    guid?: () => string,
 }
 
 // 图标基础属性
@@ -218,9 +221,12 @@ export function IconWrapper(name: string, rtl: boolean, render: IconRender): Ico
         props: ['size', 'strokeWidth', 'strokeLinecap', 'strokeLinejoin', 'theme', 'fill', 'spin'],
         setup: (props) => {
 
-            const id = guid();
-
             const ICON_CONFIGS = inject(IconContext, DEFAULT_ICON_CONFIGS);
+
+            let id = guid();
+            if (ICON_CONFIGS.guid && typeof ICON_CONFIGS.guid == 'function') {
+                id = ICON_CONFIGS.guid();
+            }
 
             return () => {
 
