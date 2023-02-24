@@ -62,6 +62,3 @@ IconPark提供了超过2000个高质量图标，并且提供了一个界面来�
 
 ### 变更记录
 [CHANGELOG.en-US](CHANGELOG.en-US.md) | [CHANGELOG.zh-CN](CHANGELOG.zh-CN.md)
-
-### 联系
-<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/lark.png"></img>
