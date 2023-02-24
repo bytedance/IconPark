@@ -67,7 +67,3 @@ Here is the website of [IconPark](http://iconpark.bytedance.com/official). Each 
 
 ### Changelog
 [CHANGELOG.en-US](CHANGELOG.en-US.md) | [CHANGELOG.简体中文](CHANGELOG.zh-CN.md)
-
-### Contact Us
-#### Lark
-<img src="https://sf1-dycdn-tos.pstatp.com/obj/eden-cn/lswwheh7nupwnuhog/icons/lark.png"></img>
